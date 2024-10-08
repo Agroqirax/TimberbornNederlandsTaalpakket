@@ -68,4 +68,4 @@ Als je niet wil dat je mod vertaald word, laat het dan even weten:
 - Github: Maak een [issue](https://github.com/Agroqirax/TimberbornNederlandsTaalpakket/issues/new?template=new-translations.yml) aan of maak een pull request in de [repository](https://github.com/Agroqirax/TimberbornNederlandsTaalpakket) (voorkeur).
 - Discord: `@Ayargajin` in de [timberborn discord server](https://discord.gg/vkqYSXB3).
 - Steam: In de [comments](https://steamcommunity.com/sharedfiles/filedetails/?id=3345327949).
-- Mod.io: In de [comments](https://mod.io/g/timberborn).
+- Mod.io: In de [comments](https://mod.io/g/timberborn/m/nederlands-taalpakket).

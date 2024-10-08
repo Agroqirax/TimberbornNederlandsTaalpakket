@@ -1,7 +1,7 @@
 name: Probleem met vertalingen
 description: Meld een verkeerde vertaling
 title: "[Incorrecte vertaling] - Vertaling voor ... is incorrect"
-labels: ["translations", "bug"]
+labels: ["translation", "bug"]
 body:
   - type: input
     id: file
