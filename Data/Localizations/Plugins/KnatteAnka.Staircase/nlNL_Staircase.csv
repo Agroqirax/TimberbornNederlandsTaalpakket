@@ -1,0 +1,32 @@
+ID,Text,Comment
+KnatteTobbert.MetalStaircase.DisplayName,Metalen Trap,-
+KnatteTobbert.MetalStaircase.Description,Een betere trap van Metaal.,-
+KnatteTobbert.MetalStaircase.FlavorDiscription,Hopen dat het niet gaat roesten.,-
+KnatteTobbert.MetalStaircaseNeed.DisplaynameLocKey,Metalen Trap,-
+KnatteTobbert.Staircases.DisplayName,Trappen,-
+KnatteTobbert.Platforms.DisplayName,Platforms,-
+KnatteTobbert.SpiralStaircase.DisplayName,Wendeltrap,-
+KnatteTobbert.SpiralStaircase.FlavorDiscription,"""Trap naar de hemel"" - Stone Cold Jane Austen",Untranslated
+KnatteTobbert.StaircaseLog.DisplayName,Trap,-
+KnatteTobbert.StaircaseLog.FlavorDiscription,Dat is een grote boomstam in het midden zeg…,-
+Knatte.Pillar.DisplayName,Pilaar,-
+Knatte.Pillar.Description,Laat het Stijgen,-
+Knatte.Pillar.FlavorDescription,"""Laten we een plekje afbakenen!"" - Vlijtige bever",-
+Knatte.Pillars.DisplayName,Pilaren met een dwarsbalk,-
+Knatte.Pillars.Description,Laat het Stijgen,-
+Knatte.Pillars.FlavorDescription,"""Laten we een plekje afbakenen!"" - Vlijtige bever",-
+Knatte.Pillar_1.DisplayName,1 Poot Pilaar,-
+Knatte.Pillar_2.DisplayName,2 Poot Pilaar,-
+Knatte.Pillar_3.DisplayName,3 Poot Pilaar,-
+Knatte.Pillar_4.DisplayName,4 Poot Pilaar,Untranslated
+Knatte.Pillar_X.Description,"Pilaren om een ​​aangepaste look te krijgen.
+Kan gecombineerd worden met Trappen om ze te verbergen maar stapelbaar te krijgen.",-
+Knatte.Pillar_X.FlavorDescription,"""Laten we een plekje afbakenen!"" - Vlijtige bever",-
+Knatte.StaircasePillar.DisplayName,Trap Pilaar,Untranslated
+Knatte.StaircasePillar.Description,Pilaren die samen met de trap gebruikt kunnen worden om een ​​mooie pilaar te krijgen.,-
+Knatte.StaircasePillar.FlavorDescription,"""Laten we een plekje afbakenen!"" - Vlijtige bever",-
+Knatte.PillarTop.DisplayName,Pilaar Bovenkant,-
+Knatte.PillarTop.Description,"Bovenste gedeelte voor aangepaste pilaren of decoratiestukken Kan worden gecombineerd met de trap om ze te verbergen, maar om stapelbaarte krijgen.",-
+Knatte.StaircasePlatform.DisplayName,Platform 2x2,Untranslated
+Knatte.StaircasePlatform.Description,Platform met een grote boomstam in het midden.,Untranslated
+Knatte.StaircasePlatform.FlavorDescription,"""Laten we een plekje afbakenen!"" - Vlijtige bever",Untranslated

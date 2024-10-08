@@ -1,0 +1,48 @@
+name: Probleem met vertalingen
+description: Meld een verkeerde vertaling
+title: "[Incorrecte vertaling] - Vertaling voor ... is incorrect"
+labels: ["translations", "bug"]
+body:
+  - type: input
+    id: file
+    attributes:
+      label: Bestand
+      description: "Geef de naam van het bestand"
+      placeholder: "nlNL_ShantySpeaker.csv"
+    validations:
+      required: true
+
+  - type: input
+    id: id
+    attributes:
+      label: ID
+      description: "Geef de ID van de vertaling"
+      placeholder: "Building.ShantySpeaker.DisplayName"
+    validations:
+      required: true
+
+  - type: textarea
+    id: current_value
+    attributes:
+      label: Huidige vertaling
+      description: "Provide the current (incorrect) translation."
+      placeholder: "Shanty Speaker"
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected_value
+    attributes:
+      label: Verbeterde vertaling
+      description: "Geef de betere vertaling"
+      placeholder: "Shanty Luidspreker"
+    validations:
+      required: false
+
+  - type: textarea
+    id: additional_notes
+    attributes:
+      label: Notities
+      description: "Geef extra informatie die misschien van belang is"
+    validations:
+      required: false

@@ -1,0 +1,11 @@
+ID,Text,Comment
+Cordial.CutterTool.DisplayName,Markeer het geconfigureerde boomkapgebied,-
+Cordial.CutterTool.Description,Gebruik deze tool om geconfigureerde gebieden en/of boomsoorten te markeren die gekapt moeten worden,-
+Cordial.CutterTool.CutterToolPanel.Title,Boom kap tool instellingen,-
+Cordial.CutterTool.CutterToolPanel.Description,Configureer de boomtypen die gekapt moeten worden en/of het gebied voor de selectie van het kappen,-
+Cordial.CutterTool.CutterToolPanel.AreaConfig.Pattern01,Alles,-
+Cordial.CutterTool.CutterToolPanel.AreaConfig.Pattern02,Geruit,-
+Cordial.CutterTool.CutterToolPanel.AreaConfig.Pattern03,Rijen X,-
+Cordial.CutterTool.CutterToolPanel.AreaConfig.Pattern04,Rijen Y,-
+Cordial.CutterTool.CutterToolPanel.TreeConfig.TreeAll,All tree types,-
+Cordial.CutterTool.CutterToolPanel.TreeConfig.TreeMark,Alleen bomen markeren,-

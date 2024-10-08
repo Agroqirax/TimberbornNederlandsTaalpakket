@@ -1,0 +1,40 @@
+ID,Text,Comment
+Menu.Mods,Aangepaste kaarten en mods,Button opening a menu that allows downloading mods and custom maps. Keep short.
+Mods.Download,Download,Button to download a mod. Keep short.
+Mods.Info,Info,Button to show more info about a mod. Keep short.
+Mods.Loading,Laden…,Info text shown when mods are loading.
+Mods.Tags,Tags:,Header above available list of tags. Keep short.
+Mods.Author,Auteur:,Label before the author of mod.
+Mods.Downloads,Downloads:,Label before count of mod downloads.
+Mods.ShowMore,Show more,Button to show more mods. Keep short.
+Mods.Tags.All,All,Tag options to show all mods and maps. Keep short.
+Mods.Votes,Stemmen:,Label before count of mod likes and dislikes.
+Mods.ModsChanged,Wijzigingen worden na een herstart toegepast,Instruction on the dialog for the user to restart the game after changes to mods have been made
+Mods.Quit,Afsluiten,Button to quit game
+Mods.Restart,Opnieuw starten,Button to restart game
+Mods.Stay,Blijven,Button to not quit the game immediately
+Mods.Enabled,Ingeschakeld,Toggle for if a mod is enabled or not. Keep short.
+Mods.Installed,Geïnstalleerd,Toggle for is a mod is installed or not. Keep short.
+Mods.Uninstall,Verwijderen,Button to uninstall a mod.
+Mods.Options,Opties:,Header above available list of special options. Keep short.
+Mods.Dependencies,Benodigdheden:,Header above available list of Dependencies. Keep short.
+Mods.InstalledVersion,Geïnstalleerde versie:,Header above available list of InstalledVersion. Keep short.
+Mods.LiveVersion,Live versie:,Header above of Live version. Keep short.
+Mods.Newest,Nieuwste,Button to sort by newest.
+Mods.MostDownloaded,Meest gedownload,Button to sort by amount of downloads.
+Mods.TopRated,Hoogst gewaardeerd,Button to sort by amount of likes.
+Mods.LastUpdated,Recent geüpdatet,Button to sort by last update day.
+Mods.UpdateAllLabel,Je hebt {0} beschikbare updates.,Label for informing how many mods have updates pending.
+Mods.UpdateAll,Alles updaten,Button for updating all updatable mods. Keep short
+Mods.Empty,,Empty string
+Mods.Update,Updaten,Button to update mod. Keep short
+Mods.Versions,Te installeren versie, Label for versions of a mod that are available in mod.io
+Mods.UpdateBehaviour,Controleer op hoogste in plaats van live versie,-
+Mods.UpdateBehaviourTooltip,Meestal is de live versie compatibel met de meest recente update. Sommige modders updaten hun mods zo dat ze alleen op de experimentele versie werken.,-
+Mods.VersionUnknown,Het is onduidelijk of deze mod compatibel is met deze spelversie.,-
+Mods.VersionCompatible,Een compatibele mod is gevonden.,-
+Mods.VersionIncompatible,Geen compatibele versies gevonden. Het word afgeraden deze mod te installeren.,-
+Mods.CrashInfo,Het lijkt erop dat het spel tijdens het laden is gecrasht. Selecteer welke mods je wil uitschakelen voor de volgende keer.,-
+Mods.EnableAll,Alle mods inschakelen,-
+Mods.DisableAll,Alle mods uitschakelen,-
+Mods.GoToCrashReport,Ga naar Crashrapport,-

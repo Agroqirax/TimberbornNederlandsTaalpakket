@@ -1,0 +1,39 @@
+name: Mod vertaal verzoek
+description: Suggereer een mod om te vertalen
+title: "[Vertaal Verzoek] Vertaal mod ..."
+labels: ["translation", "request"]
+body:
+  - type: input
+    id: mod_name
+    attributes:
+      label: Mod Naam
+      description: "Voer de naam van de mod in"
+      placeholder: "Shanty speaker"
+    validations:
+      required: true
+
+  - type: input
+    id: mod_url
+    attributes:
+      label: Mod URL
+      description: "Geef de URL van de mod (`steam` / `mod.io` / `thunderstore` / `github`)"
+      placeholder: "https://steamcommunity.com/sharedfiles/filedetails/?id=xxxxxxxxxx"
+    validations:
+      required: true
+
+  - type: textarea
+    id: reason
+    attributes:
+      label: Reden voor verzoek
+      description: "Geef een reden waarom deze mod vertaald zou moeten worden"
+      placeholder: "Dit is een hele populaire mod die veel mensen gebruiken"
+    validations:
+      required: true
+
+  - type: textarea
+    id: additional_notes
+    attributes:
+      label: Notities
+      description: "Geef extra informatie die misschien van belang is"
+    validations:
+      required: false

@@ -1,0 +1,30 @@
+name: Vertaal mijn mod niet
+description: Verzoek om bepaalde mod niet te vertalen
+title: "[Opt-Out Verzoek] - Veraal mod ... niet"
+labels: ["opt-out", "translation", "request"]
+body:
+  - type: input
+    id: mod_name
+    attributes:
+      label: Mod Naam
+      description: "De naam van de mod"
+      placeholder: "Shanty Speaker"
+    validations:
+      required: true
+
+  - type: input
+    id: mod_id
+    attributes:
+      label: Mod ID
+      description: "De ID van de mod"
+      placeholder: "Timberborn.ModExamples.ShantySpeaker"
+    validations:
+      required: true
+
+  - type: textarea
+    id: additional_notes
+    attributes:
+      label: Notities
+      placeholder: "Geef exta informatie die misschien van belang is"
+    validations:
+      required: false

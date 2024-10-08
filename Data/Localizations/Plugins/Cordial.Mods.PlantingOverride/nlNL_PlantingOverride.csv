@@ -1,0 +1,9 @@
+ID,Text,Comment
+Cordial.Building.Forester.Description,Vereis planten van:,-
+Cordial.ForesterUpdate.Fragment.NoUpdateOption,Geen,-
+Cordial.PlantingOverrideTool.Crop.DisplayName,"Gewas herplant tool",-
+Cordial.PlantingOverrideTool.Crop.Description,"Plant een ander gewas waar al gewassen staan",-
+Cordial.PlantingOverrideTool.Tree.DisplayName,"Bomen herplant tool",-
+Cordial.PlantingOverrideTool.Tree.Description,"Plant een endere boom waar al een boom staat",-
+Cordial.PlantingOverrideTool.PlantingOverrideToolPanel.Title,"Herplant instellingen",-
+Cordial.PlantingOverrideTool.PlantingOverrideToolPanel.Description,"Vervang plant met:",-

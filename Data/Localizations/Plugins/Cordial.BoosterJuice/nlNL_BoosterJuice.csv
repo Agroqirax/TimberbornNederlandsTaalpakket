@@ -1,0 +1,18 @@
+ID,Text,Comment
+Cordial.Good.Fertilizer.DisplayName,Bomen Mest,-
+Cordial.Good.Fertilizer.PluralDisplayName,Bomen Mest,-
+Cordial.Fertilizer.Mild,Bomen Mest,-
+Cordial.Fertilizer.Strong,Bomen Mest,-
+Cordial.Building.Chemist.Description,Kookt chemische brouwsels,-
+Cordial.Building.Chemist.DisplayName,Scheikundige,A building that serves as an chemistry laboratory. Produces all sorts of smells and smoke.
+Cordial.Building.Chemist.FlavorDescription,Het brouwapparaat wordt uitsluitend voor medische doeleinden gebruikt.,-
+Cordial.Building.FertilizerDump.Description,Verdeelt meststof over geplante bomen,-
+Cordial.Building.FertilizerDump.DisplayName,Mest uitlaat,-
+Cordial.Building.FertilizerDump.FlavorDescription,Meststoffen voor bomen verbeteren de groei en opbrengst.,-
+Cordial.Building.FertilizerDump.Consumption,Mest gebruik," the "": "" is part of the code"
+Cordial.Building.FertilizerDump.TreeCount,Groeiende Bomen," the "": "" is part of the code"
+Cordial.TreeFragment.Title,De groei wordt beïnvloed door mest.,-
+Cordial.TreeFragment.GrowthDaily,Dagelijkse groei verhoogd met,-
+Cordial.TreeFragment.GrowthAverage,De gemiddelde groei daalde met,-
+Cordial.Unit.Days,dagen, plural of day as a unit
+Cordial.Unit.PerHour,/u,-

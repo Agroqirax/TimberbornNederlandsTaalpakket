@@ -1,0 +1,9 @@
+{
+  "Name": "Nederlands taalpakket",
+  "Version": "0.1.0",
+  "Id": "Agroqirax.Languages.Dutch",
+  "MinimumGameVersion": "0.0.0.0",
+  "Description": "Nederlandse vertalingen voor het spel en een aantal populaire mods.\nVind de mod op:\n[Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3345327949), [Mod.io](https://mod.io/g/timberborn/m/nederlands-taalpakket) & [Github](https://github.com/Agroqirax/TimberbornNederlandsTaalpakket)\n\nOndersteunde mods:\n- Agroqirax.Timberbits\n- AquaCadre\n- Battery.Flywheels\n- Cordial.BoosterJuice\n- Cordial.ForrestTool\n- Cordial.Mods.CutterTool\n- Cordial.Mods.PlantingOverride\n- eMka.GoodStatistics\n- eMka.ModSettings\n- hytone.rotatingsun\n- Hytone.SimpleFloodgateTriggers\n- KnatteAnka.Path_extention\n- KnatteAnka.Staircase\n- Lapantouflemagic.1x1x2Storage\n- ModManager\n- MoreBombs\n- Nerro.UTurnStairs\n- scja.stingantidote\n- Timberborn.IgorZ.TimberCommons\n- Tobbert.DutchWindmill\n- Tobbert.FerrisWheel\n- Tobbert.Ladder\n- Tobbert.MorePlatforms\n- Tobbert.VerticalPowerShaft\n\nMeer info op [github](https://github.com/Agroqirax/TimberbornNederlandsTaalpakket)",
+  "RequiredMods": [],
+  "OptionalMods": []
+}
