@@ -1,0 +1,16 @@
+ID,Text,Comment
+BeaverBuddies.Menu.JoinCoopGame,Co-op spel bijtreden,Join co-op game
+BeaverBuddies.JoinCoopGame.EnterIp,Voer het globale IP adres in van de host:,Enter the global IP address of the Host:
+BeaverBuddies.FirstTimer.Message,Het lijkt erop dat dit de eerste keer is dat je BeaverBuddies gebruikt. We raden je aan om snel door onze gids te bladeren om er zeker van te zijn dat je klaar bent om te spelen. Wil je dat nu doen?,It looks like this is your first time using BeaverBuddies. We recommend taking a quick look through our guide to make sure you are set up to play. Would you like to do that now?
+BeaverBuddies.Saving.HostCoopGame,Co-op spel hosten,Host co-op game
+BeaverBuddies.JoinCoopGame.ConnectionFailedMessageWithError,"Bijtreden mislukt met foutcode:
+{0}
+Wil je de probleemoplossing pagina openen?","Joining failed with error:
+{0}
+Would you like to open the troubleshooting guide?"
+BeaverBuddies.JoinCoopGame.ConnectionFailedMessage,Verbinden met host mislukt. Wil je de probleemoplossing pagina openen?,Failed to connect to Host. Would you like to open the troubleshooting guide?
+BeaverBuddies.ClientDesynced.Message,"Een verbonden speler is gedesynchroniseerd en kan niet verder spelen - sorry daarvoor! De host moet op opnieuw hosten moeten klikken en DAARNA moet de andere speler opnieuw verbinding maken. Mogelijk moet je het spel opnieuw opstarten als de problemen aanhouden. Wil je, voordat je het spel opnieuw laadt, een foutrapport indienen om ons te helpen dit probleem op te lossen?","A connected player desynced and cannot continue playing - sorry about that! The Host should hit Rehost and, AFTER that, the Client should Reconnect. You may need to restart the game if problems persist. Before reloading, would you like to file a bug report to help us fix this issue?"
+BeaverBuddies.ClientDesynced.FailedToRehostMessage,Opnieuw hosten mislukt. Sla handmatig op en host opnieuw.,Failed to Rehost. Manually save and Host again.
+BeaverBuddies.ClientDesynced.SaveAndRehostButton,Opslaan en opnieuw hosten,Save and Rehost
+BeaverBuddies.ClientDesynced.WaitForRehostButton,Opnieuw verbinden (wachten op opnieuw hosten),Reconnect (wait for Rehost)
+BeaverBuddies.ClientDesynced.PostBugReportButton,Foutrapport posten,Post Bug Report

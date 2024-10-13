@@ -1,0 +1,101 @@
+ID,Text,Comment
+Tobbert.TrackStraight.DisplayName,Recht stuk Spoor,-
+Tobbert.TrackStraight.Description,Een spoorstuk dat rechtdoor gaat. Kan worden veranderd in een eenrichtingssignaal met de schakelaar wanneer erop wordt geklikt. Maakt een spoorstuk tussen eenrichtingsverkeer waar één trein op kan rijden (aangegeven door de kleuren).,-
+Tobbert.TrackStraight.FlavorDescription,Choo! Choo!,-
+Tobbert.TrackOneWay.DisplayName,Een richting Spoor,-
+Tobbert.TrackOneWay.Description,Vertelt treinen dat ze alleen door de groene kant kunnen. Kan worden teruggezet naar een recht spoor door de schakelaar te gebruiken wanneer erop wordt geklikt. Maakt een spoorsectie tussen de enkele richtingen waar één trein op kan rijden (aangegeven door de kleuren).,-
+Tobbert.TrackOneWay.FlavorDescription,Jij… Mag… Passeren…,-
+Tobbert.TrackCrossing.DisplayName,Spoorovergang,-
+Tobbert.TrackCrossing.Description,Bevers kunnen hier de sporen oversteken. Botsing wordt niet geïmplementeerd omdat de prestaties er te veel onder lijden.,-
+Tobbert.TrackCrossing.FlavorDescription,Die trein nadert heel sne-,RIP
+Tobbert.TrackHillStart.DisplayName,Hellend Spoor,-
+Tobbert.TrackHillStart.Description,Een stuk spoor dat treinen omhoog en omlaag laat gaan.,-
+Tobbert.TrackHillStart.FlavorDescription,Is de trein niet te zwaar?,-
+Tobbert.TrackCorner1x1.DisplayName,Spoor Bocht 1x1,-
+Tobbert.TrackCorner1x1.Description,Een stuk spoor dat om de bocht gaat.,-
+Tobbert.TrackCorner1x1.FlavorDescription,Het kan een beetje krap zijn,-
+Tobbert.TrackCorner2x2.DisplayName,Spoor Bocht 2x2,-
+Tobbert.TrackCorner2x2.Description,Een stuk spoor dat om de bocht gaat.,-
+Tobbert.TrackCorner2x2.FlavorDescription,Wat een mooie bocht.,-
+Tobbert.TrackTIntersection1x1.DisplayName,Spoor T-kruising 1x1,-
+Tobbert.TrackTIntersection1x1.Description,Een T-kruising voor treinen.,-
+Tobbert.TrackTIntersection1x1.FlavorDescription,Waar zal ik heengaan?,-
+Tobbert.TrackTIntersection2x3.DisplayName,Spoor T-kruising 2x3,-
+Tobbert.TrackTIntersection2x3.Description,Een T-kruising voor treinen.,-
+Tobbert.TrackTIntersection2x3.FlavorDescription,Waar gaan die paden heen?,-
+Tobbert.TrackXIntersection1x1.DisplayName,Spoor X-kruising 2x2,-
+Tobbert.TrackXIntersection1x1.Description,Een X-kruising voor treinen.,-
+Tobbert.TrackXIntersection1x1.FlavorDescription,Zo veel mogelijkheden!,-
+Tobbert.TrackXIntersection3x3.DisplayName,Spoor X-kruising 3x3,-
+Tobbert.TrackXIntersection3x3.Description,Een X-kruising voor treinen.,-
+Tobbert.TrackXIntersection3x3.FlavorDescription,Ik kan niet kiezen waar ik heen ga…,-
+Tobbert.TrackRIntersection2x3.DisplayName,Spoor wissel 2x3,-
+Tobbert.TrackRIntersection2x3.Description,Een wissel in de vorm van een R voor treinen.,-
+Tobbert.TrackRIntersection2x3.FlavorDescription,Waar gaan we heen?,A joke of the letter R
+Tobbert.GoodsStation.DisplayName,Goederen station,-
+Tobbert.GoodsStation.Description,Maakt het mogelijk om goederen per trein te vervoeren. Een goed kan worden verzonden of ontvangen op een station. Ontvangen goederen worden alleen verplaatst naar opslagplaatsen die zijn ingesteld om te verkrijgen.,-
+Tobbert.GoodsStation.FlavorDescription,Kijk naar alle goederen die erop passen!,-
+Tobbert.PassengerStation.DisplayName,Passagiers station,-
+Tobbert.PassengerStation.Description,Via dit station kunnen bevers in de trein stappen en naar andere stations reizen die met elkaar verbonden zijn.,-
+Tobbert.PassengerStation.FlavorDescription,Bever trein!,-
+Tobbert.PassengerStation.DistrictObjectToggle,Gaat door districten:,-
+Tobbert.PassengerStation.DistrictObject,"Als deze optie is ingeschakeld, mogen bevers ALLEEN naar passagiersstations gaan waar deze instelling ook is ingeschakeld en die zich in andere districten bevinden.",-
+Tobbert.PassengerStation.EmptyStation,Er zijn geen passagiers aan het wachten.,-
+Tobbert.WaitingStation.DisplayName,Wachtstation,-
+Tobbert.WaitingStation.Description,"Treinen kunnen hier wachten als ze niets te doen hebben. Dit voorkomt dat treinen de sporen bezetten. Treinen kunnen hier niet over pathfinden, dus zorg ervoor dat het niet op cruciale paden ligt.",-
+Tobbert.WaitingStation.FlavorDescription,Waar kan ik ook alweer heengaan?,-
+Tobbert.TrainYard.DisplayName,Trein fabriek,-
+Tobbert.TrainYard.Description,Een gebouwen dat treinen bouwt,-
+Tobbert.TrainYard.FlavorDescription,Hier worden treinen geboren.,-
+Tobbert.TrainYard.CostOfTrain,Cost of 1 train:,-
+Tobbert.TrainYard.CreateTrain,Bouw trein,-
+Tobbert.Train.PrefabName,Trein,-
+Tobbert.Wagon.PrefabName,Wagon,-
+Tobbert.TrainModel.TrainModel,Trein Model:,-
+Tobbert.TrainModel.SmallLog,Kleine boomstam,-
+Tobbert.TrainModel.BigWooden,Grote boomstam,-
+Tobbert.WagonModel.WagonModel,Wagon Model:,-
+Tobbert.WagonModel.BoxWagon,Bakwagon,-
+Tobbert.WagonModel.TankWagon,Tankwagon,-
+Tobbert.WagonModel.FlatWagon,Platwagon,-
+Tobbert.WagonModel.FlipperWagon,Open goederen wagon,-
+Tobbert.WagonModel.MetalCart,Metaalwagon,-
+Tobbert.WagonModel.PassengerWagon,Passagier wagon,-
+Tobbert.BatchControl.Trains,Treinen,-
+Tobbert.Train.Length,Trein lengte:,-
+Tobbert.Train.Destroy,Weet je zeker dat je deze trein wilt verwijderen?,-
+Tobbert.GoodsStation.Distribution.Header,Verdeelde goederen,-
+Tobbert.GoodsStation.Distribution.Disabled.Info,Distributie uitgezet door distributie instellingen.,-
+Tobbert.GoodsStation.Distribution.Sending.Info,Distributie ingesteld op verzenden door distributie instellingen.,-
+Tobbert.GoodsStation.Distribution.Receiving.Info,Distributie ingesteld op ontvangen door distributie instellingen.,-
+Tobbert.BatchControl.GoodsStation,Goederen stations,-
+Tobbert.BatchControl.DistributionDisabledAll,Alle distributie uitzetten,-
+Tobbert.BatchControl.DistributionDisabled,Distributie uitgezet,-
+Tobbert.BatchControl.DistributionDisabled.Description,Alle distributie voor dit station uitzetten,-
+Tobbert.BatchControl.DistributionSendingAll,Versturen van alle goederen toestaan,-
+Tobbert.BatchControl.DistributionSending,Versturen toestaan,-
+Tobbert.BatchControl.DistributionSending.Description,"Station kan dit goed naar een ander station sturen. De maximale hoeveelheid die in het station kan zijn, wordt bepaald door de hoeveelheid aan de rechterkant.",-
+Tobbert.BatchControl.DistributionReceivingAll,Ontvangen van alle goederen toestaan,-
+Tobbert.BatchControl.DistributionReceiving,Ontvangen toestaan,-
+Tobbert.BatchControl.DistributionReceiving.Description,"Station kan dit goed ontvangen dat door andere stations wordt verzonden. De maximale hoeveelheid die in het station kan zijn, wordt bepaald door de hoeveelheid aan de rechterkant.",-
+Tobbert.BatchControl.DecreaseMaximum,Maximum hoeveelheid goederen verlagen,-
+Tobbert.BatchControl.DecreaseMaximum.Description,Verminder de maximale hoeveelheid die in het station kan zijn. Klik is -1 en shift vasthouden is -10. Maximale capaciteit is 200.,-
+Tobbert.BatchControl.IncreaseMaximum,Maximum hoeveelheid goederen verhogen,-
+Tobbert.BatchControl.IncreaseMaximum.Description,Verhoog de maximale hoeveelheid die in het station kan zijn. Klik is +1 en shift vasthouden is +10. Maximale capaciteit is 200.,-
+Tobbert.TrackSystem.ToggleSectionDivider,Verdeeld sporen:,-
+Tobbert.TrackSystem.ButtonChangeDirection,Richting veranderen,-
+Tobbert.TrackSystem.CollidingSectionDividers,Kan 2 spoorverdelers niet verbinden,-
+Tobbert.ToolGroup.Trains,Treinen,-
+Tobbert.TrainYard.PreviewErrorMessage,Maar 1 treinfabriek kan gebouwd worden,-
+Tobbert.Trains.UnlockPrompt,Je moet {0} ontgrendelen om {1} te bouwen.,{0} stands for <Building>.DisplayName {1} stands for <TrackPiece>.DisplayName.
+Tobbert.DistributionTrain.MinimumOfItemsToMove,Minimum hoeveelheid om te vertrekken:,-
+Tobbert.TrainNavigation.Unstuck,Omdraaien,-
+Tobbert.TrainNavigation.NoWaitingStation,Geen beschikbaar wachtstation gevonden,-
+Tobbert.TrainNavigation.NoWaitingStationShort,Geen wachtstation,-
+Tobbert.TrainDestination.UnconnectedWarning,Station is niet met een ander station verbonden,-
+Tobbert.TrainDestination.UnconnectedWarningShort,Station niet verbonden,-
+Tobbert.ChooChooSettings.Header,Choo! Choo!,-
+Tobbert.ChooChooSettings.DefaultTrainModel,Standaard Trein Model:,-
+Tobbert.ChooChooSettings.DefaultWagonModel,Standaard Wagon Model:,-
+Tobbert.ChooChoo.KeyBindingGroup.ChooChoo,Choo! Choo!,-
+Tobbert.ChooChoo.KeyBinding.GoodsStationDistributionControlTab,Open goederen stations tabblad,-

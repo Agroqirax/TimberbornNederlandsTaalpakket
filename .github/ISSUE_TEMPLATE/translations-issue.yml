@@ -25,7 +25,7 @@ body:
     id: current_value
     attributes:
       label: Huidige vertaling
-      description: "Provide the current (incorrect) translation."
+      description: "Geef de huidige vertaling"
       placeholder: "Shanty Speaker"
     validations:
       required: true
@@ -34,7 +34,7 @@ body:
     id: expected_value
     attributes:
       label: Verbeterde vertaling
-      description: "Geef de betere vertaling"
+      description: "Geef de verbeterde vertaling"
       placeholder: "Shanty Luidspreker"
     validations:
       required: false

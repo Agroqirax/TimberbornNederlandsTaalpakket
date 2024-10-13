@@ -1,5 +1,24 @@
 # Changelog
 
+_Changelog created using the [Simple Changelog](https://marketplace.visualstudio.com/items?itemName=tobiaswaelde.vscode-simple-changelog) extension for VS Code._
+
+## [0.1.1] - 2024-10-09
+
+### Added
+
+- Nieuwe mods:
+  - [beaverbuddies](Data/Localizations/Plugins/beaverbuddies)
+  - [Nerro.HalfRoofs](Data/Localizations/Plugins/Nerro.HalfRoofs)
+  - [Timberborn.IgorZ.Automation](Data/Localizations/Plugins/Timberborn.IgorZ.Automation)
+  - [Timberborn.OldGopher.Pipe](Data/Localizations/Plugins/Timberborn.OldGopher.Pipe)
+  - [Tobbert.ChooChoo](Data/Localizations/Plugins/Tobbert.ChooChoo)
+
+### Changed
+
+- MapMetadata.Diorama.Description: `... grote kolonies, krijgen ...` -> `... grote nederzettingen, krijgen ...`
+- MapMetadata.ThousandIslands.Description: `... industriële kolonie.` -> `... industriële nederzetting.`
+- Tutorial.Stage.PlaceLumberjacks: `... een beverkolonie.\nElke ...` -> `... een bever nederzetting.\nElke ...`
+
 ## [0.1.0] - 2024-09-26
 
 ### Added

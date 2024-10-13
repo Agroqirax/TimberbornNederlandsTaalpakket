@@ -298,7 +298,7 @@ Building.HydroponicGarden.DisplayName,Hydroponische Tuin,An artificial garden th
 Building.HydroponicGarden.FlavorDescription,Het idee ontstond nadat er vochtige ruïnes van mensen werden ontdekt die bedekt waren met snelgroeiende paddenstoelen.,"Referencing Timberborn's post-apo theme, but also a little bit of The Last of Us."
 Building.ImpermeableFloor.Description,Een vloerpaneel dat voorkomt dat er water doorheen lekt.,
 Building.ImpermeableFloor.DisplayName,Ondoordringbare vloer,"It's a metal floor tile that doesn't let any water through, hence Impermeable."
-Building.ImpermeableFloor.FlavorDescription,"Het begon allemaal met een bever die genoeg had van het geluid van een lekkende dak.",
+Building.ImpermeableFloor.FlavorDescription,Het begon allemaal met een bever die genoeg had van het geluid van een lekkende dak.,
 Building.IndustrialLumberMill.Description,Maakt planken van boomstammen. Het innovatieve ontwerp biedt ruimte aan meer werknemers in dezelfde ruimte.,"Planks should be the same as Good.Plank.DisplayName, Logs should be the same as Good.Log.DisplayName"
 Building.IndustrialLumberMill.DisplayName,Industriële Houtzagerij,Lumber Mill should be the same as in Building.LumberMill.DisplayName
 Building.IndustrialLumberMill.FlavorDescription,Twee zagen zijn beter dan één.,"Referencing the ""two beavers are better than one"" song, plus the IT lumbermill has two saws rather than one that's in the FT version."
@@ -1089,7 +1089,7 @@ MapMetadata.Cliffside.Description,Restanten van oude menselijke architectuur lig
 MapMetadata.Cliffside.Name,Klifzijde,
 MapMetadata.Craters.Description,Niemand weet hoe de kraters zijn ontstaan. Voorlopige opgravingen suggereren dat hoomans er gewelddadig bij betrokken waren.,
 MapMetadata.Craters.Name,Kraters,
-MapMetadata.Diorama.Description,"Voordat ze toezicht mogen houden op grote kolonies, krijgen beginnende bouwers de taak om kleinschalige projecten zoals deze uit te voeren.",
+MapMetadata.Diorama.Description,"Voordat ze toezicht mogen houden op grote nederzettingen, krijgen beginnende bouwers de taak om kleinschalige projecten zoals deze uit te voeren.",
 MapMetadata.Diorama.Name,Diorama,
 MapMetadata.HelixMountain.Description,"Ook al vinden ze de vorm van de rivierbedding onpraktisch, toch erkennen de bevers dat de mens slechts over beperkte watertechnische vaardigheden beschikt.",
 MapMetadata.HelixMountain.Name,Spiraalberg,The name of this map refers to the spiral shape of its central mountain.
@@ -1104,7 +1104,7 @@ MapMetadata.Plains.Description,"Met uitgestrekte gebieden die zo plat zijn als d
 MapMetadata.Plains.Name,Vlakten,
 MapMetadata.Terraces.Description,"Veel samenlevingen kiezen ervoor om zich op hoger gelegen gebieden te vestigen, waarbij ze gebruikmaken van het nieuwe talent van bevers voor verticaal bouwen.",
 MapMetadata.Terraces.Name,Terrassen,
-MapMetadata.ThousandIslands.Description,Zelfs voor geboren zwemmers is het geen gemakkelijke opgave om een ​​eilandengroep om te vormen tot een bloeiende industriële kolonie.,
+MapMetadata.ThousandIslands.Description,Zelfs voor geboren zwemmers is het geen gemakkelijke opgave om een eilandengroep om te vormen tot een bloeiende industriële nederzetting.,
 MapMetadata.ThousandIslands.Name,Duizend eilanden,
 MapMetadata.Waterfalls.Description,Het is een oude opvoedingstruc om kittens te vertellen dat een waterval slechts een grote sluisdeur is. Hier zullen ze wekenlang zoeken naar een afsluithendel.,
 MapMetadata.Waterfalls.Name,Watervallen,
@@ -1577,7 +1577,7 @@ Tutorial.Progress,({0}/{1}),{0} stands for number of achieved goals {1} stands f
 Tutorial.TextToggle.Hide,Tekst verbergen,Tooltip for tutorial button hiding intro text
 Tutorial.TextToggle.Show,Tekst tonen,Tooltip for tutorial button showing intro text
 Tutorial.SelectGood,Selecteer: {1} bij {0} {2},{0} stands for building name {1} stands for good name {2} stands for Tutorial.Progress. This is used in a goal description with the verb in active voice. for example 'Set: Warehouse to Bread (0/5)'.
-Tutorial.Stage.PlaceLumberjacks,"Welkom! Deze tutorial helpt je met alle basisbeginselen van het bouwen van een beverkolonie.
+Tutorial.Stage.PlaceLumberjacks,"Welkom! Deze tutorial helpt je met alle basisbeginselen van het bouwen van een bever nederzetting.
 
 Elke nieuwe nederzetting heeft boomstammen nodig! Alleen houthakkers kappen bomen, dus plaats twee houthakkers vlaggen naast bomen in de buurt.",Logs is the name of the resource and Lumberjack Flag is the name of the building
 Tutorial.Stage.FinishLumberjacks,"De vlaggen worden niet gebouwd tenzij ze binnen het bebouwingsbereik van het district vallen.
