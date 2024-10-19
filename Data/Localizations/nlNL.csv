@@ -1,7 +1,7 @@
 ID,Text,Comment
-AnalyticsConsent.Agree,"Ja, ik stem toe",
-AnalyticsConsent.Disagree,"Nee, ik stem niet toe",
-AnalyticsConsent.Header,Gameplay data,Header of the panel that allows the player to consent to sending user data to the developers.
+AnalyticsConsent.Agree,"Ja, ik ga akkoord",
+AnalyticsConsent.Disagree,"Nee, ik ga niet akkoord",
+AnalyticsConsent.Header,Spelgegevens,Header of the panel that allows the player to consent to sending user data to the developers.
 AnalyticsConsent.Info,"Help ons het spel te verbeteren door gegevens te delen over hoe jij Timberborn speelt.
 
 Als je hiermee akkoord gaat, verzamelen wij automatisch gameplay-gerelateerde informatie tijdens je spelsessies.
@@ -45,17 +45,17 @@ Beaver.Population.Contaminated,Verontreinigd ,Header of the list of beavers cont
 Beaver.Unemployed,Werkeloos,"Signifies that the beaver has no job, singular"
 Beaver.UnemployedPlural,Werkeloos,"Used in population statistics, followed by the number of unemployed beavers"
 Beaver.Workplace,Werkt bij: {0},{0} stands for Building.DisplayName. Tells which type of building the beaver works in.
-Bonus.CarryingCapacity,Draag capaciteit,How much stuff a unit can carry
+Bonus.CarryingCapacity,Draagvermogen,How much stuff a unit can carry
 Bonus.CuttingSuccessChance,Snijdkans,Cutting chance when cutting down a tree
 Bonus.GrowthSpeed,Groei snelheid,Speed at which young beavers grow up
 Bonus.LifeExpectancy,Levensverwachting,The presumed length of beavers' life.
-Bonus.MovementSpeed,Loop snelheid,"Describes how fast character can move (bonus to walking, running and swimming)."
-Bonus.Source,{0} ontvangen van:,{0} stands for Bonus name. Header above a list of needs that give this bonus.
-Bonus.WorkingSpeed,Werk snelheid,Speed at which the beavers work.
+Bonus.MovementSpeed,Loopsnelheid,"Describes how fast character can move (bonus to walking, running and swimming)."
+Bonus.Source,{0} ontvangen door:,{0} stands for Bonus name. Header above a list of needs that give this bonus.
+Bonus.WorkingSpeed,Werksnelheid,Speed at which the beavers work.
 Bot.BeaversPerished,"Laat me maar niet beginnen over de bevers.
 Ze hadden alles. Frisse lucht, schoon water.
 Nu zijn ze nog maar een vage herinnering.","Text for a game over state, when all beavers have perished."
-Bot.Created,{0} werd vervaardigd!,{0} stands for bot name. Notification that shows when production of a new bot finishes.
+Bot.Created,{0} werd gemaakt!,{0} stands for bot name. Notification that shows when production of a new bot finishes.
 Bot.DeadNameSuffix,(vernietigd),Preceded by bot name and age
 Bot.DeathMessage,{0} is stukgegaan.,{0} stands for bot name. Notification that shows when a bot breaks down completely (it's destroyed)
 Bot.DisplayName.Folktails,Timmerbot {0},{0} stands for a bot serial number. Name of bots from the Folktails faction. Named after the fact they are visibly made from wood.
@@ -71,7 +71,7 @@ BuilderPriorityTool.Description,Met deze tool kunt je prioriteit geven aan bouw-
 BuilderPriorityTool.Tip,Klik op een item om de prioriteit in te stellen of houd de knop ingedrukt om een ​​groter gebied te selecteren.,
 Building.Agora.Description,Een grote ontmoetingsplaats waar bevers met elkaar over hout kunnen praten.,
 Building.Agora.DisplayName,Tempel,
-Building.Agora.FlavorDescription,"Wanneer de groene bakens branden, is dat een teken voor de Folktails om zich te verzamelen.",Folktails must be same as faction as Faction.Folktails.DisplayName.
+Building.Agora.FlavorDescription,"Wanneer de groene bakens branden, is dit een teken voor de Folktails om zich te verzamelen.",Folktails must be same as faction as Faction.Folktails.DisplayName.
 Building.AdvancedBreedingPod.Description,Maakt gebruik van een geavanceerd fokproces om volwassen bevers te produceren die graag aan de slag gaan.,Breeding should be the same as Building.BreedingPod.DisplayName
 Building.AdvancedBreedingPod.DisplayName,Geavanceerde Kweekpod,
 Building.AdvancedBreedingPod.FlavorDescription,Het idee ontstond toen een kitten in een ketel vol extract viel en een enorme groeispurt doormaakte nadat hij het allemaal had opgedronken.,"Extract must be the same as Good.Extract.DisplayName, kit is a young beaver."
@@ -89,7 +89,7 @@ Building.BadwaterPump.DisplayName,Slechtwater Pomp,Badwater should be the same a
 Building.BadwaterPump.FlavorDescription,"""Ik wou dat de extra beschermende maatregelen ook iets tegen de stank zouden omvatten."" —Suli",Suli is a younger beaver that likes to play tricks on their fellow beavers and isn't related to any faction in particular. Translated name shouldn't suggest a gender if possible.
 Building.BadwaterRig.Description,Verzegelt een slechtwater bron. Stelt werknemers aan die slechtwater rechtstreeks uit de bron halen.,"Badwater Source must be the same as Building.BadwaterSource.DisplayName, Badwater must be the same as Good.Badwater.DisplayName."
 Building.BadwaterRig.DisplayName,Slechtwater Installatie,Name of the building that stops flow from badwater source and generates Good.Badwater.DisplayName goods (by extracting them from source). It's a mechanical building that needs workers to operate. Badwater must be the same as Good.Badwater.DisplayName
-Building.BadwaterRig.FlavorDescription,"Bevers die boven een kokende bron van slecht water werken, voelen een constante druk.",Play on words with pressure referring to both water pressure and stress. If possible try to adapt the phrase to fit your language.
+Building.BadwaterRig.FlavorDescription,"Bevers die boven de kokende bron van slecht water werken, voelen een constante druk.",Play on words with pressure referring to both water pressure and stress. If possible try to adapt the phrase to fit your language.
 Building.BadwaterSource.DisplayName,Slechtwater Bron,A crack or spring in the ground spuming badwater. Badwater should be the same as Good.Badwater.DisplayName.
 Building.BadwaterSource.FlavorDescription,"""Waarom moeten we de rotzooi van de mensen opruimen? Oh ja, ze zijn allemaal dood."" —Pina",
 Building.ContaminationBarrier.Description,Voorkomt dat bodemverontreiniging zich verspreidt.,Ideally all uses of the word contaminate/contamination/contaminated should be uniform across the project.
@@ -227,7 +227,7 @@ Building.Engine.Description,Verbrandt brandstof om energie op te wekken.,
 Building.Engine.DisplayName,Motor,Not a steam engine;it might show up later as a different building
 Building.Engine.FlavorDescription,"Hoe geweldig deze uitvinding ook is, het was een splinter in het gezicht van andere bevervolkeren, behalve de Ijzertanden.","Iron Teeth is one of the playable factions, with the Engine being one of their unique buildings."
 Building.EarthRecultivator.Folktails.Description,Verspreidt boomzaden over de aarde. Maakt de bevers in het gebied extra blij wanneer gelanceerd.,
-Building.EarthRecultivator.Folktails.DisplayName,Aarde Recultivator,Earth meaning planet Earth and Recultivator meaning regenerating the planet.
+Building.EarthRecultivator.Folktails.DisplayName,Aarde Her-cultivator,Earth meaning planet Earth and Recultivator meaning regenerating the planet.
 Building.EarthRecultivator.Folktails.FlavorDescription,Met elk zaadje groeit de hoop.,
 Building.EarthRepopulator.IronTeeth.Description,Lanceert pioniers naar verre landen. Maakt de bevers in de buurt extra blij wanneer gelanceerd.,
 Building.EarthRepopulator.IronTeeth.DisplayName,Aarde Herbevolker,Earth meaning planet Earth and Repopulator meaning starting new colonies or restoring the population.
@@ -417,7 +417,7 @@ Building.PaperMill.DisplayName,Papierfabriek,
 Building.PaperMill.FlavorDescription,"Wat begon als een gedroogde snack voor aaseters, kreeg al snel allerlei andere toepassingen.",
 Building.Path.Description,Gebouwen moeten door paden met elkaar verbonden zijn.,
 Building.Path.DisplayName,Pad,
-Building.Path.FlavorDescription,"Dijkenwegen, breng me thuis, naar de dam waar ik hoor.","Adapted from ""Take Me Home, Country Roads"" by John Denver"
+Building.Path.FlavorDescription,"Dijkwegen, breng me thuis, naar de dam waar ik hoor.","Adapted from ""Take Me Home, Country Roads"" by John Denver"
 Building.PlankFence.Description,Een decoratief hekwerk van planken.,
 Building.PlankFence.DisplayName,Plankenhek,
 Building.Platform.Description,Een verhoogd platform dat kan dienen als brug of fundering voor andere gebouwen.,
@@ -454,11 +454,11 @@ Building.RooftopTerrace.FlavorDescription,"Een geweldige plek om de hele nacht d
 Building.Rowhouse.Description,"Handig, gedeelde woningen met een kleine oppervlakte.",
 Building.Rowhouse.DisplayName,Rijtjeshuis,"A rowhouse is a narrow and tall house that is connected to other homes on both sides, often built in a row."
 Building.Rowhouse.FlavorDescription,Beter rijen dan holen.,
-Building.Ruins.Description,Source of metal.,Metal is a resource
+Building.Ruins.Description,Bron van schrootmetaal.,Metal is a resource
 Building.Ruins.DisplayName,Ruïnes,
 Building.Ruins.FlavorDescription,Verspreid over het land boden vervallen menselijke ruïnes de bevers het onvoorstelbare: een hulpbron die beter was dan hout.,
 Building.Scarecrow.Description,Een veldversiering die bedoeld is om vogels af te schrikken.,
-Building.Scarecrow.DisplayName,Vogelverschrikker,
+Building.Scarecrow.DisplayName,Vogelschrik,
 Building.Scarecrow.FlavorDescription,Uitmuntend in hun vakgebied.,
 Building.ScavengerFlag.Description,Aaseters verzamelen schroot uit ruïnes.,Metal is a resource;ruins are a building
 Building.ScavengerFlag.DisplayName,Vlag van de Aaseter,
@@ -511,7 +511,7 @@ Building.StreamGauge.Depth,Diepte: {0},"Level of the water depth, {0} stands for
 Building.StreamGauge.Description,"Meet de waterdiepte, de stroming en de verontreiniging van het slechtwater.",Badwater should be the same as Good.Badwater.DisplayName.
 Building.StreamGauge.DisplayName,Watermeter,
 Building.StreamGauge.FlavorDescription,"Er is een getij in de zaken van bevers. Wie het vloedwater grijpt, vindt fortuin.",Adapted quote from Shakespeare's 'Julius Cesar'
-Building.StreamGauge.GreatestDepth,Grootste diepte: {0},"Level of the greatest noted water depth, {0} stands for this value in meters"
+Building.StreamGauge.GreatestDepth,Hoogste gemeten: {0},"Level of the greatest noted water depth, {0} stands for this value in meters"
 Building.StreamGauge.Reset,Reset,
 Building.SuspensionBridge.Description,Zorgt ervoor dat bevers openingen kunne passeren.,
 Building.SuspensionBridge.FlavorDescription,Steviger dan het lijkt.,
@@ -526,7 +526,7 @@ Building.SwimmingPool.Description,Een zwembad,
 Building.SwimmingPool.DisplayName,Zwembad,
 Building.SwimmingPoll.FlavorDescription,"""Dat is een heel goede tijd, maar we moeten aan je staartslag werken!"" —Pina","Backstroke is a swimming style, but beavers also have tails. Pina is a younger beaver figure that's exploring the world and isn't related to any faction in particular. Pina as a name relates to the pine tree, the translated name shouldn't suggest a gender if possible."
 Building.TappersShack.Description,Heeft tappers in dienst die sap en siroop van bomen verzamelen.,
-Building.TappersShack.DisplayName,Tappers Hut,"A shack where workers tap trees to gather sap and syrups, similar to sugar shacks in Canada."
+Building.TappersShack.DisplayName,Taphut,"A shack where workers tap trees to gather sap and syrups, similar to sugar shacks in Canada."
 Building.TappersShack.FlavorDescription,"De jongen leren al vroeg dat elke druppel telt, of het nu water of hars is.",
 Building.TeethGrindstone.Description,Wordt gebruikt om gebroken tanden te slijpen.,Broken teeth refers to Need.BrokenTeeth.CriticalDescription
 Building.TeethGrindstone.DisplayName,Tandenslijpsteen,A grindstone contraption for sharpening beaver teeth
@@ -608,7 +608,7 @@ CrashScreen.SendFail,"Versturen mislukt, click om opnieuw te proberen",
 CrashScreen.SendReport,Verstuur foutenrapport naar ontwikkelaars,
 CrashScreen.SendSuccess,"We hebben je foutenrapport ontvangen, bedankt!",
 CrashScreen.Sending,Versturen…,
-CrashScreen.Title,"Oh nee, een bug :’(",
+CrashScreen.Title,"Oeps, een fout.",
 Condition.DisplayName,Conditie,"Bot equivalent of wellbeing (how good they are taken care of, how good their mechanical condition is)"
 Console.CloseButton,Sluiten,Label of the button that closes the console
 Console.Collapse,▲ Samenvouwen,Label of the button that collapses the console vertically. Please keep the arrow.
@@ -618,7 +618,7 @@ ConstructionSites.DisplayName,Bouwplaats,
 ConstructionSites.Priority,Bouwplaats prioriteit,
 ConstructionSites.PriorityTitle,Bouwplaats prioriteit:,Setting a priority for construction work on a construction site
 ConstructionSites.Progress,Vooruitgang: {0}%,{0} stands for percentage of construction progress
-ConstructionSites.Info.WaitingForMaterials,(op goeden aan het wachten),Awaiting new materials to build
+ConstructionSites.Info.WaitingForMaterials,(op goederen aan het wachten),Awaiting new materials to build
 Core.BrowseDirectory,Door bestanden bladeren ►,Opens file browser to either save folder or map folder. Please keep the arrow.
 Core.Cancel,Annuleren,A button please keep short
 Core.EmptyList,Hier is nog niets,A text shown in a list that does not contain any elements.
@@ -637,7 +637,7 @@ Core.SaveAs,Opslaan als…,A button please keep short
 Core.Start,Start,A button please keep short
 Core.Status,Status:,Indication in interface about status of some property. For example 'Status: Enabled'
 Core.Yes,Ja,
-Demolish.Blocked,Objecten boven blokkeren de sloop.,Text of status message when trying to demolish an object (i.e. natural overhang) that has objects or buildings built on top of it preventing demolition.
+Demolish.Blocked,Objecten boven dit gebouw blokkeren de sloop.,Text of status message when trying to demolish an object (i.e. natural overhang) that has objects or buildings built on top of it preventing demolition.
 Demolish.Cancel,Sloop annuleren,
 Demolish.Mark,Sloop,Demolishing is removing with the use of builders. Must be different than 'Delete' which has a slightly different meaning in the game.
 Demolish.PriorityTitle,Sloop prioriteit:,Setting a priority for demolition work on demolition target
@@ -712,7 +712,7 @@ Faction.IronTeeth.GameOver.Message,Jouw Iron Teeth schikking viel zonder kans op
 Faction.Folktails.WonderCompletionFlavor,"Nadat ze grote rijkdom en kennis hadden verzameld, deelden je bevers de vruchten van hun arbeid met de lijdende planeet. Er is nog veel te doen, maar de aarde kan weer floreren.",Flavor text shown when the player has mastered a map with the Folktails faction. Mastery means building and activating a Wonder.
 Faction.Folktails.WonderCompletionMessage,Gefeliciteerd! Je hebt de natuurgerichte manieren van Folktails onder de knie en hebt de bronnen van deze kaart gebruikt om het wonder van de factie te bouwen.,A message that is shown when the player has mastered a map with the Folktails faction. Mastery means building and activating a Wonder.
 Faction.IronTeeth.WonderCompletionFlavor,"Jouw pioniers vlogen weg over de woestenij en lieten de bloeiende nederzetting achter zich. Als de aarde wil herstellen, moest de nieuw gevonden beverwelvaart gedeeld worden.",Flavor text shown when the player has mastered a map with the Folktails faction. Mastery means building and activating a Wonder.
-Faction.IronTeeth.WonderCompletionMessage,"Goed gedaan! Dankzij je technologische vaardigheden kon je de ijverige krachten van de Ijzertanden benutten, deze kaart veroveren en het wonder van de factie bouwen.",A message that is shown when the player has mastered a map with the Iron Teeth faction. Mastery means building and activating a Wonder.
+Faction.IronTeeth.WonderCompletionMessage,"Goed gedaan! Met je technologische vaardigheden kon je de ijverige krachten van de Ijzertanden benutten, deze kaart veroveren en het wonder van de factie bouwen.",A message that is shown when the player has mastered a map with the Iron Teeth faction. Mastery means building and activating a Wonder.
 FactionSelection.Header,Selecteer factie,
 FactionSelection.NewFactionUnlocked,Nieuwe factie ontgrendeld:,Followed by the name of a faction in new line
 FactionSelection.WellbeingCondition,Om te ontgrendelen moet je een gemiddeld welzijn van {0} bereiken terwijl je {1} speelt.,{0} stands for a number {1} stand for Faction.DisplayName
@@ -720,7 +720,7 @@ Fields.Harvesting,Oogsten,Preceded by Fields.PriorityAction
 Fields.Planting,Planten,Preceded by Fields.PriorityAction
 Fields.PriorityAction,Handeling prioriteren:,Which of the actions is prioritized.
 FileBrowser.Header,Selecteer bestand,Header of the file browser window.
-FileBrowser.NoPermission,Je hebt geen machtiging om deze map te bekijken.,Shown in the file browser when the user doesn't have permission to access the selected folder.
+FileBrowser.NoPermission,Je hebt geen machtiging om deze map te openen.,Shown in the file browser when the user doesn't have permission to access the selected folder.
 FileBrowser.Open,Open,Label of the button that opens currently selected directory or loads currently selected file.
 FlexibleStart.ChooseStartLocation,Start-locatie selecteren,Text shown when the player is choosing a new starting location.
 FlexibleStart.Relocate,Start-locatie selecteren,Label of a button for changing the starting location.
@@ -873,7 +873,7 @@ Inventory.Capacity,Capaciteit:,How much space there is in the storage
 Inventory.InStock,Op voorraad:,Please keep short. Header above a list of resources in stock of the storage.
 Inventory.IsEmpty,Geen goederen opgeslagen,
 Inventory.Goods,Goederen:,
-Inventory.Header.Stock,Stock,Please keep short. Header above a column with amounts of resource in stock of the storage.
+Inventory.Header.Stock,Opslag,Please keep short. Header above a column with amounts of resource in stock of the storage.
 Inventory.NothingSelected,Niets,Text shown in a dropdown when no good is selected. Keep below 15 characters.
 Inventory.StartingInventory,Startgoederen,
 Inventory.StockpileOverlay.Show,Opslag overlay weergeven,Tooltip for button showing overlay over warehouses containing stored goods.
@@ -912,7 +912,7 @@ KeyBinding.DeleteObject,Object verwijderen,Label of the key that deletes the sel
 KeyBinding.DetonateDynamite,Dynamiet laten ontploffen,Label of the key that detonates a dynamite
 KeyBinding.DistributionTab,Open Distributie tabblad,"Label of the key that opens the Settlement Panel and selects the Distribution tab, Distribution should be the same as BatchControl.Distribution"
 KeyBinding.Flip,Flippen,Label of the key that flips the selected building (makes the model mirrored)
-KeyBinding.Hold,Hold:,Used to describe key binding that turns something on while the key is held.
+KeyBinding.Hold,Houd:,Used to describe key binding that turns something on while the key is held.
 KeyBinding.HousingTab,Open Huisvesting tabblad,"Label of the key that opens the Settlement Panel and selects the Housing tab, Housing should be the same as BatchControl.Housing"
 KeyBinding.IncreaseBrushHeight,Verhoog de penseelhoogte,"Label of the key that increases the vertical level of the brush, 'brush height' should be the same as MapEditor.Brush.Height.Label"
 KeyBinding.IncreaseBrushSize,Vergroot de penseelgrootte,"Label of the key that increases the size of the brush, 'brush size' should be the same as MapEditor.Brush.Size.Label"
@@ -988,9 +988,9 @@ KeyBindingBox.RebindingMessage,Druk op een toets om de binding opnieuw toe te wi
 KeyBindingBox.ResetToDefault,Naar standaardwaarden resetten,Text on the button in key bindings panel that resets all key bindings to their default bindings
 KeyBindingBox.ResetToDefaultMessage,Weet je zeker dat je alle toetscombinaties wilt terugzetten naar de standaardwaarden?,Message shown on key bindings panel when the user clicks the KeyBindingBox.ResetToDefault button
 KeyBindingBox.SecondaryBinding,Secundaire knop,Header of the secondary key bindings column in the key bindings panel
-KeyBindingGroup.Buildings,Buildings,"Label for the key binding group associated with building controls (pausing, changing priority etc)"
-KeyBindingGroup.Camera,Kamara,"Label for the key binding group associated with camera controls (camera movement, rotation, zoom etc)"
-KeyBindingGroup.MapEditor,Map editor,Label for the key binding group associated with map editor controls (mostly brush manipulation)
+KeyBindingGroup.Buildings,Gebouwen,"Label for the key binding group associated with building controls (pausing, changing priority etc)"
+KeyBindingGroup.Camera,Camera,"Label for the key binding group associated with camera controls (camera movement, rotation, zoom etc)"
+KeyBindingGroup.MapEditor,Kaart editor,Label for the key binding group associated with map editor controls (mostly brush manipulation)
 KeyBindingGroup.Objects,Object instellingen,"Label for the key binding group associated with object controls (rotating, removing, pausing etc)"
 KeyBindingGroup.SettlementPanel,Nederzetting paneel,Label for the key binding group associated with settlement panel controls (opening panel and its tabs)
 KeyBindingGroup.Time,Tijd,Label for the key binding group associated with time controls (changing time speed)
@@ -1182,7 +1182,7 @@ Modding.ModWarning.RequiredModInvalidVersion,"De vereiste mod ""{0}"" versie is 
 Modding.ModWarning.RequiredModNotEnabled,"Vereiste mod ""{0}"" is not ingeschakeld.",Message that is shown when a required mod is not enabled. {0} is the ID of the required mod.
 Modding.OpenDirectory,Mods bestandsmap openen,Label of a button that opens a file explorer with a directory with mods. Please keep short.
 Modding.ResetOrder,Laadvolgorde resetten,Label of a button that resets the order of mods.
-Modding.RestartWarning,Wijzigingen worden pas van kracht nadat je opnieuw opstart.,Message that is shown when the player has changed something in Mod Manager and need to restart the game for the changes to take effect.
+Modding.RestartWarning,"Om de wijzigingen toe te passen, start het spel opnieuw.",Message that is shown when the player has changed something in Mod Manager and need to restart the game for the changes to take effect.
 Modding.SavedMods,Save file mods,A label for the list of mods found in the save file.
 Modding.ShowSavedMods,Mods: {0},A label for the button that opens a panel with the list of mods found in the save file. {0} is a placeholder for the number of mods.
 Modding.ShowUploadPanel,Upload,Label of a button that opens the panel with list of mods that can be uploaded to some cloud platform.
@@ -1243,7 +1243,7 @@ NaturalResources.DiedFromTooMuchWater,Overleden door overstroming.,Shown when a 
 NaturalResources.Dried,Gestorven door uitdroging.,Shown for plants which died from lack of water. Please keep short.
 NaturalResources.GenericDied,Gestorven.,Refers to a plant.
 NaturalResources.Healthy,Het is bewaterd en gezond.,Shown when plant is healthy and has no problems with growth
-NaturalResources.Leftover,{0} (overblijfsel),{0} stands for NaturalResource.DisplayName. Leftover meaning plant that was cut but not yet collected.
+NaturalResources.Leftover,{0} (restanten),{0} stands for NaturalResource.DisplayName. Leftover meaning plant that was cut but not yet collected.
 NaturalResources.Mature,{0} (volwassen),{0} stands for NaturalResource.DisplayName. Fully grown plant.
 NaturalResources.Seedling,{0} (zaailing),{0} stands for NaturalResource.DisplayName. Not fully grown plant.
 NaturalResources.Visibility.Hide,Natuurlijke hulpbronnen verbergen,Tooltip for button hiding natural resources
@@ -1252,7 +1252,7 @@ Need.BadwaterContamination.DisplayName,Verontreiniging,Title of an effect that s
 Need.BeeSting.DisplayName,Bijensteek,Title of an effect that shows up when a beaver has been stung by a bee.
 Need.BrokenTeeth.DisplayName,Gebroken tand,Title of an effect that shows up when a beaver has broken its teeth
 Need.Energy.DisplayName,Energie,A need satisfied when a bot recharges.
-Need.Hunger.DeathMessage,aan hoger overleden.,Preceded by beaver name
+Need.Hunger.DeathMessage,is aan hoger overleden.,Preceded by beaver name
 Need.Hunger.DisplayName,Honger,Title of a beaver need related to its hunger
 Need.HammerAndSaw.DisplayName,Hamer en zaag,A passive need that is always active and provides bonus to woodworking and metalworking.
 Need.Injury.DisplayName,Verwonding,Title of an effect that shows up when a beaver has been injured
@@ -1261,7 +1261,7 @@ Need.Roof.DisplayName,Dak,"Same as Building.Roof2x2.DisplayName without the size
 Need.Shelter.DisplayName,Schuilplaats,A need that is fulfilled when a beaver has a house.
 Need.ShovelAndPan.DisplayName,Schep en pan,A passive need that is always active and provides bonus to farming and cooking.
 Need.Sleep.DisplayName,Slaap,A need satisfied when a beaver sleeps.
-Need.Thirst.DeathMessage,aan dorst overleden,Preceded by beaver name
+Need.Thirst.DeathMessage,is aan dorst overleden,Preceded by beaver name
 Need.Thirst.DisplayName,Dorst,A need satisfied by providing water.
 Need.WetFur.DisplayName,Natte vacht,An effect that occurs when a beaver enters water and is wet. It's a positive effect and it stays for a time after the beaver leaves water.
 NeedGroup.Aesthetics.DisplayName,Esthetiek,"Name of a need group where needs are satisfied by decorating your settlement, previously Need.Esthetics.DisplayName"
@@ -1352,7 +1352,7 @@ RecoveredGoodStack.FlavorDescription,Het blokkeerde toch al het zicht.,
 RecoveredGoodStack.Priority,Verzamel prioriteit:,Setting a priority for resources gathering work on a Rubble. Could be similar to Demolish.PriorityTitle
 Resources.EatableRaw,Kan rauw gegeten worden.,Shown on a tooltip of goods that can be eaten raw.
 Resources.GatheredBy,Verzamelt door:,"Header above list of buildings that can gather certain resource. Gathered is meant as general term, containing resource gathering of gatherers, farmers, lumberjacks, tappers."
-Ruins.ShuffleModel,Shuffle model,Shuffle as in Randomize.
+Ruins.ShuffleModel,Hoeveelheid afwisselen,Shuffle as in Randomize.
 Saving.DeleteSave,Save verwijderen,A button. Please keep short.
 Saving.DeleteSavePrompt,Weet je zeker dat je {0} wilt verwijderen?,{0} stands for save name
 Saving.DeleteSettlement,Nederzetting verwijderen,A button. Please keep short.
@@ -1361,9 +1361,8 @@ Saving.Error,Opslaan mislukt! Controleer of er geen ongeldige tekens in de naam 
 Saving.InvalidName,Ongeldige naam. Zorg ervoor dat er geen illegale tekens in de naam staan.,Error message shown after inputting a settlement name with illegal characters such > < ?.
 Saving.LoadGamePanelHeader,Spel laden,
 Saving.MissingMacOSPermissionsLocKey,Timberborn heeft toestemming nodig om opgeslagen spellen op je harde schijf op te slaan. Het spel zal nu sluiten en je privacy-instellingen openen waar je de benodigde toestemmingen kunt verlenen.,A message shown to players if they did not grant the necessary permissions on macOS.
-Saving.NameSettlement,Hoe wil je je nederzetting noemen?,A prompt in the box for naming your settlement after starting a new game.
-Saving.NonCompatibleSaveVersion,"Deze save is gemaakt voor een grote revisie en kan niet worden geladen.
-We proberen het verlies van save-compatibiliteit tot een minimum te beperken, maar omdat we reageren op jullie feedback en doorgaan met het ontwikkelen van de game, is dat niet altijd mogelijk.",
+Saving.NameSettlement,Wat is de naam van je nieuwe nederzetting?,A prompt in the box for naming your settlement after starting a new game.
+Saving.NonCompatibleSaveVersion,"Deze save is oud en werkt niet met de huidige versie van het spel.We proberen verlies van saves zo veel mogelijk te voorkomen, maar soms is dat onmogelijk. Wil je toch proberen het te laden?",
 Saving.SaveExists,"Bestand ""{0}"" bestaat al",{0} stands for save name
 Saving.SaveGamePanelHeader,Spel opslaan,
 Saving.Saves,Saves,One of the two headers in the load game panel. Shown above a list of saves assigned to a settlement.
@@ -1376,9 +1375,9 @@ Saving.TakenName,Een nederzetting met deze naam bestaat al.,Error message shown 
 Saving.Autosave,Automatisch opslaan,Name of the autosaved game
 Saving.CycleUnknown,Onbekende cyclus,"Text shown in old save games labels that don't have cycle information. ""Cycle"" should be the same as in Weather.CycleAndDayLong"
 Science.SciencePoints,Wetenschapspunten,The name of a resource which can be spent to unlock new technology
-SelectionTool.ClickOrHoldTip,Klik op een enkele tegel of houd de knop ingedrukt om een ​​gebied te selecteren.,
-Settings.Analytics.Header,Telemetrie,Header for the data collection/analytics consent section.
-Settings.Analytics.ConsentToggle,Telemetrie ingeschakeld,Selected when giving consent to data collection/analytics.
+SelectionTool.ClickOrHoldTip,"Selecteer een gebied door op een tegel te klikken, of sleep met je muis om een groter gebied te selecteren.",
+Settings.Analytics.Header,Data verzameling,Header for the data collection/analytics consent section.
+Settings.Analytics.ConsentToggle,Data verzameling ingeschakeld,Selected when giving consent to data collection/analytics.
 Settings.Analytics.DeleteData,Verzamelde informatie verwijderen,Selected when withdrawing consent to data collection/analytics.
 Settings.Analytics.DataDeleted,Verzamelde informatie verwijderd,Confirmation info that the collected data has been deleted.
 Settings.GameSaving.AutoSavingOn,Automatisch opslaan,
@@ -1472,7 +1471,7 @@ Status.Need.Biofuel.Short,Robot heeft geen brandstof meer,This shows up when a b
 Status.Need.BrokenTeeth,Gebroken tand.,This shows up when a beaver has broken teeth.
 Status.Need.BrokenTeeth.Short,Gebroken tand,This shows up when a beaver has broken teeth. Please keep short.
 Status.Need.Energy,Geen stroom meer.,This shows up when a bot runs out of energy.
-Status.Need.Energy.Short,Robot zit zonder brandstof,This shows up when a bot runs out of energy. Please keep short. Bot should be the same as Bot.PrefabName.
+Status.Need.Energy.Short,De robot heeft geen brandstof meer,This shows up when a bot runs out of energy. Please keep short. Bot should be the same as Bot.PrefabName.
 Status.Need.Hunger,Uithongeren.,This shows up when a beaver's hunger reaches critical levels. Please keep short.
 Status.Need.Injury,Gewond.,This shows up in the selected beaver's panel when it has an injury.
 Status.Need.Injury.Short,Bever is gewond,This shows up as an alert when a beaver has an injury. Please keep short.
@@ -1646,7 +1645,7 @@ Weather.Notification.BadtideApproaching,Slechtwatervloed nadert,Tooltip of weath
 Weather.Notification.BadtideInProgress,Slechtwatervloed bezig,Tooltip of weather panel shown when a badtide season is in progress. Badtide should be the same as Weather.Badtide.
 Weather.Notification.DroughtApproaching,Droogte nadert,Tooltip of weather panel shown when a drought season is approaching. Drought should be the same as Weather.Drought.
 Weather.Notification.DroughtInProgress,Droogte bezig,Tooltip of weather panel shown when a drought season is in progress. Drought should be the same as Weather.Drought.
-Weather.Notification.Mild,Mild weer,Tooltip of weather panel shown when a mild (temperate) season is in progress.
+Weather.Notification.Mild,Gematigd weer,Tooltip of weather panel shown when a mild (temperate) season is in progress.
 Weather.Temperate,Gematigd weer,
 Wellbeing.AverageWellbeing,Gemiddeld welzijn:,Please keep short. Well-being is how good the beavers feel in general. Could also be welfare or prosperity
 Wellbeing.DisplayName,Welzijn,How good the beavers feel. Could also be welfare or prosperity
@@ -1660,7 +1659,7 @@ WonderCompletion.Panel.Header,Gefeliciteerd!,Header of a panel that is shown whe
 WonderCompletion.Panel.Statistics,Statistieken:,Title of the statistics section in the wonder completion panel
 WonderCompletion.Statistic.BeaversBorn,Bevers geboren:,A text for flavor statistic that shows how many beavers have been born during the game.
 WonderCompletion.Statistic.BeaversExploded,Bevers ontploft:,A text for flavor statistic that shows how many beavers have died to a dynamite during the game.
-WonderCompletion.Statistic.BotsManufactured,Robots vervaardigd:,A text for flavor statistic that shows how many bots have been created during the game.
+WonderCompletion.Statistic.BotsManufactured,Robots gemaakt:,A text for flavor statistic that shows how many bots have been created during the game.
 WonderCompletion.Statistic.BrokenTeeth,Gebroken tanden:,A text for flavor statistic that shows how many times a beaver has broken a tooth during the game.
 WonderCompletion.Statistic.DaysPassed,Dagen verstreken:,A text for statistic that shows how many days have passed until wonder was built.
 WonderCompletion.Statistic.DynamiteDetonated,Ontploft dynamiet:,A text for flavor statistic that shows how many times dynamite has been detonated during the game.
@@ -1669,7 +1668,7 @@ WonderCompletion.Statistic.TreesCut,Bomen gekapt:,A text for flavor statistic th
 WonderCompletion.Statistic.WaterConsumed,Water geconsumeerd:,A text for flavor statistic that shows how many units of water have been consumed during the game.
 WonderCompletion.WonderCompleted,Wonder voltooid: {0},"Text that is shown when the player has built and activated a Wonder. {0} is the name of the faction that the player performed this with. """"Wonder"""" should be the same as Buildings.Wonder."
 Work.BeaverOnly,<SolidHighlight>Alleen bevers:</SolidHighlight> Alleen bevers mogen hier werken.,Shown on a tooltip at workplaces where only beavers can work in
-Work.Bonus.BonusDescription,Werknemers bons: {0},For example 'Worker bonus: Strength +30%'. Used in building description if a building grants a bonus to its workers.
+Work.Bonus.BonusDescription,Werknemers bonus: {0},For example 'Worker bonus: Strength +30%'. Used in building description if a building grants a bonus to its workers.
 Work.Bonus.PenaltyDescription,Werknemers straf: {0},For example 'Worker penalty: Strength -20%'. Used in building description if a building grants a penalty to its workers.
 Work.BotOnly,<SolidHighlight>Alleen robots:</SolidHighlight> Alleen robots mogen hier werken.,Shown on a tooltip at workplaces where only bots can work in. Bots should be the same as Bot.PluralDisplayName.
 Work.CurrentWorkers,Werknemers: {0} / {1},Please keep short. {0} stands for the desired number of workers. {1} stands for max number of workers that can work in building.

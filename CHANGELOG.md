@@ -1,6 +1,30 @@
 # Changelog
 
-_Changelog created using the [Simple Changelog](https://marketplace.visualstudio.com/items?itemName=tobiaswaelde.vscode-simple-changelog) extension for VS Code._
+## [0.1.2] - 2024-10-14
+
+### Added
+
+- Vscode
+  - Code snippet for csv files
+- Nieuwe mods:
+  - [KnatteAnka.damdecoration](Data/Localizations/Plugins/KnatteAnka.damdecoration)
+  - [KnatteAnka.frogstatue](Data/Localizations/Plugins/KnatteAnka.frogstatue)
+  - [KnatteAnka.waterextention](Data/Localizations/Plugins/KnatteAnka.waterextention)
+  - [Lapantouflemagic.Logstairs](Data/Localizations/Plugins/Lapantouflemagic.Logstairs)
+  - [tobbert.pipettetool](Data/Localizations/Plugins/tobbert.pipettetool)
+
+### Changed
+
+- [README.md](README.md)
+  - Mod makers sectie vertaald naar het engles
+- Vertalingen:
+  - Vertalingen verbeterd
+  - Fouten weggehaald
+- Mods:
+  - [Timberborn.IgorZ.Automation](Data/Localizations/Plugins/Timberborn.IgorZ.Automation)
+    - `... beverbevolking ...` -> `... bever bevolking ...`
+- Github:
+  - Reden toegevoegd aan issue form `remove-translations`
 
 ## [0.1.1] - 2024-10-09
 
@@ -15,9 +39,9 @@ _Changelog created using the [Simple Changelog](https://marketplace.visualstudio
 
 ### Changed
 
-- MapMetadata.Diorama.Description: `... grote kolonies, krijgen ...` -> `... grote nederzettingen, krijgen ...`
-- MapMetadata.ThousandIslands.Description: `... industriële kolonie.` -> `... industriële nederzetting.`
-- Tutorial.Stage.PlaceLumberjacks: `... een beverkolonie.\nElke ...` -> `... een bever nederzetting.\nElke ...`
+- `MapMetadata.Diorama.Description`: `... grote kolonies, krijgen ...` -> `... grote nederzettingen, krijgen ...`
+- `MapMetadata.ThousandIslands.Description`: `... industriële kolonie.` -> `... industriële nederzetting.`
+- `Tutorial.Stage.PlaceLumberjacks`: `... een beverkolonie.\nElke ...` -> `... een bever nederzetting.\nElke ...`
 
 ## [0.1.0] - 2024-09-26
 

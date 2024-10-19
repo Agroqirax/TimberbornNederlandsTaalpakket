@@ -4,7 +4,7 @@ contact_links:
     url: https://github.com/Agroqirax/TimberbornNederlandsTaalpakket/issues/new?template=translations-issue.yml
     about: "Meld een verkeerde vertaling"
   - name: Vertaal mijn mod niet
-    url: https://github.com/Agroqirax/TimberbornNederlandsTaalpakket/issues/new?template=do-not-translate.yml
+    url: https://github.com/Agroqirax/TimberbornNederlandsTaalpakket/issues/new?template=remove-translations.yml
     about: "Verzoek om bepaalde mod niet te vertalen indienen"
   - name: Vertaal deze mod
     url: https://github.com/Agroqirax/TimberbornNederlandsTaalpakket/issues/new?template=new-translations.yml

@@ -21,6 +21,14 @@ body:
     validations:
       required: true
 
+  - type: dropdown
+    id: reason
+    attributes:
+      label: "Reden"
+      options:
+        - Ik wil niet dat mijn mod vertaald wordt
+        - Ik heb nederlandse vertelingen aan mijn mod zelf toegevoegd
+
   - type: textarea
     id: additional_notes
     attributes:

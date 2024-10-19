@@ -1,0 +1,10 @@
+// in file 'Code/User/snippets/javascript.json'
+{
+  "Timberborn language csv header": {
+    "prefix": ["header"],
+    "body": ["ID,Text,Comment\n,,"],
+    "description": "Header for timberborn language files.",
+    "scope": "csv",
+    "isFileTemplate": true
+  }
+}

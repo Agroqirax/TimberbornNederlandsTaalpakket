@@ -3,6 +3,6 @@
   "Name": "Nederlands taalpakket",
   "Visibility": "Public",
   "UpdateDescription": true,
-  "UpdateVisibility": true,
-  "UpdatePreview": true
+  "UpdateVisibility": false,
+  "UpdatePreview": false
 }
