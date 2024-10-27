@@ -1,5 +1,19 @@
 # Changelog
 
+_Changelog created using the [Simple Changelog](https://marketplace.visualstudio.com/items?itemName=tobiaswaelde.vscode-simple-changelog) extension for VS Code._
+
+## [0.1.3] - 2024-10-27
+
+### Added
+
+- Nieuwe mods:
+  - [battery.DirtyMouths](Data/Localizations/Plugins/battery.DirtyMouths)
+  - [GreedyBuilders](Data/Localizations/Plugins/GreedyBuilders)
+
+### Changed
+
+- Ondersteunde mods aan `OptionalMods` toegevoegd
+
 ## [0.1.2] - 2024-10-14
 
 ### Added

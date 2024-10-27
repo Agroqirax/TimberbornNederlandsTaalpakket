@@ -1236,7 +1236,7 @@ NaturalResource.Sunflower.FlavorDescription,Bevers kweken deze om te laten zien 
 NaturalResource.Wheat.DisplayName,Graan,Plant Triticum aestivum
 NaturalResource.Wheat.FlavorDescription,"""Je vergeet de zon aan de wolkenloze hemel terwijl we door gouden velden lopen."" —Beaver ballad","Adapted from ""Fields of Gold"" by Sting."
 NaturalResources.Aquatic,<SolidHighlight>Aquatisch</SolidHighlight>:Deze plant moet gedeeltelijk onder water staan.,Aquatic is a keyword. Shown after selecting an aquatic plant. Examples of aquatic plants include spadderdock or water lilies.
-NaturalResources.DaysToDie,Gaat in {0} dagen dood,"Shown when natural resource is dying (from any reason), {0} stands for number of days left to die"
+NaturalResources.DaysToDie,Gaat over {0} dagen dood,"Shown when natural resource is dying (from any reason), {0} stands for number of days left to die"
 NaturalResources.DiedFromContamination,Overleden door verontreiniging.,Shown when a plant died after being contaminated for too long. Ideally all uses of the word contaminate/contamination/contaminated should be uniform across the project. Please keep short.
 NaturalResources.DiedFromNotEnoughWater,Overleden omdat het niet onder water was.,Shown when a water plant died after not being submerged in water for too long. Please keep short.
 NaturalResources.DiedFromTooMuchWater,Overleden door overstroming.,Shown when a plant died after it had been submerged in water for too long. Please keep short.

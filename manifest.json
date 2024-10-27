@@ -1,9 +1,121 @@
 {
   "Name": "Nederlands taalpakket",
-  "Version": "0.1.2",
+  "Version": "0.1.3",
   "Id": "Agroqirax.Languages.Dutch",
   "MinimumGameVersion": "0.0.0.0",
-  "Description": "Nederlandse vertalingen voor het spel en een aantal populaire mods.\nVind de mod op:\n[Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3345327949), [Mod.io](https://mod.io/g/timberborn/m/nederlands-taalpakket) & [Github](https://github.com/Agroqirax/TimberbornNederlandsTaalpakket)\n\nOndersteunde mods:\n- Agroqirax.Timberbits\n- AquaCadre\n- Battery.Flywheels\n- beaverbuddies\n- Cordial.BoosterJuice\n- Cordial.ForrestTool\n- Cordial.Mods.CutterTool\n- Cordial.Mods.PlantingOverride\n- eMka.GoodStatistics\n- eMka.ModSettings\n- hytone.rotatingsun\n- Hytone.SimpleFloodgateTriggers\n- KnatteAnka.damdecoration\n- KnatteAnka.frogstatue\n- KnatteAnka.Path_extention\n- KnatteAnka.Staircase\n- KnatteAnka.waterextention\n- Lapantouflemagic.1x1x2Storage\n- Lapantouflemagic.Logstairs\n- ModManager\n- MoreBombs\n- Nerro.HalfRoofs\n- Nerro.UTurnStairs\n- scja.stingantidote\n- Timberborn.IgorZ.Automation\n- Timberborn.IgorZ.TimberCommons\n- Timberborn.OldGopher.Pipe\n- Tobbert.ChooChoo\n- Tobbert.DutchWindmill\n- Tobbert.FerrisWheel\n- Tobbert.Ladder\n- Tobbert.MorePlatforms\n- tobbert.pipettetool\n- Tobbert.VerticalPowerShaft\n\nAls je deze vertalingen aan je eigen mods wilt toevoegen mag dat \n\nMeer info op [github](https://github.com/Agroqirax/TimberbornNederlandsTaalpakket)",
+  "Description": "Nederlandse vertalingen voor het spel en een aantal populaire mods.\nVind de mod op:[list][*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3345327949]Steam[/url][*][url=https://mod.io/g/timberborn/m/nederlands-taalpakket]Mod.io[/url][*][url=https://github.com/Agroqirax/TimberbornNederlandsTaalpakket]Github[/url][/list][h1]Ondersteunde mods:[/h1][list][*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3319416025]Agroqirax.Timberbits[/url] (v0.2.1)[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3316292521]AquaCadre[/url] (v0.6.5.02)[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3285106530]battery.DirtyMouths[/url] (v2.0.5)[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3322428023]Battery.Flywheels[/url] (v2.0.3.2)[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3293380223]beaverbuddies[/url] (v1.2.6)[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3321838014]Cordial.BoosterJuice[/url] (v0.0.2.0)[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3336999108]Cordial.ForrestTool[/url] (v0.0.1.3)[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3334584916]Cordial.Mods.CutterTool[/url] (v0.0.1.3)[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3343029129]Cordial.Mods.PlantingOverride[/url] (v0.0.2.0)[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3321521358]eMka.GoodStatistics[/url] (v0.6.5.1)[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3283831040]eMka.ModSettings[/url] (v0.6.8.0)[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3283819933]GreedyBuilders[/url] (v0.6.5.04)[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3343320334]hytone.rotatingsun[/url] (v6.0.2)[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3341210959]Hytone.SimpleFloodgateTriggers[/url] (v5.0.2)[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3296543474]KnatteAnka.damdecoration[/url] (v3.0.8)[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3279640818]KnatteAnka.frogstatue[/url] (v2.0.5)[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3282276626]KnatteAnka.Path_extention[/url] (v2.0.11)[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3277416566]KnatteAnka.Staircase[/url] (v2.1.9)[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3285720709]KnatteAnka.waterextention[/url] (v2.2.2)[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3281653061]Lapantouflemagic.1x1x2Storage[/url] (v2.3.5)[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3281774771]Lapantouflemagic.Logstairs[/url] (v2.1.1)[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3286370025]ModManager[/url] (v3.0.3)[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3313990688]MoreBombs[/url] (v0.6.5.01)[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3345158183]Nerro.HalfRoofs[/url] (v0.1)[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3344104932]Nerro.UTurnStairs[/url] (v0.1)[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3294983713]scja.stingantidote[/url] (v1.0.3)[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3297796618]Timberborn.Editor.ExtendedTerrainTools[/url] (v0.9.1)[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3324234282]Timberborn.IgorZ.Automation[/url] (v1.2.3)[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3337906807]Timberborn.IgorZ.TimberCommons[/url] (v1.10.2)[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3345266573]Timberborn.OldGopher.Pipe[/url] (v1.3.0.0)[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3346279334]Tobbert.ChooChoo[/url] (v0.10.1)[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3341274783]Tobbert.DutchWindmill[/url] (v2.0.1)[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3331500753]Tobbert.FerrisWheel[/url] (v2.0.1)[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3286476486]Tobbert.Ladder[/url] (v2.1.2)[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3341374073]Tobbert.MorePlatforms[/url] (v2.0.2)[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3287407048]tobbert.pipettetool[/url] (v2.0.3)[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3287769244]Tobbert.VerticalPowerShaft[/url] (v2.0.3)[/list]\nMeer info op [url=https://github.com/Agroqirax/TimberbornNederlandsTaalpakket]github[/url].",
   "RequiredMods": [],
-  "OptionalMods": []
+  "OptionalMods": [
+    {
+      "Id": "Agroqirax.Timberbits"
+    },
+    {
+      "Id": "AquaCadre"
+    },
+    {
+      "Id": "battery.DirtyMouths"
+    },
+    {
+      "Id": "Battery.Flywheels"
+    },
+    {
+      "Id": "beaverbuddies"
+    },
+    {
+      "Id": "Cordial.BoosterJuice"
+    },
+    {
+      "Id": "Cordial.ForestTool"
+    },
+    {
+      "Id": "Cordial.Mods.CutterTool"
+    },
+    {
+      "Id": "Cordial.Mods.PlantingOverride"
+    },
+    {
+      "Id": "eMka.GoodsStatistics"
+    },
+    {
+      "Id": "eMka.ModSettings"
+    },
+    {
+      "Id": "GreedyBuilders"
+    },
+    {
+      "Id": "hytone.rotatingsun"
+    },
+    {
+      "Id": "Hytone.SimpleFloodgateTriggers"
+    },
+    {
+      "Id": "KnatteAnka.damdecoration"
+    },
+    {
+      "Id": "KnatteAnka.frogstatue"
+    },
+    {
+      "Id": "KnatteAnka.Path_extention"
+    },
+    {
+      "Id": "KnatteAnka.Staircase"
+    },
+    {
+      "Id": "KnatteAnka.waterextention"
+    },
+    {
+      "Id": "Lapantouflemagic.1x1x2Storage"
+    },
+    {
+      "Id": "Lapantouflemagic.Logstairs"
+    },
+    {
+      "Id": "ModManager"
+    },
+    {
+      "Id": "MoreBombs"
+    },
+    {
+      "Id": "Nerro.HalfRoofs"
+    },
+    {
+      "Id": "Nerro.UTurnStairs"
+    },
+    {
+      "Id": "scja.stingantidote"
+    },
+    {
+      "Id": "Timberborn.Editor.ExtendedTerrainTools"
+    },
+    {
+      "Id": "Timberborn.IgorZ.Automation"
+    },
+    {
+      "Id": "Timberborn.IgorZ.TimberCommons"
+    },
+    {
+      "Id": "Timberborn.OldGopher.Pipe"
+    },
+    {
+      "Id": "Tobbert.ChooChoo"
+    },
+    {
+      "Id": "Tobbert.DutchWindmill"
+    },
+    {
+      "Id": "Tobbert.FerrisWheel"
+    },
+    {
+      "Id": "Tobbert.Ladder"
+    },
+    {
+      "Id": "Tobbert.MorePlatforms"
+    },
+    {
+      "Id": "tobbert.pipettetool"
+    },
+    {
+      "Id": "Tobbert.VerticalPowerShaft"
+    }
+  ]
 }
