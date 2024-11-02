@@ -1,5 +1,10 @@
 {
   "files.exclude": {
     "**/*.meta": true
+  },
+  "simpleChangelog.attribution.visibility": "none",
+  "simpleChangelog.searchExcludeRegex": "/CHANGELOG.md.meta/",
+  "files.associations": {
+    "*.json": "jsonl"
   }
 }

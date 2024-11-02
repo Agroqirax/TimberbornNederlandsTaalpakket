@@ -689,7 +689,7 @@ Dwellings.OccupiedBeds,Bezette bedden,Label before number of occupied beds
 Emptying.Empty,Opslag legen,A command for beavers to empty this storage.
 Enterable.DistanceToDistrict,Afstand naar District Centrum: {0},{0} stands for distance to District Center. District Center must be the same as Building.DistrictCenter.DisplayName
 Enterable.DistanceToDistrictLarge,Overweeg om uw paden te optimaliseren of het district op te splitsen in kleinere districten.,
-EntityPanel.ChangeName,Enter a new name:,Shown when renaming a beaver or a district
+EntityPanel.ChangeName,Voer een nieuwe naam in:,Shown when renaming a beaver or a district
 EntityPanel.Hide,Beschrijving verbergen,Tooltip for a button which hides description
 EntityPanel.Show,Beschrijving tonen,Tooltip for a button which shows description
 Experimental.Header,<RedHighlight>Informatie over de experimentele modus.</RedHighlight>,Welcome text that is shown to players of the experimental versions of the game
