@@ -1,15 +1,19 @@
 ID,Text,Comment
-Lapantouflemagic.logstairs.DisplayName,Bruine boomstam trap,-
-Lapantouflemagic.Birchlogstairs.DisplayName,Berk boomstam trap,-
-Lapantouflemagic.Scramblelogstairs.DisplayName,Gemixte boomstam trap,-
-Lapantouflemagic.logstairs.Description,Een stel boomstammen gerangschikt in primitieve trappen,-
-Lapantouflemagic.logstairs.FlavorDescription,"""En <i>dat</i> is waarom we onderwijs nodig hebben"" 
-—Een wetenschapper",-
+Lapantouflemagic.logstairs.DisplayName,Bruine boomstamtrappen,-
+Lapantouflemagic.Birchlogstairs.DisplayName,Berkenhouten trap,-
+Lapantouflemagic.Pinklogstairs.DisplayName,Everblossom Stam-trappen,-
+Lapantouflemagic.Scramblelogstairs.DisplayName,Beklommen boomstam trappen,-
+Lapantouflemagic.logstairs.Description,"Een stel boomstammen gerangschikt in primitieve trappen
+<color=green>Meer varianten beschikbaar met de ""Meer groepen"" mod </color>",-
+Lapantouflemagic.logstairs.FlavorDescription,"""En <i>daarom</i> hebben we onderwijs nodig"" 
+—Een wetenschapper bever",-
 Lapantouflemagic.Crappyplatform_brown.DisplayName,Bruin slecht platform,-
-Lapantouflemagic.Crappyplatform_birch.DisplayName,Berk slecht platform,-
-Lapantouflemagic.Crappyplatform_scramble.DisplayName,"Gemixt, slecht platform",-
-Lapantouflemagic.Crappyplatform.Description,Een zielig excuus voor een platform dat een schande is voor de beversoort,-
-Lapantouflemagic.Crappyplatform.FlavorDescription,"""En <i>dat</i> is waarom we onderwijs nodig hebben"" 
-—Een wetenschapper",-
-Logstairs.Logstairsgroup.Description,Boomstam Trappen,-
+Lapantouflemagic.Crappyplatform_birch.DisplayName,Berken slecht platform,-
+Lapantouflemagic.Crappyplatform_Pink.DisplayName,Everblossom Slecht Platform,-
+Lapantouflemagic.Crappyplatform_scramble.DisplayName,Gemixte slechte platform,-
+Lapantouflemagic.Crappyplatform.Description,"Een zielig excuus van een platform, een schande voor de beversoort.
+<color=green>Meer varianten beschikbaar met de ""Meer groepen"" mod </color>",-
+Lapantouflemagic.Crappyplatform.FlavorDescription,"""En <i>daarom</i> hebben we onderwijs nodig"" 
+—Een wetenschapper bever",-
+Logstairs.Logstairsgroup.Description,Houten trappen,-
 Logstairs.Crappyplatforms.Description,Slechte platforms,-

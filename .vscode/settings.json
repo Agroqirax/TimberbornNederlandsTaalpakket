@@ -5,6 +5,7 @@
   "simpleChangelog.attribution.visibility": "none",
   "simpleChangelog.searchExcludeRegex": "/CHANGELOG.md.meta/",
   "files.associations": {
-    "*.json": "jsonl"
-  }
+    "manifest.json": "jsonl"
+  },
+  "google-translate.firstLanguage": "nl"
 }

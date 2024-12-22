@@ -1,0 +1,6 @@
+ID,Text,Comment
+Cordial.DeleteThatThing.DisplayName,Verwijder dat ding,-
+Cordial.DeleteThatThing.Description,Met deze tool kun je alle geselecteerde objecten van hetzelfde type verwijderen,-
+Cordial.DeleteThatThing.Prompt.Abort,Niet alle geselecteerde objecten konden worden verwijderd. Er is waarschijnlijk iets bovenop geplaatst.,-
+Cordial.DeleteThatThing.Prompt.Stump,Er is een boomstronk geselecteerd. Dit markeert alleen stronken voor sloop. Wil je doorgaan?,-
+Cordial.DeleteThatThing.Prompt.DeadTree,Er is een dode boom geselecteerd. Dit markeert alleen dode bomen voor sloop. Wil je doorgaan?,-

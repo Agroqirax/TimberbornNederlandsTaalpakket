@@ -1,0 +1,12 @@
+ID,Text,Comment
+kulesz.FPPCamera.KeyBinding.Jump,Springen,
+kulesz.FPPCamera.KeyBinding.MoveBackward,Naar achteren,
+kulesz.FPPCamera.KeyBinding.MoveForward,Naar voren,
+kulesz.FPPCamera.KeyBinding.MoveLeft,Naar links,
+kulesz.FPPCamera.KeyBinding.MoveRight,Naar rechts,
+kulesz.FPPCamera.KeyBinding.Run,Ren,
+kulesz.FPPCamera.KeyBindingGroup,FPP Camera,
+kulesz.FPPCamera.Settings.CameraSway,Camera Sway,
+kulesz.FPPCamera.Settings.FOV,Gezichtsveld,
+kulesz.FPPCamera.Settings.HorizontalSensitivity,Horizontale gevoeligheid,
+kulesz.FPPCamera.Settings.VerticalSensitivity,Verticale gevoeligheid,

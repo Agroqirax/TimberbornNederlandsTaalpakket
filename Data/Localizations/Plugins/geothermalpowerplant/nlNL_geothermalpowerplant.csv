@@ -1,0 +1,12 @@
+ID,Text,Comment
+minorunara.Manufactory.Recipe.SteamCooling,Stoomkoeling,
+minorunara.GeothermalPowerPlant.GeothermalPowerPlant.DisplayName,Hete droge rots geothermische turbine,
+minorunara.GeothermalPowerPlant.GeothermalPowerPlant.Description,"Water wordt diep onder de grond in heet gesteente geïnjecteerd en de gegenereerde stoom produceert energie. Verbruikt grote hoeveelheden water. Let op: Er kan niets bovenop worden gebouwd, behalve een koeltoren.",
+minorunara.GeothermalPowerPlant.GeothermalPowerPlant.FlavorDescription,"Waarom mensen de afgrond hebben gecreëerd is niet bekend, maar er zijn wel hete rotsen.",
+minorunara.GeothermalPowerPlant.CoolingTower.DisplayName,Koeltoren,
+minorunara.GeothermalPowerPlant.CoolingTower.Description,De stoom van een geothermische energiecentrale wordt gekoeld door lucht en er wordt wat water gewonnen. Verbruik metaal omdat de warmtewisselaar roest. Gevaar voor ernstige brandwonden door het hanteren van kokend water. Let op: Kan alleen worden gebouwd op een Hot Dry Rock Geothermal Turbine. Tip: de waterwinningssnelheid van koeltorens wordt beïnvloed door de werksnelheid.,
+minorunara.GeothermalPowerPlant.CoolingTower.FlavorDescription,Bevers in andere districten denken vaak ten onrechte dat koeltorens water verdampen. Maar hun werkelijke functie is om water te verzamelen.,
+minorunara.GeothermalPowerPlant.Need.RadiationExposure.DeathMessage,{0} stierf door acuut stralingssyndroom., - unused
+minorunara.GeothermalPowerPlant.Need.RadiationExposure.Critical,DNA beschadigd., - unused
+minorunara.GeothermalPowerPlant.RadiationExposure.DisplaynameLocKey,Blootstelling aan straling, - unused
+minorunara.GeothermalPowerPlant.RadiationExposure.CriticalDescription,DNA-schade, - unused

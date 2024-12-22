@@ -58,7 +58,7 @@ Nu zijn ze nog maar een vage herinnering.","Text for a game over state, when all
 Bot.Created,{0} werd gemaakt!,{0} stands for bot name. Notification that shows when production of a new bot finishes.
 Bot.DeadNameSuffix,(vernietigd),Preceded by bot name and age
 Bot.DeathMessage,{0} is stukgegaan.,{0} stands for bot name. Notification that shows when a bot breaks down completely (it's destroyed)
-Bot.DisplayName.Folktails,Timmerbot {0},{0} stands for a bot serial number. Name of bots from the Folktails faction. Named after the fact they are visibly made from wood.
+Bot.DisplayName.Folktails,Houtbot {0},{0} stands for a bot serial number. Name of bots from the Folktails faction. Named after the fact they are visibly made from wood.
 Bot.DisplayName.IronTeeth,IJzerbot {0},{0} stands for a bot serial number. Name of bots from the Iron Teeth faction. Named after the fact they are visibly made from metal.
 Bot.Durability,Duurzaamheid,Label before a progress bar showing amount of durability left
 Bot.PluralDisplayName,Robots,"Bots are autonomous robots, who assist beavers in their everyday tasks. They are constructed in factories."
@@ -202,8 +202,8 @@ Building.DistrictCrossing.FlavorDescription,Waarom stak een bever een district o
 Building.DoubleDynamite.DisplayName,Dubbele Dynamiet,Dynamite that makes 2 blocks deep hole
 Building.DoubleFloodgate.DisplayName,Dubbele Sluisdeur,
 Building.DoubleFloodgate.FlavorDescription,Hoe verbeter je perfectie? Je maakt het groter.,
-Building.DoubleLodge.Description,Een grotere lodge waar meer bevers in passen.,
-Building.DoubleLodge.DisplayName,Dubbele Lodge,This lodge fits twice as many beavers
+Building.DoubleLodge.Description,Een grotere hut waar meer bevers in passen.,
+Building.DoubleLodge.DisplayName,Dubbele Hut,This lodge fits twice as many beavers
 Building.DoubleLodge.FlavorDescription,"Hoe meer zielen, hoe meer vreugd.",This lodge fits twice as many beavers as a standard one
 Building.DoublePlatform.DisplayName,Dubbele Platform,Double meaning twice as tall.
 Building.DoublePlatform.FlavorDescription,"Dubbele hoogte, dezelfde kenmerkende stevigheid.",
@@ -345,7 +345,7 @@ Building.Lido.Description,Een ideale plek om te ontspannen aan de rivier.,
 Building.Lido.DisplayName,Zwembad,Lido as in a swimming pool. Built on a river bank and used to relax. Includes a swimming area and a small land area with a few lawn chairs.
 Building.Lido.FlavorDescription,"Om de eerste zwempartij van hun jongen te vieren, organiseren bevers een zwembadfeestje.",Kits are young beavers.
 Building.Lodge.Description,Een plek om te overnachten.,
-Building.Lodge.DisplayName,Lodge,Type of housing; named after the beaver lodges
+Building.Lodge.DisplayName,Hut,Type of housing; named after the beaver lodges
 Building.Lodge.FlavorDescription,"""Vroeger was een loge gewoon dat, een loge. En nu? Daar weet ik niets van."" —Oma Ngonel",
 Building.LogFence.Description,Een decoratief hekwerk van boomstammen.,
 Building.LogFence.DisplayName,Houten Schutting,
@@ -380,7 +380,7 @@ Building.Mine.Description,Heeft mijnwerkers in dienst die schroot uit ondergrond
 Building.Mine.DisplayName,Mijn,An extracting facility which can be placed on underground ruins.
 Building.Mine.FlavorDescription,Er bestaat niet zoiets als te gretig en te diep graven.,"The mine provides an endless supply of scrap metal. Reference to 'they delved too greedily and too deep, and disturbed that from which they fled, Durin's Bane' from LOTR"
 Building.MiniLodge.Description,Een klein huisje waar één bever in past.,
-Building.MiniLodge.DisplayName,Mini Lodge,A small lodge for only one beaver
+Building.MiniLodge.DisplayName,Mini Hut,A small lodge for only one beaver
 Building.MiniLodge.FlavorDescription,Eén is ook goed.,Referencing 'Two Beavers Are Better Than One' meme-song from 'How I Met Your Mother' TV show.
 Building.Motivatorium.Description,Een mechanisch theater dat bevers de kernwaarden van Ijzertanden bijbrengt.,Iron Teeth must be the same as Faction.IronTeeth.DisplayName.
 Building.Motivatorium.DisplayName,Motivatieruimte,
@@ -539,7 +539,7 @@ Building.TripleDynamite.DisplayName,Driedubbele Dynamiet,Dynamite that makes 3 b
 Building.TripleFloodgate.DisplayName,Driedubbele Sluisdeur,
 Building.TripleFloodgate.FlavorDescription,"Als het waterpeil hoger wordt, wordt het te zwaar om vast te houden.",
 Building.TripleLodge.Description,Huisvest veel bevers.,Houses thrice the amounts of beavers as normal lodge
-Building.TripleLodge.DisplayName,Driedubbele Lodge,
+Building.TripleLodge.DisplayName,Driedubbele Hut,
 Building.TripleLodge.FlavorDescription,"""Ga heen en vermenigvuldig u"" is een gezegde dat Folktails serieus nemen.",Go Forth and multiply is a biblical quote.
 Building.TriplePlatform.DisplayName,Driedubbel Platform,Triple as triple the height of a normal platform
 Building.TriplePlatform.FlavorDescription,Het knagen aan palen is ten strengste verboden!,
@@ -622,7 +622,7 @@ ConstructionSites.Info.WaitingForMaterials,(op goederen aan het wachten),Awaitin
 Core.BrowseDirectory,Door bestanden bladeren ►,Opens file browser to either save folder or map folder. Please keep the arrow.
 Core.Cancel,Annuleren,A button please keep short
 Core.EmptyList,Hier is nog niets,A text shown in a list that does not contain any elements.
-Core.GameTip,"Tip: Als een gebouw als <SolidHighlight>Stevig</SolidHighlight> gemarkeerd is, zoals een Lodge of een Pakhuis, kun je andere gebouwen er bovenop bouwen.",Tip that shows up while the game is loading. Solid is a keyword.
+Core.GameTip,"Tip: Als een gebouw als <SolidHighlight>Stevig</SolidHighlight> gemarkeerd is, zoals een Hut of een Pakhuis, kun je andere gebouwen er bovenop bouwen.",Tip that shows up while the game is loading. Solid is a keyword.
 Core.Load,Laad,A button please keep short
 Core.Loading,LADEN,Used in loading screen during loading
 Core.NavigationNext,Volgende,Used in forms to navigate to the next step.
@@ -1087,7 +1087,7 @@ MapMetadata.Canyon.Description,In de woestijn zoeken bevers altijd valleien op w
 MapMetadata.Canyon.Name,Canyon,
 MapMetadata.Cliffside.Description,Restanten van oude menselijke architectuur liggen verspreid over deze afgelegen vallei. De bevers streven ernaar om een soortgelijk stempel op de wereld te drukken.,
 MapMetadata.Cliffside.Name,Klifzijde,
-MapMetadata.Craters.Description,Niemand weet hoe de kraters zijn ontstaan. Voorlopige opgravingen suggereren dat hoomans er gewelddadig bij betrokken waren.,
+MapMetadata.Craters.Description,Niemand weet hoe de kraters zijn ontstaan. Voorlopige opgravingen suggereren dat mensjen er gewelddadig bij betrokken waren.,
 MapMetadata.Craters.Name,Kraters,
 MapMetadata.Diorama.Description,"Voordat ze toezicht mogen houden op grote nederzettingen, krijgen beginnende bouwers de taak om kleinschalige projecten zoals deze uit te voeren.",
 MapMetadata.Diorama.Name,Diorama,
@@ -1601,7 +1601,7 @@ Bouw extra voorraden voor boomstammen en Water. Elk opslaggebouw kan slechts é�
 Tutorial.Stage.ExpandStorage,Nu het water en de boomstammen een opslagplek hebben moet je hetzelfde doen voor de bessen en de aankomende worteloogst.,"water is same as Good.Water.DisplayName, logs is same as Good.Log.PluralDisplayName"
 Tutorial.Stage.Lodges,"Huizen verhogen het welzijn van uw bevers en zorgen ervoor dat uw Folktails populatie groeit.
 
-Bouw genoeg lodges om al uw bevers te huisvesten.
+Bouw genoeg hutten om al uw bevers te huisvesten.
 
 Bevers zullen zich niet voortplanten tenzij er lege plekken zijn voor jongen.",Lodge is a name of a building.
 Tutorial.Stage.Inventor,Wetenschapspunten worden gebruikt om geavanceerdere gebouwen te ontgrendelen. Een Uitvinder zal na verloop van tijd Wetenschapspunten produceren.,Inventor is the name of a building. Science Points must be the same as Science.SciencePoints.

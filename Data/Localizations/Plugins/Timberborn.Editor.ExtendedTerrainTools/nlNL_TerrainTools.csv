@@ -1,0 +1,7 @@
+ID,Text,Comment
+TerrainTools.ToolGroupButton,Extra Terreingereedschappen,
+TerrainTools.Keybinding.Undo,Terreingereedschappen - Ongedaan maken,
+TerrainTools.Keybinding.FastUndo,Terreingereedschappen - 5 x Ongedaan maken,
+TerrainTools.Keybinding.Redo,Terreingereedschappen - Opnieuw doen,
+TerrainTools.Keybinding.FastRedo,Terreingereedschappen - 5 x Opnieuw doen,
+TerrainTools.Keybinding.CycleMode,Terreingereedschappen - Modus wisselen

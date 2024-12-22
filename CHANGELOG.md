@@ -1,5 +1,44 @@
 # Changelog
 
+## [0.1.5] - 2024-11-07
+
+### Added
+
+#### Mods
+
+- [alin.bench](Data/Localizations/Plugins/alin.bench)
+- [Battery.PowerShaftExtensions](Data/Localizations/Plugins/Battery.PowerShaftExtensions)
+- [Bentos](Data/Localizations/Plugins/Bentos)
+- [BotKits](Data/Localizations/Plugins/BotKits)
+- [Cordial.Mods.DeleteThatThing](Data/Localizations/Plugins/Cordial.Mods.DeleteThatThing)
+- [Emberpelts.ProjectPhoenix](Data/Localizations/Plugins/Emberpelts.ProjectPhoenix)
+- [eMka.Minimap](Data/Localizations/Plugins/eMka.Minimap)
+- [geothermalpowerplany](Data/Localizations/Plugins/geothermalpowerplant)
+- [KnatteAnka.ExtendedFloodgates](Data/Localizations/Plugins/KnatteAnka.ExtendedFloodgates)
+- [KnatteAnka.MoreGroups](Data/Localizations/Plugins/KnatteAnka.MoreGroups)
+- [kulesz.FPPCamera](Data/Localizations/Plugins/kulesz.FPPCamera)
+- [Lapantouflemagic.MPMapEditor](Data/Localizations/Plugins/Lapantouflemagic.MPMapEditor)
+- [Lapantouflemagic.WhitepawsFaction](Data/Localizations/Plugins/Lapantouflemagic.WhitepawsFaction)
+- [SteamUpdateButtons](Data/Localizations/Plugins/SteamUpdateButtons)
+- [Timberborn.Editor.ExtendedTerrainTools](Data/Localizations/Plugins/Timberborn.Editor.ExtendedTerrainTools)
+- [Timberborn.IgorZ.SmartPower](Data/Localizations/Plugins/Timberborn.IgorZ.SMartPower)
+- [Timberborn.OldGopher.WaterShield](Data/Localizations/Plugins/Timberborn.OldGopher.WaterShield)
+- [ToolFinder](Data/Localizations/Plugins/ToolFinder)
+- [ToriiLanterns](Data/Localizations/Plugins/ToriiLanterns)
+
+#### Repository
+
+- [CONTRIBUTING.md](CONTRIBUTING.md)
+- [translate.py](tools/translate.py)
+
+### Changed
+
+- [eMka.ModSettings](Data/Localizations/Plugins/eMka.ModSettings) (-> v0.6.9.4)
+- [Lapantouflemagic.Logstairs](Data/Localizations/Plugins/Lapantouflemagic.Logstairs) (-> v2.1.4)
+- [Timberborn.OldGopher.Pipe](Data/Localizations/Plugins/Timberborn.OldGopher.Pipe) (-> v1.5.0.0)
+- `Lodge` -> `Hut`
+- `Hooman` -> `Mensj`
+
 ## [0.1.4] - 2024-10-30
 
 ### Added

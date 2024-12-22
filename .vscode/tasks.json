@@ -1,0 +1,17 @@
+{
+  // See https://go.microsoft.com/fwlink/?LinkId=733558
+  // for the documentation about the tasks.json format
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Automatic translator",
+      "type": "shell",
+      "command": "python tools/translate.py",
+      "icon": {
+        "id": "run",
+        "color": "terminal.ansiGreen"
+      },
+      "detail": "Translate a csv file automatically"
+    }
+  ]
+}
