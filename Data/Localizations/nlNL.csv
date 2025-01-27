@@ -1636,7 +1636,7 @@ Weather.BadtideEndedNotification,Slechtwatervloed afgelopen,Notification that sh
 Weather.BadtideStartedNotification,Slechtwatervloed begonnen,Notification that shows up when a badtide season starts. Badtide should be the same as Weather.Badtide.
 Weather.Counter,{0} dagen,Number of days before an event will start. Number is in 1.2 format (1.2 days)
 Weather.CycleAndDayLong,"Cyclus {0}, dag {1}","Example usage: 'Cycle 2, day 5'."
-Weather.CycleAndDayShort,Day {0}-{1},Example usage: 'Day 2-5'.
+Weather.CycleAndDayShort,Dag {0}-{1},Example usage: 'Day 2-5'.
 Weather.CycleBegins,Cyclus {0} begint,"Shown as a message when new cycle begins, {0} stands for cycle number, example usage: 'Cycle 4 begins'."
 Weather.Drought,Droogte,
 Weather.DroughtEndedNotification,Droogte voorbij,A notification that a drought has ended.

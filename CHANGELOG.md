@@ -1,6 +1,24 @@
 # Changelog
 
-## [0.1.5] - 2024-11-07
+## [0.1.6] - 2024-12-24
+
+### Added
+
+#### Mods
+
+- [BobPlatforms](Data/Localizations/Plugins/BobPlatforms)
+- [BobStorage](Data/Localizations/Plugins/BobStorage)
+
+### Changed
+
+- Bug fixes
+
+#### Mods
+
+- [Emberpelts](Data/Localizations/Plugins/Emberpelts) (-> v0.6.0.26)
+- [eMka.Minimap](Data/Localizations/Plugins/eMka.Minimap) (-> v0.6.9.5)
+
+## [0.1.5] - 2024-12-22
 
 ### Added
 
@@ -33,6 +51,7 @@
 
 ### Changed
 
+- [Emberpelts](Data/Localizations/Plugins/Emberpelts) (-> v0.6.0.20)
 - [eMka.ModSettings](Data/Localizations/Plugins/eMka.ModSettings) (-> v0.6.9.4)
 - [Lapantouflemagic.Logstairs](Data/Localizations/Plugins/Lapantouflemagic.Logstairs) (-> v2.1.4)
 - [Timberborn.OldGopher.Pipe](Data/Localizations/Plugins/Timberborn.OldGopher.Pipe) (-> v1.5.0.0)

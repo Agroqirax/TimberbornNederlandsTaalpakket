@@ -105,7 +105,7 @@ Volg het volgende stappen om een nieuwe mod toe te voegen.
   - [MOD.ID](Data/Localizations/Plugins/MOD.ID)
   ```
 
-  - [manifest.json](manifest.json) (`Description`)
+  - [manifest.json](manifest.json) (`Description`, `OptionalMods`)
 
   ```
   [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=STEAMID]MOD.ID[/url] (vX.X.X.X)

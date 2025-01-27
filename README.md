@@ -21,24 +21,26 @@
 ## Ondersteunde mods
 
 - [Agroqirax.Timberbits](https://steamcommunity.com/sharedfiles/filedetails/?id=3319416025) (v0.2.1)
-- [alin.bench](https://steamcommunity.com/sharedfiles/filedetails/?id=3278482507&searchtext=) (v1.3.0)
+- [alin.bench](https://steamcommunity.com/sharedfiles/filedetails/?id=3278482507) (v1.3.0)
 - [AquaCadre](https://steamcommunity.com/sharedfiles/filedetails/?id=3316292521) (v0.6.5.02)
 - [battery.DirtyMouths](https://steamcommunity.com/sharedfiles/filedetails/?id=3285106530) (v2.0.5)
 - [Battery.Flywheels](https://steamcommunity.com/sharedfiles/filedetails/?id=3322428023) (v2.0.3.2)
-- [Battery.PowerShaftExtensions](Data/Localizations/Plugins/Battery.PowerShaftExtensions) (v2.0.2.15)
+- [Battery.PowerShaftExtensions](https://steamcommunity.com/sharedfiles/filedetails/?id=3365256099) (v2.0.2.15)
 - [beaverbuddies](https://steamcommunity.com/sharedfiles/filedetails/?id=3293380223) (v1.2.6)
 - [Bentos](https://steamcommunity.com/sharedfiles/filedetails/?id=3295782631) (v0.6.5.01)
+- [BobPlatforms](https://steamcommunity.com/sharedfiles/filedetails/?id=3410576524) (v0.6.0.0)
+- [BobStorage](https://steamcommunity.com/sharedfiles/filedetails/?id=3377606148) (v0.6.0.3)
 - [BotKits](https://steamcommunity.com/sharedfiles/filedetails/?id=3362952283) (v0.6.5.00)
 - [Cordial.BoosterJuice](https://steamcommunity.com/sharedfiles/filedetails/?id=3321838014) (v0.0.2.0)
 - [Cordial.ForrestTool](https://steamcommunity.com/sharedfiles/filedetails/?id=3336999108) (v0.0.1.3)
 - [Cordial.Mods.CutterTool](https://steamcommunity.com/sharedfiles/filedetails/?id=3334584916) (v0.0.1.3)
 - [Cordial.Mods.DeleteThatThing](https://steamcommunity.com/sharedfiles/filedetails/?id=3377422105) (v0.1.0)
 - [Cordial.Mods.PlantingOverride](https://steamcommunity.com/sharedfiles/filedetails/?id=3343029129) (v0.0.2.0)
-- [Emberpelts](https://steamcommunity.com/sharedfiles/filedetails/?id=3346318229) (v0.6.0.12)
+- [Emberpelts](https://steamcommunity.com/sharedfiles/filedetails/?id=3346318229) (v0.6.0.26)
 - [Emberpelts.ProjectPhoenix](https://steamcommunity.com/sharedfiles/filedetails/?id=3372885855) (v0.6.0.0)
 - [eMka.GoodStatistics](https://steamcommunity.com/sharedfiles/filedetails/?id=3321521358) (v0.6.5.1)
-- [eMka.Minimap](https://steamcommunity.com/sharedfiles/filedetails/?id=3374011054) (v0.6.9.4)
-- [eMka.ModSettings](https://steamcommunity.com/sharedfiles/filedetails/?id=3283831040) (v0.6.9.4)
+- [eMka.Minimap](https://steamcommunity.com/sharedfiles/filedetails/?id=3374011054) (v0.6.9.5)
+- [eMka.ModSettings](https://steamcommunity.com/sharedfiles/filedetails/?id=3283831040) (v0.6.9.5)
 - [FindIdelBeavers](https://steamcommunity.com/sharedfiles/filedetails/?id=3354490402) (v0.1)
 - [geothermalpowerplant](https://mod.io/g/timberborn/m/geothermalpowerplant) (v1.3.0) (`mod.io`)
 - [GreedyBuilders](https://steamcommunity.com/sharedfiles/filedetails/?id=3283819933) (v0.6.5.04)
@@ -90,7 +92,7 @@ Data
    ├─ nlNL_names.csv
    ├─ nlNL_wip.csv
    └─ Plugins
-      └─ `Mod.ModID`
+      └─ Mod.ModID
          └─ nlNL_ModID.csv
 ```
 
