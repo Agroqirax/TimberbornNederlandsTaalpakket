@@ -15,8 +15,8 @@
   - Click "abonneren"
 - [Mod.io](https://mod.io/g/timberborn/m/nederlands-taalpakket)
   - Download het zip bestand, pak uit naar `~/Documents/Timberborn/Mods/NederlandsTaalpakket`.
-- [Github](https://github.com/Agroqirax/TimberbornNederlandsTaalpakket)
-  - Download het zip bestand [releases](https://github.com/Agroqirax/TimberbornNederlandsTaalpakket/releases/latest), pak uit naar `~/Documents/Timberborn/Mods/NederlandsTaalpakket`.
+- [Github](https://github.com/agroqirax/TimberbornNederlandsTaalpakket)
+  - Download het zip bestand [releases](https://github.com/agroqirax/TimberbornNederlandsTaalpakket/releases/latest), pak uit naar `~/Documents/Timberborn/Mods/NederlandsTaalpakket`.
 
 ## Ondersteunde mods
 
@@ -106,7 +106,7 @@ Als je hulp nodig hebt bij het vertalen van een nieuwe of onvertaalde mod, laat 
 
 Als je niet wil dat je mod vertaald word of je hebt je eigen vertalingen toegevoegd, laat het dan even weten:
 
-- Github: Maak een [issue](https://github.com/Agroqirax/TimberbornNederlandsTaalpakket/issues/new?template=remove-translations.yml) aan of maak een pull request in de [repository](https://github.com/Agroqirax/TimberbornNederlandsTaalpakket) (voorkeur).
+- Github: Maak een [issue](https://github.com/agroqirax/TimberbornNederlandsTaalpakket/issues/new?template=remove-translations.yml) aan of maak een pull request in de [repository](https://github.com/agroqirax/TimberbornNederlandsTaalpakket) (voorkeur).
 - Discord: `@Ayargajin` in de [timberborn discord server](https://discord.gg/timberborn).
 - Steam: In de [comments](https://steamcommunity.com/sharedfiles/filedetails/?id=3345327949).
 - Mod.io: In de [comments](https://mod.io/g/timberborn/m/nederlands-taalpakket).
@@ -123,7 +123,7 @@ If you need help translating a new or untranslated mod, just let me know on the 
 
 If you don't want me to translate your mod or you added your own translations, please let me know:
 
-- Github: Create an [issue](https://github.com/Agroqirax/TimberbornNederlandsTaalpakket/issues/new?template=remove-translations.yml) or a pull request in the [repository](https://github.com/Agroqirax/TimberbornNederlandsTaalpakket) (prefered).
+- Github: Create an [issue](https://github.com/agroqirax/TimberbornNederlandsTaalpakket/issues/new?template=remove-translations.yml) or a pull request in the [repository](https://github.com/agroqirax/TimberbornNederlandsTaalpakket) (prefered).
 - Discord: `@Agroqirax` in the [timberborn discord server](https://discord.gg/timberborn).
 - Steam: In the [comments](https://steamcommunity.com/sharedfiles/filedetails/?id=3345327949).
 - Mod.io: In the [comments](https://mod.io/g/timberborn/m/nederlands-taalpakket).

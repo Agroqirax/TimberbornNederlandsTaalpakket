@@ -1,6 +1,6 @@
 {
   "Name": "Nederlands taalpakket",
-  "Version": "0.1.6",
+  "Version": "0.1.7",
   "Id": "Agroqirax.Languages.Dutch",
   "MinimumGameVersion": "0.0.0.0",
   "Description": "Nederlandse vertalingen voor het spel en een aantal populaire mods.\n
@@ -8,7 +8,7 @@
   [list]
     [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3345327949]Steam[/url]
     [*][url=https://mod.io/g/timberborn/m/nederlands-taalpakket]Mod.io[/url]
-    [*][url=https://github.com/Agroqirax/TimberbornNederlandsTaalpakket]Github[/url]
+    [*][url=https://github.com/agroqirax/TimberbornNederlandsTaalpakket]Github[/url]
   [/list]
 
   [h1]Ondersteunde mods:[/h1]
@@ -73,7 +73,7 @@
     [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3358669972]ToolFinder[/url] (v0.0.3)
     [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3370688565]ToriiLanterns[/url] (v2.0.2)
   [/list]\n
-  Meer info op [url=https://github.com/Agroqirax/TimberbornNederlandsTaalpakket]github[/url].",
+  Meer info op [url=https://github.com/agroqirax/TimberbornNederlandsTaalpakket]github[/url].",
   "RequiredMods": [],
   "OptionalMods": [
     {

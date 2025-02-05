@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.7] - 2025-02-06
+
+### Changed
+
+- Bijgewerkt naar update 7
+- Geheel herzien en fouten verbeterd
+
 ## [0.1.6] - 2024-12-24
 
 ### Added

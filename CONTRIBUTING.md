@@ -6,14 +6,14 @@ Volg het volgende stappen om een nieuwe mod toe te voegen.
 
 > [!WARNING]
 > Als je niet weet hoe git werkt is dit niet te doen.<br>
-> Maak dan gewoon een [issue](https://github.com/Agroqirax/TimberbornNederlandsTaalpakket/issues/new?template=new-translations.yml) aan zodat wij de mod kunnen toevoegen.
+> Maak dan gewoon een [issue](https://github.com/agroqirax/TimberbornNederlandsTaalpakket/issues/new?template=new-translations.yml) aan zodat wij de mod kunnen toevoegen.
 
 ## Een mod toevoegen
 
 - Clone de repo
 
   ```sh
-  git clone https://github.com/Agroqirax/TimberbornNederlandsTaalpakket.git
+  git clone https://github.com/agroqirax/TimberbornNederlandsTaalpakket.git
   ```
 
   en maak een nieuwe branch aan
@@ -65,7 +65,7 @@ Volg het volgende stappen om een nieuwe mod toe te voegen.
   ```sh
   git push -u origin <branch>
   ```
-  en maak een [pull request](https://github.com/Agroqirax/TimberbornNederlandsTaalpakket/compares) aan.
+  en maak een [pull request](https://github.com/agroqirax/TimberbornNederlandsTaalpakket/compares) aan.
   Ik zal er binnenkort naar kijken en een nieuwe versie naar steam, mod.io en github uploaden.
 
 ## Adding a mod (English)
@@ -73,7 +73,7 @@ Volg het volgende stappen om een nieuwe mod toe te voegen.
 - Clone the repo
 
   ```sh
-  git clone https://github.com/Agroqirax/TimberbornNederlandsTaalpakket.git
+  git clone https://github.com/agroqirax/TimberbornNederlandsTaalpakket.git
   ```
 
   create a new branch
@@ -125,5 +125,5 @@ Volg het volgende stappen om een nieuwe mod toe te voegen.
   ```sh
   git push -u origin <branch>
   ```
-  and create a [pull request](https://github.com/Agroqirax/TimberbornNederlandsTaalpakket/compares).
+  and create a [pull request](https://github.com/agroqirax/TimberbornNederlandsTaalpakket/compares).
   I'll look it it shortly and upload a new build to steam, mod.io and github.
