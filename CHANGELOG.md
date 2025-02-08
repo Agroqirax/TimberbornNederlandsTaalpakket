@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.1.8] - 2025-02-09
+
+### Changed
+
+- Fouten verbeterd
+
 ## [0.1.7] - 2025-02-06
 
 ### Changed

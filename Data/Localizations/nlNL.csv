@@ -49,7 +49,7 @@ Bonus.CarryingCapacity,Draagvermogen,How much stuff a unit can carry
 Bonus.CuttingSuccessChance,Snijdkans,Cutting chance when cutting down a tree
 Bonus.GrowthSpeed,Groeisnelheid,Speed at which young beavers grow up
 Bonus.LifeExpectancy,Levensverwachting,The presumed length of beavers' life.
-Bonus.MovementSpeed,Bewegingssnelheid,"Describes how fast character can move (bonus to walking, running and swimming)."
+Bonus.MovementSpeed,Loopsnelheid,"Describes how fast character can move (bonus to walking, running and swimming)."
 Bonus.Source,{0} ontvangen door:,{0} stands for Bonus name. Header above a list of needs that give this bonus.
 Bonus.WorkingSpeed,Werksnelheid,Speed at which the beavers work.
 Bot.BeaversPerished,"Laat me maar niet beginnen over de bevers.
@@ -66,6 +66,7 @@ Bot.PrefabName,Robot,A bot is an animated anthropomorphic being which is created
 Breeding.NutrientBringing,"Voedingsstoffen worden door slepers, werklozen en werknemers na werktijd aangevoerd.","Haulers are the same as in Building.HaulingPost.Description, unemployed as in Beaver.UnemployedPlural, workers as in Work.WorkersLabel"
 Breeding.NutrientsNeeded,Benodigde voedingsstoffen:,Followed by a list of nutrients needed to produce a new beaver in breeding facility
 Breeding.Progress,Broed vooruitgang,Label inside a progress bar describing production progress of new beaver in breeding facility
+BugTracker.Prompt,Je wordt naar een online bugtracker gestuurd op {0}.,An OK/Cancel prompt before opening a web browser. {0} stands for url to bug tracker.
 BuilderPriorityTool.Description,Met deze tool kunt je prioriteit geven aan bouw- en sloopwerkzaamheden en het verzamelen van goederen uit puin.,Rubble should be plural version of RecoveredGoodStack.DisplayName
 BuilderPriorityTool.Tip,Klik op een item om de prioriteit in te stellen of houd de knop ingedrukt om een ​​groter gebied te selecteren.,
 Building.Agora.Description,Een grote ontmoetingsplaats waar bevers met elkaar over hout kunnen praten.,
@@ -180,7 +181,7 @@ Building.DeepBadwaterPump.FlavorDescription,De verlengde pijp helpt bij zowel de
 Building.DeepMechanicalFluidPump.DisplayName,Diepe mechanische vloeistofpomp,
 Building.DeepWaterPump.Description,"Pompt en filtert water voor bevers, zodat ze het kunnen drinken.",
 Building.DeepWaterPump.DisplayName,Diepwaterpomp,A water pump which can access deeper water than a regular pump.
-Building.DeepWaterPump.FlavorDescription,"""Het water komt uit het land down under, waar lisdodden groeien en de bever loodgieter is."" —Iron Teeth Work-lied","Adapted from Men at Work's famous 'Down Under' song ; Iron Teeth is a faction name, keep consistent (Faction.IronTeeth.DisplayName)"
+Building.DeepWaterPump.FlavorDescription,"""Het water komt uit het land down under, waar lisdodden groeien en de bever loodgieter is."" —Ijzertanden Werk-lied","Adapted from Men at Work's famous 'Down Under' song ; Iron Teeth is a faction name, keep consistent (Faction.IronTeeth.DisplayName)"
 Building.Detailer.Browse,Bladeren,Label of a button that opens a file explorer with a directory with custom patterns. Please keep short.
 Building.Detailer.Description,Personaliseert de staarten van bevers.,This building allows the player to paint beavers' tails.
 Building.Detailer.DisplayName,Detaillist,Detailer references that the tail customisations are details/decorations.
@@ -216,21 +217,21 @@ Building.Dynamite.Detonate,Ontplof,A button.
 Building.Dynamite.DisplayName,Dynamiet,There's a resource called Explosives so they need to have different names
 Building.Dynamite.ExplosionDepth,Explosiediepte: {0},"Explains how deep the dynamite explosion is, {0} stands for the vertical number of blocks"
 Building.Dynamite.FlavorDescription,"Om zich aan te passen aan de post-apocalyptische wereld, hadden bevers een aantal extreme maatregelen nodig.",
-Building.EfficientFarmhouse.Description,Geeft werk aan boeren die gewassen planten en oogsten. Het uitgebreide Volkstaart-ontwerp past bij meer werknemers.,Farmhouse should be the same as in Building.Farmhouse.DisplayName
+Building.EfficientFarmhouse.Description,Stelt boeren te werk die gewassen planten en oogsten. In het uitgebreide Volkstaart-ontwerp passen meer bevers.,Farmhouse should be the same as in Building.Farmhouse.DisplayName
 Building.EfficientFarmhouse.DisplayName,Efficiënte boerderij,Farmhouse should be the same as in Building.Farmhouse.DisplayName
 Building.EfficientFarmhouse.FlavorDescription,De efficiëntie hangt af van het beleid van 'niet eten op het werk'.,
 Building.EfficientMine.Description,Heeft mijnwerkers in dienst die schroot uit ondergrondse ruïnes halen. Innovatief ontwerp maximaliseert mijnbouwsnelheid.,
 Building.EfficientMine.DisplayName,Efficiënte mijn,An extracting facility which can be placed on underground ruins.
-Building.EfficientMine.FlavorDescription,De Ijzeren Tanden kregen de overhand omdat ze als eerste de ondergrond inspecteerden.,"Reference to the ""upper hand"" phrase. The mine is built on top of underground human ruins."
+Building.EfficientMine.FlavorDescription,De Ijzertanden kregen de overhand omdat ze als eerste de ondergrond inspecteerden.,"Reference to the ""upper hand"" phrase. The mine is built on top of underground human ruins."
 Building.Engine.Description,Verbrandt brandstof om energie op te wekken.,
 Building.Engine.DisplayName,Motor,Not a steam engine;it might show up later as a different building
-Building.Engine.FlavorDescription,"Hoe geweldig deze uitvinding ook is, het was een splinter in het gezicht van andere bevervolkeren, behalve Iron Teeth.","Iron Teeth is one of the playable factions, with the Engine being one of their unique buildings."
+Building.Engine.FlavorDescription,"Hoe geweldig deze uitvinding ook is, het was een splinter in het gezicht van andere bevervolkeren, behalve de Ijzertanden","Iron Teeth is one of the playable factions, with the Engine being one of their unique buildings."
 Building.EarthRecultivator.Folktails.Description,Verspreidt boomzaden over de aarde. Maakt de bevers in het gebied extra blij wanneer gelanceerd.,
-Building.EarthRecultivator.Folktails.DisplayName,Aarde Recultivator,Earth meaning planet Earth and Recultivator meaning regenerating the planet.
+Building.EarthRecultivator.Folktails.DisplayName,Aarde Her-cultivator,Earth meaning planet Earth and Recultivator meaning regenerating the planet.
 Building.EarthRecultivator.Folktails.FlavorDescription,Met elk zaadje groeit de hoop.,
 Building.EarthRepopulator.IronTeeth.Description,Lanceert pioniers naar verre landen. Maakt de bevers in het gebied extra blij wanneer gelanceerd.,
 Building.EarthRepopulator.IronTeeth.DisplayName,Aarde herbevolker,Earth meaning planet Earth and Repopulator meaning starting new colonies or restoring the population.
-Building.EarthRepopulator.IronTeeth.FlavorDescription,Na een aantal inmiddels geclassificeerde testen met een katapult werd dit ontwerp overgenomen.,"This building looks like a plane runway, so this jokingly references a more primitive idea."
+Building.EarthRepopulator.IronTeeth.FlavorDescription,Na een aantal inmiddels geheime testen met een katapult werd dit ontwerp overgenomen.,"This building looks like a plane runway, so this jokingly references a more primitive idea."
 Building.ExercisePlaza.Description,Een plek waar een groep bevers kan oefenen.,
 Building.ExercisePlaza.DisplayName,Oefenplein,
 Building.ExercisePlaza.FlavorDescription,"De Ijzertanden willen net als hun creaties zijn: altijd harder, beter, sneller, sterker.","Reference to the Daft Punk song ""Harder, Better, Faster, Stronger""."
@@ -248,7 +249,7 @@ Building.FlameOfUnity.DisplayName,Vlam van eenheid,A large beacon held by four b
 Building.FlameOfUnity.FlavorDescription,"""Niets verenigt zo efficiënt als productiequota."" —Ouwe Kazko","Ol' Kazko is a legendary forefather of modern beavers, famous inventor, pioneer of rapid industrialization."
 Building.Floodgate.Description,Blokkeert water tot een instelbare hoogte.,
 Building.Floodgate.DisplayName,Sluisdeur,
-Building.Floodgate.FlavorDescription,Niemand dacht dat je een dam kon verbeteren totdat Ouwe Kazko The First Floodgate creëerde.,
+Building.Floodgate.FlavorDescription,Niemand dacht dat je een dam kon verbeteren totdat Ouwe Kazko de eerste Sluisdeur creëerde.,
 Building.Floodgate.Height,Hoogte: {0},
 Building.Floodgate.Synchronize,Synchroniseren met aangrenzende sluizen,
 Building.FluidDump.Description,Loost water of slechtwater.,Badwater should be the same as Good.Badwater.DisplayName.
@@ -267,13 +268,13 @@ Building.GathererFlag.DisplayName,Verzamelaarsvlag,Flag' could also be a Post or
 Building.GathererFlag.FlavorDescription,"Door bessen in een mandje te leggen, bedachten bevers per ongeluk een lekker toetje.",
 Building.GearWorkshop.Description,Maakt tandwielen van planken.,Gears and Planks are resources; keep consistent.
 Building.GearWorkshop.DisplayName,Tandwielwerkplaats,Gear is a resource
-Building.GearWorkshop.FlavorDescription,"""Houten spullen zijn stevig!"" was een slogan van Ouwe Kazko toen hij aandrong op snelle industrialisatie.","Metal Gear Solid is a famous Japanese video game series. Ouwe Kazko is a legendary forefather of modern beavers, famous inventor, pioneer of rapid industrialization."
+Building.GearWorkshop.FlavorDescription,"""Houten spullen zijn stevig!"" was een slogan van Ouwe Kazko toen hij aandrong op snelle industrialisatie.","Metal Gear Solid is a famous Japanese video game series. Ol' Kazko is a legendary forefather of modern beavers, famous inventor, pioneer of rapid industrialization."
 Building.GravityBattery.Description,"Slaat energieoverschotten op en geeft ze terug als het netwerk onderbezet is. Hoe hoger het gebouwd is, hoe meer energie het kan opslaan.",
 Building.GravityBattery.DisplayName,Zwaartekrachtbatterij,"A battery in the form of a crane, that stores energy by raising a heavy weight above the ground."
 Building.GravityBattery.FlavorDescription,Dit kun je doen als je je eigen natuurwetten bedenkt.,Gravity batteries in the real world do not make sense from the physics standpoint.
 Building.GreaseFactory.Description,Een fabriek die glibberig vet produceert waardoor robots soepeler draaien.,Bots should be the same as in Bot.PrefabName. Grease should be the same as Good.Grease.DisplayName.
 Building.GreaseFactory.DisplayName,Vetfabriek,Grease should be the same as Good.Grease.DisplayName.
-Building.GreaseFactory.FlavorDescription,"""Nou, een bot zou systematisch en hydromatisch kunnen zijn... Waarom zou hij niet gesmeerd kunnen worden?"" —Ouwe Kazko","Reference to the song ""Greased Lightning"" from the movie ""Grease"" (1978). Ouwe Kazko is a legendary forefather of modern beavers, famous inventor, pioneer of rapid industrialization."
+Building.GreaseFactory.FlavorDescription,"""Nou, een bot zou systematisch en hydromatisch kunnen zijn... Waarom zou hij niet gesmeerd kunnen worden?"" —Ouwe Kazko","Reference to the song ""Greased Lightning"" from the movie ""Grease"" (1978). Ol' Kazko is a legendary forefather of modern beavers, famous inventor, pioneer of rapid industrialization."
 Building.Grill.Description,Grillt groenten.,
 Building.Grill.DisplayName,Grill,A place that grills
 Building.Grill.FlavorDescription,"""Plet ze, kook ze, grill ze in een pan met antiaanbaklaag!"" —""500 manieren om een ​​aardappel te eten"" door Oma Ngonel","Adapted quote from Lord of the Rings paired with a nod to an infamous Soviet-era cookbook ""500 potato dishes"". Ma' Ngonel is an almost legendary figure - a beaver grandma, known for her stern hand, cooking skills and respect among both kits and adult beavers. Her name is an inside joke, as our community constantly demands an addition of catapults, mangonels etc."
@@ -294,7 +295,7 @@ Building.Herbalist.DisplayName,Kruidkundige,A building that serves as an antidot
 Building.Herbalist.FlavorDescription,Het brouwapparaat wordt uitsluitend voor medische doeleinden gebruikt.,This building kind of resembles an alcohol brewery.
 Building.HydroponicGarden.Description,Kweekt planten die niet geschikt zijn voor landbouw in de open lucht.,
 Building.HydroponicGarden.DisplayName,Hydroponische tuin,An artificial garden that's used to cultivate special plants.
-Building.HydroponicGarden.FlavorDescription,Het idee ontstond nadat er vochtige menselijke ruïnes werden ontdekt die bedekt waren met snelgroeiende schimmels.,"Referencing Timberborn's post-apo theme, but also a little bit of The Last of Us."
+Building.HydroponicGarden.FlavorDescription,Het idee ontstond nadat er vochtige mensjelijke ruïnes werden ontdekt die bedekt waren met snelgroeiende paddenstoelen.,"Referencing Timberborn's post-apo theme, but also a little bit of The Last of Us."
 Building.ImpermeableFloor.Description,Een vloerpaneel dat voorkomt dat er water doorheen lekt.,
 Building.ImpermeableFloor.DisplayName,Ondoordringbare vloer,"It's a metal floor tile that doesn't let any water through, hence Impermeable."
 Building.ImpermeableFloor.FlavorDescription,Het begon allemaal met een bever die genoeg had van het geluid van een lekkende dak.,
@@ -324,8 +325,8 @@ Building.LargePowerWheel.DisplayName,Groot Energie Wiel,
 Building.LargePowerWheel.FlavorDescription,De Ijzertanden wilden ook een draaimolen.,Iron Teeth must be the same as Faction.IronTeeth.DisplayName.
 Building.LargeRowhouse.DisplayName,Groot Rijtjeshuis,"A rowhouse is a narrow and tall house that is connected to other homes on both sides, often built in a row. Building.Rowhouse"
 Building.LargeRowhouse.FlavorDescription,De Ijzertanden hebben een complex van hoge gebouwen ontwikkeld.,Referencing 'complex' meaning a group of buildings as well as a psychological behaviour.
-Building.LargeTank.DisplayName,Grote tank,
-Building.LargeTank.FlavorDescription,"Ondanks de pogingen van bouwers om het als zwembad te gebruiken, is dit aquarium ontworpen voor industriële doeleinden.",
+Building.LargeTank.DisplayName,Groot vat,
+Building.LargeTank.FlavorDescription,"Ondanks de pogingen van bouwers om het als zwembad te gebruiken, is dit vat ontworpen voor industriële doeleinden.",
 Building.LargeWarehouse.DisplayName,Groot magazijn,
 Building.LargeWarehouse.FlavorDescription,Met zoveel goederen erin is er geen ruimte meer om met de staart te zwaaien.,"""No room to swing a cat"" is an English idiom, feel free to adapt."
 Building.LargeWaterPump.Description,Pompt en filtert grote hoeveelheden water voor bevers om te drinken. Verontreiniging door slechtwater vertraagt ​​de pompsnelheid.,Badwater should be the same as Good.Badwater.DisplayName. Ideally all uses of the word contaminate/contamination/contaminated should be uniform across the project.
@@ -360,14 +361,14 @@ Building.MechanicalFluidPump.FlavorDescription,Beter stromend water dan met emme
 Building.MedicalBed.Description,Een plek waar gewonde bevers rusten.,
 Building.MedicalBed.DisplayName,Medisch bed,A place where injured beavers come to lie down and rest
 Building.MedicalBed.FlavorDescription,"""Het is maar een krasje. Mag ik weer aan het werk?"" —Pina",Monty Python reference.
-Building.MediumTank.DisplayName,Middelgrote tank,
+Building.MediumTank.DisplayName,Middelgroot vat,
 Building.MediumTank.FlavorDescription,Na de Grote Droogte hadden bevers de gewoonte om er altijd een paar bij de hand te hebben.,The Great Drought should remain capitalized to indicate it's a name of an event.
 Building.MediumWarehouse.DisplayName,Middelgroot magazijn,
 Building.MediumWarehouse.FlavorDescription,Gezien alle gevaren van een post-apocalyptische wereld is het van cruciaal belang dat goederen goed worden opgeslagen.,
 Building.MemorialToFamily.DisplayName,Herdenking voor familie,A large brazier surrounded by statues of a beaver family
 Building.MetalFence.Description,Een decoratief hekwerk van metaal.,
 Building.MetalFence.DisplayName,Metalen hek,
-Building.MetalFence.FlavorDescription,"Pas op voor de bever, die metaal boven hout verkiest.","Reference to ""beware the dog"" often written on fences."
+Building.MetalFence.FlavorDescription,"Pas op voor de bever die metaal boven hout verkiest.","Reference to ""beware the dog"" often written on fences."
 Building.MetalPlatform.Description,"Een gigantisch platform, ondersteund door een stevige zuil.",
 Building.MetalPlatform.DisplayName,Metalen platform,
 Building.MetalPlatform.FlavorDescription,"""Deze tafel leek kleiner in de catalogus."" —Oma Ngonel","This platform looks like an enormours metal table, and Ma' Ngnonel is an older beaver. Please keep her name the same as in other localized flavor texts."
@@ -403,7 +404,7 @@ Building.Observatory.DisplayName,Observatorium,A building where beavers look int
 Building.Observatory.FlavorDescription,De logische volgende stap na het sterrenkijken bij het kampvuur.,
 Building.OilPress.Description,Perst olie uit geschikte planten.,Oil should be the same as in Building.OilPress.DisplayName
 Building.OilPress.DisplayName,Oliepers,A building that's a giant press that squeezes out oil.
-Building.OilPress.FlavorDescription,"Nieuwsgierige kinderen gebruiken het om van alles te pletten, van koekjes tot dennenappels.","The process of squishing things with hydraulic press filmed in slo-mo is oddly fascinating, and makes for popular YT videos."
+Building.OilPress.FlavorDescription,"Nieuwsgierige kits gebruiken het om van alles te pletten, van koekjes tot dennenappels.","The process of squishing things with hydraulic press filmed in slo-mo is oddly fascinating, and makes for popular YT videos."
 Building.Overhang.Description,Een uitstekend platform dat kan dienen als brug of fundering voor andere gebouwen.,
 Building.Overhang2x1.DisplayName,Overhang 2x1,An artificial overhang made out of wood and metal that allows new buildings to be put on top of it. Numbers at the end denote size X by Y.
 Building.Overhang3x1.DisplayName,Overhang 3x1,An artificial overhang made out of wood and metal that allows new buildings to be put on top of it. Numbers at the end denote size X by Y.
@@ -426,14 +427,14 @@ Building.PowerShaft.Description,Geeft energie door.,"Power being mechanical/kine
 Building.PowerShaft.FlavorDescription,Een van de geweldige uitvindingen van Ouwe Kazko.,"Ol' Kazko is a legendary forefather of modern beavers, famous inventor, pioneer of rapid industrialization."
 Building.PowerShaftDownward.DisplayName,Neerwaartse krachtas,Power shaft that's pointed downward
 Building.PowerShaftHigh.DisplayName,Hoge krachtas,For ease of translation could also be called an axle
-Building.PowerShaftIntersection.DisplayName,Kruispunt van de krachtas,For ease of translation could also be called an axle
-Building.PowerShaftStraight.DisplayName,Rechte aandrijfas,For ease of translation could also be called an axle
-Building.PowerShaftTIntersection.DisplayName,Kruispunt van de krachtas T,For ease of translation could also be called an axle. A three-way junction of power shafts.
+Building.PowerShaftIntersection.DisplayName,Krachtas kruising,For ease of translation could also be called an axle
+Building.PowerShaftStraight.DisplayName,Rechte krachtas,For ease of translation could also be called an axle
+Building.PowerShaftTIntersection.DisplayName,Krachtas T-kruising,For ease of translation could also be called an axle. A three-way junction of power shafts.
 Building.PowerShaftTurn.DisplayName,Krachtas bocht,For ease of translation could also be called an axle
 Building.PowerShaftUpward.DisplayName,Opwaartse krachtas,Power shaft that's pointed upward
 Building.PowerShaftVertical.DisplayName,Verticale krachtas,Power shaft that's completely vertical
 Building.PowerWheel.Description,Een door bevers bediende noodstroombron.,
-Building.PowerWheel.DisplayName,Krachtwiel,Meaning a wheel that produces power
+Building.PowerWheel.DisplayName,Beverwiel,Meaning a wheel that produces power
 Building.PowerWheel.FlavorDescription,Bevers kwamen er al snel achter dat ze een aantal technieken van minder ontwikkelde knaagdieren konden lenen.,This building looks like a hamster wheel.
 Building.PrintingPress.Description,Verwerkt papiergerelateerde goederen.,Paper should be the same as Good.Paper.DisplayName
 Building.PrintingPress.DisplayName,Drukpers,
@@ -453,17 +454,17 @@ Building.RooftopTerrace.FlavorDescription,"Een geweldige plek om de hele nacht d
 Building.Rowhouse.Description,"Praktische, gedeelde woningen met een kleine oppervlakte.",
 Building.Rowhouse.DisplayName,Rijtjeshuis,"A rowhouse is a narrow and tall house that is connected to other homes on both sides, often built in a row."
 Building.Rowhouse.FlavorDescription,Beter rijen dan holen.,
-Building.Ruins.Description,Bron van metaal.,Metal is a resource
+Building.Ruins.Description,Bron van schrootmetaal.,Metal is a resource
 Building.Ruins.DisplayName,Ruïnes,
 Building.Ruins.FlavorDescription,Verspreid over het land boden vervallen menselijke ruïnes de bevers het onvoorstelbare: een hulpbron die beter was dan hout.,
 Building.Scarecrow.Description,Een veldversiering die bedoeld is om vogels af te schrikken.,
 Building.Scarecrow.DisplayName,Vogelverschrikker,
 Building.Scarecrow.FlavorDescription,Uitmuntend in hun vakgebied.,
 Building.ScavengerFlag.Description,Aaseters verzamelen schroot uit ruïnes.,Metal is a resource;ruins are a building
-Building.ScavengerFlag.DisplayName,Vlag van de aaseter,
+Building.ScavengerFlag.DisplayName,Asseters vlag,
 Building.ScavengerFlag.FlavorDescription,"Doordat ze metaal meenemen naar nederzettingen die oorspronkelijk van hout waren, verdienen de schroothandelaren respect van sommigen, maar minachting van anderen.",
 Building.Scratcher.Description,Een krabmachine.,
-Building.Scratcher.DisplayName,Krasmachine,A rotating brush which beavers use to scratch their fur. For reference google videos of cow scratchers.
+Building.Scratcher.DisplayName,Krabmachine,A rotating brush which beavers use to scratch their fur. For reference google videos of cow scratchers.
 Building.Scratcher.FlavorDescription,"Zelfs als ze aan het ontspannen zijn, staan ​​de Ijzertanden te popelen om weer aan de slag te gaan.",Itching meaning having an itch as well as an idiom for wanting to do something very much. If possible try to adapt the phrase to fit your language. Iron Teeth must be the same as Faction.IronTeeth.DisplayName.
 Building.Shower.Description,Een plek waar bevers zich kunnen verfrissen met een douche.,
 Building.Shower.DisplayName,Douche,A simple shower for beavers.
@@ -479,7 +480,7 @@ Building.Sluice.AboveContaminationToggle,Sluiten boven verontreiniging: {0},"Lab
 Building.Sluice.BelowContaminationToggle,Sluiten onder verontreiniging: {0},"Label of a toggle that enables automation based on contamination level, {0} stands for currently set level, ie 5%"
 Building.Sluice.Contamination,Verontreiniging: {0},"Level of the water contamination, {0} stands for contamination level in percent. Ideally all uses of the word contaminate/contamination/contaminated should be uniform across the project."
 Building.Sluice.Description,"Een unidirectionele, geautomatiseerde waterafvoer.",
-Building.Sluice.DisplayName,Sluis,Also known as a sluice gate. Different than Building.Floodgate.DisplayName.
+Building.Sluice.DisplayName,Sluisdeur,Also known as a sluice gate. Different than Building.Floodgate.DisplayName.
 Building.Sluice.DownstreamDepth,Stroomafwaartse diepte {0},{0} stands for chosen downstream depth maintained by the building.
 Building.Sluice.FlavorDescription,"""Suli, ben je vergeten het slechte water weer door te spoelen?"" —Oma Ngonel",Badwater has to be consistent with Good.Badwater.DisplayName
 Building.Sluice.Mode.Auto,Auto,Label of the toggle that sets the sluice to work in automatic mode
@@ -490,12 +491,12 @@ Building.Sluice.Mode.Open,Open,Label of the toggle that sets the sluice to be al
 Building.Sluice.Synchronize,Synchroniseren met aangrenzende sluizen,
 Building.Sluice.MaximumDepthToggle,Sluit boven stroomafwaartse diepte: {0},Label of a toggle that enables automation based on the maximum downstream depth of water
 Building.SmallIndustrialPile.DisplayName,Kleine industriële stapel,
-Building.SmallIndustrialPile.FlavorDescription,"""Dus ze sloegen er een dak op en noemden het industrieel. Klassiek."" —Pina",
+Building.SmallIndustrialPile.FlavorDescription,"""Dus ze sloegen er een dak op en noemden het industrieel. Natuurlijk."" —Pina",
 Building.SmallPile.Description,Slaat grote goederen op.,
 Building.SmallPile.DisplayName,Kleine stapel,
 Building.SmallPile.FlavorDescription,Geen enkel bever met zelfrespect dumpt bouwmaterialen op de grond.,
 Building.SmallTank.Description,Slaat vloeistoffen op.,
-Building.SmallTank.DisplayName,Kleine tank,
+Building.SmallTank.DisplayName,Klein vat,
 Building.SmallTank.FlavorDescription,"Door te leren hoe ze elke druppel water konden opslaan, konden bevers zich aanpassen aan de barre omstandigheden.",
 Building.SmallWarehouse.Description,Slaat goederen op.,
 Building.SmallWarehouse.DisplayName,Klein magazijn,
@@ -506,12 +507,12 @@ Building.Smelter.FlavorDescription,De nieuwe beverwereld is gevormd in zweet en 
 Building.SolidTubeway.DisplayName,Overdakte metro,"An expanded version of the Building.Tubeway.DisplayName with a solid platform on top of it, that allows other Tubes or structures to be placed on top of it. Tubes are used as a network of large pipes for faster transportation around the map. Departure and arrival happens in Building.TubewayStation.DisplayName, so they should be named similarly."
 Building.StartingLocation.DisplayName,Startlocatie,
 Building.StreamGauge.Contamination,Verontreiniging: {0},"Level of the water contamination, {0} stands for contamination level in percent. Ideally all uses of the word contaminate/contamination/contaminated should be uniform across the project."
-Building.StreamGauge.Current,Huidig: {0} cms,"Intensity of the water current, {0} stands for current speed in cubic metre per second"
+Building.StreamGauge.Current,Stroming: {0} m³ / s,"Intensity of the water current, {0} stands for current speed in cubic metre per second"
 Building.StreamGauge.Depth,Diepte: {0},"Level of the water depth, {0} stands for this value in meters"
-Building.StreamGauge.Description,"Meet de waterdiepte, de stroming en de verontreiniging van het slechte water.",Badwater should be the same as Good.Badwater.DisplayName.
-Building.StreamGauge.DisplayName,Stroommeter,
+Building.StreamGauge.Description,"Meet de waterdiepte, de stroming en de verontreiniging van het slechtwater.",Badwater should be the same as Good.Badwater.DisplayName.
+Building.StreamGauge.DisplayName,Watermeter,
 Building.StreamGauge.FlavorDescription,"Er is een vloed in de zaken van bevers. Die, genomen bij de vloed, leidt naar fortuin.",Adapted quote from Shakespeare's 'Julius Cesar'
-Building.StreamGauge.GreatestDepth,Grootste diepte: {0},"Level of the greatest noted water depth, {0} stands for this value in meters"
+Building.StreamGauge.GreatestDepth,Hoogste gemeten: {0},"Level of the greatest noted water depth, {0} stands for this value in meters"
 Building.StreamGauge.Reset,Opnieuw instellen,
 Building.SuspensionBridge.Description,Zorgt ervoor dat bevers over openingen kunnen passerenn.,
 Building.SuspensionBridge.FlavorDescription,Steviger dan het lijkt.,
@@ -524,7 +525,7 @@ Building.SuspensionBridge6x1.DisplayName,Hangbrug 6x1,Numbers at the end denote 
 Building.SuspensionBridgeMetal.FlavorDescription,Zo stevig als het lijkt.,
 Building.SwimmingPool.Description,Een zwembad.,
 Building.SwimmingPool.DisplayName,Zwembad,
-Building.SwimmingPoll.FlavorDescription,"""Dat is een heel goed moment, maar we moeten aan je staartslag werken!"" —Pina","Backstroke is a swimming style, but beavers also have tails. Pina is a younger beaver figure that's exploring the world and isn't related to any faction in particular. Pina as a name relates to the pine tree, the translated name shouldn't suggest a gender if possible."
+Building.SwimmingPoll.FlavorDescription,"""Dat is een heel goede tijd, maar we moeten aan je staartslag werken!"" —Pina","Backstroke is a swimming style, but beavers also have tails. Pina is a younger beaver figure that's exploring the world and isn't related to any faction in particular. Pina as a name relates to the pine tree, the translated name shouldn't suggest a gender if possible."
 Building.TappersShack.Description,Heeft tappers in dienst die sap en siroop van bomen verzamelen.,
 Building.TappersShack.DisplayName,Tappers hut,"A shack where workers tap trees to gather sap and syrups, similar to sugar shacks in Canada."
 Building.TappersShack.FlavorDescription,"De jongen leren al vroeg dat elke druppel telt, of het nu water of hars is.",
@@ -542,7 +543,7 @@ Building.TripleLodge.Description,Huisvest veel bevers.,Houses thrice the amounts
 Building.TripleLodge.DisplayName,Driedubbele Hut,
 Building.TripleLodge.FlavorDescription,"""Ga heen en vermenigvuldig u"" is een gezegde dat Volkstaarten serieus nemen.",Go Forth and multiply is a biblical quote.
 Building.TriplePlatform.DisplayName,Driedubbel platform,Triple as triple the height of a normal platform
-Building.TriplePlatform.FlavorDescription,Het knagen op palen is ten strengste verboden!,
+Building.TriplePlatform.FlavorDescription,Het knagen aan palen is ten strengste verboden!,
 Building.Tubeway.Description,"Een snel, maar krap, vervoermiddel voor bevers.",
 Building.Tubeway.DisplayName,Metro,"Tubeways are used as a network of large pipes for faster transportation around the map. Departure and arrival  happens in Building.TubewayStation.DisplayName, so they should be named similarly."
 Building.TubewayStation.Description,Fungeert als in- en uitgang van het Metro-netwerk.,
@@ -556,7 +557,7 @@ Building.WaterPump.Description,Pompt en filtert water voor bevers om te drinken.
 Building.WaterPump.DisplayName,Waterpomp,
 Building.WaterPump.FlavorDescription,Een slok vers water is voldoende om je weer op te peppen.,"""Pump"" pun, feel free to adapt."
 Building.WaterSource.DisplayName,Waterbron,
-Building.WaterSource.FlavorDescription,"""Moge jouw rivier altijd stromen."" —Bevergroting",
+Building.WaterSource.FlavorDescription,"""Moge jouw rivier altijd stromen."" —Bevergroet",
 Building.WaterWheel.Description,"Produceert energie, moet in het water op de oever van een rivier worden geplaatst.",Power is not an electrical but mechanical/kinetic energy.
 Building.WaterWheel.DisplayName,Waterrad,
 Building.WaterWheel.FlavorDescription,Het meesterwerk van Ouwe Kazko.,"Ol' Kazko is a legendary forefather of modern beavers, famous inventor, pioneer of rapid industrialization."
@@ -575,12 +576,12 @@ Building.WoodFence.DisplayName,Houten hek,
 Building.WoodFence.FlavorDescription,"Het is een soort dam, maar dan voor bevers.",
 Building.WoodWorkshop.Description,Versterkt planken door ze te verrijken met hars.,It produces treated / impregnated planks. The resin used is a pine resin.
 Building.WoodWorkshop.DisplayName,Houtwerkplaats,It produces treated / impregnated planks. Do NOT use the same term as lumber mill.
-Building.WoodWorkshop.FlavorDescription,Waarom zijn behandelde planken zo sterk? Omdat het harsen zijn.,"'Because resins' sounds like 'Because reasons', wordplay on an older meme."
+Building.WoodWorkshop.FlavorDescription,Waarom zijn behandelde planken zo sterk? Door hars natuurlijk!,"'Because resins' sounds like 'Because reasons', wordplay on an older meme."
 Building.WoodenStairs.DisplayName,Houten trappen,
 Building.WoodenStairs.FlavorDescription,Met de uitvinding van de trap konden bevers naar het volgende niveau klimmen.,
 Building.ZiplineBeam.Description,Een horizontale balk waaraan de kabels van de kabelbaan tussen de stations hangen.,
 Building.ZiplineBeam.DisplayName,Tokkelbaan-balk,"A horizontal pole with an anchor point at its end that serves as a base for connecting zipline networks, which are used by beavers to travel faster around the map. Departure and arrival happens in Building.ZiplineStation.DisplayName, so they should be named similarly."
-Building.ZiplinePylon.Description,Een toren met de tokkelbanen tussen de stations.,
+Building.ZiplinePylon.Description,Een pyloon waaraan de kabels van de kabelbaan tussen de stations hangen.,
 Building.ZiplinePylon.DisplayName,Tokkelbaan-pyloon,"A high pole that serves as a base for connecting zipline networks, which are used by beavers to travel faster around the map. Departure and arrival happens in Building.ZiplineStation.DisplayName, so they should be named similarly."
 Building.ZiplineStation.Description,Een snelle en spannende manier van reizen.,
 Building.ZiplineStation.DisplayName,Tokkelbaan-station,"A station used for boarding zipline networks. They can be extended further using Building.ZiplinePylon.DisplayName, so they should be named similarly."
@@ -588,15 +589,15 @@ BuildingTools.CantUnlock,"Kan {0} niet ontgrendelen, te weinig wetenschapspunten
 BuildingTools.DistrictsInConflict,Districten moeten gescheiden worden door een districtsovergang.,A warning when a player tries to connect two districts without separating them with a District Crossing. District Crossing should be the same as Building.DistrictCrossing.DisplayName
 BuildingTools.Multiple,Houd <b>LMB</b> ingedrukt om meerdere objecten te plaatsen,Tooltip that tells the players that they can place multiple objects at once
 BuildingTools.UnlockLabel,Ontgrendel:,"Label of the button that unlocks the building, please keep short."
-BuildingTools.UnlockPrompt,Weet je zeker dat je {0} wilt ontgrendelen? Het kost {1} Science Points.,{0} stands for Building.DisplayName {1} stands for amount. Prompt when player presses to unlock a building.
+BuildingTools.UnlockPrompt,Weet je zeker dat je {0} wilt ontgrendelen? Het kost {1} Wetenschapspunten.,{0} stands for Building.DisplayName {1} stands for amount. Prompt when player presses to unlock a building.
 Buildings.AboveGround,<SolidHighlight>Bovengronds:</SolidHighlight> Moet bovenop andere gebouwen worden geplaatst.,
 Buildings.BottomConstraint,Dit kan niet onderaan de kaart worden gebouwd.,An alert for when someone tries to build at the lowest layer of the map.
 Buildings.DeletePrompt,Weet je zeker dat je het geselecteerde gebouw wilt slopen? Je kunt dit niet ongedaan maken.,
 Buildings.EntranceBlocked,Ingang geblokkeerd.,"A notification for when a building entrance is blocked, keep it short"
 Buildings.GroundOnly,<SolidHighlight>Alleen op de grond:</SolidHighlight> Moet op de grond worden gebouwd.,
 Buildings.InvalidTerrainLevel,Dit kan niet onderaan de kaart worden gebouwd.,An alert for when someone tries to build at the lowest layer of the map.
-Buildings.Solid,<SolidHighlight>Massief:</SolidHighlight> Er kunnen andere gebouwen op de bovenkant worden gebouwd.,Solid or Stackable — something that tells the player that you can build on top of it
-Buildings.TopConstraint,Op die hoogte kan het niet gebouwd worden.,An alert for when someone tries to build forbidden buildings at the max terrain level of the map.
+Buildings.Solid,<SolidHighlight>Stevig:</SolidHighlight> Er kunnen andere gebouwen op de bovenkant worden gebouwd.,Solid or Stackable — something that tells the player that you can build on top of it
+Buildings.TopConstraint,Dit kan niet op deze hoogte gebouwd worden.,An alert for when someone tries to build forbidden buildings at the max terrain level of the map.
 Buildings.UnsuitableBuildingAbove,Kan {0} niet op {1} plaatsen,"Shown when the player tries to place a building on top of another (invalid) building, {0} and {1} stand for buildings DisplayName."
 Buildings.UnsuitableBuildingBelow,Dit gebouw moet bovenop {0} worden gebouwd,{0} stands for another buildings DisplayName. This is a warning shown to the user during building placing.
 Buildings.WaterAccess,<SolidHighlight>Afhankelijk van water:</SolidHighlight> Vereist toegang tot water.,
@@ -610,30 +611,30 @@ Clusters.SharesPower,Deelt de stroomvoorziening met aangrenzende gebouwen.,Power
 CrashScreen.CommentPlaceholder,Optioneel commentaar voor ons team,Shown in a crash screen text field where players can optionally enter a comment that will help track down the bug
 CrashScreen.HowToFindReport,Hier kunt je zien welke gegevens in het rapport worden opgenomen:,
 CrashScreen.Introduction,"Dat was onverwacht. De schuld ligt bij ons, maar je kunt ons helpen het probleem op te lossen door een crashrapport te sturen.",
-CrashScreen.ManualInstructions,U kunt het rapport ook handmatig verzenden:,
+CrashScreen.ManualInstructions,Je kunt het rapport ook handmatig verzenden:,
 CrashScreen.ModdedIntroduction,Het lijkt erop dat je een aangepaste versie van het spel gebruikt. Dit is waarschijnlijk de oorzaak van de crash.,
 CrashScreen.ModdedInstructions,Instructies over het verwijderen van mods vindt je hier:,
-CrashScreen.PrivacyPolicyAccept,Ik accepteer de,Next to a checkbox and followed by CrashScreen.PrivacyPolicyLink
+CrashScreen.PrivacyPolicyAccept,Ik accepteer het,Next to a checkbox and followed by CrashScreen.PrivacyPolicyLink
 CrashScreen.PrivacyPolicyLink,Privacybeleid,Preceded by a checkbox and CrashScreen.PrivacyPolicyToggle
 CrashScreen.SendFail,"Verzenden mislukt, klik om opnieuw te proberen",
 CrashScreen.SendReport,Stuur een foutrapport naar het Timberborn-team,
-CrashScreen.SendSuccess,"Wij hebben je melding ontvangen, bedankt!",
+CrashScreen.SendSuccess,"We hebben je melding ontvangen, bedankt!",
 CrashScreen.Sending,Verzenden...,
 CrashScreen.Title,Oei... een bug :'(,
 Condition.DisplayName,Voorwaarde,"Bot equivalent of wellbeing (how good they are taken care of, how good their mechanical condition is)"
-Console.CloseButton,Dichtbij,Label of the button that closes the console
+Console.CloseButton,Sluiten,Label of the button that closes the console
 Console.Collapse,▲ Inklappen,Label of the button that collapses the console vertically. Please keep the arrow.
-Console.Expand,▼ Uitbreiden,Label of the button that expands the console vertically. Please keep the arrow.
+Console.Expand,▼ Uitvouwen,Label of the button that expands the console vertically. Please keep the arrow.
 Console.OpenDirectoryButton,Logboekmap openen,Label of the button that opens the folder with logs
 ConstructionSites.DisplayName,Bouwplaats,
 ConstructionSites.Priority,Bouwprioriteit,
 ConstructionSites.PriorityTitle,Bouwprioriteit:,Setting a priority for construction work on a construction site
 ConstructionSites.Progress,Voortgang: {0}%,{0} stands for percentage of construction progress
 ConstructionSites.Info.WaitingForMaterials,(wachten op materialen),Awaiting new materials to build
-Core.BrowseDirectory,Blader door de directory ►,Opens file browser to either save folder or map folder. Please keep the arrow.
+Core.BrowseDirectory,Door bestanden bladeren ►,Opens file browser to either save folder or map folder. Please keep the arrow.
 Core.Cancel,Annuleren,A button please keep short
-Core.EmptyList,Er is hier nog niets.,A text shown in a list that does not contain any elements.
-Core.GameTip,"Tip: Als een gebouw is gemarkeerd als <SolidHighlight>Massief</SolidHighlight>, zoals een lodge of een pakhuis, kun je andere structuren op het dak bouwen.",Tip that shows up while the game is loading. Solid is a keyword.
+Core.EmptyList,Hier is nog niets.,A text shown in a list that does not contain any elements.
+Core.GameTip,"Tip: Als een gebouw is gemarkeerd als <SolidHighlight>Stevig</SolidHighlight>, zoals een hut of een magazijn, kun je andere gebouwen op het dak bouwen.",Tip that shows up while the game is loading. Solid is a keyword.
 Core.Load,Laden,A button please keep short
 Core.Loading,LADEN,Used in loading screen during loading
 Core.NavigationNext,Volgende,Used in forms to navigate to the next step.
@@ -654,14 +655,15 @@ Demolish.Mark,Sloop,Demolishing is removing with the use of builders. Must be di
 Demolish.PriorityTitle,Sloopprioriteit:,Setting a priority for demolition work on demolition target
 DemolishSelectionTool.Description,Gebruik het om de resources te markeren die je wilt slopen. Alle resources gaan verloren.,
 DemolishSelectionTool.Title,Markeer bronnen voor sloop,
-DemolishUnselectionTool.Title,Markeer bronnen voor sloop niet meer,
+DemolishUnselectionTool.Title,Annuleer sloop,
 DemolishUnselectionTool.Description,"Gebruik het om de markering van grondstoffen die voor sloop zijn gemarkeerd, ongedaan te maken.",
-DeletionBlocker.ObjectAtop,Er staat een constructie bovenop.,Shown when the player tries to delete a structure that has another structure on top.
+DeletionBlocker.ObjectAtop,Er staat een gebouw bovenop.,Shown when the player tries to delete a structure that has another structure on top.
 DeletionBlocker.Prefix,Kan niet verwijderd worden.,Tooltip prefix for the delete button when the object cannot be deleted.
 DeletionBlocker.TerrainAtTop,Er is terrein bovenop.,Shown when the player tries to delete a structure that has terrain on top.
 DeletionTool.Description.Buildings,Gebruik deze tool om gebouwen te slopen. Een deel van de bouwmaterialen en alle opgeslagen goederen vormen een herwinbaar puin.,"Rubble should be the same as RecoveredGoodStack.DisplayName, ""Stored goods"" could be translated similar to Building.SmallWarehouse.Description"
 DeletionTool.Description.Objects,Gebruik dit hulpmiddel om objecten te verwijderen.,
 DeletionTool.Description.RecoveredGoodStack,"Gebruik deze tool om puin te verwijderen. Resources die in het puin zijn opgeslagen, gaan verloren.",Rubble should be the same as RecoveredGoodStack.DisplayName
+DeletionTool.ObjectAtopTooltip,Kan niet verwijderd worden. Er staat een gebouw bovenop.,Tooltip for the delete button when the object cannot be deleted because there is another object on top of it.
 DeletionTool.Prompt.Buildings,Weet je zeker dat je de geselecteerde gebouwen wilt slopen? Je kunt dit niet ongedaan maken.,
 DeletionTool.Prompt.Objects,Weet je zeker dat je de geselecteerde objecten wilt vernietigen? Je kunt dit niet ongedaan maken.,
 DeletionTool.Title.Buildings,Gebouwen slopen,
@@ -676,9 +678,9 @@ Distribution.ImportAuto.Description,Importeer de goederen alleen als er voldoend
 Distribution.ImportAutoAll,Importeer alles indien nodig,A setting for the distribution panel that makes it so all goods are imported if there's a storage that needs them.
 Distribution.ImportDisabled,Niet importeren,A setting for the distribution panel that disables import of the chosen good.
 Distribution.ImportDisabled.Description,Schakel de import van de goederen naar het district volledig uit.,
-Distribution.ImportDisabledAll,Importeer geen,A setting for the distribution panel that makes it so no goods are imported.
+Distribution.ImportDisabledAll,Importeer niets,A setting for the distribution panel that makes it so no goods are imported.
 Distribution.ImportForced,Altijd importeren,"A setting for the distribution panel that makes it so all goods are imported alwyas, even if there's no storage for it."
-Distribution.ImportForced.Description,"Importeer de goederen altijd naar District Crossing, zelfs als er geen passende vraag is vanuit de opslag of op de werkplek.",
+Distribution.ImportForced.Description,"Importeer de goederen altijd naar District Overgang, zelfs als er geen vraag naar is.",
 Distribution.ImportForcedAll,Importeer altijd alles,"District Crossing should be the same as in Building.DistrictCrossing.DisplayName. A setting for the distribution panel that makes it so all goods are imported. Additionally, it takes into account internal storage of the District Crossing building."
 Distribution.ImportGoodTooltip.Disabled,Importeren uitgeschakeld door distributie-instellingen.,"The text shown on a good's tooltip when its import option is set to ""Do not import"""
 Distribution.ImportGoodTooltip.Forced,Import geforceerd door distributie-instellingen.,"The text shown on a good's tooltip when its import option is set to ""Import always"""
@@ -686,7 +688,7 @@ Distribution.ImportGoodTooltip.Importable,Import mogelijk gemaakt door opslag en
 Distribution.ImportGoodTooltip.NonImportable,Import geblokkeerd door gebrek aan opslag en vraag op de werkplek in dit district.,"The text shown on a good's tooltip when it is not importable. ""Storage and workplace demand"" should be the same as in Distribution.ImportAuto.Description"
 Distribution.ImportedGoods,Geïmporteerde goederen,The header of the panel that shows importable and non-importable goods
 Distribution.ManageDistribution,Distributie beheren,Label for button that opens distribution panel. Distribution should be the same as in BatchControl.Distribution
-Distribution.Reset,Alles terugzetten naar standaard,A button that resets distribution settings to default.
+Distribution.Reset,Naar standaardwaarden resetten,A button that resets distribution settings to default.
 Districts.DefaultDistrictName,District {0},"{0} is a number. By default districts are named District 1, District 2 etc."
 Districts.Districts,Districten,
 Districts.GlobalView,Globale weergave,
@@ -720,30 +722,30 @@ Faction.Folktails.DisplayName,Volkstaarten,Name of a faction
 Faction.IronTeeth.Description,"Overlopers van de traditionele houtmanieren, ze beheersten ijzer en wetenschap om geavanceerde machines te bouwen.
 Ze bereiken vooruitgang door vindingrijkheid, efficiëntie en minachting voor het milieu. 
 Hun motto: <i>Werk hard, werk hard.</i>",Description of a beaver faction
-Faction.IronTeeth.DisplayName,Ijzeren tanden,Name of a faction
+Faction.IronTeeth.DisplayName,Ijzertanden,Name of a faction
 Faction.Folktails.GameOver.Flavor,"Wanneer je de gaven van de natuur niet benut, dan neemt de natuur ze weer terug.",Flavor text of the game over panel
 Faction.IronTeeth.GameOver.Flavor,Soms kan een klein defect onderdeel de hele machine kapotmaken.,Flavor text of the game over panel
 Faction.Folktails.GameOver.Message,Jouw Volkstaarten ondergingen het trieste lot van hun menselijke voorgangers. Dit is het einde.,Text of the game over panel
-Faction.IronTeeth.GameOver.Message,Je Iron Teeth-schikking viel zonder kans op herstel. Dit is het einde.,Text of the game over panel
+Faction.IronTeeth.GameOver.Message,Je Ijzertand-nederzetting viel zonder kans op herstel. Dit is het einde.,Text of the game over panel
 Faction.Folktails.WonderCompletionFlavor,"Nadat ze grote rijkdom en kennis hadden verzameld, deelden je bevers de vruchten van hun arbeid met de lijdende planeet. Er is nog veel te doen, maar de aarde kan weer floreren.",Flavor text shown when the player has mastered a map with the Folktails faction. Mastery means building and activating a Wonder.
 Faction.Folktails.WonderCompletionMessage,Gefeliciteerd! Je hebt de natuurgerichte manieren van Volkstaarten onder de knie en hebt de bronnen van deze kaart gebruikt om het wonder van de factie te bouwen.,A message that is shown when the player has mastered a map with the Folktails faction. Mastery means building and activating a Wonder.
-Faction.IronTeeth.WonderCompletionFlavor,"Jullie pioniers vlogen weg over de woestenij en lieten de bloeiende nederzetting achter zich. Als de aarde wil herstellen, moest de nieuw gevonden beverwelvaart gedeeld worden.",Flavor text shown when the player has mastered a map with the Folktails faction. Mastery means building and activating a Wonder.
-Faction.IronTeeth.WonderCompletionMessage,"Goed gedaan! Dankzij je technologische vaardigheden kon je de ijverige krachten van de Iron Teeth benutten, deze kaart veroveren en het wonder van de factie bouwen.",A message that is shown when the player has mastered a map with the Iron Teeth faction. Mastery means building and activating a Wonder.
+Faction.IronTeeth.WonderCompletionFlavor,"Jouw pioniers vlogen weg over de woestenij en lieten de bloeiende nederzetting achter zich. Als de aarde wil herstellen, moest de nieuw gevonden beverwelvaart gedeeld worden.",Flavor text shown when the player has mastered a map with the Folktails faction. Mastery means building and activating a Wonder.
+Faction.IronTeeth.WonderCompletionMessage,"Goed gedaan! Dankzij je technologische vaardigheden kon je de ijverige krachten van de Ijzertanden benutten, deze kaart veroveren en het wonder van de factie bouwen.",A message that is shown when the player has mastered a map with the Iron Teeth faction. Mastery means building and activating a Wonder.
 FactionSelection.Header,Selecteer factie,
 FactionSelection.NewFactionUnlocked,Nieuwe factie ontgrendeld:,Followed by the name of a faction in new line
 FactionSelection.WellbeingCondition,Om te ontgrendelen moet je een gemiddeld welzijn van {0} bereiken terwijl je {1} speelt.,{0} stands for a number {1} stand for Faction.DisplayName
 Fields.Harvesting,Oogsten,Preceded by Fields.PriorityAction
 Fields.Planting,Planten,Preceded by Fields.PriorityAction
-Fields.PriorityAction,Prioritaire actie:,Which of the actions is prioritized.
+Fields.PriorityAction,Handeling prioriteren:,Which of the actions is prioritized.
 FileBrowser.Header,Selecteer bestand,Header of the file browser window.
-FileBrowser.NoPermission,U hebt geen toestemming om deze map te openen.,Shown in the file browser when the user doesn't have permission to access the selected folder.
+FileBrowser.NoPermission,Je hebt geen toestemming om deze map te openen.,Shown in the file browser when the user doesn't have permission to access the selected folder.
 FileBrowser.Open,Open,Label of the button that opens currently selected directory or loads currently selected file.
 FlexibleStart.ChooseStartLocation,Kies startlocatie,Text shown when the player is choosing a new starting location.
 FlexibleStart.Relocate,Startlocatie wijzigen,Label of a button for changing the starting location.
 FlexibleStart.ResetStartLocation,Resetten naar standaard,Label of a button for bringing back the initial starting location.
 FlexibleStart.Start,Begin!,Label of a button for confirming a start location on map and starting a new game.
 FlexibleStart.Unlocked,Flexibele start ontgrendeld,Flexible start means that player can choose any starting location on the map
-GameExitPanel.Exit,Uitgang,A button please keep short
+GameExitPanel.Exit,Afsluiten,A button please keep short
 GameExitPanel.Message,"Voordat je gaat, kun je ons helpen het spel te verbeteren door je feedback met ons te delen.",
 GameExitPanel.ShareFeedback,Feedback delen,A button please keep short
 GameExitPanel.Title,Bedankt voor het spelen van Timberborn Early Access!,
@@ -757,40 +759,40 @@ Goals.Button,Doelen,A button please keep short
 Goals.NotEligible,Niet geldig tijdens het spelen van deze factie!,Preceded by Goals.Progress
 Goals.Unlocked,ontgrendeld!,Preceded by Goals.Progress
 Goals.Progress,Voortgang:,
-Good.Algae.DisplayName,Algen,"Algae that's been cultivated in the Hydroponic Garden, it's processed into an edible ration. It doesn't specifically represent any specific algae kind."
+Good.Algae.DisplayName,Alge,"Algae that's been cultivated in the Hydroponic Garden, it's processed into an edible ration. It doesn't specifically represent any specific algae kind."
 Good.Algae.PluralDisplayName,Algen,"Algae that's been cultivated in the Hydroponic Garden, it's processed into an edible ration. It doesn't specifically represent any specific algae kind."
 Good.AlgaeRation.DisplayName,Algenrantsoen,"Algae should be the same as in Good.Algae.DisplayName. Ration should be consistent between Good.AlgaeRation.DisplayName, Good.CornRation.DisplayName, Good.EggplantRation.DisplayName and Building.FoodFactory.Description"
 Good.AlgaeRation.PluralDisplayName,Algenrantsoenen,Algae should be the same as in Good.Algae.DisplayName
-Good.Antidote.DisplayName,Tegengif,Antidote made out of natural resources (used to heal badwater contamination).
-Good.Antidote.PluralDisplayName,Tegengif,Antidote made out of natural resources (used to heal badwater contamination).
-Good.Badwater.DisplayName,Badwater,"A toxic liquid resource, a remnant of human civilization that contaminates the land, plants, and beavers. It flows on the maps in the form of toxic rivers. The name comes from 'bad' and 'water' and it does not refer to any actual resource or place in the real world, it is a name that beavers came up with. Please note that this term is very important because it is one of the core aspects of the game, the resource is as abundant in the game as normal water. If you have any doubts about the meaning of the word, please contact the developers."
-Good.Badwater.PluralDisplayName,Badwater,"A toxic liquid resource, a remnant of human civilization that contaminates the land, plants, and beavers. It flows on the maps in the form of toxic rivers. The name comes from 'bad' and 'water' and it does not refer to any actual resource or place in the real world, it is a name that beavers came up with. Please note that this term is very important because it is one of the core aspects of the game, the resource is as abundant in the game as normal water. If you have any doubts about the meaning of the word, please contact the developers."
+Good.Antidote.DisplayName,Medicijn,Antidote made out of natural resources (used to heal badwater contamination).
+Good.Antidote.PluralDisplayName,Medicijn,Antidote made out of natural resources (used to heal badwater contamination).
+Good.Badwater.DisplayName,Slechtwater,"A toxic liquid resource, a remnant of human civilization that contaminates the land, plants, and beavers. It flows on the maps in the form of toxic rivers. The name comes from 'bad' and 'water' and it does not refer to any actual resource or place in the real world, it is a name that beavers came up with. Please note that this term is very important because it is one of the core aspects of the game, the resource is as abundant in the game as normal water. If you have any doubts about the meaning of the word, please contact the developers."
+Good.Badwater.PluralDisplayName,Slechtwater,"A toxic liquid resource, a remnant of human civilization that contaminates the land, plants, and beavers. It flows on the maps in the form of toxic rivers. The name comes from 'bad' and 'water' and it does not refer to any actual resource or place in the real world, it is a name that beavers came up with. Please note that this term is very important because it is one of the core aspects of the game, the resource is as abundant in the game as normal water. If you have any doubts about the meaning of the word, please contact the developers."
 Good.Berries.DisplayName,Bessen,Resource name
 Good.Berries.PluralDisplayName,Bessen,Resource name
 Good.Biofuel.DisplayName,Biobrandstof,Fuel made out of natural resources like plants.
 Good.Biofuel.PluralDisplayName,Biobrandstof,Fuel made out of natural resources like plants.
 Good.Book.DisplayName,Boek,Resource name
 Good.Book.PluralDisplayName,Boeken,Resource name
-Good.BotChassis.DisplayName,Bot-chassis,A big bot part that holds most of the machinery inside. Bot should be the same as Bot.PrefabName.
-Good.BotChassis.PluralDisplayName,Bot-chassis,A big bot part that holds most of the machinery inside. Bot should be the same as Bot.PrefabName.
-Good.BotHead.DisplayName,Bot hoofd,A head of a bot. Bot should be the same as Bot.PrefabName.
-Good.BotHead.PluralDisplayName,Bot-hoofden,A head of a bot. Bot should be the same as Bot.PrefabName.
-Good.BotLimb.DisplayName,Bot ledemaat,An unspecified limb of a bot. Bot should be the same as Bot.PrefabName.
-Good.BotLimb.PluralDisplayName,Bot ledematen,An unspecified limb of a bot. Bot should be the same as Bot.PrefabName.
+Good.BotChassis.DisplayName,Robot-chassis,A big bot part that holds most of the machinery inside. Bot should be the same as Bot.PrefabName.
+Good.BotChassis.PluralDisplayName,Robot-chassis,A big bot part that holds most of the machinery inside. Bot should be the same as Bot.PrefabName.
+Good.BotHead.DisplayName,Robot-hoofd,A head of a bot. Bot should be the same as Bot.PrefabName.
+Good.BotHead.PluralDisplayName,Robot-hoofden,A head of a bot. Bot should be the same as Bot.PrefabName.
+Good.BotLimb.DisplayName,Robot-ledemaat,An unspecified limb of a bot. Bot should be the same as Bot.PrefabName.
+Good.BotLimb.PluralDisplayName,Robot-ledematen,An unspecified limb of a bot. Bot should be the same as Bot.PrefabName.
 Good.Bread.DisplayName,Brood,Resource name
 Good.Bread.PluralDisplayName,Brood,Resource name
-Good.CanolaOil.DisplayName,Canola-olie,Canola should be the same as in Good.CanolaSeeds.DisplayName.
-Good.CanolaOil.PluralDisplayName,Canola-olie,Canola should be the same as in Good.CanolaSeeds.DisplayName.
-Good.CanolaSeeds.DisplayName,Canola zaden,An oil crop that grows tall and is full of yellow flowers.
-Good.CanolaSeeds.PluralDisplayName,Canola zaden,An oil crop that grows tall and is full of yellow flowers.
+Good.CanolaOil.DisplayName,Raapzaad-olie,Canola should be the same as in Good.CanolaSeeds.DisplayName.
+Good.CanolaOil.PluralDisplayName,Raapzaad-olie,Canola should be the same as in Good.CanolaSeeds.DisplayName.
+Good.CanolaSeeds.DisplayName,Raapzaad-pitten,An oil crop that grows tall and is full of yellow flowers.
+Good.CanolaSeeds.PluralDisplayName,Raapzaad-pitten,An oil crop that grows tall and is full of yellow flowers.
 Good.Carrot.DisplayName,Wortel,Resource name
 Good.Carrot.PluralDisplayName,Wortelen,Resource name
 Good.Cassava.DisplayName,Cassave,"A root vegetable that's poisonous to eat raw, also known as manioc or yuca."
 Good.Cassava.PluralDisplayName,Cassave,"A root vegetable that's poisonous to eat raw, also known as manioc or yuca."
 Good.Catalyst.DisplayName,Katalysator,"A potent Biofuel reagent, allowing bots to work and move faster."
 Good.Catalyst.PluralDisplayName,Katalysator,Plural form of Good.Catalyst.DisplayName
-Good.CattailCracker.DisplayName,Kraker van lisdodde,"Crackers made from flour made from roots of the plant of a genus Typha, keep plant name same as NaturalResource.Cattail.DisplayName"
-Good.CattailCracker.PluralDisplayName,Crackers van lisdodde,"Crackers made from flour made from roots of the plant of a genus Typha, keep plant name same as NaturalResource.Cattail.DisplayName"
+Good.CattailCracker.DisplayName,Lisdodde cracker,"Crackers made from flour made from roots of the plant of a genus Typha, keep plant name same as NaturalResource.Cattail.DisplayName"
+Good.CattailCracker.PluralDisplayName,Lisdodde crackers,"Crackers made from flour made from roots of the plant of a genus Typha, keep plant name same as NaturalResource.Cattail.DisplayName"
 Good.CattailFlour.DisplayName,Lisdoddemeel,"Flour made from roots of the plant of a genus Typha, keep plant name same as NaturalResource.Cattail.DisplayName"
 Good.CattailFlour.PluralDisplayName,Lisdoddemeel,"Flour made from roots of the plant of a genus Typha, keep plant name same as NaturalResource.Cattail.DisplayName"
 Good.CattailRoot.DisplayName,Lisdodde wortel,"Root of plant of a genus Typha, keep plant name same as NaturalResource.Cattail.DisplayName"
@@ -807,25 +809,25 @@ Good.CornRation.DisplayName,Maïs rantsoen,"Corn should be the same as Good.Corn
 Good.CornRation.PluralDisplayName,Maïsrantsoenen,"Corn should be the same as Good.Corn.DisplayName. Ration should be consistent between Good.AlgaeRation.DisplayName, Good.CornRation.DisplayName, Good.EggplantRation.DisplayName and Building.FoodFactory.Description"
 Good.Dandelion.DisplayName,Paardebloem,Healing plant
 Good.Dandelion.PluralDisplayName,Paardenbloemen,Healing plant
-Good.Dirt.DisplayName,Vuil,A resource dug out from ground and used to create blocks of terrain
-Good.Dirt.PluralDisplayName,Vuil,Plural form of Good.Dirt.DisplayName
+Good.Dirt.DisplayName,Zand,A resource dug out from ground and used to create blocks of terrain
+Good.Dirt.PluralDisplayName,Zand,Plural form of Good.Dirt.DisplayName
 Good.Eggplant.DisplayName,Aubergine,"Ordinary deep purple eggplant, also known as aubergine."
 Good.Eggplant.PluralDisplayName,Aubergines,"Ordinary deep purple eggplant, also known as aubergine."
 Good.EggplantRation.DisplayName,Aubergine rantsoen,"Eggplant should be the same as Good.Eggplant.DisplayName. Ration should be consistent between Good.AlgaeRation.DisplayName, Good.CornRation.DisplayName, Good.EggplantRation.DisplayName and Building.FoodFactory.Description"
 Good.EggplantRation.PluralDisplayName,Aubergine rantsoenen,"Eggplant should be the same as Good.Eggplant.DisplayName. Ration should be consistent between Good.AlgaeRation.DisplayName, Good.CornRation.DisplayName, Good.EggplantRation.DisplayName and Building.FoodFactory.Description"
 Good.Extract.DisplayName,Extract,"A liquid resource produced from badwater in centrifuges which is used for manufacturing advanced buildings, machines and dynamite. While raw badwater is dangerous, extract is a useful chemical."
 Good.Extract.PluralDisplayName,Extract,"A liquid resource produced from badwater in centrifuges which is used for manufacturing advanced buildings, machines and dynamite. While raw badwater is dangerous, extract is a useful chemical."
-Good.Explosives.DisplayName,Explosieven,Resource name. Not to be confused with the Dynamite building.
+Good.Explosives.DisplayName,Explosief,Resource name. Not to be confused with the Dynamite building.
 Good.Explosives.PluralDisplayName,Explosieven,Resource name. Not to be confused with the Dynamite building.
 Good.FermentedCassava.DisplayName,Gefermenteerde cassave,"Cassava should be the same as Good.Cassava.DisplayName, fermented should be the same as in Building.Fermenter.DisplayName or Building.Fermenter.Description"
 Good.FermentedCassava.PluralDisplayName,Gefermenteerde cassave,"Cassava should be the same as Good.Cassava.DisplayName, fermented should be the same as in Building.Fermenter.DisplayName or Building.Fermenter.Description"
 Good.FermentedMushroom.DisplayName,Gefermenteerde paddenstoel,"Mushroom should be the same as Good.Mushroom.DisplayName, fermented should be the same as in Building.Fermenter.DisplayName or Building.Fermenter.Description"
 Good.FermentedMushroom.PluralDisplayName,Gefermenteerde paddenstoelen,"Mushroom should be the same as Good.Mushroom.DisplayName, fermented should be the same as in Building.Fermenter.DisplayName or Building.Fermenter.Description"
-Good.FermentedSoybean.DisplayName,Gefermenteerde sojabonen,"Soybean should be the same as Good.Soybean.DisplayName, fermented should be the same as in Building.Fermenter.DisplayName or Building.Fermenter.Description"
+Good.FermentedSoybean.DisplayName,Gefermenteerde sojaboon,"Soybean should be the same as Good.Soybean.DisplayName, fermented should be the same as in Building.Fermenter.DisplayName or Building.Fermenter.Description"
 Good.FermentedSoybean.PluralDisplayName,Gefermenteerde sojabonen,"Soybean should be the same as Good.Soybean.DisplayName, fermented should be the same as in Building.Fermenter.DisplayName or Building.Fermenter.Description"
 Good.Flour.DisplayName,Meel,Resource name
 Good.Flour.PluralDisplayName,Meel,Resource name
-Good.Gear.DisplayName,Versnelling,Resource name
+Good.Gear.DisplayName,Tandwiel,Resource name
 Good.Gear.PluralDisplayName,Tandwielen,Resource name
 Good.Grease.DisplayName,Vet,Grease is a good used as lubricant for IronTeeth faction bot machinery to increase their performance.
 Good.Grease.PluralDisplayName,Vet,Grease is a good used as lubricant for IronTeeth faction bot machinery to increase their performance.
@@ -835,14 +837,14 @@ Good.GrilledPotato.DisplayName,Gegrilde aardappel,Resource name
 Good.GrilledPotato.PluralDisplayName,Gegrilde aardappelen,Resource name
 Good.GrilledSpadderdock.DisplayName,Gegrilde zeekraal,"Grilled plant Nuphar Lutea, keep plant name same as NaturalResource.Spadderdock.DisplayName"
 Good.GrilledSpadderdock.PluralDisplayName,Gegrilde zeekraal,"Grilled plant Nuphar Lutea, keep plant name same as NaturalResource.Spadderdock.DisplayName"
-Good.Kohlrabi.DisplayName,Koolraap,"Also called German turnip or turnip cabbage, it's a big, round turnip plant."
+Good.Kohlrabi.DisplayName,Koolrabi,"Also called German turnip or turnip cabbage, it's a big, round turnip plant."
 Good.Kohlrabi.PluralDisplayName,Koolrabiës,"Also called German turnip or turnip cabbage, it's a big, round turnip plant."
-Good.Log.DisplayName,Log,Resource name
-Good.Log.PluralDisplayName,Logboeken,Resource name
+Good.Log.DisplayName,Boomstam,Resource name
+Good.Log.PluralDisplayName,Boomstammen,Resource name
 Good.MangroveFruit.DisplayName,Mangrovevrucht,"Fruit of the mangrove tree, mangrove should be the same as in NaturalResource.Mangrove.DisplayName"
 Good.MangroveFruit.PluralDisplayName,Mangrovevruchten,"Fruit of the mangrove tree, mangrove should be the same as in NaturalResource.Mangrove.DisplayName"
-Good.MaplePastry.DisplayName,Esdoorngebak,A baked good filled with maple syrup.
-Good.MaplePastry.PluralDisplayName,Esdoorn gebak,A baked good filled with maple syrup.
+Good.MaplePastry.DisplayName,Pannenkoek,A baked good filled with maple syrup.
+Good.MaplePastry.PluralDisplayName,Pannenkoeken,A baked good filled with maple syrup.
 Good.MapleSyrup.DisplayName,Ahornsiroop,Sweet syrup created from maple sap
 Good.MapleSyrup.PluralDisplayName,Ahornsiroop,Sweet syrup created from maple sap
 Good.MetalBlock.DisplayName,Metalen blok,Resource name
@@ -863,21 +865,21 @@ Good.ScrapMetal.DisplayName,Schrootmetaal,Resource name
 Good.ScrapMetal.PluralDisplayName,Schrootmetaal,Resource name
 Good.Soybean.DisplayName,Sojaboon,Soybeans can later be made into soy.
 Good.Soybean.PluralDisplayName,Sojabonen,Soybeans can later be made into soy.
-Good.Spadderdock.DisplayName,Spadderdock,A plant formally called Nuphar Lutea
-Good.Spadderdock.PluralDisplayName,Spadderdock,A plant formally called Nuphar Lutea
+Good.Spadderdock.DisplayName,Zeekraal,A plant formally called Nuphar Lutea
+Good.Spadderdock.PluralDisplayName,Zeekralen,A plant formally called Nuphar Lutea
 Good.SunflowerSeeds.DisplayName,Zonnebloempitten,
 Good.SunflowerSeeds.PluralDisplayName,Zonnebloempitten,
 Good.TreatedPlank.DisplayName,Behandelde plank,Plank impregnated with resin. Use the same word for plank as in Good.Plank.
 Good.TreatedPlank.PluralDisplayName,Behandelde planken,Plank impregnated with resin. Use the same word for plank as in Good.Plank.
 Good.Water.DisplayName,Water,Resource name
 Good.Water.PluralDisplayName,Water,Resource name
-Good.Wheat.DisplayName,Tarwe,Resource name
-Good.Wheat.PluralDisplayName,Tarwe,Resource name
-Good.WheatFlour.DisplayName,Tarwemeel,Flour made out of wheat. Use the same name for wheat as in Good.Wheat.
-Good.WheatFlour.PluralDisplayName,Tarwemeel,Flour made out of wheat. Use the same name for wheat as in Good.Wheat.
+Good.Wheat.DisplayName,Graan,Resource name
+Good.Wheat.PluralDisplayName,Graan,Resource name
+Good.WheatFlour.DisplayName,Graanmeel,Flour made out of wheat. Use the same name for wheat as in Good.Wheat.
+Good.WheatFlour.PluralDisplayName,Graanmeel,Flour made out of wheat. Use the same name for wheat as in Good.Wheat.
 GoodConsuming.SupplyDescription,Gebruik: {0},{0} stands for resource name and amount per hour.
 GoodConsuming.SupplyRemaining,De voorraad is beschikbaar voor {0} uur,"{0} stands for hours. Describes a building which requires a certain resources to operate, such as water."
-GoodConsuming.NeedsHaulers,<SolidHighlight>Vereist transporteurs.</SolidHighlight>,"Information, that this building won't be operational without haulers. Haulers are the same as in Building.HaulingPost.Description"
+GoodConsuming.NeedsHaulers,<SolidHighlight>Vereist slepers.</SolidHighlight>,"Information, that this building won't be operational without haulers. Haulers are the same as in Building.HaulingPost.Description"
 Goods.Nothing,Niets,
 Goods.StoredIn,Opgeslagen in:,Header above a list of buildings that store selected good
 GridRendering.Visibility.Hide,Verberg bouwrichtlijnen,Shows construction guidelines when button is pressed.
@@ -896,18 +898,18 @@ Inventory.StockpileOverlay.Show,Opslagoverlay weergeven,Tooltip for button showi
 Inventory.StockpileOverlay.Hide,Opslagoverlay verbergen,Tooltip for button showing overlay over warehouses containing stored goods.
 Inventory.Undesired,Ongewenst:,Please keep short. Which resources are not desired in the storage.
 KeyBindingsPanel.Header,Toetscombinaties,Header of the key bindings box
-Key.DownArrow,Pijltje omlaag,Label of the down arrow key
+Key.DownArrow,Pijl omlaag,Label of the down arrow key
 Key.LeftArrow,Pijl naar links,Label of the left arrow key
-Key.LeftWindows,Linker ramen,Label of the left windows key
+Key.LeftWindows,Linker windows,Label of the left windows key
 Key.RightArrow,Pijl naar rechts,Label of the right arrow key
-Key.RightWindows,Rechter ramen,Label of the right windows key
-Key.Space,Ruimte,Label of the space key
+Key.RightWindows,Rechter windows,Label of the right windows key
+Key.Space,Spatie,Label of the space key
 Key.UpArrow,Pijl omhoog,Label of the up arrow key
-KeyBinding.AlternateClickableAction,Alternatieve knopactie,Label of the key that toggles the alternate action of some buttons
+KeyBinding.AlternateClickableAction,Alternatieve toets,Label of the key that toggles the alternate action of some buttons
 KeyBinding.AttractionsTab,Tabblad Welzijn openen,"Label of the key that opens the Settlement Panel and selects the Attractions tab, Well-being should be the same as Wellbeing.DisplayName"
 KeyBinding.Cancel,Annuleren,Label of the key that cancels actions
 KeyBinding.CharactersTab,Tabblad Bevolking openen,"Label of the key that opens the Settlement Panel and selects the Characters tab, Population should be the same as BatchControl.Population"
-KeyBinding.Confirm,Bevestigen,Label of the key that confirms UI prompts
+KeyBinding.Confirm,Bevestig,Label of the key that confirms UI prompts
 KeyBinding.DecreaseBrushHeight,Verlaag de penseelhoogte,"Label of the key that decreases the vertical level of the brush, 'brush height' should be the same as MapEditor.Brush.Height.Label"
 KeyBinding.DecreaseBrushSize,Verklein de penseelgrootte,"Label of the key that decreases the size of the brush, 'brush size' should be the same as MapEditor.Brush.Size.Label"
 KeyBinding.DecreaseBuildersPriority,Verminder de prioriteit van bouwers,Label of the key that decreases the priority of the builders job assigned to the selected object
@@ -915,31 +917,31 @@ KeyBinding.DecreaseFloodgateHeight,Verlaag de hoogte van de sluisdeur,Label of t
 KeyBinding.DecreaseSpeed,Snelheid verlagen,Label of the key that decreases the speed of the game by one step
 KeyBinding.DecreaseWorkers,Verminder gewenste werknemers,Label of the key that decreases the desired number of workers in selected building
 KeyBinding.DecreaseWorkingHours,Verminder werkuren,Label of the key that decreases settlement working hours
-KeyBinding.DecreaseWorkplacePriority,Verminder de prioriteit op de werkplek,Label of the key that decreases the priority of the selected workplace
+KeyBinding.DecreaseWorkplacePriority,Verminder de werkplek prioriteit,Label of the key that decreases the priority of the selected workplace
 KeyBinding.DeleteObject,Object verwijderen,Label of the key that deletes the selected object
 KeyBinding.DetonateDynamite,Dynamiet laten ontploffen,Label of the key that detonates a dynamite
-KeyBinding.DistributionTab,Open het tabblad Distributie,"Label of the key that opens the Settlement Panel and selects the Distribution tab, Distribution should be the same as BatchControl.Distribution"
+KeyBinding.DistributionTab,Tabblad Distributie openen,"Label of the key that opens the Settlement Panel and selects the Distribution tab, Distribution should be the same as BatchControl.Distribution"
 KeyBinding.Flip,Omdraaien,Label of the key that flips the selected building (makes the model mirrored)
-KeyBinding.Hold,Uitstel:,Used to describe key binding that turns something on while the key is held.
-KeyBinding.HousingTab,Open tabblad Huisvesting,"Label of the key that opens the Settlement Panel and selects the Housing tab, Housing should be the same as BatchControl.Housing"
+KeyBinding.Hold,Houd:,Used to describe key binding that turns something on while the key is held.
+KeyBinding.HousingTab,Tabblad Huisvesting openen,"Label of the key that opens the Settlement Panel and selects the Housing tab, Housing should be the same as BatchControl.Housing"
 KeyBinding.IncreaseBrushHeight,Verhoog de penseelhoogte,"Label of the key that increases the vertical level of the brush, 'brush height' should be the same as MapEditor.Brush.Height.Label"
 KeyBinding.IncreaseBrushSize,Vergroot de penseelgrootte,"Label of the key that increases the size of the brush, 'brush size' should be the same as MapEditor.Brush.Size.Label"
 KeyBinding.IncreaseBuildersPriority,Verhoog de prioriteit van bouwers,Label of the key that increases the priority of the builders job assigned to the selected object
 KeyBinding.IncreaseFloodgateHeight,Verhoog de hoogte van de sluisdeur,Label of the key that increases the height of the selected floodgate. Floodgate should be the same as Building.Floodgate.DisplayName
 KeyBinding.IncreaseSpeed,Snelheid verhogen,Label of the key that increases the speed of the game by one step
-KeyBinding.IncreaseWorkers,Verhoog de gewenste werknemers,Label of the key that increases the desired number of workers in selected building
-KeyBinding.IncreaseWorkingHours,Werkuren verhogen,Label of the key that increases settlement working hours
-KeyBinding.IncreaseWorkplacePriority,Verhoog de prioriteit op de werkplek,Label of the key that increases the priority of the selected workplace
+KeyBinding.IncreaseWorkers,Verhoog gewenste werknemers,Label of the key that increases the desired number of workers in selected building
+KeyBinding.IncreaseWorkingHours,Verhoog werkuren,Label of the key that increases settlement working hours
+KeyBinding.IncreaseWorkplacePriority,Verhoog de werkplek prioriteit,Label of the key that increases the priority of the selected workplace
 KeyBinding.InverseBrushDirection,Omgekeerde borstelrichting,
-KeyBinding.LowerVisibleLayer,Onderste zichtbare laag,Label of the key that decreases the max visible vertical level of buildings
-KeyBinding.MechanicalTab,Open het tabblad Power,"Label of the key that opens the Settlement Panel and selects the Mechanical tab, Power should be the same as BatchControl.Mechanical"
+KeyBinding.LowerVisibleLayer,Zichtbare laag verlagen,Label of the key that decreases the max visible vertical level of buildings
+KeyBinding.MechanicalTab,Tabblad Energie openen,"Label of the key that opens the Settlement Panel and selects the Mechanical tab, Power should be the same as BatchControl.Mechanical"
 KeyBinding.MigrationTab,Tabblad Migratie openen,"Label of the key that opens the Settlement Panel and selects the Migration tab, Migration should be the same as BatchControl.Migration"
 KeyBinding.MoveCameraDown,Beweeg de camera naar beneden,Label of the key that moves the camera down
-KeyBinding.MoveCameraFast,Verhoog de camerasnelheid,Label of the key that modifies the speed of camera movement and rotation
+KeyBinding.MoveCameraFast,Camerasnelheid verhogen,Label of the key that modifies the speed of camera movement and rotation
 KeyBinding.MoveCameraLeft,Beweeg de camera naar links,Label of the key that moves the camera left
 KeyBinding.MoveCameraRight,Beweeg de camera naar rechts,Label of the key that moves the camera right
 KeyBinding.MoveCameraUp,Beweeg de camera omhoog,Label of the key that moves the camera up
-KeyBinding.NextDistrict,Selecteer volgende wijk,Label of the key that selects the next district
+KeyBinding.NextDistrict,Selecteer volgende district,Label of the key that selects the next district
 KeyBinding.NextRootButton,Volgende werkbalkcategorie,Label of the key that selects the next toolbar (bottom bar) category.
 KeyBinding.NextTool,Volgende tool,Label of the key that selects the next tool from currently selected toolbar category.
 KeyBinding.OpenWellbeingPanel,Open Welzijnspaneel,"Label of the key that opens the Well-being box, Well-being should be the same as Wellbeing.DisplayName"
@@ -950,40 +952,40 @@ KeyBinding.RaiseVisibleLayer,Zichtbare laag verhogen,Label of the key that incre
 KeyBinding.ResetCamera,Camerapositie resetten,Keybinding for resetting the camera to its default angle and zoom.
 KeyBinding.ResetMapEditorSimulation,Simulatie resetten,Label of the key that resets the water and badwater simulations
 KeyBinding.RestoreCamera,Camerapositie laden,Label of the key that restores the camera to the position saved by KeyBinding.SaveCamera
-KeyBinding.RotateCameraDown,Camera naar beneden draaien,Label of the key that rotates the camera down
-KeyBinding.RotateCameraLeft,Draai de camera naar links,Label of the key that rotates the camera left
-KeyBinding.RotateCameraLeft90,Draai de camera 90 graden naar links,Label of the key that rotates the camera left by 90 degrees
-KeyBinding.RotateCameraRight,Draai de camera naar rechts,Label of the key that rotates the camera right
-KeyBinding.RotateCameraRight90,Draai de camera 90 graden naar rechts,Label of the key that rotates the camera right by 90 degrees
+KeyBinding.RotateCameraDown,Camera omlaag draaien,Label of the key that rotates the camera down
+KeyBinding.RotateCameraLeft,Camera naar links draaien,Label of the key that rotates the camera left
+KeyBinding.RotateCameraLeft90,Camera 90° naar links draaien,Label of the key that rotates the camera left by 90 degrees
+KeyBinding.RotateCameraRight,Camera naar rechts draaien,Label of the key that rotates the camera right
+KeyBinding.RotateCameraRight90,Camera 90° naar rechts draaien,Label of the key that rotates the camera right by 90 degrees
 KeyBinding.RotateCameraUp,Camera omhoog draaien,Label of the key that rotates the camera up
 KeyBinding.RotateClockwise,Draai met de klok mee,Label of the key that rotates the selected object clockwise
-KeyBinding.RotateCounterclockwise,Tegen de klok in draaien,Label of the key that rotates the selected object counterclockwise
+KeyBinding.RotateCounterclockwise,Draai tegen de klok in,Label of the key that rotates the selected object counterclockwise
 KeyBinding.SaveCamera,Camerapositie opslaan,Label of the key that saves the current camera position
 KeyBinding.SaveMap,Kaart opslaan,Label of the key that saves the map
 KeyBinding.Screenshot,Schermafbeelding,Label of the key that takes a screenshot
 KeyBinding.ScreenshotUpscaled,Schermafbeelding (vergroot),Label of the key that takes an upscaled screenshot
 KeyBinding.ShowGuidelines,Richtlijnen weergeven,Show guidelines when key is pressed
 KeyBinding.ShowStockpileOverlay,Opslagoverlay weergeven,Label of the key that shows the storage overlay
-KeyBinding.SkipDeleteConfirmation,Bevestiging verwijderen overslaan,Label of the key that skips the delete confirmation when held
-KeyBinding.Speed0,Pauze aan/uit,Label of the key that pauses the game speed
+KeyBinding.SkipDeleteConfirmation,Verwijder bevestiging overslaan,Label of the key that skips the delete confirmation when held
+KeyBinding.Speed0,Pauzeren,Label of the key that pauses the game speed
 KeyBinding.Speed1,Normale snelheid,Label of the key that sets the game speed to 1
 KeyBinding.Speed2,Verhoog de snelheid x2,Label of the key that sets the game speed to 2
 KeyBinding.Speed3,Verhoog de snelheid x3,Label of the key that sets the game speed to 3
 KeyBinding.StorageTab,Tabblad Opslag openen,"Label of the key that opens the Settlement Panel and selects the Storage tab, Storage should be the same as BatchControl.Storage"
-KeyBinding.Toggle,Schakelaar:,Used to describe key binding that toggles something on/off.
-KeyBinding.ToggleBatchControlBox,Schakel het afwikkelingspaneel in,Label of the key that opens/close the Settlement panel
+KeyBinding.Toggle,Omschakelen:,Used to describe key binding that toggles something on/off.
+KeyBinding.ToggleBatchControlBox,Nederzettingpaneel omschakelen,Label of the key that opens/close the Settlement panel
 KeyBinding.ToggleBrushShape,Wissel penseelvorm,"Label of the key that toggles the shape of the brush, 'brush shape' should be the same as MapEditor.Brush.Shape.Label"
 KeyBinding.ToggleBuildingPause,Geselecteerd gebouw pauzeren/hervatten,Label of the key that pauses/resumes the selected building
 KeyBinding.ToggleConsole,Console omschakelen,Label of the key that toggles the console with logs
 KeyBinding.ToggleGuidelines,Richtlijnen omschakelen,Toggle guidelines on/off
-KeyBinding.ToggleGUI,Zichtbaarheid van interface in-/uitschakelen,Label of the key that hides/shows the whole user interface
-KeyBinding.ToggleHaulingPriority,Schakel de prioriteit voor het vervoeren in,Label of the key that toggles the hauling priority of the selected object
-KeyBinding.ToggleNaturalResources,Schakel natuurlijke hulpbronnen in,Label of the key that shows/hides the natural resources in map editor. Natural resources should be the same as NaturalResources.Visibility.Show
-KeyBinding.ToggleStockpileOverlay,Opslagoverlay in-/uitschakelen,Label of the key that shows/hides the storage overlay
+KeyBinding.ToggleGUI,Zichtbaarheid van interface omschakelen,Label of the key that hides/shows the whole user interface
+KeyBinding.ToggleHaulingPriority,Sleepprioriteit omschakelen,Label of the key that toggles the hauling priority of the selected object
+KeyBinding.ToggleNaturalResources,Natuurlijke hulpbronnen omschakelen,Label of the key that shows/hides the natural resources in map editor. Natural resources should be the same as NaturalResources.Visibility.Show
+KeyBinding.ToggleStockpileOverlay,Opslagoverlay omschakelen,Label of the key that shows/hides the storage overlay
 KeyBinding.ToggleStockpilePriority,Schakel magazijnprioriteit in,Label of the key that toggles the priority of the selected warehouse between StockpilePriority.Accept/StockpilePriority.Obtain/StockpilePriority.Supply/StockpilePriority.Empty
 KeyBinding.ToggleWaterVisibility,Schakel waterzichtbaarheid in/uit,Label of the key that makes water semi-transparent
 KeyBinding.WorkplacesTab,Tabblad Werkplekken openen,"Label of the key that opens the Settlement Panel and selects the Workplaces tab, Workplaces should be the same as BatchControl.Workplaces"
-KeyBinding.ToggleWorkerType,Schakel het type werknemer in,Keybinding for toggling the worker type.
+KeyBinding.ToggleWorkerType,Werknemer type omschakelen,Keybinding for toggling the worker type.
 KeyBinding.UnlockTool,Ontgrendelingsgereedschap,Label of the key that unlocks the currently selected tool
 KeyBinding.ZoomIn,Inzoomen,Label of the key that zooms camera in
 KeyBinding.ZoomOut,Uitzoomen,Label of the key that zooms camera out
@@ -992,17 +994,17 @@ KeyBindingBox.DuplicatedBinding,"Deze toetscombinatie is al toegewezen aan:
 {0}
 
 Wilt je deze toch toewijzen?","Message shown on key rebinding dialog box when the user tries to assign a key combination that is already assigned to another key binding, {0} stands for the list of key bindings e.g. KeyBinding.Speed0, KeyBinding.ToggleGUI etc."
-KeyBindingBox.ClearBinding,Duidelijk,Text on the button in rebinding dialog box that clears the current key binding. Please keep short.
-KeyBindingBox.PrimaryBinding,Primaire binding,Header of the primary key bindings column in the key bindings panel
+KeyBindingBox.ClearBinding,Wissen,Text on the button in rebinding dialog box that clears the current key binding. Please keep short.
+KeyBindingBox.PrimaryBinding,Primaire toets,Header of the primary key bindings column in the key bindings panel
 KeyBindingBox.RebindingMessage,Druk op een toets om de binding opnieuw toe te wijzen voor: {0},"Message shown on key rebinding dialog box, {0} stands for the name of the key binding e.g. KeyBinding.Speed0, KeyBinding.ToggleGUI etc."
-KeyBindingBox.ResetToDefault,Resetten naar standaard,Text on the button in key bindings panel that resets all key bindings to their default bindings
+KeyBindingBox.ResetToDefault,Opnieuw instellen,Text on the button in key bindings panel that resets all key bindings to their default bindings
 KeyBindingBox.ResetToDefaultMessage,Weet je zeker dat je alle toetscombinaties wilt terugzetten naar de standaardwaarden?,Message shown on key bindings panel when the user clicks the KeyBindingBox.ResetToDefault button
-KeyBindingBox.SecondaryBinding,Secundaire binding,Header of the secondary key bindings column in the key bindings panel
+KeyBindingBox.SecondaryBinding,Secundaire toets,Header of the secondary key bindings column in the key bindings panel
 KeyBindingGroup.Buildings,Gebouwen,"Label for the key binding group associated with building controls (pausing, changing priority etc)"
 KeyBindingGroup.Camera,Camera,"Label for the key binding group associated with camera controls (camera movement, rotation, zoom etc)"
 KeyBindingGroup.MapEditor,Kaart-editor,Label for the key binding group associated with map editor controls (mostly brush manipulation)
-KeyBindingGroup.Objects,Objecten controle,"Label for the key binding group associated with object controls (rotating, removing, pausing etc)"
-KeyBindingGroup.SettlementPanel,Paneel voor afwikkeling,Label for the key binding group associated with settlement panel controls (opening panel and its tabs)
+KeyBindingGroup.Objects,Objectinstellingen,"Label for the key binding group associated with object controls (rotating, removing, pausing etc)"
+KeyBindingGroup.SettlementPanel,Nederzettingpaneel,Label for the key binding group associated with settlement panel controls (opening panel and its tabs)
 KeyBindingGroup.Time,Tijd,Label for the key binding group associated with time controls (changing time speed)
 KeyBindingGroup.UI,Gebruikersinterface,"Label for the key binding group associated with user interface controls (opening panels, toggling overlays etc)"
 LevelVisibility.InfoTooltip,Zichtbare lagen,Tooltip for controls that allow the player to set the vertical level visibility
@@ -1011,42 +1013,43 @@ LoadMapPanel.Delete,Kaart verwijderen,A button. Please keep short.
 LoadMapPanel.DeleteMapPrompt,Weet je zeker dat je {0} wilt verwijderen?,{0} stands for map name
 LoadMapPanel.Header,Kaart bewerken,
 MainMenu.RosettaPerformanceWarning,Verminderde prestaties.,"Warning message displayed in the main menu when Rosetta (MacOS compatibility mode) is enabled. Preceded by the ""Rosetta: OFF"" message."
-MainMenu.WelcomeScreenStart,Begin!,A button please keep short
+MainMenu.WelcomeScreenStart,Start!,A button please keep short
 MainMenu.WelcomeScreenText,"Groeten kolonist!
 
 Je speelt nu <i>Timberborn Early Access</i>.
 
 Het pad dat voor je ligt is spannend, maar houd er rekening mee dat het spel nog in ontwikkeling is. We blijven nieuwe content toevoegen en veel bestaande onderdelen van het spel vereisen nog meer werk. Er zullen bugs en crashes optreden. Deel je feedback via de knop <i>Ga naar feedbacksite</i> of op de officiële Discord-server.
 
-Als je eerder een oudere versie van Timberborn hebt gespeeld, kun je het beste een nieuwe nederzetting starten. Het spel evolueert met elke update en ontvangt regelmatig nieuwe content en functies voor een betere kwaliteit van leven, terwijl sommige bestaande mechanismen opnieuw zijn ontworpen en anders werken.
+Als je eerder een oudere versie van Timberborn hebt gespeeld, kun je het beste een nieuwe nederzetting beginnen. Het spel veranderd met elke update en ontvangt regelmatig nieuwe content en QoL-functies, terwijl sommige bestaande mechanismen opnieuw zijn ontworpen en anders werken.
 
 Veel succes en vergeet niet om gehydrateerd te blijven!",
 MainMenu.WelcomeScreenTitle,Informatie over vroege toegang,Header of the welcome screen popup.
 MainMenu.UpdateInfoHeader,Update 7 - Experimenteel,Header of the update info panel that is shown in the main menu.
 MainMenu.UpdateInfoLink,<u>Lees meer</u>,Label of the link that opens web browser with the update details webpage.
-MainMenu.UpdateInfoText,"• Bevertransport: Tokkelbanen en Metro's
+MainMenu.UpdateInfoText,"
+• Bevertransport: Tokkelbanen en Metro's
 • 3D-terrein
 • Bijgewerkte lagentool
 • Bugfixes, modding-tweaks en meer!","Text shown in the update info panel with the latest update summary. Ziplines, Tubeways and layer tool naming must be consistent with the usage of those terms in the rest of the game."
 Manufactory.CurrentRecipe,Recept:,Text before a dropdown for changing factory recipe - what the factory produces from what ingredients.
 Manufactory.NoRecipeOption,Geen,Text shown in a dropdown when no recipe is selected. Keep below 15 characters.
-Manufactory.Recipe.EfficientScrapMetal,Schroot (Efficiënt),A more efficient way of getting scrap metal using explosives. The metal scrap itself is not more efficient. Scrap Metal is Good.ScrapMetal.PluralDisplayName
+Manufactory.Recipe.EfficientScrapMetal,Schrootmetaal (Efficiënt),A more efficient way of getting scrap metal using explosives. The metal scrap itself is not more efficient. Scrap Metal is Good.ScrapMetal.PluralDisplayName
 Manufactory.Recipe.BiofuelCarrot,Biobrandstof (wortelen),Recipe for making Biofuel out of Carrots. Keep consistent with Good.Biofuel.DisplayName and Good.Carrot.PluralDisplayName.
 Manufactory.Recipe.BiofuelPotato,Biobrandstof (Aardappelen),Recipe for making Biofuel out of Potatoes. Keep consistent with Good.Biofuel.DisplayName and Good.Potato.PluralDisplayName.
-Manufactory.Recipe.BiofuelSpadderdock,Biobrandstof (Spadderdock),Recipe for making Biofuel out of Spadderdock. Keep consistent with Good.Biofuel.DisplayName and Good.Spadderdock.PluralDisplayName.
+Manufactory.Recipe.BiofuelSpadderdock,Biobrandstof (Zeekraal),Recipe for making Biofuel out of Spadderdock. Keep consistent with Good.Biofuel.DisplayName and Good.Spadderdock.PluralDisplayName.
 MapEditor.BlockObjectRandomizePlacement,Willekeurige rotatie en omkeerrichting,Button to randomize the rotation and flip direction of the object being placed in the map editor
 MapEditor.Brush.AbsoluteTerrainHeight,Terreinhoogte (absoluut),A tool that changes terrain height to an absolute value.
-MapEditor.Brush.Density,Dikte,Density of objects.
-MapEditor.Brush.Direction.Decrease,Afname,
-MapEditor.Brush.Direction.Increase,Toename,
-MapEditor.Brush.Direction.Label,Borstelrichting:,
-MapEditor.Brush.Height.Label,Borstelhoogte:,Either absolute or relative height at which brush will paint.
+MapEditor.Brush.Density,Dichtheid,Density of objects.
+MapEditor.Brush.Direction.Decrease,Verlaag,
+MapEditor.Brush.Direction.Increase,Verhoog,
+MapEditor.Brush.Direction.Label,Penseelrichting:,
+MapEditor.Brush.Height.Label,Penseelhoogte:,Either absolute or relative height at which brush will paint.
 MapEditor.Brush.NaturalResourceRemoval,Verwijder natuurlijke hulpbronnen,Natural resources meaning trees and bushes
 MapEditor.Brush.NaturalResourceSpawning,Natuurlijke hulpbronnen,Natural resources meaning trees and bushes
 MapEditor.Brush.RandomizeYieldGrowth,Randomiseer opbrengstgroei,"This text is next to a toggle that randomizes the percentage growth of fruit, chestnuts or other things that can be gathered and regrow"
 MapEditor.Brush.RelativeTerrainHeight.Title,Terreinhoogte (relatief),A tool that changes terrain height by a value relative to the original height.
 MapEditor.Brush.Shape.Label,Penseelvorm:,
-MapEditor.Brush.Shape.Round,Ronde,
+MapEditor.Brush.Shape.Round,Rond,
 MapEditor.Brush.Shape.Square,Vierkant,
 MapEditor.Brush.Size.Label,Penseelgrootte:,
 MapEditor.Exit,Editor verlaten,A button please keep short
@@ -1058,11 +1061,11 @@ MapEditor.MapMetadata.Description,Kaartbeschrijving,Label of the map description
 MapEditor.MapMetadata.Title,Kaartgegevens,Title of the map data panel in map editor. Currently it only contains the map description field to fill in.
 MapEditor.MapWillBeSaved,Kaart wordt opgeslagen.,Message that is shown when player clicks on the upload map button in map editor. With Ok/Cancel buttons.
 MapEditor.NewMap,Nieuwe kaart,A button please keep short
-MapEditor.NewMap.Create,Creëren,A button which confirms new map parameters and starts the map editor
+MapEditor.NewMap.Create,Creër,A button which confirms new map parameters and starts the map editor
 MapEditor.NewMap.Header,Nieuwe kaart,
 MapEditor.NewMap.Size,Maat:,
 MapEditor.NonCompatibleMapVersion,Incompatibele kaartversie.,Warning shown in the map editor when the map version is not compatible with the current game version.
-MapEditor.NonCompatibleMapVersion.Tooltip,"Deze kaartversie ({0}) is niet compatibel met de huidige gameversie ({1}). 
+MapEditor.NonCompatibleMapVersion.Tooltip,"Deze kaartversie ({0}) is niet compatibel met de huidige spelversie ({1}). 
 Sla de kaart op om deze compatibel te maken.",Tooltip shown over MapEditor.NonCompatibleMapVersion warning.
 MapEditor.NoStartingLocation,Voeg een startlocatie toe.,Notification that there is no starting location object. Keep consistent with Building.StartingLocation.DisplayName.
 MapEditor.SaveMap.Header,Kaart opslaan,
@@ -1073,8 +1076,8 @@ MapEditor.SimulationControls.Reset,Opnieuw instellen,A button please keep short
 MapEditor.SimulationControls.Tooltip,Watersimulatie,Short header
 MapEditor.SizePrompt,Voer een grootte in tussen {0}x{0} en {1}x{1}.,{0} and {1} stands for a number
 MapEditor.ThumbnailCapturing.CameraPosition,Camerapositie:,Label for the controls in map editor that change the position of the thumbnail camera
-MapEditor.ThumbnailCapturing.ClearOverlay,Duidelijk,Text on the button in map editor that clears the overlay of the thumbnail
-MapEditor.ThumbnailCapturing.Description,Kies de positie van de miniatuur van de kaart. Er wordt een screenshot gemaakt bij het opslaan van de kaart.,Description of the map thumbnail panel in the map editor
+MapEditor.ThumbnailCapturing.ClearOverlay,Wissen,Text on the button in map editor that clears the overlay of the thumbnail
+MapEditor.ThumbnailCapturing.Description,Kies thumbnail positie. Een screenshot wordt genomen als je opslaat.,Description of the map thumbnail panel in the map editor
 MapEditor.ThumbnailCapturing.Overlay,Overlay:,Label of the controls in map editor that change the overlay of the thumbnail
 MapEditor.ThumbnailCapturing.OverlayTip,Selecteer een 960x540 PNG of JPG. Gebruik het alfakanaal om de overlay bovenop de originele afbeelding te renderen.,Text in the thumbnail overlay selection dialog
 MapEditor.ThumbnailCapturing.Reset,Opnieuw instellen,Text on the button in map editor that resets the position of thumbnail image of the map to the default
@@ -1089,9 +1092,9 @@ MapMetadata.Canyon.Description,In de woestijn zoeken bevers altijd valleien op w
 MapMetadata.Canyon.Name,Canyon,
 MapMetadata.Cliffside.Description,Restanten van oude menselijke architectuur liggen verspreid over deze afgelegen vallei. De bevers streven ernaar om een ​​soortgelijk stempel op de wereld te drukken.,
 MapMetadata.Cliffside.Name,Klifzijde,
-MapMetadata.Craters.Description,Niemand weet hoe de kraters zijn ontstaan. Voorlopige opgravingen suggereren dat mensjen er gewelddadig bij betrokken was.,
+MapMetadata.Craters.Description,Niemand weet hoe de kraters zijn ontstaan. Voorlopige opgravingen suggereren dat mensjen er gewelddadig bij betrokken waren.,
 MapMetadata.Craters.Name,Kraters,
-MapMetadata.Diorama.Description,"Voordat ze toezicht mogen houden op grote kolonies, krijgen beginnende bouwers de taak om kleinschalige projecten zoals deze uit te voeren.",
+MapMetadata.Diorama.Description,"Voordat ze toezicht mogen houden op grote nederzettingen, krijgen beginnende bouwers de taak om kleinschalige projecten zoals deze uit te voeren.",
 MapMetadata.Diorama.Name,Diorama,
 MapMetadata.HelixMountain.Description,"Ook al vinden ze de vorm van de rivierbedding onpraktisch, toch erkennen de bevers dat de mens slechts over beperkte watertechnische vaardigheden beschikt.",
 MapMetadata.HelixMountain.Name,Spiraalberg,The name of this map refers to the spiral shape of its central mountain.
@@ -1116,21 +1119,21 @@ MapSelection.DownloadMaps,Kaarten downloaden,Label of the button that opens some
 MapSelection.Header,Selecteer kaart,
 MapSelection.LocalMap,Lokale kaart,Tooltip of an icon in map selection panel that indicates that the map is stored in Documents directory.
 MapSelection.NoDescription,Geen beschrijving,Text shown in map selection panel when the selected map has no description
-MapSelection.NonCompatibleMapVersion,Deze kaartversie ({0}) is niet compatibel met de huidige gameversie ({1}) en kan niet worden geladen.,"{0} is the map version (e.g. 0.1.15.1), {1} is the game version (in the same format). This message is shown after a player tries to start game on (or edit) an incompatible map."
+MapSelection.NonCompatibleMapVersion,Deze kaartversie ({0}) is niet compatibel met de huidige spelversie ({1}) en kan niet worden geladen.,"{0} is the map version (e.g. 0.1.15.1), {1} is the game version (in the same format). This message is shown after a player tries to start game on (or edit) an incompatible map."
 MapSelection.OfficialMaps,Officiële kaarten,Label of the toggle button that shows official maps
 MapSelection.Recommended,Beginnersvriendelijk,Label of the maps that are recommended for beginners
-MapSelection.SemiCompatibleMapVersion,"Deze kaartversie ({0}) is niet compatibel met de huidige gameversie ({1}). Het spel starten op deze kaart kan resulteren in een crash, je kunt game-breaking bugs tegenkomen en er kunnen enkele belangrijke nieuwe bronnen ontbreken. We raden je ten zeerste aan de kaart bij te werken om optimaal te kunnen genieten van de nieuwe functies. 
+MapSelection.SemiCompatibleMapVersion,"Deze kaartversie ({0}) is niet compatibel met de huidige spelversie ({1}). Het spel starten op deze kaart kan resulteren in een crash, je kunt game-breaking bugs tegenkomen en er kunnen enkele belangrijke nieuwe bronnen ontbreken. We raden je ten zeerste aan de kaart bij te werken om optimaal te kunnen genieten van de nieuwe functies. 
 
 Weet je zeker dat je het spel wilt starten?","{0} is the map version (e.g. 0.1.15.1), {1} is the game version (in the same format). This message is shown after a player tries to start game on an incompatible map."
 Mechanical.AllConnectionsBlocked,Alle stroomaansluitingen zijn geblokkeerd!,Power is not an electrical but mechanical/kinetic energy.
 Mechanical.BlockedConnection,Stroomaansluiting is geblokkeerd!,Power is not an electrical but mechanical/kinetic energy.
-Mechanical.Charge,Aanval,Current battery charge (how much power a battery has left)
+Mechanical.Charge,Opslag,Current battery charge (how much power a battery has left)
 Mechanical.Efficiency,Efficiëntie: {0}%,{0} stands for efficiency percentage number. How efficient workshop is at using the energy.
 Mechanical.NetworkPower,Aanbod/vraag: {0} / {1},{0} stands for supply amount {1} stands for demand amount followed by PowerSymbol
 Mechanical.PowerCapacity,Capaciteit,Stands for battery capacity.
 Mechanical.PowerCapacityPerMeter,kWh/m,Stands for horse power hour per meter - used to describe battery capacity. hph should be same as Mechanical.PowerCapacitySymbol.
 Mechanical.PowerCapacitySymbol,kWh,Please keep short. Stands for horse power hour (as in kilowatt-hour); should keep similar.
-Mechanical.PowerInput,Stroomverbruik: {0},{0} stands for power amount followed by PowerSymbol
+Mechanical.PowerInput,Stroomproductie: {0},{0} stands for power amount followed by PowerSymbol
 Mechanical.PowerInputMaximum,Stroomverbruik / maximum: {0} / {1} ({2}%),{0} stands for input amount {1} stands for maximum amount followed by PowerSymbol {2} stands for efficency ratio in percent
 Mechanical.PowerOutput,Vermogen: {0},{0} stands for power amount
 Mechanical.PowerSymbol,kWh,Please keep short. Stands for horse power; should keep similar.
@@ -1139,7 +1142,7 @@ Menu.Continue,Doorgaan,A button in main menu which opens the previously played g
 Menu.Credits,Credits,A button please keep short
 Menu.EditMap,Kaart bewerken,A button please keep short
 Menu.ExitChangesLostPrompt,Weet je zeker dat je wilt afsluiten? Niet-opgeslagen wijzigingen gaan verloren.,
-Menu.ExitGame,Spel verlaten,A button please keep short
+Menu.ExitGame,Spel afsluiten,A button please keep short
 Menu.ExitToDesktop,Afsluiten naar bureaublad,A button please keep short
 Menu.ExitToDesktopPrompt,Weet je zeker dat je het spel wilt afsluiten?,
 Menu.ExitToMenu,Terug naar hoofdmenu,A button please keep short
@@ -1150,7 +1153,7 @@ Menu.LoadGame,Spel laden,A button please keep short
 Menu.ModManager,Mods,Label of a button that opens the mod manager.
 Menu.NewGame,Nieuw spel,A button please keep short
 Menu.NewGamePrompt,"Weet je zeker dat je een nieuw spel wilt starten?
-Niet-opgeslagen voortgang gaat verloren.",
+Niet-opgeslagen wijzigingen gaat verloren.",
 Menu.NewMap,Nieuwe kaart maken,A button please keep short
 Menu.Resume,Doorgaan,"A button in game and map editor menu, please keep short"
 Menu.SaveGame,Spel opslaan,A button please keep short
@@ -1177,7 +1180,7 @@ Modding.LocalSource,Lokale mod,Tooltip saying that the mod is stored locally.
 Modding.MissingMod,Mod ontbreekt.,Shown on a tooltip for an icon that indicates a missing of a mod saved in save file.
 Modding.ModManagerHeader,Mods,Header of the mod manager panel.
 Modding.ModsIncompatibilityMessage,Je probeert een spel te laden zonder de mods waarmee het is opgeslagen.,A message displayed in the mod incompatibility dialog box.
-Modding.ModWarning.InvalidGameVersion,Voor deze mod is een hogere versie van het spel vereist: {0}.,Message that is shown when a mod requires a higher game version. {0} is the required game version.
+Modding.ModWarning.InvalidGameVersion,Voor deze mod is een hogere spelversie vereist: {0}.,Message that is shown when a mod requires a higher game version. {0} is the required game version.
 Modding.ModWarning.MissingRequiredMod,Vereiste mod ontbreekt: {0}.,Message that is shown when a mod is missing a required mod. {0} is the ID of the required mod.
 Modding.ModWarning.RequiredModInvalidOrder,"De vereiste mod ""{0}"" staat onder deze mod in de laadvolgorde.",Message that is shown when a required mod is below the mod in the load order. {0} is the ID of the required mod.
 Modding.ModWarning.RequiredModInvalidVersion,"De vereiste mod ""{0}"" versie is lager dan de minimaal vereiste versie.",Message that is shown when a required mod has a version below the minimum required version. {0} is the ID of the required mod.
@@ -1185,7 +1188,7 @@ Modding.ModWarning.RequiredModNotEnabled,"Vereiste mod ""{0}"" is niet ingeschak
 Modding.OpenDirectory,Mods-map openen,Label of a button that opens a file explorer with a directory with mods. Please keep short.
 Modding.ResetOrder,Laadvolgorde resetten,Label of a button that resets the order of mods.
 Modding.RestartWarning,Wijzigingen worden pas van kracht nadat je opnieuw hebt opgestart.,Message that is shown when the player has changed something in Mod Manager and need to restart the game for the changes to take effect.
-Modding.SavedMods,Bestand mods,A label for the list of mods found in the save file.
+Modding.SavedMods,Save mods,A label for the list of mods found in the save file.
 Modding.ShowSavedMods,Mods: {0},A label for the button that opens a panel with the list of mods found in the save file. {0} is a placeholder for the number of mods.
 Modding.ShowUploadPanel,Uploaden,Label of a button that opens the panel with list of mods that can be uploaded to some cloud platform.
 Modding.ThumbnailInfo,"Voeg een afbeeldingsbestand met de naam ""thumbnail"" toe aan de map van deze mod om een ​​thumbnail in te stellen. Het moet kleiner zijn dan 1 MB. De beeldverhouding 16:9 heeft de voorkeur.",Info text that explains how to set a thumbnail for a mod
@@ -1288,7 +1291,7 @@ NewGameConfigurationPanel.Cycles,cycli,"Cycle is a unit of time shown after a nu
 NewGameConfigurationPanel.Days,dagen,"Shown after a number field, example usage: '10 days'"
 NewGameConfigurationPanel.DemolishableRecoveryRate,Restitutiepercentage voor gebouwen,"Label of a setting, defines how much resources (goods) user will get back after demolishing a building, example usage: 'Building refund rate: 75%'"
 NewGameConfigurationPanel.DroughtDuration,Duur van de droogte,"Label of a setting, how long drought is during each cycle."
-NewGameConfigurationPanel.Easy,Eenvoudig,Game mode keep short
+NewGameConfigurationPanel.Easy,Makkelijk,Game mode keep short
 NewGameConfigurationPanel.EasyModeDescription,"Je bent nog aan het leren of wilt een ontspannende ervaring met het bouwen van een stad.
 
 Je nederzetting begint met een overvloedige voorraad grondstoffen.
@@ -1302,7 +1305,7 @@ NewGameConfigurationPanel.FoodConsumption,Voedselconsumptie,"Label of a setting,
 NewGameConfigurationPanel.For,voor,"Specifies a duration, between text fields, example usage: 'Drought duration handicap: [50%] for [10] cycles'"
 NewGameConfigurationPanel.DroughtDurationHandicap,Handicap voor de duur van de droogte,"Label of a setting, makes droughts shorter during a game, example usage: 'Drought duration handicap: 50%"
 NewGameConfigurationPanel.Hard,Moeilijk,Game mode keep short
-NewGameConfigurationPanel.HardModeDescription,"Mensen hebben het niet gemaakt en jij ook niet.
+NewGameConfigurationPanel.HardModeDescription,"Mensen hebben het niet gehaald en jij ook niet.
 
 Je nederzetting begint met schaarse goederen.
 
@@ -1319,8 +1322,8 @@ Droogtes en slechtwater vloeden zijn in het begin milder, maar worden na verloop
 NewGameConfigurationPanel.Start,Start,A button starting the game please keep short
 NewGameConfigurationPanel.StartingAdults,Aantal volwassenen,"Label of a setting, number of adults spawned at the start of a game."
 NewGameConfigurationPanel.StartingChildren,Aantal kinderen,"Label of a setting, number of children spawned at the start of a game."
-NewGameConfigurationPanel.StartingFood,Startvoedsel,"Label of a setting, amount of food available at the start of a game."
-NewGameConfigurationPanel.StartingWater,Startwater,"Label of a setting, amount of water available at the start of a game."
+NewGameConfigurationPanel.StartingFood,Hoeveelheid voedsel,"Label of a setting, amount of food available at the start of a game."
+NewGameConfigurationPanel.StartingWater,Hoeveelheid water,"Label of a setting, amount of water available at the start of a game."
 NewGameConfigurationPanel.TemperateWeatherDuration,Duur gematigd weer,"Label of a setting, how long temperate weather is during each cycle."
 NewGameConfigurationPanel.To,tot,"Describes a range of numbers, example usage: '20 to 50%'"
 NewGameConfigurationPanel.SubHeader,Spelmodus,
@@ -1338,8 +1341,8 @@ Planting.ReplantDeadTrees,Herplant dode bomen die niet gemarkeerd zijn om gekapt
 Planting.UnlockPrompt,Je moet {0} ontgrendelen om {1} te kunnen planten.,{0} stands for Building.DisplayName {1} stands for NaturalResource.DisplayName.
 PlantingTool.Description,Met dit hulpmiddel kunt je een gebied aanwijzen waar je wilt planten.,
 PlantingTool.RequiredBuilding,Vereist gebouw: {0},{0} stands for Building.DisplayName.
-PlayerData.CorruptedDataInfo.CorruptedFilePresent,U kunt de kopie van het beschadigde spelergegevensbestand bekijken in de <link><b>map met speldocumenten</b></link>.,Corrupted means broken or unusable due to some error.
-PlayerData.CorruptedDataInfo.Header,"Er was een probleem met het lezen van het spelergegevensbestand. We hebben de inhoud ervan hersteld van een lokale back-up, maar sommige van je voorkeuren (inclusief ontgrendelde facties en gemasterde kaarten) zijn mogelijk verloren gegaan.",
+PlayerData.CorruptedDataInfo.CorruptedFilePresent,Je kunt de kopie van het beschadigde spelergegevensbestand bekijken in de <link><b>map met speldocumenten</b></link>.,Corrupted means broken or unusable due to some error.
+PlayerData.CorruptedDataInfo.Header,"Er was een probleem met het lezen van het spelergegevensbestand. We hebben de inhoud ervan hersteld van een lokale back-up, maar sommige van je voorkeuren (inclusief ontgrendelde facties en voltooide kaarten) zijn mogelijk verloren gegaan.",
 Population.AllPerished,"En hoewel alle bevers omkwamen, stroomde de rivier door, hun korte bestaan ​​was slechts een spikkeltje houtstof.",UI information displayed as a tooltip when the entire population has died.
 Priorities.VeryLow,Zeer laag,Please keep short
 Priorities.Low,Laag,Please keep short
@@ -1355,21 +1358,21 @@ RecoveredGoodStack.Priority,Prioriteit verzamelen:,Setting a priority for resour
 Resources.EatableRaw,Kan rauw gegeten worden.,Shown on a tooltip of goods that can be eaten raw.
 Resources.GatheredBy,Verzameld door:,"Header above list of buildings that can gather certain resource. Gathered is meant as general term, containing resource gathering of gatherers, farmers, lumberjacks, tappers."
 Ruins.ShuffleModel,Hoeveelheid afwisselen,Shuffle as in Randomize.
-Saving.DeleteSave,Bestand verwijderen,A button. Please keep short.
+Saving.DeleteSave,Save verwijderen,A button. Please keep short.
 Saving.DeleteSavePrompt,Weet je zeker dat je {0} wilt verwijderen?,{0} stands for save name
 Saving.DeleteSettlement,Verwijder nederzetting,A button. Please keep short.
-Saving.DeleteSettlementPrompt,Weet je zeker dat je nederzettingt {0} wilt verwijderen? Hiermee verwijder je alle opgeslagen nederzettingen.,{0} stands for settlement name
-Saving.Error,Opslaan mislukt! Controleer of er geen ongeldige tekens in de naam staan ​​en of er voldoende schijfruimte is.,Message shown to player when saving game or map failed
+Saving.DeleteSettlementPrompt,Weet je zeker dat je nederzettingt {0} wilt verwijderen? Hiermee verwijder je alle saves van deze nederzetting.,{0} stands for settlement name
+Saving.Error,Opslaan mislukt! Controleer of er geen ongeldige tekens in de naam staan ​​en of er voldoende opslag is.,Message shown to player when saving game or map failed
 Saving.InvalidName,Ongeldige naam. Zorg ervoor dat er geen illegale tekens in de naam staan.,Error message shown after inputting a settlement name with illegal characters such > < ?.
 Saving.LoadGamePanelHeader,Spel laden,
 Saving.MissingMacOSPermissionsLocKey,Timberborn heeft toestemming nodig om opgeslagen spellen op je harde schijf op te slaan. Het spel zal nu sluiten en je privacy-instellingen openen waar je de benodigde toestemmingen kunt verlenen.,A message shown to players if they did not grant the necessary permissions on macOS.
 Saving.NameSettlement,Hoe zou je je nederzetting willen noemen?,A prompt in the box for naming your settlement after starting a new game.
 Saving.NonCompatibleSaveVersion,"Deze save is gemaakt voor een grote revisie en kan niet worden geladen.
-We proberen het verlies van save-compatibiliteit tot een minimum te beperken, maar omdat we reageren op jullie feedback en doorgaan met het ontwikkelen van de game, is dat niet altijd mogelijk.",
-Saving.SaveExists,"Bestand ""{0}"" bestaat al.",{0} stands for save name
+We proberen het verlies van save-compatibiliteit tot een minimum te beperken, maar omdat we reageren op jullie feedback en doorgaan met het ontwikkelen van het spel, is dat niet altijd mogelijk.",
+Saving.SaveExists,"Save ""{0}"" bestaat al.",{0} stands for save name
 Saving.SaveGamePanelHeader,Spel opslaan,
-Saving.Saves,Bestanden,One of the two headers in the load game panel. Shown above a list of saves assigned to a settlement.
-Saving.SemiCompatibleSaveVersion,"Deze opgeslagen versie ({0}) is niet compatibel met de huidige gameversie ({1}). Het laden van de opgeslagen versie kan resulteren in een crash en je kunt game-breaking bugs tegenkomen. We raden je ten zeerste aan om een ​​nieuw spel te starten om volledig te kunnen genieten van de nieuwe functies. 
+Saving.Saves,Saves,One of the two headers in the load game panel. Shown above a list of saves assigned to a settlement.
+Saving.SemiCompatibleSaveVersion,"Deze opgeslagen versie ({0}) is niet compatibel met de huidige spelversie ({1}). Het laden van de opgeslagen versie kan resulteren in een crash en je kunt game-breaking bugs tegenkomen. We raden je ten zeerste aan om een ​​nieuw spel te starten om volledig te kunnen genieten van de nieuwe functies. 
 
 Weet je zeker dat je het wilt laden?","{0} is the save version (e.g. 0.1.15.1), {1} is the game version (in the same format). This message is shown after a player tries to load an incompatible save."
 Saving.SteamCompatibilityMessage,<RedHighlight><i>Je kunt een oudere versie van het spel spelen door over te schakelen naar een aangepaste versie in de Steam-client.</i></RedHighlight>,Additional message on Steam that is shown when the save is not compatible with the current version of the game. It is shown below Saving.SemiCompatibleSaveVersion and Saving.NonCompatibleSaveVersion messages.
@@ -1379,7 +1382,7 @@ Saving.Autosave,Automatisch opslaan,Name of the autosaved game
 Saving.CycleUnknown,Cyclus onbekend,"Text shown in old save games labels that don't have cycle information. ""Cycle"" should be the same as in Weather.CycleAndDayLong"
 Science.SciencePoints,Wetenschapspunten,The name of a resource which can be spent to unlock new technology
 SelectionTool.ClickOrHoldTip,Klik op een enkele tegel of houd de knop ingedrukt om een ​​gebied te selecteren.,
-Settings.Analytics.Header,Analyse,Header for the data collection/analytics consent section.
+Settings.Analytics.Header,Analytics,Header for the data collection/analytics consent section.
 Settings.Analytics.ConsentToggle,Analytics ingeschakeld,Selected when giving consent to data collection/analytics.
 Settings.Analytics.DeleteData,Verzamelde gegevens verwijderen,Selected when withdrawing consent to data collection/analytics.
 Settings.Analytics.DataDeleted,Verzamelde gegevens verwijderd.,Confirmation info that the collected data has been deleted.
@@ -1416,7 +1419,7 @@ Settings.Screen.ResolutionScale,Resolutie schaal,Please keep short
 Settings.Screen.ScreenResolution,Schermresolutie,
 Settings.Screen.VSync,VSync,Label of a dropdown for choosing a VSync mode.
 Settings.Screen.VSync.0,Uit,A dropdown item indicating VSync mode.
-Settings.Screen.VSync.1,Op,A dropdown item indicating VSync mode.
+Settings.Screen.VSync.1,Aan,A dropdown item indicating VSync mode.
 Settings.Screen.VSync.2,Elk tweede frame,A dropdown item indicating VSync mode.
 Settings.Sound.EnvironmentVolume,Omgevingsvolume,
 Settings.Sound.Header,Geluid,
@@ -1425,17 +1428,17 @@ Settings.Sound.MusicVolume,Muziekvolume,
 Settings.Sound.MuteWhenMinimized,Demp het geluid wanneer het geminimaliseerd of onscherp is,
 Settings.Sound.UIVolume,UI-volume,
 Settings.Tutorial.Header,Handleiding,
-Settings.Tutorial.DisableTutorial,Tutorial uitschakelen,
+Settings.Tutorial.DisableTutorial,Handleiding uitschakelen,
 Settings.UI.Header,Interface,
 Settings.UI.RunInBackground,Op de achtergrond draaien,A settings which controls whether the game should run when minimized or out of focus.
 Settings.UI.ShowFps,FPS-teller weergeven,
 Settings.UI.UIScaleFactor,UI-schaal,
-Status.BadwaterContamination.Incubation,"Deze bever heeft te veel tijd doorgebracht in vervuild, slechtwater. Het is nu prima, maar zal over een paar dagen ziek worden.",Shown as an status alert when beaver spents too much time in contaminated water (and will get sick soon). Badwater should be the same as Good.Badwater.DisplayName.
+Status.BadwaterContamination.Incubation,"Deze bever heeft te veel tijd doorgebracht in vervuild, slechtwater. Het is nu oké, maar zal over een paar dagen ziek worden.",Shown as an status alert when beaver spents too much time in contaminated water (and will get sick soon). Badwater should be the same as Good.Badwater.DisplayName.
 Status.BadwaterContamination.Incubation.Short,Bever is ziek,Shown as an status alert when beaver spents too much time in contaminated badwater (and will get sick soon). Please keep short.
 Status.Beaver.Dead,Dood,Shown in the beaver info window to explain that the beaver died
 Status.Bot.Dead,Vernietigd.,This shows up when a bot has been destroyed
-Status.Breeding.ProgressHalted,"Broeden gestopt, wachten op voedingsstoffen",
-Status.Breeding.ProgressHalted.Short,Broeden gestopt,Please keep short.
+Status.Breeding.ProgressHalted,"Broeden gepauzeerd, wachten op voedingsstoffen",
+Status.Breeding.ProgressHalted.Short,Broeden gepauzeerd,Please keep short.
 Status.Buildings.BlockedByContamination,Dit gebouw wordt geblokkeerd door slechtwater.,Shown as status when badwater contamination affects building and stops it from working. Badwater should be the same as Good.Badwater.DisplayName.
 Status.Buildings.BlockedByContamination.Short,Geblokkeerd door slechtwater,Shown as status when badwater contamination affects building and stops it from working (please keep short). Badwater should be the same as Good.Badwater.DisplayName.
 Status.Buildings.DirectionalBlocking,De bouw wacht tot de bouw erachter is afgerond.,"Status shown on construction sites, that need to be finished in directional order."
@@ -1444,9 +1447,9 @@ Status.Buildings.Flooded.Short,Overstroomd gebouw,Alert that shows up when a bui
 Status.Buildings.NeedsWater,Dit gebouw heeft dieper water nodig om te kunnen functioneren.,
 Status.Buildings.NeedsWater.Short,Gebouw heeft water nodig,Please keep short.
 Status.Buildings.Paused,Uitgeschakeld.,"Alternative terms: Paused, Switched off"
-Status.Buildings.Unreachable,Dit gebouw is niet via paden verbonden met enig district centrum.,Shown when a building isn't connected to a District Center.
+Status.Buildings.Unreachable,Dit gebouw is niet via paden verbonden met een district centrum.,Shown when a building isn't connected to a District Center.
 Status.Buildings.Unreachable.Short,Niet-verbonden gebouw,Shown when a building isn't connected to a District Center. Please keep short.
-Status.ConstructionSites.NoMaterials,Ik kan niet alle benodigde materialen verkrijgen.,Shown in the building box when there are no available materials in the nearby storages or no storages nearby
+Status.ConstructionSites.NoMaterials,Kan niet alle benodigde materialen verkrijgen.,Shown in the building box when there are no available materials in the nearby storages or no storages nearby
 Status.ConstructionSites.NoMaterials.Short,Bouwmateriaal ontbreekt,Notification that the construction can't be finished. Please keep short.
 Status.Distribution.InvalidConnection,Het gebouw moet met twee districten verbonden zijn.,"Shown as status of District Crossing, when both entrances of the building are connected to the same district or when other half is not connected to any district"
 Status.Emptying.EmptyingInProgress,Het gebouw wordt leeggehaald en accepteert geen nieuwe goederen.,
@@ -1463,7 +1466,7 @@ Status.Manufactory.NoRecipe.Short,Geen recept geselecteerd,A warning that no rec
 Status.Mechanical.NoPower,Gebouw heeft stroom nodig om te kunnen functioneren. Sluit het aan op een stroomgenerator.,
 Status.Mechanical.NoPower.Short,Gebouw mist energie,Power is not an electrical but mechanical/kinetic energy. Please keep short.
 Status.NaturalResources.Contaminated,Verontreinigd.,Shown when a plant is dying because it is contaminated. Ideally all uses of the word contaminate/contamination/contaminated should be uniform across the project.
-Status.NaturalResources.Drying,Drogen.,Shown when a plant is dying because it has no access to the water
+Status.NaturalResources.Drying,Uitdrogen.,Shown when a plant is dying because it has no access to the water
 Status.NaturalResources.NotEnoughWater,Geen water meer.,Shown when a water plant is dying because its river or lake dried up.
 Status.NaturalResources.TooMuchWater,Overstroomd.,Shown when a plant is dying because it is submerged in water.
 Status.Need.BadwaterContamination,Verontreinigd door slechtwater.,This shows up in the selected beaver's panel when it is contaminated. Badwater should be the same as Good.Badwater.DisplayName. Ideally all uses of the word contaminate/contamination/contaminated should be uniform across the project.
@@ -1488,7 +1491,7 @@ Status.Wonder.NotEnoughWorkers,Niet genoeg werknemers om te lanceren.,Shown when
 Status.Work.LackOfResources,Niet alle benodigde materialen kunnen worden verkregen.,
 Status.Work.LackOfResources.Short,Gebouw mist materialen,Please keep short.
 Status.Work.NoUnemployed,Er zijn geen werknemers beschikbaar in het district.,Shown when there are no unemployed workers available in a district to work in this building.
-Status.Work.NoUnemployed.Short,Bouwsector kampt met tekort aan werknemers,A notification that lets players know that the building has no workers. Please keep short.
+Status.Work.NoUnemployed.Short,Niet genoeg werknemers,A notification that lets players know that the building has no workers. Please keep short.
 Status.Yielding.NothingToDoInRange,Niets te doen in de buurt,
 SteamWorkshop.Changelog,Wijzigingslogboek,Label of the text field that allows entering the changelog of the item to be uploaded to Steam Workshop.
 SteamWorkshop.Description,Beschrijving,Label of the text field that allows entering the description of the item to be uploaded to Steam Workshop.
@@ -1510,18 +1513,18 @@ SteamWorkshop.Visibility,Zichtbaarheid,Label of the dropdown that allows selecti
 SteamWorkshop.Visibility.Friends,Alleen vrienden,Option in the dropdown that allows selecting the visibility of the item to be uploaded to Steam Workshop.
 SteamWorkshop.Visibility.Private,Privé,Option in the dropdown that allows selecting the visibility of the item to be uploaded to Steam Workshop.
 SteamWorkshop.Visibility.Public,Openbaar,Option in the dropdown that allows selecting the visibility of the item to be uploaded to Steam Workshop.
-SteamWorkshop.Visibility.Unlisted,Niet vermeld,Option in the dropdown that allows selecting the visibility of the item to be uploaded to Steam Workshop.
+SteamWorkshop.Visibility.Unlisted,Onzichtbaar,Option in the dropdown that allows selecting the visibility of the item to be uploaded to Steam Workshop.
 StockpilePriority.Accept,Accepteren,"Please keep short. Defines a state of a warehouse, where it accepts goods if needed"
 StockpilePriority.Accept.Long,Goederen accepteren.,"Describes a state of a warehouse, where it accepts goods if needed"
-StockpilePriority.Empty,Leeg,"Please keep short. Defines a state of a warehouse, where it is going to be emptied"
-StockpilePriority.Empty.Long,Lege goederen naar andere magazijnen.,"Describes a state of a warehouse, where it is going to be emptied"
+StockpilePriority.Empty,Legen,"Please keep short. Defines a state of a warehouse, where it is going to be emptied"
+StockpilePriority.Empty.Long,Verplaats goederen naar andere magazijnen.,"Describes a state of a warehouse, where it is going to be emptied"
 StockpilePriority.Obtain,Verkrijgen,"Please keep short. Defines a state of a warehouse, where it is going to be actively filled"
 StockpilePriority.Obtain.Long,Verkrijg goederen uit andere magazijnen.,"Describes a state of a warehouse, where it is going to be actively filled"
-StockpilePriority.Supply,Levering,"Please keep short. Defines a state of a warehouse, where it accepts goods, but haulers will move them to other warehouses if able"
+StockpilePriority.Supply,Leveren,"Please keep short. Defines a state of a warehouse, where it accepts goods, but haulers will move them to other warehouses if able"
 StockpilePriority.Supply.Long,Lever goederen aan andere magazijnen.,"Defines a state of a warehouse, where it accepts goods, but haulers will move them to other warehouses if able"
-Thumbnail.NoPreview,Geen voorvertoning,Text shown with default thumbnail when the selected map or save has no preview image
+Thumbnail.NoPreview,Geen thumbnail,Text shown with default thumbnail when the selected map or save has no preview image
 Time.DaysShort,{0}d,"{0} stands for days, for example 16d. Please keep very short."
-Time.HourShort,H,Hour abbreviation
+Time.HourShort,u,Hour abbreviation
 Time.HoursShort,{0}u,"{0} stands for hours, for example 16h. Please keep very short. (renamed from Work.WorkingHoursShort)"
 ToolGroups.Decoration,Decoratie,Buildings and objects that are for decoration
 ToolGroups.Demolishing,Gebouwen en hulpbronnen slopen,
@@ -1547,12 +1550,12 @@ ToolGroups.Water,Water,Buildings that gather and store water
 ToolGroups.Wood,Hout,Buildings that allow gathering and producing using wood
 TopBar.Food,Voedsel,A group of resources. Please keep short.
 TopBar.Ingredients,Ingrediënten,Resource group containing ingredients that can be made into edible foods (but are not edible on their own)
-TopBar.Logs,Logboeken,A group of resources. Please keep short.
+TopBar.Logs,Hout,A group of resources. Please keep short.
 TopBar.Materials,Materialen,A group of resources. Please keep short.
 TopBar.Nothing,Niets,A group of resources. Please keep short.
 TopBar.Science,Wetenschap,A group of resources. Please keep short.
 TopBar.Water,Water,A group of resources. Please keep short.
-Toggle.State.On,op,Indication in tooltip about toggle state. For example 'Prioritize building by haulers: on'
+Toggle.State.On,aan,Indication in tooltip about toggle state. For example 'Prioritize building by haulers: on'
 Toggle.State.Off,uit,Indication in tooltip about toggle state. For example 'Prioritize building by haulers: off'
 Toggle.State.Closed,Gesloten,Indication in tooltip about toggle state. For example 'Status: Closed'
 Toggle.State.Open,Open,Indication in tooltip about toggle state. For example 'Status: Open'
@@ -1563,8 +1566,8 @@ TreeCuttingUnselectionTool.Description,"Met deze tool kun je de markering van ge
 TreeCuttingUnselectionTool.Title,Markeer het gebied waar de boom gekapt moet worden niet meer,
 Tutorial.Building,Bouw: {0} ({1}/{2}),"{0} stands for building name {1} stands for number of built buildings {2} stands for number of buildings to build. This is used in a goal description with the verb in active voice, for example 'Build: Warehouse (0/5)'."
 Tutorial.Continue,Doorgaan,
-Tutorial.Disable,Tutorial uitschakelen,
-Tutorial.DisablePrompt,"Weet je zeker dat je de tutorial wilt uitschakelen?
+Tutorial.Disable,Handleiding uitschakelen,
+Tutorial.DisablePrompt,"Weet je zeker dat je de handleiding wilt uitschakelen?
 Je kunt deze later weer inschakelen in de instellingen.",
 Tutorial.ConnectBuilding,Verbinden: {0} ({1}/{2}),"{0} stands for building name {1} stands for number of buildings connected with paths {2} stands for number of buildings to connect. This is used in a goal description with the verb in active voice, for example 'Connect: Lumberjack Flag (0/2)'."
 Tutorial.Finish,Sluit de tutorial,
@@ -1572,12 +1575,12 @@ Tutorial.MarkPlantables,Planten: {0} ({1}/{2}),"{0} stands for resource name {1}
 Tutorial.MarkTrees,Markeer bomen die gekapt moeten worden.,
 Tutorial.PanelTitle,Handleiding,
 Tutorial.PlaceBuilding,Plaats: {0} ({1}/{2}),"{0} stands for building name {1} stands for number of built buildings {2} stands for number of buildings to build. This is used in a goal description with the verb in active voice, for example 'Place: Warehouse (0/5)'."
-Tutorial.PowerBuilding,Vermogen: {0} ({1}/{2}),"{0} stands for building name {1} stands for number of powered buildings {2} stands for number of buildings to power. This is used in a goal description with the verb in active voice, for example 'Power: Lumber Mill (0/1)'."
+Tutorial.PowerBuilding,Verzie van stroom: {0} ({1}/{2}),"{0} stands for building name {1} stands for number of powered buildings {2} stands for number of buildings to power. This is used in a goal description with the verb in active voice, for example 'Power: Lumber Mill (0/1)'."
 Tutorial.Progress,({0}/{1}),{0} stands for number of achieved goals {1} stands for total number of goals
 Tutorial.TextToggle.Hide,Verberg tekst,Tooltip for tutorial button hiding intro text
 Tutorial.TextToggle.Show,Tekst weergeven,Tooltip for tutorial button showing intro text
-Tutorial.SelectGood,Instellen: {0} tot {1} {2},{0} stands for building name {1} stands for good name {2} stands for Tutorial.Progress. This is used in a goal description with the verb in active voice. for example 'Set: Warehouse to Bread (0/5)'.
-Tutorial.Stage.PlaceLumberjacks,"Welkom! Deze tutorial helpt je met alle basisbeginselen van het bouwen van een nederzetting.
+Tutorial.SelectGood,Instellen: {0} op {1} {2},{0} stands for building name {1} stands for good name {2} stands for Tutorial.Progress. This is used in a goal description with the verb in active voice. for example 'Set: Warehouse to Bread (0/5)'.
+Tutorial.Stage.PlaceLumberjacks,"Welkom! Deze handleiding helpt je met alle basisbeginselen van het bouwen van een nederzetting.
 
 Elke nieuwe nederzetting heeft boomstammen nodig! Alleen houthakkers kappen bomen, dus plaats twee houthakkersvlaggen naast bomen in de buurt.",Logs is the name of the resource and Lumberjack Flag is the name of the building
 Tutorial.Stage.FinishLumberjacks,"De vlaggen worden niet gebouwd tenzij ze binnen het bebouwingsbereik van het district vallen.
@@ -1585,28 +1588,28 @@ Tutorial.Stage.FinishLumberjacks,"De vlaggen worden niet gebouwd tenzij ze binne
 Selecteer het District Centrum om het bebouwingsbereik te zien. Je kunt het uitbreiden door paden te bouwen.","Lumberjack Flag, District Center and Path are names of buildings"
 Tutorial.Stage.ConnectLumberjacks,"Elk gebouw met een ingang moet verbonden zijn met een District Centrum door een pad. Houd er rekening mee dat District Centers een beperkt bereik hebben. Bouw paden om de Houthakkers Vlaggen te verbinden met het District Centrum.
 
-Je kunt het District Center selecteren om het bereik langs de paden te zien.",District Center and Path are building names
-Tutorial.Stage.MarkTrees,"Houthakkers beginnen pas met werken als je ze vertelt wat ze moeten doen. Gebruik de tool Bomen kappen om een ​​gebied te markeren waar ze moeten kappen.
+Je kunt het District Centrum selecteren om het bereik langs de paden te zien.",District Center and Path are building names
+Tutorial.Stage.MarkTrees,"Houthakkers beginnen pas met werken als je ze vertelt wat ze moeten doen. Gebruik de Bomen-kap tool om een ​​gebied te markeren waar ze moeten kappen.
 
 Een houthakkersvlag kapt alleen bomen binnen zijn bereik. Je kunt dit controleren door een vlag te selecteren.",Lumberjack Flag is a name of a building. 'Cut trees' must be the same as ToolGroups.TreeCutting.
 Tutorial.Stage.WaterPump,Bevers hebben water nodig om te overleven. Bouw een waterpomp om een ​​continue bron van drinkwater te garanderen. Vergeet niet om deze aan te sluiten op een District Center.,Water Pump and District Center are names of buildings
-Tutorial.Stage.Gatherer,"Naast water hebben bevers ook voedsel nodig. Bouw een Gatherer Flag bij wat Blueberry Bushes.
+Tutorial.Stage.Gatherer,"Naast water hebben bevers ook voedsel nodig. Bouw een Verzamelaarsvlag bij wat Blauwe bessenstruiken.
 
-Gatherers verzamelen automatisch Berries binnen het bereik van de vlag. Je kunt het bereik zien door de Gatherer Flag te selecteren.",
-Tutorial.Stage.MarkCarrots,"Boeren beginnen pas met werken als je ze vertelt wat en waar ze moeten planten. Gebruik de Plant crops-tool om een ​​wortelveld te markeren.
+Verzamelaars verzamelen automatisch Bessen binnen het bereik van de vlag. Je kunt het bereik zien door de Verzamelaarsvlag te selecteren.",
+Tutorial.Stage.MarkCarrots,"Boeren beginnen pas met werken als je ze vertelt wat en waar ze moeten planten. Gebruik de plant-gewassen tool om een ​​wortelveld te markeren.
 
 Gewassen moeten op geïrrigeerd land worden geplant. Anders drogen ze uit en sterven ze uiteindelijk af.",Plant crops must be the same as ToolGroups.FieldsPlanting.
 Tutorial.Stage.BasicStorage,"Hoewel alle gebouwen die je hebt geplaatst wat opslagruimte hebben, raken ze snel vol.
 
-Bouw extra voorraden voor Logs en Water. Elk opslaggebouw kan slechts één type resource bevatten. Je kunt het instellen nadat je het gebouw hebt geselecteerd.",
-Tutorial.Stage.ExpandStorage,"Nu je de houtblokken en het water op een plek hebt liggen om te bewaren, kun je ook voorbereidingen treffen voor de bessenoogst en de aankomende oogst van de wortels.","water is same as Good.Water.DisplayName, logs is same as Good.Log.PluralDisplayName"
+Bouw extra voorraden voor boomstammen en Water. Elk opslaggebouw kan slechts één type resource bevatten. Je kunt het instellen nadat je het gebouw hebt geselecteerd.",
+Tutorial.Stage.ExpandStorage,"Nu de boomstammen en het water een opslagplek hebben, moet je hetzelfde doen voor de bessen en de aankomende worteloogst.","water is same as Good.Water.DisplayName, logs is same as Good.Log.PluralDisplayName"
 Tutorial.Stage.Lodges,"Huizen verhogen het welzijn van je bevers en zorgen ervoor dat je Volkstaarten-populatie groeit.
 
-Bouw genoeg lodges om al je bevers te huisvesten.
+Bouw genoeg hutten om al je bevers te huisvesten.
 
 Bevers zullen zich niet voortplanten tenzij er lege plekken zijn voor jongen.",Lodge is a name of a building.
-Tutorial.Stage.Inventor,Science Points worden gebruikt om geavanceerdere gebouwen te ontgrendelen. Een Inventor zal na verloop van tijd Science Points produceren.,Inventor is the name of a building. Science Points must be the same as Science.SciencePoints.
-Tutorial.Stage.WaterWheel,"We kunnen nu beginnen met het produceren van geavanceerdere bronnen, maar sommige gebouwen hebben daarvoor stroom nodig.
+Tutorial.Stage.Inventor,Wetenschapspunten worden gebruikt om geavanceerdere gebouwen te ontgrendelen. Een Uitvinder zal na verloop van tijd Wetenschapspunten produceren.,Inventor is the name of a building. Science Points must be the same as Science.SciencePoints.
+Tutorial.Stage.WaterWheel,"We kunnen nu beginnen met het produceren van geavanceerdere goederen, maar sommige gebouwen hebben daarvoor stroom nodig.
 
 Bouw een waterrad aan de oever van de rivier. Het is afhankelijk van de waterstroom, dus het stopt met het produceren van energie als er geen water is.",Water Wheel is a name of a building
 Tutorial.Stage.LumberMill,"Het is tijd om planken te gaan produceren! Bouw een houtzagerij en verbind deze met het waterrad met krachtassen.
@@ -1617,13 +1620,13 @@ Tutorial.Stage.Farmhouse,"Een nederzetting heeft een stabiele voedselbron nodig.
 Als je bijna geen werkers meer hebt, kun je een aantal gebouwen pauzeren. Selecteer hiervoor een gebouw en klik op de pauzeknop.
 
 Net als veel andere gebouwen heeft een boerderij een beperkt bereik.",Farmhouse should be the same as in Building.Farmhouse.DisplayName
-Tutorial.Stage.Forester,We hebben een stabiele bron van Logs nodig. Ontgrendel de Forester en bouw hem in de buurt van een plek waar je bomen wilt planten.,Forester is a name of a building
+Tutorial.Stage.Forester,We hebben een stabiele bron van Boomstammen nodig. Ontgrendel de Boswachter en bouw hem in de buurt van een plek waar je bomen wilt planten.,Forester is a name of a building
 Tutorial.Stage.MarkPinesForPlanting,"Je kunt nu bomen planten. Kies de Plant bomen en struiken tool en plant wat dennen.
 
 Net als gewassen, moeten bomen water krijgen om te groeien. Vergeet niet om ze te markeren voor het kappen!",Plant trees and bushes must be the same as ToolGroups.ForestryPlanting.
 Tutorial.Stage.KeepPlaying,"Je nederzetting is nu zelfvoorzienend zolang het water blijft stromen. Overweeg om een ​​dam te bouwen of meer tanks te plaatsen om je bevers te helpen de droogtes te overleven.
 
-De tutorial liet je de basis zien, maar er is nog veel meer dat je zelf kunt ontdekken.
+De handleiding liet je de basis zien, maar er is nog veel meer dat je zelf kunt ontdekken.
 
 Veel succes!",Water Tank is a building name.
 Water.Strength,Kracht,Followed by a number which tells how much water a water source produces
@@ -1632,9 +1635,9 @@ WaterInputCoordinates.Limit,Beperken,Depth limit of the water input building (e.
 WaterMover.Unfiltered,Ongefilterd,"Tooltip for a toggle, that decides what kind of fluid should be pumped: unfiltered, water or badwater"
 WaterOpacity.Visibility.Hide,Water verbergen,Tooltip for button hiding water
 WaterOpacity.Visibility.Show,Water tonen,Tooltip for button showing water
-Weather.Badtide,Slechte vloed,Name of toxic hazard season during which all rivers turn into badwater instead of water. Ideally the name should refer to Good.Badwater.DisplayName and follow its pattern. Please read the comment for Good.Badwater.DisplayName for a complete description of what badwater is.
-Weather.BadtideEndedNotification,Badtide is afgelopen,Notification that shows up when a badtide season ends. Badtide should be the same as Weather.Badtide.
-Weather.BadtideStartedNotification,Badtide begon,Notification that shows up when a badtide season starts. Badtide should be the same as Weather.Badtide.
+Weather.Badtide,Slechtwater-vloed,Name of toxic hazard season during which all rivers turn into badwater instead of water. Ideally the name should refer to Good.Badwater.DisplayName and follow its pattern. Please read the comment for Good.Badwater.DisplayName for a complete description of what badwater is.
+Weather.BadtideEndedNotification,Slechtwater-vloed is afgelopen,Notification that shows up when a badtide season ends. Badtide should be the same as Weather.Badtide.
+Weather.BadtideStartedNotification,Slechtwater-vloed begon,Notification that shows up when a badtide season starts. Badtide should be the same as Weather.Badtide.
 Weather.Counter,{0} dagen,Number of days before an event will start. Number is in 1.2 format (1.2 days)
 Weather.CycleAndDayLong,"Cyclus {0}, dag {1}","Example usage: 'Cycle 2, day 5'."
 Weather.CycleAndDayShort,Dag {0}-{1},Example usage: 'Day 2-5'.
@@ -1642,34 +1645,34 @@ Weather.CycleBegins,Cyclus {0} begint,"Shown as a message when new cycle begins,
 Weather.Drought,Droogte,
 Weather.DroughtEndedNotification,Droogte voorbij,A notification that a drought has ended.
 Weather.DroughtStartedNotification,Droogte begonnen,A notification that a drought has begun.
-Weather.Notification.BadtideApproaching,Badtide nadert,Tooltip of weather panel shown when a badtide season is approaching. Badtide should be the same as Weather.Badtide.
-Weather.Notification.BadtideInProgress,Badtide in uitvoering,Tooltip of weather panel shown when a badtide season is in progress. Badtide should be the same as Weather.Badtide.
+Weather.Notification.BadtideApproaching,Slechtwater-vloed nadert,Tooltip of weather panel shown when a badtide season is approaching. Badtide should be the same as Weather.Badtide.
+Weather.Notification.BadtideInProgress,Slechtwater-vloed bezig,Tooltip of weather panel shown when a badtide season is in progress. Badtide should be the same as Weather.Badtide.
 Weather.Notification.DroughtApproaching,Droogte nadert,Tooltip of weather panel shown when a drought season is approaching. Drought should be the same as Weather.Drought.
-Weather.Notification.DroughtInProgress,Droogte in aantocht,Tooltip of weather panel shown when a drought season is in progress. Drought should be the same as Weather.Drought.
-Weather.Notification.Mild,Zacht weer,Tooltip of weather panel shown when a mild (temperate) season is in progress.
+Weather.Notification.DroughtInProgress,Droogte nadert,Tooltip of weather panel shown when a drought season is in progress. Drought should be the same as Weather.Drought.
+Weather.Notification.Mild,Gematigd weer,Tooltip of weather panel shown when a mild (temperate) season is in progress.
 Weather.Temperate,Gematigd weer,
 Wellbeing.AverageWellbeing,Gemiddeld welzijn:,Please keep short. Well-being is how good the beavers feel in general. Could also be welfare or prosperity
 Wellbeing.DisplayName,Welzijn,How good the beavers feel. Could also be welfare or prosperity
 Wellbeing.HighscoreReached,Je bevers zijn gelukkiger dan ooit! Je hebt een nieuwe welzijnshighscore bereikt:,A congratulation message when a settlement reaches a new well-being record
-Wellbeing.NextTier,Volgende laag,Shown on character bonus tooltip with information about next bonus level (each bonus has several tiers with raising values)
+Wellbeing.NextTier,Volgende rang,Shown on character bonus tooltip with information about next bonus level (each bonus has several tiers with raising values)
 Wellbeing.PopulationWellbeing,Bevolkingswelzijn,Please keep short. How good the beavers feel. Could also be welfare or prosperity
 Wellbeing.ShowPopulation,Toon het welzijn van de bevolking,How good the beavers feel. Could also be welfare or prosperity
 Wellbeing.UnlockedFactions,Ontgrendelde facties,Header of a section that tells about factions that can be unlocked
-Wonder.Activate,Launch,Label of a button that activates a Wonder (an end game building).
+Wonder.Activate,Lanceer,Label of a button that activates a Wonder (an end game building).
 WonderCompletion.Panel.Header,Gefeliciteerd!,Header of a panel that is shown when the player has mastered a map.
 WonderCompletion.Panel.Statistics,Statistieken:,Title of the statistics section in the wonder completion panel
 WonderCompletion.Statistic.BeaversBorn,Bevers geboren:,A text for flavor statistic that shows how many beavers have been born during the game.
-WonderCompletion.Statistic.BeaversExploded,Bevers ontploften:,A text for flavor statistic that shows how many beavers have died to a dynamite during the game.
-WonderCompletion.Statistic.BotsManufactured,Bots geproduceerd:,A text for flavor statistic that shows how many bots have been created during the game.
+WonderCompletion.Statistic.BeaversExploded,Bevers ontploft:,A text for flavor statistic that shows how many beavers have died to a dynamite during the game.
+WonderCompletion.Statistic.BotsManufactured,Robots geproduceerd:,A text for flavor statistic that shows how many bots have been created during the game.
 WonderCompletion.Statistic.BrokenTeeth,Tanden gebroken:,A text for flavor statistic that shows how many times a beaver has broken a tooth during the game.
-WonderCompletion.Statistic.DaysPassed,Dagen gingen voorbij:,A text for statistic that shows how many days have passed until wonder was built.
-WonderCompletion.Statistic.DynamiteDetonated,Dynamiet tot ontploffing gebracht:,A text for flavor statistic that shows how many times dynamite has been detonated during the game.
+WonderCompletion.Statistic.DaysPassed,Dagen verstreken:,A text for statistic that shows how many days have passed until wonder was built.
+WonderCompletion.Statistic.DynamiteDetonated,Dynamiet ontploft:,A text for flavor statistic that shows how many times dynamite has been detonated during the game.
 WonderCompletion.Statistic.TailsPainted,Staarten geschilderd:,A text for flavor statistic that shows how many tails have been handled by the detailer.
 WonderCompletion.Statistic.TreesCut,Bomen gekapt:,A text for flavor statistic that shows how many trees have been cut down during the game.
 WonderCompletion.Statistic.WaterConsumed,Verbruikt water:,A text for flavor statistic that shows how many units of water have been consumed during the game.
 WonderCompletion.WonderCompleted,Wonder voltooid: {0},Text that is shown when the player has built and activated a Wonder. {0} is the name of the faction that the player performed this with. Wonder should be the same as Buildings.Wonder.
 Work.BeaverOnly,<SolidHighlight>Alleen bevers:</SolidHighlight> Alleen bevers mogen op deze werkplek werken.,Shown on a tooltip at workplaces where only beavers can work in
-Work.BotOnly,<SolidHighlight>Alleen bots:</SolidHighlight> Alleen bots mogen op deze werkplek werken.,Shown on a tooltip at workplaces where only bots can work in. Bots should be the same as Bot.PluralDisplayName.
+Work.BotOnly,<SolidHighlight>Alleen bots:</SolidHighlight> Alleen robots mogen op deze werkplek werken.,Shown on a tooltip at workplaces where only bots can work in. Bots should be the same as Bot.PluralDisplayName.
 Work.CurrentWorkers,Werknemers: {0} / {1},Please keep short. {0} stands for the desired number of workers. {1} stands for max number of workers that can work in building.
 Work.DefaultAllowedWorker,Werknemers die in nieuwe gebouwen zijn toegestaan:,Global setting for who is allowed to work in a new building: beavers or bots
 Work.DefaultAllowedWorker.Tooltip,Toegestane werknemers in nieuwe gebouwen in dit district worden op basis van deze instelling ingesteld.,Shown on a tooltip for a toggle deciding the default worker setting between beavers and bots.
@@ -1677,18 +1680,18 @@ Work.FuelRemaining,Resterende brandstof: {0}%,"{0} stands for a number between 0
 Work.Incapacitated,arbeidsongeschikt,Label before a number of characters unfit for work (for example injured beavers or broken bots)
 Work.MaxDepth,Maximale diepte: {0},"Explains how deep a building can reach, for example how deep it can pump water from. {0} stands for a number. Example usage: 'Depth: 5'"
 Work.MaximumWorkers,Maximaal aantal werknemers: {0},{0} stands for max number of workers that can work in building.
-Work.PriorityTitle,Prioriteit op de werkplek,Setting a priority on workplace building
+Work.PriorityTitle,Werkplek prioriteit,Setting a priority on workplace building
 Work.Productivity,Productiviteit:,How productive a workplace is. Followed by a percentage.
 Work.ProductivityTip,"Percentage van de tijd die wordt besteed aan productie in vergelijking met de stilstandtijd, zoals het vervoeren van materialen.",Tooltip of how productivity works
-Work.Vacant,Vrij,Denotes an empty workplace slot without a worker.
+Work.Vacant,Leeg,Denotes an empty workplace slot without a worker.
 Work.VacantPlural,Vacatures,Label before number of vacant work slots
 Work.Workers,Werknemers: {0},{0} stands for number of workers
 Work.WorkersLabel,Werknemers,Label before number of workers
 Work.WorkingHoursTooltip,Werkuren,
 Work.Workplace.DisplayName,Werkplek,"Header of a section where various aspects of a workplace can be changed (working priority, number of workers). Please keep short."
-Work.WorkplaceUnlock.CantUnlock,Kan deze werkplek niet ontgrendelen voor bots. Er zijn niet genoeg wetenschapspunten.,Prompt when the player doesn't have enough science points to unlock a workplace for bots. Bots should be the same as Bot.PluralDisplayName.
-Work.WorkplaceUnlock.Prompt,Weet je zeker dat je deze werkplek wilt ontgrendelen voor bots? Het kost {0} Science Points.,"{0} stands for amount. Prompt when the  player presses to unlock a workplace for bots. Science Points must be the same as Science.SciencePoints, Bots as Bot.PluralDisplayName"
-Work.WorkplaceUnlock.Tooltip,Maak deze werkplek toegankelijk voor bots.,Shown on a blocked workplace's tooltip. Bots should be the same as Bot.PluralDisplayName.
+Work.WorkplaceUnlock.CantUnlock,Kan deze werkplek niet ontgrendelen voor robots. Er zijn niet genoeg wetenschapspunten.,Prompt when the player doesn't have enough science points to unlock a workplace for bots. Bots should be the same as Bot.PluralDisplayName.
+Work.WorkplaceUnlock.Prompt,Weet je zeker dat je deze werkplek wilt ontgrendelen voor robots? Het kost {0} Wetenschapspunten.,"{0} stands for amount. Prompt when the  player presses to unlock a workplace for bots. Science Points must be the same as Science.SciencePoints, Bots as Bot.PluralDisplayName"
+Work.WorkplaceUnlock.Tooltip,Ontgrendel deze werkplek voor robots.,Shown on a blocked workplace's tooltip. Bots should be the same as Bot.PluralDisplayName.
 Work.WorkRefusalWarning,Weigert te werken,Please keep short. A warning inside a tooltip that a beaver or a bot won't work if certain circumstances occur (like beaver is sick or bot is out of energy).
 Zipline.AddConnection,Verbinding toevoegen,Tooltip text for button with plus icon adding a connection between two zipline towers or stations.
 Zipline.BlockedWarning,Lijn geblokkeerd!,Error message when zipline path is obstructed
