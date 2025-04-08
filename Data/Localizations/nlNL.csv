@@ -337,7 +337,7 @@ Building.LargeWaterWheel.DisplayName,Groot waterrad,A water wheel that's bigger 
 Building.LargeWaterWheel.FlavorDescription,"""Je hebt een groter wiel nodig."" —Ouwe Kazko","Reference to a famous one-liner from ""Jaws"" (""you're gonna need a bigger boat"")"
 Building.LargeWindmill.Description,Grotere bladen zorgen voor een grotere energieopwekking.,
 Building.LargeWindmill.DisplayName,Grote windmolen,Advanced windmill that can rotate
-Building.LargeWindmill.FlavorDescription,Er is geen betere wind dan meewind.,"Tailwind being a wind blowing from behind, a pun since beavers have tails."
+Building.LargeWindmill.FlavorDescription,Er is geen betere wind dan wind mee.,"Tailwind being a wind blowing from behind, a pun since beavers have tails."
 Building.Levee.Description,Blokkeert water volledig.,
 Building.Levee.DisplayName,Dijk,Different to a Dam
 Building.Levee.FlavorDescription,"Uitgebalanceerd, versterkt en tot in de perfectie gevormd door generaties beverwateringenieurs, is dit niet ""gewoon een blok hout"".",
@@ -1131,12 +1131,12 @@ Mechanical.Charge,Opslag,Current battery charge (how much power a battery has le
 Mechanical.Efficiency,Efficiëntie: {0}%,{0} stands for efficiency percentage number. How efficient workshop is at using the energy.
 Mechanical.NetworkPower,Aanbod/vraag: {0} / {1},{0} stands for supply amount {1} stands for demand amount followed by PowerSymbol
 Mechanical.PowerCapacity,Capaciteit,Stands for battery capacity.
-Mechanical.PowerCapacityPerMeter,kWh/m,Stands for horse power hour per meter - used to describe battery capacity. hph should be same as Mechanical.PowerCapacitySymbol.
-Mechanical.PowerCapacitySymbol,kWh,Please keep short. Stands for horse power hour (as in kilowatt-hour); should keep similar.
+Mechanical.PowerCapacityPerMeter,pku/m,Stands for horse power hour per meter - used to describe battery capacity. hph should be same as Mechanical.PowerCapacitySymbol.
+Mechanical.PowerCapacitySymbol,pku,Please keep short. Stands for horse power hour (as in kilowatt-hour); should keep similar.
 Mechanical.PowerInput,Stroomproductie: {0},{0} stands for power amount followed by PowerSymbol
 Mechanical.PowerInputMaximum,Stroomverbruik / maximum: {0} / {1} ({2}%),{0} stands for input amount {1} stands for maximum amount followed by PowerSymbol {2} stands for efficency ratio in percent
 Mechanical.PowerOutput,Vermogen: {0},{0} stands for power amount
-Mechanical.PowerSymbol,kWh,Please keep short. Stands for horse power; should keep similar.
+Mechanical.PowerSymbol,pk,Please keep short. Stands for horse power; should keep similar.
 Mechanical.PowerSymbolPerFlow,pk/m³/s,Please keep short. Stands for horse power per cubic metre per second; hp should be the same as Mechanical.PowerSymbol.
 Menu.Continue,Doorgaan,A button in main menu which opens the previously played game. Please keep short
 Menu.Credits,Credits,A button please keep short

@@ -3,77 +3,24 @@
   "Version": "0.1.8",
   "Id": "Agroqirax.Languages.Dutch",
   "MinimumGameVersion": "0.0.0.0",
-  "Description": "Nederlandse vertalingen voor het spel en een aantal populaire mods.\n
-  Vind de mod op:
-  [list]
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3345327949]Steam[/url]
-    [*][url=https://mod.io/g/timberborn/m/nederlands-taalpakket]Mod.io[/url]
-    [*][url=https://github.com/agroqirax/TimberbornNederlandsTaalpakket]Github[/url]
-  [/list]
+  "Description": "Nederlandse vertalingen voor het spel en een aantal populaire mods.
 
-  [h1]Ondersteunde mods:[/h1]
-  [list]
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3319416025]Agroqirax.Timberbits[/url] (v0.2.1)
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3278482507]alin.bench[/url] (v1.3.0)
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3316292521]AquaCadre[/url] (v0.6.5.02)
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3285106530]battery.DirtyMouths[/url] (v2.0.5)
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3322428023]Battery.Flywheels[/url] (v2.0.3.2)
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3365256099]Battery.PowerShaftExtensions[/url] (v2.0.2.15)
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3293380223]beaverbuddies[/url] (v1.2.6)
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3295782631]Bentos[/url] (v0.6.5.01)
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3410576524]BobPlatforms[/url] (v0.6.0.0)
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3377606148]BobStorage[/url] (v0.6.0.3)
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3362952283]BotKits[/url] (v0.6.5.00)
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3321838014]Cordial.BoosterJuice[/url] (v0.0.2.0)
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3336999108]Cordial.ForrestTool[/url] (v0.0.1.3)
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3334584916]Cordial.Mods.CutterTool[/url] (v0.0.1.3)
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3377422105]Cordial.Mods.DeleteThatThing5[/url] (v0.1.0)
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3343029129]Cordial.Mods.PlantingOverride[/url] (v0.0.2.0)
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3321521358]eMka.GoodStatistics[/url] (v0.6.5.1)
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3346318229]Emberpelts[/url] (v0.6.0.26)
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3372885855]Emberpelts.ProjectPhoenix[/url] (v0.6.0.0)
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3374011054]eMka.Minimap[/url] (v0.6.9.5)
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3283831040]eMka.ModSettings[/url] (v0.6.9.5)
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3354490402]FindIdleBeavers[/url] (v0.1)
-    [*][url=https://mod.io/g/timberborn/m/geothermalpowerplant]geothermalpowerplant[/url] (v1.3.0) (mod.io)
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3283819933]GreedyBuilders[/url] (v0.6.5.04)
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3343320334]hytone.rotatingsun[/url] (v6.0.2)
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3341210959]Hytone.SimpleFloodgateTriggers[/url] (v5.0.2)
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3296543474]KnatteAnka.damdecoration[/url] (v3.0.8)
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3358718112]KnatteAnka.ExtendedFloodgates[/url] (v1.0.3)
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3279640818]KnatteAnka.frogstatue[/url] (v2.0.5)
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3293437485]KnatteAnka.MoreGroups[/url] (v2.1.0)
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3282276626]KnatteAnka.Path_extention[/url] (v2.0.11)
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3277416566]KnatteAnka.Staircase[/url] (v2.1.9)
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3285720709]KnatteAnka.waterextention[/url] (v2.2.2)
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3361074929]kulesz.FPPCamera[/url] (v0.6.3.0)
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3281653061]Lapantouflemagic.1x1x2Storage[/url] (v2.3.5)
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3281774771]Lapantouflemagic.Logstairs[/url] (v2.1.4)
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3284067782]Lapantouflemagic.MPMapEditor[/url] (v2.0.8)
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3343989895]Lapantouflemagic.WhitepawsFaction[/url] (v4.1.2)
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3286370025]ModManager[/url] (v3.0.3)
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3313990688]MoreBombs[/url] (v0.6.5.01)
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3345158183]Nerro.HalfRoofs[/url] (v0.1)
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3344104932]Nerro.UTurnStairs[/url] (v0.1)
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3294983713]scja.stingantidote[/url] (v1.0.3)
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3370709944]SteamUpdateButtons[/url] (v0.1.1)
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3297796618]Timberborn.Editor.ExtendedTerrainTools[/url] (v0.9.1)
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3324234282]Timberborn.IgorZ.Automation[/url] (v1.2.3)
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3305038022]Timberborn.IgorZ.SmartPower[/url] (v1.11.2)
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3337906807]Timberborn.IgorZ.TimberCommons[/url] (v1.10.2)
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3345266573]Timberborn.OldGopher.Pipe[/url] (v1.5.0.0)
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3385487827]Timberborn.OldGopher.WaterShield[/url] (v0.5.0.0)
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3346279334]Tobbert.ChooChoo[/url] (v0.10.1)
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3341274783]Tobbert.DutchWindmill[/url] (v2.0.1)
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3331500753]Tobbert.FerrisWheel[/url] (v2.0.1)
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3286476486]Tobbert.Ladder[/url] (v2.1.2)
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3341374073]Tobbert.MorePlatforms[/url] (v2.0.2)
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3287407048]tobbert.pipettetool[/url] (v2.0.3)
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3287769244]Tobbert.VerticalPowerShaft[/url] (v2.0.3)
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3358669972]ToolFinder[/url] (v0.0.3)
-    [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3370688565]ToriiLanterns[/url] (v2.0.2)
-  [/list]\n
-  Meer info op [url=https://github.com/agroqirax/TimberbornNederlandsTaalpakket]github[/url].",
+[h1]Download de mod:[/h1]
+[list]
+  [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3345327949]Steam[/url]
+  [*][url=https://mod.io/g/timberborn/m/nederlands-taalpakket]Mod.io[/url]
+  [*][url=https://github.com/agroqirax/TimberbornNederlandsTaalpakket]Github[/url]
+[/list]
+
+[h1]Werkt op[/h1]
+[list]
+  [*]✅ Update 6
+  [*]✅ Update 7
+[/list]
+
+Vrijwel alle mods op de steam workshop zijn vertaald!
+
+Meer info op [url=https://github.com/agroqirax/TimberbornNederlandsTaalpakket]github[/url].",
   "RequiredMods": [],
   "OptionalMods": [
     {
