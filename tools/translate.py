@@ -1,63 +1,72 @@
-import os
+#!/usr/bin/env python3
+
+# Vertaal csv of txt bestanden automatisch met google translate
+# Translate csv or txt file automatically using google translate
+#
+# Gebruik: python tools/translate.py enUS_BronBestand.csv nlNL_BestemmingsBestand.csv nl
+# Usage: python tools/translate.py enUS_SourceFile.csv nlNL_DestFile.csv nl
+#
+# Use an environment:
+# Gebruik een omgeving:
+#
+# python -m venv .venv
+#
+# Linux/macos: source ./.venv/bin/activate
+# Windows: .\.venv\Scripts\activate
+#
+# pip install -r tools/requirements.txt
+
+import sys
 import csv
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from deep_translator import GoogleTranslator
-import requests
+from tqdm import tqdm
 
-# region input
-while True:
-    SrcFilePath = input("Enter the file path to translate: ")
-    if os.path.isfile(SrcFilePath):
-        print("\033[32mFile found\033[0m")
-        break
-    print("\033[31mNot found\033[0m")
 
-while True:
-    destLangCode = input(
-        "Enter the iso369 language code (e.g. 'nl'): ").lower()
-    if len(destLangCode) == 2 and destLangCode.isalpha():
-        print("\033[32mAccepted\033[0m")
-        break
-    print("\033[31mInvalid code\033[0m")
+def translate_row(index, id_, text, comment, translator):
+    translated = translator.translate(text)
+    return index, id_, text, translated, comment
 
-# region load
-with open(SrcFilePath, "r", encoding="utf-8") as srcFile:
-    csv_reader = csv.DictReader(srcFile)
 
-    if not all(col in csv_reader.fieldnames for col in ['ID', 'Text', 'Comment']):
-        print("\033[31mInvalid csv file\033[0m")
-        exit(1)
+def main():
+    if len(sys.argv) != 4:
+        print(
+            "Gebruik: python tools/translate.py enUS_BronBestand.csv nlNL_BestemmingsBestand.csv nl")
+        sys.exit(1)
 
-    rows = list(csv_reader)
-    translatedRows = [None] * len(rows)
+    source_file = sys.argv[1]
+    destination_file = sys.argv[2]
+    language_code = sys.argv[3]
 
-# region translate
-def translateRow(index, row):
-    row['Text'] = GoogleTranslator(
-        source='auto', target=destLangCode).translate(row['Text'])
-    return index, row
+    rows = []
+    with open(source_file, newline='', encoding='utf-8') as f:
+        reader = csv.reader(f)
+        for i, row in enumerate(reader):
+            if len(row) < 3:
+                continue
+            rows.append((i, row[0], row[1], row[2]))
 
-print("\033[34mStarting\033[0m")
+    results = [None] * len(rows)
 
-with ThreadPoolExecutor() as executor:
-    futures = {executor.submit(translateRow, idx, row): idx for idx, row in enumerate(rows)}
-    for future in as_completed(futures):
-        index, translatedRow = future.result()
-        translatedRows[index] = translatedRow
+    translator = GoogleTranslator(source="auto", target=language_code)
 
-        # Update progress bar
-        completed = sum(1 for r in translatedRows if r is not None)
-        progress = int((completed / len(rows)) * 50)
-        bar = f"[{'=' * progress}{' ' * (50 - progress)}] {completed}/{
-            len(rows)} ({completed / len(rows) * 100:.2f}%)"
-        print(bar, end="\r")
+    with ThreadPoolExecutor() as executor:
+        futures = [
+            executor.submit(
+                translate_row, idx, id_, text, comment, translator
+            )
+            for idx, id_, text, comment in rows
+        ]
 
-print()
+        for future in tqdm(as_completed(futures), total=len(futures), desc="Translating"):
+            index, id_, original, translated, comment = future.result()
+            results[index] = (index, id_, translated, comment)  # type: ignore
 
-# region save
-with open(os.path.splitext(SrcFilePath)[0] + f"-translated-{destLangCode}.csv", "w", newline='', encoding="utf-8") as destFile:
-    writer = csv.DictWriter(destFile, fieldnames=['ID', 'Text', 'Comment'])
-    writer.writeheader()
-    writer.writerows(translatedRows)
+    with open(destination_file, "w", newline="", encoding="utf-8") as f:
+        writer = csv.writer(f)
+        for _, id_, translated, comment in results:  # type: ignore
+            writer.writerow([id_, translated, comment])
 
-print("\033[32mSaved\033[0m")
+
+if __name__ == "__main__":
+    main()

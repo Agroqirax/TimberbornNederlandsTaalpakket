@@ -2,10 +2,9 @@
   "files.exclude": {
     "**/*.meta": true
   },
-  "simpleChangelog.attribution.visibility": "none",
-  "simpleChangelog.searchExcludeRegex": "/CHANGELOG.md.meta/",
   "files.associations": {
     "manifest.json": "jsonl"
   },
-  "google-translate.firstLanguage": "nl"
+  "editor.unicodeHighlight.nonBasicASCII": true,
+  "editor.unicodeHighlight.ambiguousCharacters": true
 }

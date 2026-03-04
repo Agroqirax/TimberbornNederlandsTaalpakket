@@ -1,7 +1,3 @@
 {
-  "recommendations": [
-    "janisdd.vscode-edit-csv",
-    "hancel.google-translate",
-    "agroqirax.timberborn-modding-ext"
-  ]
+  "recommendations": ["mechatroner.rainbow-csv"]
 }
