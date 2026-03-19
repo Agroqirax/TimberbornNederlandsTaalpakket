@@ -31,7 +31,7 @@ Download de te vertalen mod (dit kan op [mod.io](https://mod.io/g/timberborn) of
 > De bestanden van de steam workshop worden opgeslagen in `C:\Program Files (x86)\Steam\steamapps\workshop\content\1062090`<br>
 > Op MacOS is dit `~/Library/Application Support/Steam/steamapps/workshop/content/1062090`
 
-Kopier `/localizations/enUS.csv` (of `.txt`) (of `/version-x.x/...`) van de mod naar `/Data/Localizations/Plugins/MOD.ID/nlNL_MODID.csv`
+Kopier `/localizations/enUS.csv` (of `.txt`) (of `/version-x.x/...`) van de mod naar `/Data/Localizations/Plugins/nlNL_MOD.ID.csv`
 
 Vertaal de `Text` kolom van het bestand. Dit kan in elke text editor of in een spreadsheet editor zoals Excel of LibreOffice Calc.
 

@@ -3,24 +3,6 @@ description: Meld een verkeerde vertaling
 title: "[Incorrecte vertaling] - Vertaling voor ... is incorrect"
 labels: ["translation", "bug"]
 body:
-  - type: input
-    id: file
-    attributes:
-      label: Bestand
-      description: "Geef de naam van het bestand"
-      placeholder: "nlNL_ShantySpeaker.csv"
-    validations:
-      required: true
-
-  - type: input
-    id: id
-    attributes:
-      label: ID
-      description: "Geef de ID van de vertaling"
-      placeholder: "Building.ShantySpeaker.DisplayName"
-    validations:
-      required: true
-
   - type: textarea
     id: current_value
     attributes:

@@ -16,7 +16,7 @@ body:
     id: mod_url
     attributes:
       label: Mod URL
-      description: "Geef de URL van de mod (`steam` / `mod.io` / `thunderstore` / `github`)"
+      description: "Geef de URL van de mod (steam / mod.io / github)"
       placeholder: "https://steamcommunity.com/sharedfiles/filedetails/?id=xxxxxxxxxx"
     validations:
       required: true

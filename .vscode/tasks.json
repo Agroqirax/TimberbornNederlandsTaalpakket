@@ -35,13 +35,13 @@
       "id": "srcPath",
       "type": "promptString",
       "description": "Bronbestand",
-      "default": "C:\\Program Files (x86)\\Steam\\steamapps\\workshop\\content\\1062090\\MOD_NAAM\\localizations\\enUS_Mod.csv"
+      "default": "C:\\Program Files (x86)\\Steam\\steamapps\\workshop\\content\\1062090\\Mod\\localizations\\enUS_Mod.csv"
     },
     {
       "id": "destPath",
       "type": "promptString",
       "description": "Bestemmingsbestand",
-      "default": "./Data/Localizations/Plugins/Mod.ID/nlNL_ModID.csv"
+      "default": "./Data/Localizations/Plugins/nlNL_Mod.ID.csv"
     },
     {
       "id": "lang",

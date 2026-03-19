@@ -12,15 +12,6 @@ body:
     validations:
       required: true
 
-  - type: input
-    id: mod_id
-    attributes:
-      label: Mod ID
-      description: "De ID van de mod"
-      placeholder: "Timberborn.ModExamples.ShantySpeaker"
-    validations:
-      required: true
-
   - type: dropdown
     id: reason
     attributes:
@@ -28,6 +19,7 @@ body:
       options:
         - Ik wil niet dat mijn mod vertaald wordt
         - Ik heb nederlandse vertelingen aan mijn mod zelf toegevoegd
+        - Anders, namelijk...
 
   - type: textarea
     id: additional_notes

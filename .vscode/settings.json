@@ -6,5 +6,11 @@
     "manifest.json": "jsonl"
   },
   "editor.unicodeHighlight.nonBasicASCII": true,
-  "editor.unicodeHighlight.ambiguousCharacters": true
+  "editor.unicodeHighlight.ambiguousCharacters": true,
+  "json.schemas": [
+    {
+      "fileMatch": ["/manifest.json"],
+      "url": "https://raw.githubusercontent.com/agroqirax/timberborn-schemas/main/schemas/manifest.schema.json"
+    }
+  ]
 }
