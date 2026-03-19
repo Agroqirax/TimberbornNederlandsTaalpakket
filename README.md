@@ -34,7 +34,7 @@ Als je niet wil dat je mod vertaald word of je hebt je eigen vertalingen toegevo
 
 ## Mod creators
 
-If you'd like to add Dutch translations to your own mod you can do that by adding a `nlNL_YourMod.csv` or `nlNL_Yourmod.txt` file to the translations folder of your mod (`YourMod/Data/Localizations`).
+If you'd like to add Dutch translations to your own mod you can do that by adding a `nlNL_YourMod.csv` or `nlNL_YourMod.txt` file to the translations folder of your mod (`YourMod/Data/Localizations`).
 
 Feel free to copy your mods' translations from here to include them in your mod yourself if you want to.
 

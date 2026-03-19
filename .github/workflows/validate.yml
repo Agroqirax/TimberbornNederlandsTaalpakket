@@ -1,0 +1,35 @@
+name: Validate blueprints and localizations
+
+on:
+  push:
+    paths:
+      - "**/*.json"
+      - "**/*.csv"
+      - "**/*.txt"
+  pull_request:
+    paths:
+      - "**/*.json"
+      - "**/*.csv"
+      - "**/*.txt"
+
+jobs:
+  validate-blueprints:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install dependencies
+        run: npm install ajv ajv-formats
+
+      - name: Validate blueprints
+        run: node .github/scripts/validate-blueprints.mjs
+
+  validate-localizations:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Validate localizations
+        run: node .github/scripts/validate-localizations.js
