@@ -1,0 +1,6 @@
+ID,Text,Comment
+Name_TwoShiftsWorkplaceFragment,Werkplek (twee ploegen variant),Name of the entity panel fragment for TImprove4UX mod
+SecondShift.Disabled,Er zijn geen twee ploegen beschikbaar voor het geselecteerde type werknemer,Tooltip shown when two shifts toggle is disabled
+SecondShift.ShowFirstShift,Eerste ploeg tonen,Tooltip for a button that shows the first shift workers
+SecondShift.ShowSecondShift,Tweede ploeg tonen,Tooltip for a button that shows the second shift workers
+SecondShift.TwoShiftsToggle,Twee ploegen,Label for the toggle to enable or disable the two shifts for a selected building
