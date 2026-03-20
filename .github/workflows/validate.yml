@@ -1,4 +1,4 @@
-name: Validate blueprints and localizations
+name: Validate
 
 on:
   push:

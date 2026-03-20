@@ -1,0 +1,5 @@
+ID,Text,Comment
+Building.EdgeBattery.DisplayName,Afgrond-batterij,
+Building.EdgeBattery.Description,Piek van de opslagcapaciteit van beverenergie.,
+Building.EdgeBattery.FlavorDescription,Ik zag daar beneden een olifant op een schildpad! Ik zweer het. —Pina,
+Buildings.MustBeOnEdge,Gebouw moet op de rand van de kaart worden geplaatst.,

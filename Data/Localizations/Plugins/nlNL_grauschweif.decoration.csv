@@ -1,0 +1,29 @@
+ID,Text,Comment
+Grauschweif.Building.Lantern.DisplayName,Houten lantaarn,
+Grauschweif.Building.Lantern.FlavorDescription,"'t is een mooie glimp voor m'n kool" een boerenbever,
+Grauschweif.Building.StoneLantern.DisplayName,Stenen Lantaarn,
+Grauschweif.Building.StoneLantern.FlavorDescription,"Volkomen veilig" —een mijnwerker,
+Grauschweif.Building.PaperLantern.DisplayName,Papieren lantaarn,
+Grauschweif.Building.PaperLantern.FlavorDescription,"Een kaars in een papieren zak, vastgeplakt aan een huis? Is dat niet leuk?",
+Grauschweif.DecorationGroup.DisplayName,G's decoraties,Tool group label
+Grauschweif.Building.FestiveLantern.DisplayName,Feestelijke lantaarns,
+Grauschweif.Building.FestiveLantern.FlavorDescription,Doet me denken aan de zomer.,
+Grauschweif.Building.SmallGate.DisplayName,Kleine poort,
+Grauschweif.Building.SmallGate.Description,,
+Grauschweif.Building.SmallGate.FlavorDescription,Een tussendoortje op elk pad.,
+Grauschweif.Building.HugeGate.DisplayName,Decoratieve poort,
+Grauschweif.Building.HugeGate.Description,,
+Grauschweif.Building.HugeGate.FlavorDescription,Enorm,
+Grauschweif.Floats.Lantern.DisplayName,Drijvende lantaarn,
+Grauschweif.Floats.Lantern.Description,Gaat nog <i>{0} uur</i> mee.,
+Grauschweif.Floats.Lantern.FlavorDescription,Een zacht licht,
+Grauschweif.Building.FloatDispatcher.DisplayName,Vlot verzender,
+Grauschweif.Building.FloatDispatcher.Description,"Een simpel dingetje. WORK-IN-PROGRESS zal langzaam de inventarisbehoefte toevoegen en deze verbinden met de wijk, overstroombaar, enz..",Generic description
+Grauschweif.Building.FloatDispatcher.Description.DispatchMessage,Verzendt {0} van ongeveer {1} tot {2}.,Timing info. 0=name. 1/2=hour like 16:30
+Grauschweif.Building.FloatDispatcher.Description.ActiveMessage,Verzending van {1} nieuwe {0} per uur.,
+Grauschweif.Building.FloatDispatcher.Description.PausedMessage,Gepauzeerd tot de volgende schemering.,
+Grauschweif.Building.FloatDispatcher.FlavorDescription,Kits sturen bij elk licht wensen uit,
+Grauschweif.Building.ArtisansLodge.DisplayName,Ambachtelijke werkplaats,
+Grauschweif.Building.ArtisansLodge.Description,Ambachtslieden maken veel mooie dingen. Deze maakt graag papieren lantaarns.,
+Grauschweif.Building.ArtisansLodge.FlavorDescription,,
+Grauschweif.Time.HourMinute,{0}:{1},hour and minutes

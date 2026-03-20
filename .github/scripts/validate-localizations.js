@@ -151,7 +151,7 @@ function validateFile(filePath) {
   try {
     raw = fs.readFileSync(filePath, "utf8");
   } catch (err) {
-    console.error(`::error:: Cannot read file ${filePath} ${err.message}`);
+    console.error(`::error:: Cannot read file ${name} ${err.message}`);
     failed = true;
     return null;
   }
@@ -164,7 +164,7 @@ function validateFile(filePath) {
   const nonEmpty = rows.filter((r) => !(r.length === 1 && r[0] === ""));
 
   if (nonEmpty.length === 0) {
-    console.error(`::error:: ${filePath} file is empty`);
+    console.error(`::error:: ${name} file is empty`);
     failed = true;
     return null;
   }
@@ -175,9 +175,7 @@ function validateFile(filePath) {
     header.length < REQUIRED_HEADER.length ||
     !REQUIRED_HEADER.every((col, idx) => header[idx] === col)
   ) {
-    console.error(
-      `::error:: ${filePath}:0 header does not match required pattern`,
-    );
+    console.error(`::error:: ${name}:0 header does not match required pattern`);
     failed = true;
     return null;
   }
@@ -193,14 +191,14 @@ function validateFile(filePath) {
 
     const id = (rowData[idIdx] ?? "").trim();
     if (id === "") {
-      console.error(`::error:: ${filePath}:${rowNumber} ID column is empty`);
+      console.error(`::error:: ${name}:${rowNumber} ID column is empty`);
       failed = true;
     } else {
       ids.add(id);
     }
 
     if ((rowData[textIdx] ?? "").trim() === "") {
-      console.warn(`::warning:: ${filePath}:${rowNumber} Text column is empty`);
+      console.warn(`::warning:: ${name}:${rowNumber} Text column is empty`);
     }
   }
 
