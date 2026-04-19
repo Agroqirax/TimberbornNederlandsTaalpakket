@@ -1,0 +1,143 @@
+name: Deploy
+
+on:
+  push:
+    tags:
+      - "v*"
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Parse Changelog Entry
+        id: changelog
+        uses: coditory/changelog-parser@v1
+        with:
+          version: ${{ github.ref_name }}
+
+      - name: Validate versions match
+        run: |
+          TAG_VERSION="${{ github.ref_name }}"
+          TAG_VERSION="${TAG_VERSION#v}"
+
+          CHANGELOG_VERSION="${{ steps.changelog.outputs.version }}"
+
+          MANIFEST_VERSION=$(jq -r '.Version' manifest.json)
+
+          echo "::debug:: Tag version:       $TAG_VERSION"
+          echo "::debug:: Changelog version: $CHANGELOG_VERSION"
+          echo "::debug:: Manifest version:  $MANIFEST_VERSION"
+
+          if [ "$TAG_VERSION" != "$CHANGELOG_VERSION" ]; then
+            echo "::error file=/CHANGELOG.md:: Tag version ($TAG_VERSION) does not match changelog version ($CHANGELOG_VERSION)"
+            exit 1
+          fi
+
+          if [ "$TAG_VERSION" != "$MANIFEST_VERSION" ]; then
+            echo "::error file=/manifest.json:: Tag version ($TAG_VERSION) does not match manifest.json Version ($MANIFEST_VERSION)"
+            exit 1
+          fi
+
+      - name: Generate bbcode changelog
+        id: changelog_bbcode
+        env:
+          CHANGELOG: ${{ steps.changelog.outputs.description }}
+        run: |
+          result=$(echo "$CHANGELOG" | node .github/scripts/md-to-bbcode.js)
+          echo "bbcode<<EOF" >> $GITHUB_OUTPUT
+          echo "$result" >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
+          echo "$result"
+
+      - name: Build mod
+        run: |
+          mkdir -p staging
+          cp manifest.json staging/manifest.json
+          if [ -d Root ]; then cp -r Root/. staging/; fi
+          if [ -d Data ]; then cp -r Data/. staging/; fi
+          find staging/ -name '*.meta' -delete
+          cd staging
+          zip -r "../mod-${{ steps.changelog.outputs.version }}.zip" .
+
+      - name: Create GitHub release
+        id: gh_release
+        if: always()
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: "v${{ steps.changelog.outputs.version }}"
+          name: "v${{ steps.changelog.outputs.version }}"
+          body: "${{ steps.changelog.outputs.description }}"
+          files: "mod-${{ steps.changelog.outputs.version }}.zip"
+
+      - name: Create Mod.io release
+        id: modio
+        if: always()
+        uses: nickelc/upload-to-modio@v3.0.0
+        with:
+          token: ${{ secrets.MODIO_TOKEN }}
+          game: ${{ vars.MODIO_GAME_ID }}
+          mod: ${{ vars.MODIO_MOD_ID }}
+          version: ${{ steps.changelog.outputs.version }}
+          changelog: ${{ steps.changelog.outputs.description }}
+          path: "mod-${{ steps.changelog.outputs.version }}.zip"
+
+      - name: Create Steam Workshop release
+        id: steam
+        if: always()
+        uses: m00nl1ght-dev/steam-workshop-deploy@v3
+        with:
+          username: ${{ secrets.STEAM_USERNAME }}
+          configVdf: ${{ secrets.STEAM_CONFIG_VDF }}
+          path: staging
+          appId: ${{ vars.STEAM_APPID }}
+          publishedFileId: ${{ vars.STEAM_FILE_ID }}
+          changeNote: ${{ steps.changelog_bbcode.outputs.bbcode }}
+
+      - name: Write job summary
+        if: always()
+        env:
+          CHANGELOG: ${{ steps.changelog.outputs.description }}
+        run: |
+          VERSION="${{ steps.changelog.outputs.version }}"
+          GH_RELEASE_URL="https://github.com/${{ github.repository }}/releases/tag/v${VERSION}"
+          STEAM_URL="https://steamcommunity.com/sharedfiles/filedetails/?id=${{ vars.STEAM_FILE_ID }}"
+
+          gh_outcome="${{ steps.gh_release.outcome }}"
+          modio_outcome="${{ steps.modio.outcome }}"
+          steam_outcome="${{ steps.steam.outcome }}"
+          modio_url="${{ steps.modio.outputs.url }}"
+
+          format_status() {
+            case "$1" in
+              success) echo "✅ Deployed" ;;
+              failure) echo "❌ Failed" ;;
+              cancelled) echo "⚠️ Cancelled" ;;
+              *) echo "⏭️ Skipped" ;;
+            esac
+          }
+
+          format_link() {
+            local outcome="$1" label="$2" url="$3"
+            if [ "$outcome" = "success" ] && [ -n "$url" ]; then
+              echo "[$label]($url)"
+            else
+              echo "—"
+            fi
+          }
+
+          echo "## 🚀 Deploy Summary for v${VERSION}" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "| Target | Status | Link |" >> $GITHUB_STEP_SUMMARY
+          echo "| --- | --- | --- |" >> $GITHUB_STEP_SUMMARY
+          echo "| GitHub Release | $(format_status $gh_outcome) | $(format_link $gh_outcome "v${VERSION}" "$GH_RELEASE_URL") |" >> $GITHUB_STEP_SUMMARY
+          echo "| Mod.io | $(format_status $modio_outcome) | $(format_link $modio_outcome "Download" "$modio_url") |" >> $GITHUB_STEP_SUMMARY
+          echo "| Steam Workshop | $(format_status $steam_outcome) | $(format_link $steam_outcome "Workshop Page" "$STEAM_URL") |" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### 📋 Changelog" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "$CHANGELOG" >> $GITHUB_STEP_SUMMARY

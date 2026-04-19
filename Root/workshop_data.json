@@ -4,5 +4,7 @@
   "Visibility": "Public",
   "UpdateDescription": true,
   "UpdateVisibility": false,
-  "UpdatePreview": false
+  "UpdatePreview": false,
+  "UpdateTags": true,
+  "Tags": ["Update 1.0", "Other", "Translations"]
 }
