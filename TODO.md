@@ -1,0 +1,3 @@
+Verontreiniging/vervuiling/etc
+Werknemers/arbeiders
+Energie/stroom

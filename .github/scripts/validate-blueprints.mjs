@@ -133,7 +133,7 @@ async function main() {
     const rule = rules.find((r) => r.regex.test(rel));
 
     if (!rule) {
-      console.log(`::notice:: ${rel} No matching schema`);
+      console.log(`::warning file=${rel}:: ${rel} No matching schema`);
       skipped++;
       continue;
     }
@@ -142,7 +142,7 @@ async function main() {
     try {
       data = JSON.parse(readFileSync(absPath, "utf8"));
     } catch (e) {
-      console.error(`::error:: ${rel} Invalid JSON: ${e.message}`);
+      console.error(`::error file=${rel}:: ${rel} Invalid JSON: ${e.message}`);
       failed++;
       continue;
     }
@@ -155,7 +155,7 @@ async function main() {
         validatorCache.set(rule.schemaUrl, validate);
       } catch (e) {
         console.error(
-          `::error:: ${rel} Could not compile schema "${rule.name}": ${e.message}`,
+          `::error file=${rel}:: ${rel} Could not compile schema "${rule.name}": ${e.message}`,
         );
         failed++;
         continue;
@@ -165,7 +165,7 @@ async function main() {
     if (validate(data)) {
       passed++;
     } else {
-      console.error(`::error:: ${rel} [${rule.name}]`);
+      console.error(`::error file=${rel}:: ${rel} [${rule.name}]`);
       for (const err of validate.errors ?? []) {
         const where = err.instancePath || "(root)";
         console.error(`            ${where}: ${err.message}`);

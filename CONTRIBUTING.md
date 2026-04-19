@@ -36,13 +36,13 @@ Kopier `/localizations/enUS.csv` (of `.txt`) (of `/version-x.x/...`) van de mod 
 Vertaal de `Text` kolom van het bestand. Dit kan in elke text editor of in een spreadsheet editor zoals Excel of LibreOffice Calc.
 
 > [!TIP]
-> Gebruik tools/translate.py om automatisch te vertalen.<br>
-> In vscode gebruik: >Tasks: Run Task<br>
-> Installeer wel eerst tools/requirements.txt en check na afloop dat de vertalingen kloppen.
+> Gebruik `tools/translate.py` om automatisch te vertalen.<br>
+> In vscode gebruik: `> Tasks: Run Task`<br>
+> Installeer wel eerst `tools/requirements.txt` en check na afloop dat de vertalingen kloppen.
 
 Voeg de mod toe aan de changelog en modlijst
 
-`CHANGELOG.md`
+`./CHANGELOG.md`
 
 ```md
 ## [x.x.x] - yyyy-mm-dd
@@ -52,10 +52,10 @@ Voeg de mod toe aan de changelog en modlijst
 - Mod ... toegevoegd/verbeterd/...
 ```
 
-`modlist.csv`
+`./modlist.csv`
 
 ```csv
-MOD.ID,Name,https://steamcommunity.com/sharedfiles/filedetails/?id=xxxxxxxxxx,https://mod.io/g/timberborn/m/ModName,x.x.x
+Naam,Mod.Id,https://steamcommunity.com/sharedfiles/filedetails/?id=xxxxxxxxxx,https://mod.io/g/timberborn/m/ModNaam,x.x.x
 ```
 
 Commit je veranderingen en push de branch
@@ -84,8 +84,6 @@ Let op deze dingen tijdens het vertalen
   - Power shaft -> Aandrijfas
 - Namen
   - Ma' Ngonel -> Oma Ngonel
-  - Pina -> Pina
-  - Suli -> Suli
   - Ol' Kazko -> Ouwe Kazko
 - Quotes schrijven met een em-dash (U+2014), geen spatie en bijde delen met een hoofdletter (bijv. —Oma Ngonel)
 - Houd het hoofdlettergebruik van het origineel aan

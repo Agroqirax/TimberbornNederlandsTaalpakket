@@ -15,9 +15,7 @@
  * Handles multiline values wrapped in double-quotes per RFC 4180.
  *
  * Usage:
- *   node validate-localizations.js [rootDir]
- *
- * rootDir defaults to the current working directory.
+ *   node validate-localizations.js
  */
 
 const fs = require("fs");
@@ -137,11 +135,12 @@ function parseCSV(content) {
  */
 function validateFile(filePath) {
   const name = path.basename(filePath);
+  const relPath = path.relative(process.cwd(), filePath);
 
   // 1. Filename
   if (!FILENAME_RE.test(name)) {
     console.error(
-      `::error:: Filename "${name}" does not match required pattern`,
+      `::error file=${relPath}:: Filename "${relPath}" does not match required pattern`,
     );
     failed = true;
   }
@@ -151,7 +150,9 @@ function validateFile(filePath) {
   try {
     raw = fs.readFileSync(filePath, "utf8");
   } catch (err) {
-    console.error(`::error:: Cannot read file ${name} ${err.message}`);
+    console.error(
+      `::error file=${relPath}:: Cannot read file ${relPath} ${err.message}`,
+    );
     failed = true;
     return null;
   }
@@ -164,7 +165,7 @@ function validateFile(filePath) {
   const nonEmpty = rows.filter((r) => !(r.length === 1 && r[0] === ""));
 
   if (nonEmpty.length === 0) {
-    console.error(`::error:: ${name} file is empty`);
+    console.error(`::error file=${relPath}:: ${relPath} file is empty`);
     failed = true;
     return null;
   }
@@ -175,7 +176,9 @@ function validateFile(filePath) {
     header.length < REQUIRED_HEADER.length ||
     !REQUIRED_HEADER.every((col, idx) => header[idx] === col)
   ) {
-    console.error(`::error:: ${name}:0 header does not match required pattern`);
+    console.error(
+      `::error file=${relPath},line=0:: ${relPath}:0 header does not match required pattern`,
+    );
     failed = true;
     return null;
   }
@@ -191,14 +194,18 @@ function validateFile(filePath) {
 
     const id = (rowData[idIdx] ?? "").trim();
     if (id === "") {
-      console.error(`::error:: ${name}:${rowNumber} ID column is empty`);
+      console.error(
+        `::error file=${relPath},line=${rowNumber}:: ${relPath}:${rowNumber} ID column is empty`,
+      );
       failed = true;
     } else {
       ids.add(id);
     }
 
     if ((rowData[textIdx] ?? "").trim() === "") {
-      console.warn(`::warning:: ${name}:${rowNumber} Text column is empty`);
+      console.warn(
+        `::warning file=${relPath},line=${rowNumber}:: ${relPath}:${rowNumber} Text column is empty`,
+      );
     }
   }
 
@@ -269,9 +276,8 @@ function checkIdConsistency(fileIdMap) {
 // ─── Main ─────────────────────────────────────────────────────────────────────
 
 function main() {
-  const rootDir = process.argv[2] ?? process.cwd();
-  const files = collectLocalizationFiles(path.resolve(rootDir)).filter((f) =>
-    [".txt", ".csv"].includes(path.extname(f).toLowerCase()),
+  const files = collectLocalizationFiles(path.resolve(process.cwd())).filter(
+    (f) => [".txt", ".csv"].includes(path.extname(f).toLowerCase()),
   );
 
   if (files.length === 0) {

@@ -2,9 +2,6 @@
   "files.exclude": {
     "**/*.meta": true
   },
-  "files.associations": {
-    "manifest.json": "jsonl"
-  },
   "editor.unicodeHighlight.nonBasicASCII": true,
   "editor.unicodeHighlight.ambiguousCharacters": true,
   "json.schemas": [

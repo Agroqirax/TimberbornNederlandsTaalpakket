@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.1.9] - 2026-03-04
+
+### Changed
+
+- Fouten verbeterd
+- Spelling & grammatica fouten verbeterd
+- Style guide toegevoegd
+- Readme verbeterd
+- Modlist toegevoegd
+- Mods toegevoegd
+- Tools toegevoegd/verbeterd
+- GitHub actions workflow toegevoegd
+
 ## [0.1.8] - 2025-02-09
 
 ### Changed
