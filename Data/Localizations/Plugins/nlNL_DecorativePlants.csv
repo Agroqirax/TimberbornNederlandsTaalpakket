@@ -1,0 +1,28 @@
+ID,Text,Comment
+LV.DP.GroupName,Decoratieve planten,
+LV.DP.SettingDesc,Genereer de decoratieve plantendecoraties voor je spel. Je zou hier terug moeten komen om te regenereren elke keer dat je een wijziging hebt in mods die een factie of planten toevoegen of verwijderen.,
+LV.DP.Generate,Genereer,
+LV.DP.GenerateDone,"Decoratieve plantendecoraties gegenereerd voor {0} facties. Je zou ze nu in het spel moeten zien.
+<RedHighlight>Herstart het spel om van kracht te worden!</RedHighlight>",
+LV.DP.Clear,Duidelijk,
+LV.DP.ClearDone,"Decoraties voor decoratieve planten gewist. Klik op Genereren om ze opnieuw te genereren en weer toe te voegen aan het spel.
+<RedHighlight>Herstart het spel om van kracht te worden!</RedHighlight>",
+LV.DP.RestartNotice,<i>Herstart het spel om van kracht te worden!</i>,
+LV.DP.DecorativePlantBuildingDesc,Een decoratieve plant die niet geoogst wordt,
+LV.DP.NoPlantData,"Je hebt Decorative Plants mod geïnstalleerd, maar er zijn nog geen plantgegevens gegenereerd. Het kan ook gebeuren omdat de mod ook door Steam is bijgewerkt.
+Ga naar de Mod-instellingen en klik op Genereer om ze toe te voegen.
+Schakel de mod uit als je dit bericht niet wilt zien.",
+LV.DP.AllFactions,Alle facties,
+LV.DP.AllFactionsDesc,Je kunt decoratieve planten bouwen van planten van alle facties. Je hebt de XtraPlzNoCrashes-mod nodig.,
+LV.DP.Free,Vrij,
+LV.DP.FreeDesc,Sierplanten zijn gratis en bij plaatsing klaar.,
+LV.DP.NoOccupation,Geen bezetting,
+LV.DP.NoOccupationDesc,"Sierplanten nemen geen ‘ruimte’ in beslag, dus je kunt ze op/met iets anders bouwen. Vanwege technische beperkingen moet het de grond op het eerste niveau bezetten.",
+LV.DP.PlantMatureSeedling,Zaailing,
+LV.DP.PlantMatureMature,Volwassen,
+LV.DP.PlantWellnessAlive,In leven,
+LV.DP.PlantWellnessDying,Sterven,
+LV.DP.PlantWellnessDead,Dood,
+LV.DP.HasProduct,Heeft product,
+LV.MT.BldSet.DecorativePlantComponent,Decoratieve plant,
+Name_DecorativePlantFragment,Decoratieve plant,

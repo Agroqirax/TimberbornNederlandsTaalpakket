@@ -1,0 +1,18 @@
+ID,Text,Comment
+eMka.GoodStatistics.BatchControlKeyBinding,Open het tabblad Goederenstatistieken,KeyBinding label
+eMka.GoodStatistics.BatchControlTabName,Goederenstatistieken,Name of the tab in settlement panel
+eMka.GoodStatistics.DepletionDaysLeft,Geschatte tijd tot leeg: {0},"{0} stands for formatted Time.DaysShort, e.g. ""1d"" for 1 day"
+eMka.GoodStatistics.GoodSampleTime,{0} geleden bemonsterd,"{0} stands for formatted Time.HoursShort, e.g. ""1h"" for 1 hour"
+eMka.GoodStatistics.GrowingDaysLeft,Geschatte tijd tot vol: {0},"{0} stands for formatted Time.DaysShort, e.g. ""1d"" for 1 day"
+eMka.GoodStatistics.Settings.AnalyzeGoodsWithoutStockpiles,Analyseer goederen zonder opslag,
+eMka.GoodStatistics.Settings.ConsecutiveMicroChangesThreshold,Opeenvolgende microveranderingen drempelwaarde,
+eMka.GoodStatistics.Settings.ConsecutiveMicroChangesThresholdTooltip,Aantal opeenvolgende microveranderingen (onder de drempelwaarde voor langzame dagelijkse verandering) die als trend moeten worden beschouwd,"Tooltip for ConsecutiveMicroChangesThreshold setting, text in the brackets should be the same as eMka.GoodStatistics.Settings.SlowChangeThreshold key"
+eMka.GoodStatistics.Settings.EMAAnalyzerHeader,Exponentiële voortschrijdend gemiddelde-analysator,
+eMka.GoodStatistics.Settings.FastChangeThreshold,Snelle dagelijkse wijzigingsdrempel,
+eMka.GoodStatistics.Settings.IgnoreGoodsWithStorageLessThan,Negeer goederen met een opslagcapaciteit van minder dan,
+eMka.GoodStatistics.Settings.ModerateChangeThreshold,Matige dagelijkse veranderingsdrempel,
+eMka.GoodStatistics.Settings.SamplesPerDay,Monsters per dag,
+eMka.GoodStatistics.Settings.SamplesToAnalyze,Monsters om te analyseren,
+eMka.GoodStatistics.Settings.BaseSettings,Basisinstellingen,
+eMka.GoodStatistics.Settings.ShowTrendsOnTopBar,Toon trends in de bovenste balk,
+eMka.GoodStatistics.Settings.SlowChangeThreshold,Langzame dagelijkse veranderingsdrempel,
