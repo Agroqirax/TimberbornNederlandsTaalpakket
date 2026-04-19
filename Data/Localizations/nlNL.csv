@@ -1994,9 +1994,9 @@ Gepauzeerde werkplekken worden bijvoorbeeld automatisch ontruimd en werknemers w
                                                
 Selecteer de transportpost en pauzeer deze door op de knop in het paneel te klikken.",Hauling Post refers to Building.HaulingPost.DisplayName
 Tutorial.Housing,Huisvesting,"Tutorial title, housing should be the same as ToolGroups.Housing"
-Tutorial.Housing.Lodges,"""Twee bevers zijn beter dan één! Huizen zorgen ervoor dat je bevers zich beter voelen en zorgen ervoor dat je Volkstaart-populatie groeit.",
-                                      ,,
-"Bevers gaan vanzelf in de beschikbare woonruimtes wonen.""""",Folktails is the same as faction as Faction.Folktails.DisplayName,
+Tutorial.Housing.Lodges,"""Twee bevers zijn beter dan één! Huizen zorgen ervoor dat je bevers zich beter voelen en zorgen ervoor dat je Volkstaart-populatie groeit.
+
+Bevers gaan vanzelf in de beschikbare woonruimtes wonen.""",Folktails is the same as faction as Faction.Folktails.DisplayName,
 Tutorial.IncreaseDesiredWorkers,Aantal gewenste werknemers verhogen: {0},{0} stands for building name
 Tutorial.Introduction.Description,"Welkom bij Timberborn! Deze tutorial zal je helpen je poot in de woestenij te zetten en de eerste dagen te overleven.
                                    
