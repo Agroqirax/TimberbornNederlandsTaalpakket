@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.1.10] - 2026-04-19
+
+### Changed
+
+- Mods bijgewerkt
+
 ## [0.1.9] - 2026-03-04
 
 ### Changed
@@ -30,25 +36,18 @@
 
 ### Added
 
-#### Mods
-
 - [BobPlatforms](Data/Localizations/Plugins/BobPlatforms)
 - [BobStorage](Data/Localizations/Plugins/BobStorage)
 
 ### Changed
 
 - Bug fixes
-
-#### Mods
-
 - [Emberpelts](Data/Localizations/Plugins/Emberpelts) (-> v0.6.0.26)
 - [eMka.Minimap](Data/Localizations/Plugins/eMka.Minimap) (-> v0.6.9.5)
 
 ## [0.1.5] - 2024-12-22
 
 ### Added
-
-#### Mods
 
 - [alin.bench](Data/Localizations/Plugins/alin.bench)
 - [Battery.PowerShaftExtensions](Data/Localizations/Plugins/Battery.PowerShaftExtensions)
@@ -69,9 +68,6 @@
 - [Timberborn.OldGopher.WaterShield](Data/Localizations/Plugins/Timberborn.OldGopher.WaterShield)
 - [ToolFinder](Data/Localizations/Plugins/ToolFinder)
 - [ToriiLanterns](Data/Localizations/Plugins/ToriiLanterns)
-
-#### Repository
-
 - [CONTRIBUTING.md](CONTRIBUTING.md)
 - [translate.py](tools/translate.py)
 
@@ -88,8 +84,6 @@
 
 ### Added
 
-#### Mods
-
 - [Emberpelts](Data/Localizations/Plugins/Emberpelts)
 - [FindIdleBeavers](Data/Localizations/Plugins/FindIdleBeavers)
 
@@ -105,8 +99,6 @@
 
 ### Added
 
-#### Mods
-
 - [battery.DirtyMouths](Data/Localizations/Plugins/battery.DirtyMouths)
 - [GreedyBuilders](Data/Localizations/Plugins/GreedyBuilders)
 
@@ -118,12 +110,7 @@
 
 ### Added
 
-#### Vscode
-
 - Code snippet for csv files
-
-#### Mods
-
 - [KnatteAnka.damdecoration](Data/Localizations/Plugins/KnatteAnka.damdecoration)
 - [KnatteAnka.frogstatue](Data/Localizations/Plugins/KnatteAnka.frogstatue)
 - [KnatteAnka.waterextention](Data/Localizations/Plugins/KnatteAnka.waterextention)
@@ -132,25 +119,15 @@
 
 ### Changed
 
-#### Readme
-
 - Mod makers sectie vertaald naar het engles
-
-#### Vertalingen
-
 - Vertalingen verbeterd
 - Fouten weggehaald
 - `... beverbevolking ...` -> `... bever bevolking ...`
-
-#### Github
-
 - Reden toegevoegd aan issue form `remove-translations`
 
 ## [0.1.1] - 2024-10-09
 
 ### Added
-
-#### Mods
 
 - [beaverbuddies](Data/Localizations/Plugins/beaverbuddies)
 - [Nerro.HalfRoofs](Data/Localizations/Plugins/Nerro.HalfRoofs)
@@ -160,8 +137,6 @@
 
 ### Changed
 
-#### Vertalingen
-
 - `MapMetadata.Diorama.Description`: `... grote kolonies, krijgen ...` -> `... grote nederzettingen, krijgen ...`
 - `MapMetadata.ThousandIslands.Description`: `... industriële kolonie.` -> `... industriële nederzetting.`
 - `Tutorial.Stage.PlaceLumberjacks`: `... een beverkolonie.\nElke ...` -> `... een bever nederzetting.\nElke ...`
@@ -170,12 +145,7 @@
 
 ### Added
 
-#### Vertalingen
-
 - Nederlandse vertalingen voor het hele spel.
-
-#### Mods
-
 - [Agroqirax.Timberbits](Data/Localizations/Plugins/Agroqirax.Timberbits)
 - [AquaCadre](Data/Localizations/Plugins/AquaCadre)
 - [Battery.Flywheels](Data/Localizations/Plugins/Battery.Flywheels)

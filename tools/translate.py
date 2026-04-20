@@ -15,7 +15,7 @@ options:
 
 import sys
 import csv
-import json
+import json5
 import argparse
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
@@ -36,7 +36,7 @@ def load_manifest(src: Path) -> dict:
         print(f"Error: manifest not found at {manifest_path}", file=sys.stderr)
         sys.exit(1)
     with open(manifest_path, encoding="utf-8-sig") as f:
-        return json.load(f)
+        return json5.load(f)
 
 
 def load_workshop_data(src: Path) -> dict | None:
@@ -45,10 +45,10 @@ def load_workshop_data(src: Path) -> dict | None:
     workshop_data_path1 = src.resolve().parent.parent.parent / "workshop_data.json"
     if workshop_data_path0.exists():
         with open(workshop_data_path0, encoding="utf-8-sig") as f:
-            return json.load(f)
+            return json5.load(f)
     elif workshop_data_path1.exists():
         with open(workshop_data_path1, encoding="utf-8-sig") as f:
-            return json.load(f)
+            return json5.load(f)
     else:
         return None
 

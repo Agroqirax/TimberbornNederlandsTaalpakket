@@ -1,0 +1,73 @@
+ID,Text,Comment
+BeaverBuddies.Menu.JoinCoopGame,Deelnemen aan co-op spel,Join co-op game
+BeaverBuddies.JoinCoopGame.EnterIp,Voer het IP-adres of de domeinnaam van de host in:,
+BeaverBuddies.FirstTimer.Message,Het lijkt erop dat dit de eerste keer is dat je BeaverBuddies gebruikt. We raden je aan snel onze gids door te nemen om er zeker van te zijn dat je klaar bent om te spelen. Zou je dat nu willen doen?,It looks like this is your first time using BeaverBuddies. We recommend taking a quick look through our guide to make sure you are set up to play. Would you like to do that now?
+BeaverBuddies.Saving.HostCoopGame,Co-op spel hosten,Host co-op game
+BeaverBuddies.JoinCoopGame.ConnectionFailedMessageWithError,"Deelnemen mislukt met foutcode:
+{0}
+Wil je de probleemoplossingsgids openen?","Joining failed with error:
+{0}
+Would you like to open the troubleshooting guide?"
+BeaverBuddies.JoinCoopGame.ConnectionFailedMessage,Kan geen verbinding maken met de host. Wil je de probleemoplossingsgids openen?,Failed to connect to Host. Would you like to open the troubleshooting guide?
+BeaverBuddies.ClientDesynced.Message,"Een verbonden speler is gedesynchroniseerd en kan niet verder spelen. Sorry daarvoor! De host zou op Rehost moeten drukken en daarna zou de client opnieuw verbinding moeten maken. Mogelijk moet je het spel opnieuw opstarten als de problemen aanhouden. Wil je, voordat je opnieuw laadt, een foutrapport indienen om ons te helpen dit probleem op te lossen?",
+BeaverBuddies.ClientDesynced.FailedToRehostMessage,Opnieuw hosten is mislukt. Sla handmatig op en host opnieuw.,Failed to Rehost. Manually save and Host again.
+BeaverBuddies.ClientDesynced.SaveAndRehostButton,Opslaan en opnieuw hosten,Save and Rehost
+BeaverBuddies.ClientDesynced.WaitForRehostButton,Opnieuw verbinden (wachten op opnieuw hosten),Reconnect (wait for Rehost)
+BeaverBuddies.ClientDesynced.PostBugReportButton,Bugrapport indienen,Post Bug Report
+BeaverBuddies.Editor.StartingLocation1,Startlocatie - Speler 1,
+BeaverBuddies.Editor.StartingLocation2,Startlocatie - Speler 2,
+BeaverBuddies.Editor.StartingLocation3,Startlocatie - Speler 3,
+BeaverBuddies.Editor.StartingLocation4,Startlocatie - Speler 4,
+BeaverBuddies.NewGame.MaxStartingLocations,Max. aantal startlocaties,
+BeaverBuddies.ClientDesynced.ReportSuccess,Succes!,
+BeaverBuddies.ClientDesynced.ReportFailed,Mislukt :(,
+BeaverBuddies.ClientDesynced.ConsentAgreement,"Ja, ik ga akkoord",
+BeaverBuddies.ClientDesynced.TracingEnabled,Ingeschakeld,
+BeaverBuddies.ClientDesynced.EnableTracing,Logging inschakelen,
+BeaverBuddies.ClientDesynced.NeedToEnableTracing,"Om deze desynchronisatie te kunnen melden, moeten *alle spelers* eerst meer gedetailleerde logging inschakelen door hieronder op Logregistratie inschakelen te drukken. Als er opnieuw een desynchronisatie plaatsvindt, kun je een gedetailleerd, geautomatiseerd bugrapport plaatsen. De logmodus kan enige vertraging veroorzaken, maar deze zal alleen actief zijn totdat je het spel opnieuw start.",
+BeaverBuddies.ClientDesynced.ConsentMessage,"Toestemming om gebruiksgegevens te delen
+
+Door ervoor te kiezen je gegevens te delen, ga je ermee akkoord de volgende informatie van je gameplay-sessie naar de ontwikkelaars van deze mod te sturen:
+
+- Loggegevens: informatie die automatisch wordt verzameld tijdens je gameplay-sessie, zoals game-evenementen en gebruikersinteracties.
+- Bestand opslaan: je huidige spelopslagbestand.
+
+Wij streven ernaar je privacy te waarborgen door deze gegevens grotendeels anoniem te houden. Omdat de gegevens echter worden verzameld zoals ze zijn, kunnen deze onbedoeld details bevatten die je zouden kunnen identificeren (zoals bestandspaden of gebruikersnamen). De ontwikkelaars zullen niet proberen je te identificeren met behulp van deze informatie.
+
+Jouw keuzes:
+- Als je akkoord gaat, worden deze gegevens veilig naar de ontwikkelaars verzonden en gebruikt om de mod te verbeteren.
+- Als je het er niet mee eens bent, worden er geen gegevens verzonden en gaat je gameplay verder zonder enige wijzigingen.
+
+Door verder te gaan, bevestig je dat je ten minste de wettelijke leeftijd hebt voor digitale toestemming in het land waar je woont.
+
+Ga je ermee akkoord je gegevens te delen met de ontwikkelaars van deze mod?",
+BeaverBuddies.Settings.ClientConnectionAddress,Adres van clientverbinding,
+BeaverBuddies.Settings.ClientConnectionAddress.Tooltip,Standaard IP-adres dat wordt gebruikt bij verbinding met een host.,
+BeaverBuddies.Settings.Port,Poort,
+BeaverBuddies.Settings.Port.Tooltip,Poort die wordt gebruikt bij het hosten van of deelnemen aan een game. Dit moet overeenkomen met een doorgestuurde poort voor de host.,
+BeaverBuddies.Settings.SilenceLogging,Logging uitschakelen,
+BeaverBuddies.Settings.SilenceLogging.Tooltip,"Voorkom dat deze mod foutmeldingen plaatst in het logbestand van de speler (behalve waarschuwingen en fouten).
+Deze instelling is bedoeld voor ontwikkelaars.",
+BeaverBuddies.Settings.ShowFirstTimerMessage,Eerste gebruiksbericht weergeven,
+BeaverBuddies.Settings.AlwaysTrace,Gebruik altijd gedetailleerde logging,
+BeaverBuddies.Settings.AlwaysTrace.Tooltip,"Indien ingeschakeld, gebruikt de game altijd gedetailleerde logging, waardoor je desynchronisatierapporten kunt indienen bij het eerste voorval zonder dat je handmatig gedetailleerde logging hoeft in te schakelen.
+Houd er rekening mee dat alle spelers de instelling ingeschakeld moeten hebben. 
+Deze instelling veroorzaakt enige vertraging en wordt voor de meeste spelers niet aanbevolen.",
+BeaverBuddies.Settings.ReportingConsent,Toestemming voor rapportage,
+BeaverBuddies.Settings.EnableSteamConnection,Schakel Steam-netwerken in,
+BeaverBuddies.Settings.EnableSteamConnection.Tooltip,"Hiermee kunnen spelers deelnemen aan je games via het peer-to-peer-netwerk van Steam.
+Spelers kunnen nog steeds deelnemen via port forwarding.
+Opmerking: deze functie werkt mogelijk niet als je netwerk geen peer-to-peer-verbindingen ondersteunt.
+Bovendien kunnen peer-to-peer-verbindingen langzamer zijn dan directe verbindingen.",
+BeaverBuddies.Settings.FriendsCanJoinSteamGame,Laat vrienden rechtstreeks deelnemen via Steam,
+BeaverBuddies.Settings.FriendsCanJoinSteamGame.Tooltip,"Indien ingeschakeld, kunnen je vrienden rechtstreeks via Steam deelnemen aan je game zonder dat je ze uitnodigt.",
+BeaverBuddies.Host.ConnectedClients,"Wachten tot een client verbinding maakt...
+Momenteel aangesloten spelers:",
+BeaverBuddies.Host.DirectConnectClient,Directe verbinding (client),
+BeaverBuddies.Host.StartGame,Spel starten,
+BeaverBuddies.Host.InviteFriends,Nodig vrienden uit,
+BeaverBuddies.JoinCoopGame.Success,Aangesloten! Bezig met kaart ontvangen...,
+BeaverBuddies.JoinCoopGame.Error.InvalidFormat,Ongeldig adresformaat. Kan de poort niet parseren.,
+BeaverBuddies.JoinCoopGame.Error.InvalidAddress,"Adres was geen geldig IP-adres.
+Er is geprobeerd het probleem op te lossen als een hostnaam, maar het is niet omgezet in een IP-adres.",
+BeaverBuddies.JoinCoopGame.Error.CouldNotConnect,Kan geen verbinding maken met de host. Controleer het adres en de poort en zorg ervoor dat de host actief is en indien nodig de poort doorstuurt. Foutdetails:,

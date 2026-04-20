@@ -1,0 +1,20 @@
+ID,Text,Comment
+Cordial.Good.Fertilizer.DisplayName,Boommeststof,-
+Cordial.Good.Fertilizer.PluralDisplayName,Boommeststoffen,-
+Cordial.Fertilizer.Mild,Boommeststof,-
+Cordial.Fertilizer.Strong,Boommeststof,-
+Cordial.Building.Chemist.Description,Kookt chemische brouwsels,-
+Cordial.Building.Chemist.DisplayName,Scheikundige,A building that serves as an chemistry laboratory. Produces all sorts of smells and smoke.
+Cordial.Building.Chemist.FlavorDescription,Het brouwapparaat wordt uitsluitend voor medische doeleinden gebruikt.,-
+Cordial.Building.FertilizerDump.Description,Verdeelt kunstmest over geplante bomen,-
+Cordial.Building.FertilizerDump.DisplayName,Meststofstortplaats,-
+Cordial.Building.FertilizerDump.FlavorDescription,Meststof voor bomen verbetert de groei en opbrengst.,-
+Cordial.Building.FertilizerDump.Consumption,Verbruik van kunstmest," the "": "" is part of the code"
+Cordial.Building.FertilizerDump.TreeCount,Bomen getroffen," the "": "" is part of the code"
+Cordial.Building.FertilizerDump.FertilizeYield,Breng kunstmest aan op bomen, 
+Cordial.TreeFragment.Title,De groei wordt beïnvloed door kunstmest.,-
+Cordial.TreeFragment.GrowthDaily,De dagelijkse groei nam toe met,-
+Cordial.TreeFragment.GrowthAverage,De gemiddelde groei daalde met,-
+Cordial.TreeFragment.YieldAverage,De gemiddelde opbrengstgroei daalde met,-
+Cordial.Unit.Days,dagen, plural of day as a unit
+Cordial.Unit.PerHour,/u,-

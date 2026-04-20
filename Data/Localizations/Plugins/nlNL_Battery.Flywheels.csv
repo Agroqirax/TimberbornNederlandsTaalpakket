@@ -1,0 +1,40 @@
+ID,Text,Comment
+Battery.Flywheels.SmallFlywheel.DisplayName,Klein vliegwiel,-
+Battery.Flywheels.SmallFlywheel.Description,"Een klein vliegwiel met een lage capaciteit, in lijn met een as. Er kunnen platforms overheen geplaatst worden, vergelijkbaar met assen.",-
+Battery.Flywheels.SmallFlywheel.FlavorDescription,"""Het is absoluut geniaal!"" —STHedgehog",-
+Battery.Flywheels.SmallHorizontalFramedFlywheel.DisplayName,Klein horizontaal vliegwiel,-
+Battery.Flywheels.SmallHorizontalFramedFlywheel.Description,Een klein vliegwiel in een frame.,-
+Battery.Flywheels.SmallHorizontalFramedFlywheel.FlavorDescription,"""Dit wordt een game-changer"" —JC The Beard",-
+Battery.Flywheels.SmallVerticalFramedFlywheel.DisplayName,Klein verticaal vliegwiel,-
+Battery.Flywheels.SmallVerticalFramedFlywheel.Description,Een klein vliegwiel in een frame.,-
+Battery.Flywheels.SmallVerticalFramedFlywheel.FlavorDescription,"""Dit wordt een game-changer"" —JC The Beard",-
+Battery.Flywheels.MediumFlywheel.DisplayName,Middelgroot vliegwiel,-
+Battery.Flywheels.MediumFlywheel.Description,Een middelgroot vliegwiel met gemiddelde capaciteit.,-
+Battery.Flywheels.MediumFlywheel.FlavorDescription,Het meesterwerk van Ouwe Kazko,-
+Battery.Flywheels.MediumHorizontalFramedFlywheel.DisplayName,Middelgroot horizontaal vliegwiel,-
+Battery.Flywheels.MediumHorizontalFramedFlywheel.Description,Een middelgroot vliegwiel in een frame.,-
+Battery.Flywheels.MediumHorizontalFramedFlywheel.FlavorDescription,"""Wat als we de tandwielen in het vliegwiel plaatsen?"" —Ouwe Kazko",-
+Battery.Flywheels.MediumVerticalFramedFlywheel.DisplayName,Middelgroot verticaal vliegwiel,-
+Battery.Flywheels.MediumVerticalFramedFlywheel.Description,Een middelgroot vliegwiel in een frame.,-
+Battery.Flywheels.MediumVerticalFramedFlywheel.FlavorDescription,"""Wat als we de tandwielen in het vliegwiel plaatsen?"" —Ouwe Kazko",-
+Battery.Flywheels.LargeFlywheel.DisplayName,Groot vliegwiel,-
+Battery.Flywheels.LargeFlywheel.Description,Een groot vliegwiel met een hoge capaciteit.,-
+Battery.Flywheels.LargeFlywheel.FlavorDescription,Het meesterwerk van Ouwe Kazko,-
+Battery.Flywheels.LargeHorizontalFramedFlywheel.DisplayName,Groot horizontaal vliegwiel,-
+Battery.Flywheels.LargeHorizontalFramedFlywheel.Description,Het grootste vliegwiel in een stevig frame.,-
+Battery.Flywheels.LargeHorizontalFramedFlywheel.FlavorDescription,Het toppunt van vliegwieltechnologie,-
+Battery.Flywheels.LargeVerticalFramedFlywheel.DisplayName,Groot verticaal vliegwiel,-
+Battery.Flywheels.LargeVerticalFramedFlywheel.Description,Het grootste vliegwiel in een stevig frame.,-
+Battery.Flywheels.LargeVerticalFramedFlywheel.FlavorDescription,Het toppunt van vliegwieltechnologie,-
+Battery.Flywheels.MediumVerticalJunction.DisplayName,Middelgrote vliegwielverbinding,-
+Battery.Flywheels.MediumVerticalJunction.Description,Een middelgroot frame dat kan worden gebruikt als hulpmiddel bij het aansluiten van gestapelde middelgrote frame vliegwielen.,-
+Battery.Flywheels.MediumVerticalJunction.FlavorDescription,De mogelijkheden zijn eindeloos!,-
+Battery.Flywheels.LargeVerticalJunction.DisplayName,Grote vliegwielverbinding,-
+Battery.Flywheels.LargeVerticalJunction.Description,"Een groot, stevig frame dat kan worden gebruikt als hulpmiddel bij het aansluiten van gestapelde grote vliegwielen.",-
+Battery.Flywheels.LargeVerticalJunction.FlavorDescription,De mogelijkheden zijn eindeloos!,-
+Battery.Flywheels.ToolGroups.Flywheels.DisplayName,Vliegwielen,-
+Battery.Flywheels.ToolGroups.Junctions.DisplayName,Verbindingen,-
+Battery.Flywheels.UI.PowerDecayLabel,Vermogensverlies,-
+Battery.Flywheels.UI.CapacityLabel,Capaciteit,-
+Battery.Flywheels.UI.MoreInfoText.SelfStackable,Plaatsing: grond of stapelbaar,-
+Battery.Flywheels.UI.MoreInfoText.SelfStackableText,Kan op de grond of op een ander vliegwiel geplaatst worden,-

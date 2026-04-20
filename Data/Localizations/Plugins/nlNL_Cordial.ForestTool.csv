@@ -1,0 +1,11 @@
+ID,Text,Comment
+Cordial.ForestTool.DisplayName,Boomplant tool,-
+Cordial.ForestTool.Description,Configureerbare tool voor het planten van gemengde bossen.,-
+Coridal.ForestTool.Requirement,Vereist gebouw: {0},{0} stands for Building.Forester.DisplayName
+Cordial.ForestTool.ForestToolPanel.Title,Boomplant instellingen,-
+Cordial.ForestTool.ForestToolPanel.Description,Configureer boomtypes en te planten plekken,-
+Cordial.ForestTool.ForestToolPanel.ToggleTreeAll,Alle soorten bomen,-
+Cordial.ForestTool.ForestToolPanel.ToggleEmpty,Openingen toestaan," perhaps ""enable empty spots"" or something similar"
+Cordial.ForestTool.ForestToolError.Description,Je moet {0} ontgrendelen om bomen te planten.,{0} stands for Building.Forester.DisplayName
+Cordial.ForestTool.BuildingLock,Dit gebouw is afgesloten:,-
+Cordial.ForestTool.SpecLock,Deze specificatie ontbreekt:,-

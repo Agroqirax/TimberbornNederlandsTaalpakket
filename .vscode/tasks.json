@@ -14,7 +14,8 @@
         "id": "sparkle",
         "color": "terminal.ansiGreen"
       },
-      "detail": "Vertaal een csv bestand automatisch"
+      "detail": "Vertaal een csv bestand automatisch",
+      "problemMatcher": []
     },
     {
       "label": "Spellingscontrole",

@@ -3,7 +3,8 @@ certifi==2026.2.25
 charset-normalizer==3.4.4
 deep-translator==1.11.4
 idna==3.11
-language_tool_python==3.2.2
+json5==0.14.0
+language_tool_python==3.3.0
 numpy==2.4.2
 packaging==26.0
 pandas==3.0.1
