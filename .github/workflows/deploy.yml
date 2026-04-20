@@ -14,16 +14,19 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Strip version prefix
+        id: version
+        run: echo "value=${GITHUB_REF_NAME#v}" >> $GITHUB_OUTPUT
+
       - name: Parse Changelog Entry
         id: changelog
         uses: coditory/changelog-parser@v1
         with:
-          version: ${{ replace(github.ref_name, 'v', '') }}
+          version: ${{ steps.version.outputs.value }}
 
       - name: Validate versions match
         run: |
-          TAG_VERSION="${{ github.ref_name }}"
-          TAG_VERSION="${TAG_VERSION#v}"
+          TAG_VERSION="${{ steps.version.outputs.value }}"
 
           CHANGELOG_VERSION="${{ steps.changelog.outputs.version }}"
 
