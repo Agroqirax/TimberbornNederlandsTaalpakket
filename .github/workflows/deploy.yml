@@ -89,7 +89,7 @@ jobs:
       - name: Create Steam Workshop release
         id: steam
         if: always()
-        uses: m00nl1ght-dev/steam-workshop-deploy@v3
+        uses: m00nl1ght-dev/steam-workshop-deploy@v4
         with:
           username: ${{ secrets.STEAM_USERNAME }}
           configVdf: ${{ secrets.STEAM_CONFIG_VDF }}
