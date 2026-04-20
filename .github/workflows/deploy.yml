@@ -20,9 +20,11 @@ jobs:
 
       - name: Parse Changelog Entry
         id: changelog
-        uses: coditory/changelog-parser@v1
+        uses: mindsers/changelog-reader-action@v2
         with:
+          validation_level: warn
           version: ${{ steps.version.outputs.value }}
+          path: ./CHANGELOG.md
 
       - name: Validate versions match
         run: |
@@ -49,7 +51,7 @@ jobs:
       - name: Generate bbcode changelog
         id: changelog_bbcode
         env:
-          CHANGELOG: ${{ steps.changelog.outputs.description }}
+          CHANGELOG: ${{ steps.changelog.outputs.changes }}
         run: |
           result=$(echo "$CHANGELOG" | node .github/scripts/md-to-bbcode.js)
           echo "bbcode<<EOF" >> $GITHUB_OUTPUT
@@ -74,7 +76,7 @@ jobs:
         with:
           tag_name: "v${{ steps.changelog.outputs.version }}"
           name: "v${{ steps.changelog.outputs.version }}"
-          body: "${{ steps.changelog.outputs.description }}"
+          body: "${{ steps.changelog.outputs.changes }}"
           files: "mod-${{ steps.changelog.outputs.version }}.zip"
 
       - name: Create Mod.io release
@@ -86,7 +88,7 @@ jobs:
           game: ${{ vars.MODIO_GAME_ID }}
           mod: ${{ vars.MODIO_MOD_ID }}
           version: ${{ steps.changelog.outputs.version }}
-          changelog: ${{ steps.changelog.outputs.description }}
+          changelog: ${{ steps.changelog.outputs.changes}}
           path: "mod-${{ steps.changelog.outputs.version }}.zip"
 
       - name: Create Steam Workshop release
@@ -104,7 +106,7 @@ jobs:
       - name: Write job summary
         if: always()
         env:
-          CHANGELOG: ${{ steps.changelog.outputs.description }}
+          CHANGELOG: ${{ steps.changelog.outputs.changes }}
         run: |
           VERSION="${{ steps.changelog.outputs.version }}"
           GH_RELEASE_URL="https://github.com/${{ github.repository }}/releases/tag/v${VERSION}"
