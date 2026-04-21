@@ -1,0 +1,20 @@
+ID,Text,Comment
+Tobbert.PipetteTool.DisplayName,Pipet,-
+Tobbert.PipetteTool.Description,Klik op een gebouw om de bouwmodus voor dat gebouw te openen (standaard sneltoets: CTRL + klik),-
+Tobbert.PipetteTool.KeyBindingGroup.PipetteTool,Pipetgereedschap,-
+Tobbert.PipetteTool.KeyBinding.PipetteTool,Sneltoets pipetgereedschap,-
+Tobbert.PipetteTool.Setting.Header,Instellingen voor pipetgereedschap,-
+Tobbert.PipetteTool.Setting.PipetteToolMode,Pipetmodus,-
+Tobbert.PipetteTool.Setting.PipetteToolModeToolTip,"Vasthoudmodus: Houd de sneltoets van het pipetgereedschap ingedrukt en gebruik de muisknop om te beginnen met pipetteren.
+Drukmodus: Het pipetgereedschap wordt geactiveerd nadat de sneltoets is ingedrukt en losgelaten.
+Directe modus (sneltoets): Hiermee kun je direct pipetteren zonder te klikken. Met de bovenstaande toets schakel je direct naar het betreffende gebouw (goedgekeurd door Factorio-spelers).
+Directe modus (middelste muisknop): Hiermee kun je direct pipetteren zonder de sneltoets te gebruiken. Door de middelste muisknop te gebruiken, schakel je direct naar het betreffende gebouw (goedgekeurd door Minecraft-spelers).
+Omgekeerde modus: Wanneer een gebouw is geselecteerd, druk je op de sneltoets van het pipetgereedschap om naar het bijbehorende object te wisselen.",-
+Tobbert.PipetteTool.Setting.MouseSelectionButton,Muisselectieknop,-
+Tobbert.PipetteTool.Setting.HoldMode,Vasthoudmodus,-
+Tobbert.PipetteTool.Setting.PressMode,Drukmodus,-
+Tobbert.PipetteTool.Setting.DirectModeKeyBind,Directe modus (sneltoets),-
+Tobbert.PipetteTool.Setting.DirectModeMiddleMouseButton,Directe modus (middelste muisknop),-
+Tobbert.PipetteTool.Setting.ForcePipette,Forceer pipetgereedschap,-
+Tobbert.PipetteTool.Setting.ForcePipetteTooltip,"Forceert het pipetgereedschap, zelfs als er al een ander gereedschap actief is.",-
+Tobbert.PipetteTool.Setting.InvertedMode,Omgekeerde modus,-

@@ -1,9 +1,9 @@
 {
   "Name": "Nederlands taalpakket",
-  "Version": "0.1.12",
+  "Version": "0.1.13",
   "Id": "Agroqirax.Languages.Dutch",
   "MinimumGameVersion": "0.0.0.0",
-  "Description": "Nederlandse vertalingen voor het spel en een aantal populaire mods.\n\nVrijwel alle mods op de steam workshop zijn vertaald!\n\nMeer info op [url=https://github.com/agroqirax/TimberbornNederlandsTaalpakket]github[/url].",
+  "Description": "De mod vertaald het hele spel naar het nederlands. Ook zijn een groot aantal populaire mods vertaald.\n\nMeer info op [url=https://github.com/agroqirax/TimberbornNederlandsTaalpakket]github[/url].",
   "RequiredMods": [],
   "OptionalMods": []
 }

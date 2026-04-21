@@ -1,0 +1,15 @@
+ID,Text,Comment
+Cordial.Building.Forester.Description,Forceer het planten van:,-
+Cordial.ForesterUpdate.Fragment.NoUpdateOption,Geen,-
+Cordial.PlantingOverrideTool.Crop.DisplayName,Gewas-herplanttool,-
+Cordial.PlantingOverrideTool.Crop.Description,Overschrijf het planten van bestaande gewassen,-
+Cordial.PlantingOverrideTool.Tree.DisplayName,Bomen-herplanttool,-
+Cordial.PlantingOverrideTool.Tree.Description,Overschrijf het planten van bestaande bomen of struiken,-
+Cordial.PlantingOverrideTool.PlantingOverrideToolPanel.Title,Configuratie voor het overschrijven van planten,-
+Cordial.PlantingOverrideTool.PlantingOverrideToolPanel.Description,Vervang bestaande beplanting door:,-
+Cordial.PlantingOverrideTool.PlantingOverrideToolPanel.CuttingAreaRemove,Verwijder de markering van het kapgebied na het planten,-
+Cordial.PlantBeehiveTool.DisplayName,Bijenkorf plaatsen,-
+Cordial.PlantBeehiveTool.Description,Vervang een plant door een bijenkorf,-
+Cordial.PlantingOverrideTool.FactionLock,Dit hulpmiddel is niet beschikbaar voor:,-
+Cordial.PlantingOverrideTool.BuildingLock,Dit gebouw is vergrendeld:,-
+Cordial.PlantingOverrideTool.SpecLock,Deze specificatie ontbreekt:,-

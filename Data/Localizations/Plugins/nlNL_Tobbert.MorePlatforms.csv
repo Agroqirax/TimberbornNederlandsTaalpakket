@@ -1,0 +1,33 @@
+ID,Text,Comment
+Tobbert.HorizontalPlatformEnd1x1.DisplayName,Zijplatform 1x1,-
+Tobbert.HorizontalPlatformEnd1x1.Description,"Een platform dat aan de zijkant van kliffen, dijken, versterkte platforms of Platform-middenstukken kan worden geplaatst.",-
+Tobbert.HorizontalPlatformEnd1x1.FlavorDescription,Stel je voor dat je deze op zichzelf zou kunnen stapelen.,-
+Tobbert.HorizontalPlatformEnd2x1.DisplayName,Zijplatform 2x1,-
+Tobbert.HorizontalPlatformEnd2x1.Description,"Een platform dat aan de zijkant van kliffen, versterkte platforms of Platform-middenstukken kan worden geplaatst.",-
+Tobbert.HorizontalPlatformEnd2x1.FlavorDescription,"Verdubbel het aantal platforms, verdubbel het plezier!",-
+Tobbert.HorizontalPlatformEnd3x1.DisplayName,Zijplatform 3x1,-
+Tobbert.HorizontalPlatformEnd3x1.Description,"Een platform dat aan de zijkant van kliffen, versterkte platforms of Platform-middenstukken kan worden geplaatst.",-
+Tobbert.HorizontalPlatformEnd3x1.FlavorDescription,Dit is voor de laaaaaange jongens.,-
+Tobbert.HorizontalPlatformEnd4x1.DisplayName,Zijplatform 4x1,-
+Tobbert.HorizontalPlatformEnd4x1.Description,"Een platform dat aan de zijkant van kliffen, versterkte platforms of Platform-middenstukken kan worden geplaatst.",-
+Tobbert.HorizontalPlatformEnd4x1.FlavorDescription,Dit is niet hoe natuurkunde werkt.,-
+Tobbert.HorizontalPlatformMiddle1x1.DisplayName,Zijplatform Middenstuk 1 Hoog,-
+Tobbert.HorizontalPlatformMiddle1x1.Description,Een platform dat overal geplaatst kan worden. Laat je creativiteit de vrije loop!,-
+Tobbert.HorizontalPlatformMiddle1x1.FlavorDescription,Laten we een drijvende stad bouwen!,-
+Tobbert.HorizontalPlatformMiddle1x2.DisplayName,"Zijplatform Middenstuk 1,5 Hoog",-
+Tobbert.HorizontalPlatformMiddle1x2.Description,Een platform dat overal geplaatst kan worden. Laat je creativiteit de vrije loop!,-
+Tobbert.HorizontalPlatformMiddle1x2.FlavorDescription,Voor als één hoog gewoon niet genoeg is.,-
+Tobbert.ReinforcedLadder.DisplayName,Versterkte ladder,-
+Tobbert.ReinforcedLadder.Description,Het is een ladder die ook in combinatie met de Zijplatforms gebruikt kan worden. Dient als een mooiere optie dan dijken.,-
+Tobbert.ReinforcedLadder.FlavorDescription,Wanneer een normale ladder niet genoeg is.,-
+Tobbert.ReinforcedPlatform.DisplayName,Versterkt platform,-
+Tobbert.ReinforcedPlatform.Description,Een platform dat gebruikt kan worden in combinatie met de Zijplatforms. Dient als een mooiere optie dan dijken.,-
+Tobbert.ReinforcedPlatform.FlavorDescription,Stapel het naar de top!,-
+Tobbert.DoubleReinforcedPlatform.DisplayName,Dubbel versterkt platform,-
+Tobbert.DoubleReinforcedPlatform.Description,Een platform dat gebruikt kan worden in combinatie met de Zijplatforms. Dient als een mooiere optie dan dijken.,-
+Tobbert.DoubleReinforcedPlatform.FlavorDescription,"Stapel, stapel het naar de top!",-
+Tobbert.TripleReinforcedPlatform.DisplayName,Drievoudig versterkt platform,-
+Tobbert.TripleReinforcedPlatform.Description,Een platform dat gebruikt kan worden in combinatie met de Zijplatforms. Dient als een mooiere optie dan dijken.,-
+Tobbert.TripleReinforcedPlatform.FlavorDescription,"Stapel, stapel, stapel het naar boven!",-
+Tobbert.CategoryReinforcedPlatforms.DisplayName,Versterkte platforms,-
+Tobbert.CategorySidePlatforms.DisplayName,Zijplatforms,-
