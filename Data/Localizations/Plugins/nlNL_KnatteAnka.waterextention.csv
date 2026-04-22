@@ -1,0 +1,94 @@
+ID,Text,Comment
+Knatte.IndWaterTank.DisplayName,Industrieel watervat,-
+Knatte.IndWaterTank.Description,"Houdt meer water vast en is stapelbaar, maar vereist metaal",-
+Knatte.Pipe5X.DisplayName,Buis 5 lang,-
+Knatte.Pipe10X.DisplayName,Buis 10 lang,-
+Knatte.Pipe15X.DisplayName,Buis 15 lang,-
+Knatte.Pipe.Description,"Dijken aan weerszijden van de leiding en een aan- en afvoerleiding. Dijk moet worden aangedreven, maar fungeert ook als overdracht
+Plaats geen dijken in zeskant boven de uitvoerbuis!het zal crashen!",-
+Knatte.PipeU5X.DisplayName,Buis ondergronds 5 lang,-
+Knatte.PipeU10X.DisplayName,Buis ondergronds 10 lang,-
+Knatte.PipeU15X.DisplayName,Buis ondergronds 15 lang,-
+Knatte.PipeU.Description,"Dijken aan weerszijden van de leiding en een aan- en afvoerleiding.
+Buis die ondergronds gaat tussen de dijken
+Dijk moet worden aangedreven, maar fungeert ook als overdracht
+Plaats geen dijken in zeskant boven de uitvoerbuis! het zal crashen!",-
+//,//,-
+Knatte.CategoryPipe.DisplayName,Rechte buizen,-
+Knatte.CategoryPipe.Description,Leidingen die bovengronds gaan,-
+Knatte.CategoryPipeU.DisplayName,Ondergrondse leidingen,-
+Knatte.CategoryPipeU.Description,Leidingen die in de bocht ondergronds moeten,-
+Knatte.CategoryHideWE.DisplayName,Ongebruikte waterverlenging,-
+Knatte.CategoryAquaduct.DisplayName,Aquaducts,
+Knatte.CategoryAquaduct_Floors.DisplayName,Aquaduct-vloeren,
+//,//,-
+Knatte.Pipe1X.DisplayName,Buisuitlaat,-
+Knatte.Pipe1X.Description,"Twee dijken en een in- en uitlaatbuis. Dijk moet worden aangedreven, maar fungeert ook als overdracht
+Plaats geen dijken in zeskant boven de uitvoerbuis! het zal crashen!",-
+Knatte.DeepSeaPump.DisplayName,Diepzeewaterpomp,-
+Knatte.DeepSeaPump.Description,Pomp voor de bodem van de zee,-
+Knatte.DeepSeaPump.FlavorDescription,Een slok zoet water is voldoende om je op te pompen.,"""Pump"" pun, feel free to adapt."
+Knatte.PipeH1X.DisplayName,Buisuitlaat (H),-
+Knatte.PipeH1X.Description,"Hoogvolumepomp twee dijken en een in- en uitlaatleiding.
+Dijk moet worden aangedreven, maar fungeert ook als overdracht",-
+Knatte.PipeHU5X.DisplayName,Buis ondergronds 5 lang (H),-
+Knatte.PipeHU10X.DisplayName,Buis ondergronds 10 lang (H),-
+Knatte.PipeHU15X.DisplayName,Buis ondergronds 15 lang (H),-
+Knatte.PipeHU.Description,"Hoog vermogen uitvoering met dijken aan weerszijden van de leiding en een aan- en afvoerleiding.
+Buis die ondergronds gaat tussen de dijken
+Dijk moet worden aangedreven, maar fungeert ook als overdracht
+Plaats geen dijken in zeskant boven de uitvoerbuis! het zal crashen!",-
+Knatte.Valve1X.DisplayName,Eenrichtingsventiel,
+Knatte.Valve1X.Description,"Terugslagklep met dijk in het midden
+Geen stroom nodig en wordt niet overgedragen
+Maximale doorstroming van 1,5 cm",
+Knatte.ValveH1X.DisplayName,Terugslagklep (H),
+Knatte.ValveH1X.Description,"Hoogvolume eenrichtingsklep met dijk in het midden
+Geen stroom nodig en wordt niet overgedragen",
+//,//,-
+Knatte.Aqueduct_S_1X.DisplayName,Aquaduct,-
+Knatte.Aqueduct_S_5X.DisplayName,Aquaduct 5 lang,-
+Knatte.Aqueduct_S.Description,Aquaduct met muur aan één kant. Houdt ook water aan de onderkant tegen.,-
+Knatte.Aqueduct_S.FlavorDescription,Te vullen,-
+Knatte.Aqueduct_P_1X.DisplayName,Aquaduct 1x1,-
+Knatte.Aqueduct_P_5X.DisplayName,Aquaduct 1x5 lang,-
+Knatte.Aqueduct_P.Description,Aquaduct met muur aan beide zijden. Houdt ook water aan de onderkant tegen.,-
+Knatte.Aqueduct_P.FlavorDescription,Te vullen,-
+Knatte.Aqueduct_Corner.DisplayName,Aquaduct hoek,-
+Knatte.Aqueduct_Corner.Description,Aquaduct met wand aan twee zijden om een ​​hoek te creëren. Houdt ook water aan de onderkant tegen.,-
+Knatte.Aqueduct_Corner.FlavorDescription,Water ga naar links,-
+Knatte.Aqueduct_Lid_1X.DisplayName,Aquaduct deksel,-
+Knatte.Aqueduct_Lid_5X.DisplayName,Aquaductdeksel 5 lang,-
+Knatte.Aqueduct_Lid.Description,Voegt een deksel toe dat voorkomt dat water ontsnapt,-
+Knatte.Aqueduct_Lid.FlavorDescription,Is het al een buis?,-
+Knatte.Aqueduct_Wall.DisplayName,Aquaduct muur dummy,-
+Knatte.Aqueduct_Wall.Description,"Blokkeer het water niet, maar kan de illusie versterken die het voor de esthetiek in de binnenhoeken heeft.",-
+Knatte.Aqueduct_Wall.FlavorDescription,Te vullen,-
+Knatte.Aqueduct_Floor_1X1.DisplayName,Aquaductvloer,
+Knatte.Aqueduct_Floor_1X5.DisplayName,Aquaductvloer 1x5,
+Knatte.Aqueduct_Floor_2X2.DisplayName,Aquaductvloer 2x2,
+Knatte.Aqueduct_Floor_3X3.DisplayName,Aquaductvloer 3x3,
+Knatte.Aqueduct_Floor_5X5.DisplayName,Aquaductvloer 5x5,
+Knatte.Aqueduct_Floor.Description,Ondoordringbare vloer in aquaduct-stijl,
+Knatte.Aqueduct_Floor.FlavorDescription,Je zult niet passeren,
+Knatte.Aqueduct_Sluice.DisplayName,Aquaduct sluis,
+Knatte.Aqueduct_Sluice.Description,"Een unidirectionele, geautomatiseerde waterafvoer in aquaduct-stijl en te plaatsen in aquaducten als er ondersteuning onder is.",
+Knatte.Aqueduct_Corner_Int.DisplayName,Aquaduct binnenhoek,
+Knatte.Aqueduct_Corner_Int.Description,Aquaduct met wand aan twee zijden om een ​​hoek te creëren. Houdt ook water aan de onderkant tegen.,
+Knatte.Aqueduct_Corner_Int.FlavorDescription,Water ga naar links,
+Knatte.Aqueduct_P_1X_Corner_Int.DisplayName,Aquaduct 1x1 binnenhoek,
+Knatte.Aqueduct_P_1X_Corner_Int.Description,Aquaduct met muur aan drie zijden om een ​​hoek te creëren. Houdt ook water aan de onderkant tegen.,
+Knatte.Aqueduct_P_1X_Corner_Int.FlavorDescription,Water ga naar links,
+Knatte.Aqueduct_Wall2.DisplayName,Aquaduct muur,-
+Knatte.Aqueduct_Wall2.Description,"Blokkeer water uit hetzelfde blok als dit, kan worden gebruikt om onderwaterpaden aan te leggen",-
+Knatte.Aqueduct_Wall2.FlavorDescription,Te vullen,-
+Knatte.Aqueduct_Wall3.DisplayName,"Offset 
+Aquaduct muur",
+Knatte.Aqueduct_Wall3.Description,Blokkeer water vanuit hetzelfde blok als de muur,
+Knatte.Aqueduct_Wall4.DisplayName,"Dubbele verschuiving 
+Aquaduct muur",
+Knatte.Aqueduct_Wall4.Description,Blokkeer water vanuit hetzelfde blok als de muur,
+Knatte.Aqueduct_Wall_OffDec.DisplayName,"Offset 
+Aquaduct muur dummy",
+Knatte.Aqueduct_Wall_OffDec2.DisplayName,"Dubbel gecompenseerd
+Aquaduct muur dummy",

@@ -1,0 +1,16 @@
+ID,Text,Comment
+ToolGroups.Tunneling,Tunnelen,Buildings that allow to dig through terrain
+Building.VerticalTubewayTunnel.Description,Tunnel door terrein en vervang het door een verticale buis. Gebruik het lagengereedschap om onder terrein of structuren te kijken.,
+Building.VerticalTubewayTunnel.DisplayName,Verticale buistunnel,
+Building.VerticalPowerShaftTunnel.Description,Tunnel door terrein en vervang het door een verticale aandrijfas. Gebruik het lagengereedschap om onder terrein of structuren te kijken.,
+Building.VerticalPowerShaftTunnel.DisplayName,Verticale aandrijfastunnel,
+Building.PathTunnel.Description,Tunnel door terrein en vervang het door alleen een pad. Gebruik het lagengereedschap om onder terrein of structuren te kijken.,
+Building.PathTunnel.DisplayName,Alleen pad Tunnel,
+Building.PathPlatformTunnel.Description,Tunnel door terrein en vervang het door een platform en een pad. Gebruik het lagengereedschap om onder terrein of structuren te kijken.,
+Building.PathPlatformTunnel.DisplayName,Pad onder de platformtunnel,
+Building.TubewayPlatformTunnel.Description,Tunnel door terrein en vervang het door een platform en een buis. Gebruik het lagengereedschap om onder terrein of structuren te kijken.,
+Building.TubewayPlatformTunnel.DisplayName,Metro onder platformtunnel,
+Building.PowerShaftPlatformTunnel.Description,Tunnel door terrein en vervang het door een platform en een aandrijfas. Gebruik het lagengereedschap om onder terrein of structuren te kijken.,
+Building.PowerShaftPlatformTunnel.DisplayName,Aandrijfas onder platformtunnel,
+Building.LadderformTunnel.Description,Tunnel door terrein en vervang het door een ladder. Gebruik het lagengereedschap om onder terrein of structuren te kijken.,
+Building.LadderformTunnel.DisplayName,Laddertunnel,

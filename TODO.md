@@ -1,4 +1,5 @@
-Verontreiniging/vervuiling/etc
-Werknemers/arbeiders
-Energie/stroom
-Sneltoets
+- Verontreiniging/vervuiling/etc
+- Werknemers/arbeiders
+- Energie/stroom
+- Sneltoets
+- Slechte tij

@@ -1,0 +1,39 @@
+ID,Text,Comment
+Knatte.WaterAlarm.DisplayName,Wateralarm,-
+Knatte.WaterAlarm.Description,Een gecombineerde watermeter met alarmfunctie die een waarschuwing geeft als er geen water is.,-
+Knatte.WaterAlarm.FlavorDescription,Ring ring,
+//,//,
+Knatte.WaterAlarm11.DisplayName,Watermeter 11 hoog,-
+Knatte.WaterAlarm11.Description,Een grote watermeter.,-
+Knatte.WaterAlarm11.FlavorDescription,Mario-sprong,
+//,//,
+Knatte.MetalFloodgate.DisplayName,Metalen sluisdeur,-
+Knatte.MetalFloodgate.Description,"Grotere, betere sluisdeur waarop je spullen kunt stapelen.",-
+//,//,
+Knatte.Floodgate.DisplayName,Metalen sluisdeuren,-
+//,//,
+Knatte.MetalFloodgate1.DisplayName,Metalen sluisdeur 1 hoog,-
+Knatte.MetalFloodgate2.DisplayName,Metalen sluisdeur 2 hoog,-
+Knatte.MetalFloodgate3.DisplayName,Metalen sluisdeur 3 hoog,-
+Knatte.MetalFloodgate4.DisplayName,Metalen sluisdeur 4 hoog,-
+Knatte.MetalFloodgate5.DisplayName,Metalen sluisdeur 5 hoog,-
+Knatte.MetalFloodgate6.DisplayName,Metalen sluisdeur 6 hoog,-
+Knatte.MetalFloodgate7.DisplayName,Metalen sluisdeur 7 hoog,-
+Knatte.MetalFloodgate8.DisplayName,Metalen sluisdeur 8 hoog,-
+Knatte.MetalFloodgate9.DisplayName,Metalen sluisdeur 9 hoog,-
+Knatte.MetalFloodgate10.DisplayName,Metalen sluisdeur 10 hoog,-
+//,//,
+Knatte.Aqueduct_MetalFloodgate.DisplayName,Aquaduct metalen sluisdeur 1 hoog,-
+Knatte.Aqueduct_MetalFloodgate.Description,"Grotere, betere sluisdeur waarop je spullen kunt stapelen, in aquaductstijl.",-
+//,//,
+Knatte.Aqueduct_Floodgate.DisplayName,Metalen sluisdeuren in aquaductstijl,-
+//,//,
+Knatte.Aqueduct_MetalFloodgate2.DisplayName,Aquaduct metalen sluisdeur 2 hoog,-
+Knatte.Aqueduct_MetalFloodgate3.DisplayName,Aquaduct metalen sluisdeur 3 hoog,-
+Knatte.Aqueduct_MetalFloodgate4.DisplayName,Aquaduct metalen sluisdeur 4 hoog,-
+Knatte.Aqueduct_MetalFloodgate5.DisplayName,Aquaduct metalen sluisdeur 5 hoog,-
+Knatte.Aqueduct_MetalFloodgate6.DisplayName,Aquaduct metalen sluisdeur 6 hoog,-
+Knatte.Aqueduct_MetalFloodgate7.DisplayName,Aquaduct metalen sluisdeur 7 hoog,-
+Knatte.Aqueduct_MetalFloodgate8.DisplayName,Aquaduct metalen sluisdeur 8 hoog,-
+Knatte.Aqueduct_MetalFloodgate9.DisplayName,Aquaduct metalen sluisdeur 9 hoog,-
+Knatte.Aqueduct_MetalFloodgate10.DisplayName,Aquaduct metalen sluisdeur 10 hoog,-

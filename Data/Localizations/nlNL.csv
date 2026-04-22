@@ -768,7 +768,7 @@ Building.WaterPump.Description,Pompt en filtert water zodat bevers kunnen drinke
 Building.WaterPump.DisplayName,Waterpomp,
 Building.WaterPump.FlavorDescription,Twee emmertjes water halen.,"""Pumped"" pun, feel free to adapt."
 Building.WaterSeep.Description,Een waterbron met beperkte druk.,
-Building.WaterSeep.DisplayName,Water sijpelt,"A building that allows water to seep through, creating a natural water source."
+Building.WaterSeep.DisplayName,Water lek,"A building that allows water to seep through, creating a natural water source."
 Building.WaterSeep.FlavorDescription,"Beperkte druk, onbeperkte mogelijkheden.",
 Building.WaterSource.DisplayName,Waterbron,
 Building.WaterSource.FlavorDescription,"""Moge jouw rivier altijd stromen."" —Bevergroet",

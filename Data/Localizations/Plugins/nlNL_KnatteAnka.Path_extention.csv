@@ -1,0 +1,73 @@
+ID,Text,Comment
+KnatteTobbert.Tunnel_1.DisplayName,Tunnel 1x1,-
+KnatteTobbert.Tunnel_2.DisplayName,Tunnel 2x1,-
+KnatteTobbert.Tunnel_3.DisplayName,Tunnel 3x1,-
+KnatteTobbert.Tunnel_4.DisplayName,Tunnel 4x1,-
+KnatteTobbert.Tunnel_5.DisplayName,Tunnel 5x1,-
+KnatteTobbert.Tunnel_6.DisplayName,Tunnel 6x1,-
+KnatteTobbert.Tunnel_7.DisplayName,Tunnel 7x1,-
+KnatteTobbert.Tunnel_8.DisplayName,Tunnel 8x1,-
+KnatteTobbert.Tunnel_9.DisplayName,Tunnel 9x1,-
+KnatteTobbert.Tunnel_1L.DisplayName,Tunnel door duik,-
+KnatteTobbert.Tunnel_1L.Description,Hiermee kunnen bevers door dijken passeren.,-
+KnatteTobbert.Tunnel.Description,Hiermee kunnen bevers door bergen passeren.,-
+KnatteTobbert.Tunnel.FlavorDiscription,Weet je hoe moeilijk het is om te modelleren en texturen? —KnatteAnka,-
+//,//,-
+Knatte.Subgroup_MGMetalPlatform.DisplayName,Metalen platforms,
+Knatte.Subgroup_MGMetalOverhang.DisplayName,Metalen overhangen,
+Knatte.SubGroup_PE_Tunnel.DisplayName,Tunnels,
+Knatte.SubGroup_PE_SBridges.DisplayName,Stalen bruggen,
+Knatte.SubGroup_PE_BigMetalPillar.DisplayName,Grote metalen pilaren,
+//,//,
+KnatteTobbert.Bridge_1.DisplayName,Stalen brug 1x1,-
+KnatteTobbert.Bridge_2.DisplayName,Stalen brug 2x1,-
+KnatteTobbert.Bridge_3.DisplayName,Stalen brug 3x1,-
+KnatteTobbert.Bridge_4.DisplayName,Stalen brug 4x1,-
+KnatteTobbert.Bridge_5.DisplayName,Stalen brug 5x1,-
+KnatteTobbert.Bridge_6.DisplayName,Stalen brug 6x1,-
+KnatteTobbert.Bridge_7.DisplayName,Stalen brug 7x1,-
+KnatteTobbert.Bridge_8.DisplayName,Stalen brug 8x1,-
+KnatteTobbert.Bridge_9.DisplayName,Stalen brug 9x1,-
+KnatteTobbert.Bridge_10.DisplayName,Stalen brug 10x1,-
+KnatteTobbert.Bridge.Description,"Maakt paden, assen en treinen tussen bergen mogelijk",-
+KnatteTobbert.BridgeF.Description,"Maakt paden, assen en treinen tussen bergen mogelijk
+Complete brug met zowel start als finish",-
+KnatteTobbert.Bridge.FlavorDiscription,Tsjoe Tsjoe,-
+Knatte.SmallGate.DisplayName,Kleine poort,-
+Knatte.SmallGate.Description,Brengt goederen in evenwicht tussen de twee verbonden districten. Elke kant heeft één arbeider die goederen verdeelt tussen de Kleine Poort en de rest van het district.,-
+Knatte.SmallGate.FlavorDescription,"Het bgebouw dat uit update 4 is verwijderd, wordt hergebruikt",-
+Knatte.DecoSmallGate.DisplayName,Boog U3,-
+Knatte.DecoSmallGate.Description,Decoratieboog van update 3,-
+Knatte.MetalPillar.DisplayName,Metalen pijler,-
+Knatte.MetalPillars.DisplayName,Metalen pijler met beugel,-
+Knatte.MetalPillar.Description,Laat het stijgen,-
+Knatte.MetalPillar.FlavorDescription,"""Laten we een plekje afzetten!"" —IJverige bever",-
+Knatte.MetalPlatform.DisplayName,Metalen platform,-
+Knatte.MetalPlatform.Description,Een platform met 4 poten,-
+Knatte.MetalPlatform.FlavorDescription,"""Deze tafel zag er kleiner uit in de catalogus."" —Ma'Ngonel",Base game text
+Knatte.MetalPlatform5x3.DisplayName,Metalen platform 5x3,
+Knatte.MiddleOverhang3x1.DisplayName,Metalen middenoverhang 3x1,
+Knatte.MiddleOverhang4x1.DisplayName,Metalen middenoverhang 4x1,
+Knatte.MiddleOverhang5x1.DisplayName,Metalen middenoverhang 5x1,
+Knatte.MiddleOverhang7x1.DisplayName,Metalen middenoverhang 7x1,
+Knatte.MiddleOverhang.Description,"Overhang die in 2 richtingen gaat
+Gouden markering is de pijlerlocatie",
+Knatte.MiddleOverhang.FlavorDescription,Welke kant wil je op?,
+Knatte.ArcOverhang3x1.DisplayName,Metalen boogoverhang 3x1,
+Knatte.ArcOverhang4x1.DisplayName,Metalen boogoverhang 4x1,
+Knatte.ArcOverhang5x1.DisplayName,Metalen boogoverhang 5x1,
+Knatte.ArcOverhang6x1.DisplayName,Metalen boogoverhang 6x1,
+Knatte.ArcOverhang.Description,Overhang met pilaar aan elke kant,
+Knatte.ArcOverhang.FlavorDescription,"""Kijk, kijk een boog"" —een Beaver-kit",
+Knatte.Aque_MetalBigPillarBase.DisplayName,Grote aquaduct metalen pijlerbasis,
+Knatte.Aque_MetalBigPillarMid.DisplayName,Grote aquaduct metalen pijler midden,
+Knatte.Aque_MetalBigPillarTop.DisplayName,Grote aquaduct metalen pijlertop,
+Knatte.Aque_MetalBigPillar.Description,"Grote metalen pilaar uit de oude versie van het spel, in meerdere stukken gesplitst, zodat deze op elke hoogte kan worden gebouwd
+Het bovenste stuk kan platforms en uitsteeksels erin hebben",
+Knatte.Aque_MetalBigPillar.FlavorDescription,"""Deze tafel zag er kleiner uit in de catalogus."" —Ma'Ngonel",Base game text
+Knatte.MetalBigPillarBase.DisplayName,Grote metalen pijlerbasis,
+Knatte.MetalBigPillarMid.DisplayName,Grote metalen pilaar midden,
+Knatte.MetalBigPillarTop.DisplayName,Grote metalen pijlertop,
+Knatte.MetalBigPillar.Description,"Grote metalen pilaar uit de oude versie van het spel, in meerdere stukken gesplitst, zodat deze op elke hoogte kan worden gebouwd
+Het bovenste stuk kan platforms en overhangen erin hebben",
+Knatte.MetalBigPillar.FlavorDescription,"""Deze tafel zag er kleiner uit in de catalogus."" —Ma'Ngonel",Base game text

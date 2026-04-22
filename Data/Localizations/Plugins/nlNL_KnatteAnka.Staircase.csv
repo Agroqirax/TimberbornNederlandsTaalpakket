@@ -1,0 +1,37 @@
+ID,Text,Comment
+KnatteTobbert.MetalStaircase.DisplayName,Metalen trappen,-
+KnatteTobbert.MetalStaircase.Description,Een betere trap van Metaal.,-
+KnatteTobbert.MetalStaircase.FlavorDiscription,Hopen dat het niet roest.,-
+KnatteTobbert.MetalStaircaseNeed.DisplaynameLocKey,Metalen trap,-
+KnatteTobbert.MetalSpiralStaircase.DisplayName,Metalen wenteltrap,
+KnatteTobbert.MetalSpiralStaircase.Description,Een betere wenteltrap van Metaal.,
+KnatteTobbert.MetalSpiralStaircase.FlavorDiscription,"""Trap naar de hemel"" —Stone Cold Jane Austen",
+KnatteTobbert.Staircases.DisplayName,Trappen,-
+KnatteTobbert.Platforms.DisplayName,Platformen,-
+KnatteTobbert.SpiralStaircase.DisplayName,Wenteltrap,-
+KnatteTobbert.SpiralStaircase.FlavorDiscription,"""Trap naar de hemel"" —Stone Cold Jane Austen",Untranslated
+KnatteTobbert.StaircaseLog.DisplayName,Trap,-
+KnatteTobbert.StaircaseLog.FlavorDiscription,Dat is een groooote boomstam in het midden.,-
+Knatte.Pillar.DisplayName,Pilaar,-
+Knatte.Pillar.Description,Laat het stijgen,-
+Knatte.Pillar.FlavorDescription,"""Laten we een plekje afzetten!"" —IJverige bever",-
+Knatte.Pillars.DisplayName,Pijlers met beugel,-
+Knatte.Pillars.Description,Laat het stijgen,-
+Knatte.Pillars.FlavorDescription,"""Laten we een plekje afzetten!"" —IJverige bever",-
+Knatte.Pillar_1.DisplayName,Pijler met 1 poot,-
+Knatte.Pillar_2.DisplayName,Pijler met 2 poten,-
+Knatte.Pillar_3.DisplayName,Pijler met 3 poten,-
+Knatte.Pillar_4.DisplayName,Pijler met 4 poten,Untranslated
+Knatte.Pillar_X.Description,"Pijlers om op maat gemaakte look te kunnen krijgen
+Kan gecombineerd worden met Trappen om ze te verbergen, maar is stapelbaar.",-
+Knatte.Pillar_X.FlavorDescription,"""Laten we een plekje afzetten!"" —IJverige bever",-
+Knatte.StaircasePillar.DisplayName,Trap Pijler,Untranslated
+Knatte.StaircasePillar.Description,Zuilen te gebruiken bij Trap om een mooie Zuil te krijgen.,-
+Knatte.StaircasePillar.FlavorDescription,"""Laten we een plekje afzetten!"" —IJverige bever",-
+Knatte.PillarTop.DisplayName,Pijler bal,-
+Knatte.PillarTop.Description,"Bovenste deel voor op maat gemaakte zuilen of decoratiestukken
+Kan gecombineerd worden met Staircase om ze te verbergen, maar is stapelbaar.",-
+Knatte.StaircasePlatform.DisplayName,Platform 2x2,Untranslated
+Knatte.StaircasePlatform.Description,Platform met een grote boomstam in het midden,Untranslated
+Knatte.StaircasePlatform.FlavorDescription,"""Laten we een plekje afzetten!"" —IJverige bever",Untranslated
+Knatte.CategoryPaths2.DisplayName,Paden 2,

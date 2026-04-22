@@ -1,0 +1,516 @@
+ID,Text,Comment
+Knatte.ToolGroup.DecorationBlocks,Decoratieblokken,
+Knatte.DE_RMCorner.DisplayName,Decoratie metalen hoek,-
+Knatte.DE_RMCorner.Description,Laat de geribbelde metalen dijk een hoek hebben.,-
+Knatte.DE_RMCorner.FlavorDescription,Blokkeert geen water,-
+//,//,
+Knatte.DE_RMSQCorner.DisplayName,Decoratie metaal vierkant hoek,-
+Knatte.DE_RMSQCorner.Description,Laat de geribbelde metalen dijk een hoek hebben.,-
+Knatte.DE_RMSQCorner.FlavorDescription,Blokkeert geen water,-
+//,//,
+Knatte.DE_RMDiagonal.DisplayName,Decoratie metaal diagonaal,-
+Knatte.DE_RMDiagonal.Description,Laat de geribbelde metalen dijk naar de zijkant gaan.,-
+Knatte.DE_RMDiagonal.FlavorDescription,Blokkeert geen water,-
+//,//,
+Knatte.DE_RMDiagonalW.DisplayName,Dijk diagonaal,-
+Knatte.DE_RMDiagonalW.Description,Laat de geribbelde metalen dijk naar de zijkant gaan.,-
+Knatte.DE_RMDiagonalW.FlavorDescription,Water zal niet passeren,-
+//,//,
+Knatte.DE_RMInvCorner.DisplayName,Decoratie betalen inverse hoek,-
+Knatte.DE_RMInvCorner.Description,Laat de geribbelde metalen dijk een hoek hebben.,-
+Knatte.DE_RMInvCorner.FlavorDescription,Blokkeert geen water,-
+//,//,
+Knatte.DE_RMInvCornerW.DisplayName,Dijk inverse hoek,-
+Knatte.DE_RMInvCornerW.Description,Laat de geribbelde metalen dijk een hoek hebben.,-
+Knatte.DE_RMInvCornerW.FlavorDescription,Water zal niet passeren,-
+//,//,
+Knatte.DE_RMSlope.DisplayName,Decoratie metalen helling,-
+Knatte.DE_RMSlope.Description,Laat de geribbelde metalen dijk hellend zijn.,-
+Knatte.DE_RMSlope.FlavorDescription,Blokkeert geen water,-
+//,//,
+Knatte.DE_RMCornerSlope.DisplayName,Decoratie metaal helling hoek,-
+Knatte.DE_RMCornerSlope.Description,Laat de geribbelde metalen dijk een hoek hebben.,-
+Knatte.DE_RMCornerSlope.FlavorDescription,Blokkeert geen water,-
+//,//,
+Knatte.DE_RMSquare.DisplayName,Decoratie metalen blok,
+Knatte.DE_RMSquare.Description,Dijk het geribbelde metalen vierkant,
+Knatte.DE_RMSquare.FlavorDescription,Blokkeert geen water,-
+//,//,
+Knatte.DE_RMSquare2W.DisplayName,Metalen dijk 2x2,
+Knatte.DE_RMSquare3W.DisplayName,Metalen dijk 3x3,
+Knatte.DE_RMSquareW.Description,Dijk laat het groot zijn in geribbeld metaal,
+Knatte.DE_RMSquareW.FlavorDescription,Water zal niet passeren,-
+//,//,
+Knatte.DE_RMSquareW1x1.DisplayName,Metalen dijk 1x1,
+Knatte.DE_RMSquareW1x2.DisplayName,Metalen dijk 1x2,
+Knatte.DE_RMSquareW1x3.DisplayName,Metalen dijk 1x3,
+Knatte.DE_RMSquareW2x1.DisplayName,Metalen dijk 2x1,
+Knatte.DE_RMSquareW2x3.DisplayName,Metalen dijk 2x3,
+Knatte.DE_RMSquareW3x1.DisplayName,Metalen dijk 3x1,
+Knatte.DE_RMSquareW3x2.DisplayName,Metalen dijk 3x2,
+//,//,
+Knatte.DE_RMCorner2X.DisplayName,"Decoratie metalen hoek 
+Dubbele hoogte",-
+Knatte.DE_RMCorner2X.Description,Laat de geribbelde metalen dijk een hoek hebben.,-
+Knatte.DE_RMCorner2X.FlavorDescription,Blokkeert geen water,-
+//,//,
+Knatte.DE_RMSQCorner2X.DisplayName,"Decoratie metaal vierkant hoek 
+Dubbele hoogte",-
+Knatte.DE_RMSQCorner2X.Description,Laat de geribbelde metalen dijk een hoek hebben.,-
+Knatte.DE_RMSQCorner2X.FlavorDescription,Blokkeert geen water,-
+//,//,
+Knatte.DE_RMDiagonal2X.DisplayName,"Decoratie metaal diagonaal 
+Dubbele hoogte",-
+Knatte.DE_RMDiagonal2X.Description,Laat de geribbelde metalen dijk naar de zijkant gaan.,-
+Knatte.DE_RMDiagonal2X.FlavorDescription,Blokkeert geen water,-
+//,//,
+Knatte.DE_RMInvCornerS2X.DisplayName,Decoratie metaal inverse hoek zijplatform dubbele hoogte,-
+Knatte.DE_RMInvCornerS2X.Description,Laat de geribbelde metalen dijk naar de zijkant gaan en een platform hebben.,-
+Knatte.DE_RMInvCornerS2X.FlavorDescription,Blokkeert geen water,-
+//,//,
+Knatte.DE_RMInvCorner2X.DisplayName,"Decoratie metalen inverse hoek 
+Dubbele hoogte",-
+Knatte.DE_RMInvCorner2X.Description,Laat de geribbelde metalen dijk een hoek hebben.,-
+Knatte.DE_RMInvCorner2X.FlavorDescription,Blokkeert geen water,-
+//,//,
+Knatte.DE_RMInvCornerW2X.DisplayName,"Metalen dijk inverse hoek 
+Dubbele hoogte",-
+Knatte.DE_RMInvCornerW2X.Description,Laat de geribbelde metalen dijk een hoek hebben.,-
+Knatte.DE_RMInvCornerW2X.FlavorDescription,Water zal niet passeren,-
+//,//,
+Knatte.DE_RMSlope2X.DisplayName,"Decoratie metalen helling 
+Dubbele hoogte",-
+Knatte.DE_RMSlope2X.Description,Laat de geribbelde metalen dijk hellend zijn.,-
+Knatte.DE_RMSlope2X.FlavorDescription,Blokkeert geen water,-
+//,//,
+Knatte.DE_RMCornerSlope2X.DisplayName,"Decoratie metaal hellinghoek 
+Dubbele hoogte",-
+Knatte.DE_RMCornerSlope2X.Description,Laat de geribbelde metalen dijk een hoek hebben.,-
+Knatte.DE_RMCornerSlope2X.FlavorDescription,Blokkeert geen water,-
+//,//,
+Knatte.DE_RMCorner3X.DisplayName,"Decoratie metalen hoek 
+Drievoudige hoogte",-
+Knatte.DE_RMCorner3X.Description,Laat de geribbelde metalen dijk een hoek hebben.,-
+Knatte.DE_RMCorner3X.FlavorDescription,Blokkeert geen water,-
+//,//,
+Knatte.DE_RMInvCorner3X.DisplayName,"Decoratie metalen inverse hoek 
+Drievoudige hoogte",-
+Knatte.DE_RMInvCorner3X.Description,Laat de geribbelde metalen dijk een hoek hebben.,-
+Knatte.DE_RMInvCorner3X.FlavorDescription,Blokkeert geen water,-
+//,//,
+Knatte.DE_RMSlope3X.DisplayName,Decoratie metaal helling drievoudig hoogte,-
+Knatte.DE_RMSlope3X.Description,Laat de geribbelde metalen dijk hellend zijn.,-
+Knatte.DE_RMSlope3X.FlavorDescription,Blokkeert geen water,-
+//,//,
+Knatte.DE_RMInvCornerW3X.DisplayName,Dijk inverse hoek drievoudige hoogte,-
+Knatte.DE_RMInvCornerW3X.Description,Laat de geribbelde metalen dijk een hoek hebben.,-
+Knatte.DE_RMInvCornerW3X.FlavorDescription,Water zal niet passeren,-
+//,//,
+Knatte.DE_RMSlopeW_1.DisplayName,Metalen dijkhelling,
+Knatte.DE_RMSlopeW_2.DisplayName,"Metalen dijkhelling 
+Dubbele hoogte",
+Knatte.DE_RMSlopeW_3.DisplayName,"Metalen dijkhelling 
+Drievoudige hoogte",
+Knatte.DE_RMSlopeW.Description,Geribbelde metalen helling die water volledig blokkeert,
+Knatte.DE_RMSlopeW.FlavorDescription,Water zal niet passeren,
+//,//,
+Knatte.DE_RMSlopeS.DisplayName,Decoratie metalen trap,-
+Knatte.DE_RMSlopeS.Description,Laat de geribbelde metalen dijk betreden worden.,-
+Knatte.DE_RMSlopeS.FlavorDescription,Blokkeert geen water,-
+//,//,
+Knatte.DE_RMToolGroup.Decoration,Decoratieblokken,-
+//,//,
+Knatte.DE_RMCategoryDam.DisplayName,Geribbelde metalen decoratie,-
+Knatte.DE_RMCategoryDam.Des,Blokkeert geen water,-
+//,//,
+Knatte.DE_RMCategoryLevees.DisplayName,Gevormde geribbelde metalen dijken,-
+Knatte.DE_RMCategoryLeveesSQ.DisplayName,Vierkant geribbelde metalen dijken,-
+//,//,
+Knatte.DE_RMCategoryDam2.DisplayName,Geribbelde metalen decoratie,-               Untranlsated
+Knatte.DE_RMCategoryDamSQ.DisplayName,Geribbelde metalen decoratie vierkant,
+Knatte.DE_RMCategoryDam2.Des,Blokkeert geen water,-                      Untranlsated
+//,//,
+Knatte.DE_RMDoubleInvSlope.DisplayName,Metalen dubbele omgekeerde helling,                   
+Knatte.DE_RMDoubleInvSlope.Description,Combinatie van geribbelde metalen dijk en omgekeerde helling,               
+Knatte.DE_RMDoubleInvSlope.FlavorDescription,Laten we een brug bouwen,                   
+//,//,
+Knatte.DE_RMSquare1x2.DisplayName,Decoratie metalen blok 1x2,                               
+Knatte.DE_RMSquare1x3.DisplayName,Decoratie metalen blok 1x3,                               
+Knatte.DE_RMSquare_B.Description,Geribbeld metalen vierkant dat kan uitsteken maar het water niet blokkeert.,
+Knatte.DE_RMSquare_B.FlavorDescription,"Kijk, het drijft",                                             
+//,//,
+Knatte.DE_RMInvSlope1x1.DisplayName,Metaal omgekeerde helling 1x1,                              
+Knatte.DE_RMInvSlope1x2.DisplayName,Metaal omgekeerde helling 1x2,                              
+Knatte.DE_RMInvSlope1x3.DisplayName,Metaal omgekeerde helling 1x3,                              
+Knatte.DE_RMInvSlope2x1.DisplayName,Metaal omgekeerde helling 2x1,                              
+Knatte.DE_RMInvSlope.Description,Geribbeld metalen vierkant dat kan uitsteken maar het water niet blokkeert.,
+Knatte.DE_RMInvSlope.FlavorDescription,We gaan weg,
+//,//,
+Knatte.DE_RMInvTrapezium1x1.DisplayName,Omgekeerd trapezium 1x1,
+//,//,
+Knatte.DE_RMBlockDecoration.DisplaynameLocKey,Mooie dam,                           Untranlsated
+Knatte.DE_RMInvSlopeW1x1.DisplayName,Omgekeerde metalen dijkhelling 1x1,
+Knatte.DE_RMInvSlopeW1x2.DisplayName,Omgekeerde metalen dijkhelling 1x2,
+Knatte.DE_RMInvSlopeW1x3.DisplayName,Omgekeerde metalen dijkhelling 1x3,
+Knatte.DE_RMInvSlopeW2x1.DisplayName,Omgekeerde metalen dijkhelling 2x1,
+Knatte.DE_RMInvSlopeW.Description,"Geribbeld metalen vierkant dat kan uitsteken. 
+Plaats zeskantblokken, alle waterblokken, andere blokken alleen van boven/onder, zoals een ingebouwde ondoordringbare vloer",
+Knatte.DE_RMInvSlopeW.FlavorDescription,We gaan weg,
+//,//,
+Knatte.DE_RMInvTrapeziumW1x1.DisplayName,Omgekeerde trapezium metalen dijk 1x1,
+Knatte.DE_RMDoubleInvSlopeW.Description,"Geribbeld metalen vierkant dat aan beide kanten uitsteekt. 
+Plaats zeskantblokken, alle waterblokken, andere blokken alleen van boven/onder, zoals een ingebouwde ondoordringbare vloer",
+Knatte.DE_RMDoubleInvSlopeW.FlavorDescription,Laten we een brug bouwen,
+//,/--------Gladde blokken----------------/,
+Knatte.DE_SMCorner.DisplayName,Decoratie metalen hoek,-
+Knatte.DE_SMCorner.Description,Laat de gladde metalen dijk een hoek hebben.,-
+Knatte.DE_SMCorner.FlavorDescription,Blokkeert geen water,-
+//,//,
+Knatte.DE_SMSQCorner.DisplayName,Decoratie metaal vierkant hoek,-
+Knatte.DE_SMSQCorner.Description,Laat de gladde metalen dijk een hoek hebben.,-
+Knatte.DE_SMSQCorner.FlavorDescription,Blokkeert geen water,-
+//,//,
+Knatte.DE_SMDiagonal.DisplayName,Decoratie metaal diagonaal,-
+Knatte.DE_SMDiagonal.Description,Laat de gladde metalen dijk naar de zijkant gaan.,-
+Knatte.DE_SMDiagonal.FlavorDescription,Blokkeert geen water,-
+//,//,
+Knatte.DE_SMDiagonalW.DisplayName,Dijk diagonaal,-
+Knatte.DE_SMDiagonalW.Description,Laat de gladde metalen dijk naar de zijkant gaan.,-
+Knatte.DE_SMDiagonalW.FlavorDescription,Water zal niet passeren,-
+//,//,
+Knatte.DE_SMInvCorner.DisplayName,Decoratie metalen inverse hoek,-
+Knatte.DE_SMInvCorner.Description,Laat de gladde metalen dijk een hoek hebben.,-
+Knatte.DE_SMInvCorner.FlavorDescription,Blokkeert geen water,-
+//,//,
+Knatte.DE_SMInvCornerW.DisplayName,Dijk inverse hoek,-
+Knatte.DE_SMInvCornerW.Description,Laat de gladde metalen dijk een hoek hebben.,-
+Knatte.DE_SMInvCornerW.FlavorDescription,Water zal niet passeren,-
+//,//,
+Knatte.DE_SMSlope.DisplayName,Decoratie metalen helling,-
+Knatte.DE_SMSlope.Description,Laat de gladde metalen dijk hellend zijn.,-
+Knatte.DE_SMSlope.FlavorDescription,Blokkeert geen water,-
+//,//,
+Knatte.DE_SMCornerSlope.DisplayName,Decoratie metaal hellinghoek,-
+Knatte.DE_SMCornerSlope.Description,Laat de gladde metalen dijk een hoek hebben.,-
+Knatte.DE_SMCornerSlope.FlavorDescription,Blokkeert geen water,-
+//,//,
+Knatte.DE_SMSquare.DisplayName,Decoratie metalen blok,
+Knatte.DE_SMSquare.Description,Dijk het gladde metalen vierkant,
+Knatte.DE_SMSquare.FlavorDescription,Blokkeert geen water,-
+//,//,
+Knatte.DE_SMSquare2W.DisplayName,Metalen dijk 2x2,
+Knatte.DE_SMSquare3W.DisplayName,Metalen dijk 3x3,
+Knatte.DE_SMSquareW.Description,Dijk laat het groots zijn in glad metaal,
+Knatte.DE_SMSquareW.FlavorDescription,Water zal niet passeren,-
+//,//,
+Knatte.DE_SMSquareW1x1.DisplayName,Metalen dijk 1x1,
+Knatte.DE_SMSquareW1x2.DisplayName,Metalen dijk 1x2,
+Knatte.DE_SMSquareW1x3.DisplayName,Metalen dijk 1x3,
+Knatte.DE_SMSquareW2x1.DisplayName,Metalen dijk 2x1,
+Knatte.DE_SMSquareW2x3.DisplayName,Metalen dijk 2x3,
+Knatte.DE_SMSquareW3x1.DisplayName,Metalen dijk 3x1,
+Knatte.DE_SMSquareW3x2.DisplayName,Metalen dijk 3x2,
+//,//,
+Knatte.DE_SMCorner2X.DisplayName,"Decoratie metalen hoek 
+Dubbele hoogte",-
+Knatte.DE_SMCorner2X.Description,Laat de gladde metalen dijk een hoek hebben.,-
+Knatte.DE_SMCorner2X.FlavorDescription,Blokkeert geen water,-
+//,//,
+Knatte.DE_SMSQCorner2X.DisplayName,"Decoratie metaal vierkant hoek 
+Dubbele hoogte",-
+Knatte.DE_SMSQCorner2X.Description,Laat de gladde metalen dijk een hoek hebben.,-
+Knatte.DE_SMSQCorner2X.FlavorDescription,Blokkeert geen water,-
+//,//,
+Knatte.DE_SMDiagonal2X.DisplayName,"Decoratie metaal diagonaal 
+Dubbele hoogte",-
+Knatte.DE_SMDiagonal2X.Description,Laat de gladde metalen dijk naar de zijkant gaan.,-
+Knatte.DE_SMDiagonal2X.FlavorDescription,Blokkeert geen water,-
+//,//,
+Knatte.DE_SMInvCornerS2X.DisplayName,Decoratie metaal inverse hoek zijplatform dubbele hoogte,-
+Knatte.DE_SMInvCornerS2X.Description,Laat de gladde metalen dijk naar de zijkant gaan en een platform hebben.,-
+Knatte.DE_SMInvCornerS2X.FlavorDescription,Blokkeert geen water,-
+//,//,
+Knatte.DE_SMInvCorner2X.DisplayName,"Decoratie metalen inverse hoek 
+Dubbele hoogte",-
+Knatte.DE_SMInvCorner2X.Description,Laat de gladde metalen dijk een hoek hebben.,-
+Knatte.DE_SMInvCorner2X.FlavorDescription,Blokkeert geen water,-
+//,//,
+Knatte.DE_SMInvCornerW2X.DisplayName,"Metalen dijk interne hoek 
+Dubbele hoogte",-
+Knatte.DE_SMInvCornerW2X.Description,Laat de gladde metalen dijk een hoek hebben.,-
+Knatte.DE_SMInvCornerW2X.FlavorDescription,Water zal niet passeren,-
+//,//,
+Knatte.DE_SMSlope2X.DisplayName,"Decoratie metalen helling 
+Dubbele hoogte",-
+Knatte.DE_SMSlope2X.Description,Laat de gladde metalen dijk hellend zijn.,-
+Knatte.DE_SMSlope2X.FlavorDescription,Blokkeert geen water,-
+//,//,
+Knatte.DE_SMCornerSlope2X.DisplayName,"Decoratie metaal hellinghoek 
+Dubbele hoogte",-
+Knatte.DE_SMCornerSlope2X.Description,Laat de gladde metalen dijk een hoek hebben.,-
+Knatte.DE_SMCornerSlope2X.FlavorDescription,Blokkeert geen water,-
+//,//,
+Knatte.DE_SMCorner3X.DisplayName,"Decoratie metalen hoek 
+Drievoudige hoogte",-
+Knatte.DE_SMCorner3X.Description,Laat de gladde metalen dijk een hoek hebben.,-
+Knatte.DE_SMCorner3X.FlavorDescription,Blokkeert geen water,-
+//,//,
+Knatte.DE_SMInvCorner3X.DisplayName,"Decoratie metalen inverse hoek 
+Drievoudige hoogte",-
+Knatte.DE_SMInvCorner3X.Description,Laat de gladde metalen dijk een hoek hebben.,-
+Knatte.DE_SMInvCorner3X.FlavorDescription,Blokkeert geen water,-
+//,//,
+Knatte.DE_SMSlope3X.DisplayName,Decoratie metaal helling drievoudig hoogte,-
+Knatte.DE_SMSlope3X.Description,Laat de gladde metalen dijk hellend zijn.,-
+Knatte.DE_SMSlope3X.FlavorDescription,Blokkeert geen water,-
+//,//,
+Knatte.DE_SMInvCornerW3X.DisplayName,Dijk inverse hoek drievoudige hoogte,-
+Knatte.DE_SMInvCornerW3X.Description,Laat de gladde metalen dijk een hoek hebben.,-
+Knatte.DE_SMInvCornerW3X.FlavorDescription,Water zal niet passeren,-
+//,//,
+Knatte.DE_SMSlopeW_1.DisplayName,Metalen dijkhelling,
+Knatte.DE_SMSlopeW_2.DisplayName,"Metalen dijkhelling 
+Dubbele hoogte",
+Knatte.DE_SMSlopeW_3.DisplayName,"Metalen dijkhelling 
+Drievoudige hoogte",
+Knatte.DE_SMSlopeW.Description,Gladde metalen helling die water volledig blokkeert,
+Knatte.DE_SMSlopeW.FlavorDescription,Water zal niet passeren,
+//,//,
+Knatte.DE_SMSlopeS.DisplayName,Decoratie metalen trap,-
+Knatte.DE_SMSlopeS.Description,Laat de gladde metalen dijk betreden worden.,-
+Knatte.DE_SMSlopeS.FlavorDescription,Blokkeert geen water,-
+//,//,
+Knatte.DE_SMToolGroup.Decoration,Decoratieblokken,-
+//,//,
+Knatte.DE_SMCategoryDam.DisplayName,Gladde metalen decoratie,-
+Knatte.DE_SMCategoryDam.Des,Blokkeert geen water,-
+//,//,
+Knatte.DE_SMCategoryLevees.DisplayName,Gevormde gladde metalen dijken,-
+Knatte.DE_SMCategoryLeveesSQ.DisplayName,Vierkante gladde metalen dijken,-
+//,//,
+Knatte.DE_SMCategoryDam2.DisplayName,Gladde metalen decoratie,-               Untranlsated
+Knatte.DE_SMCategoryDamSQ.DisplayName,Gladde metalen decoratie vierkant,
+Knatte.DE_SMCategoryDam2.Des,Blokkeert geen water,-                      Untranlsated
+//,//,
+Knatte.DE_SMDoubleInvSlope.DisplayName,Metalen dubbele omgekeerde helling,                   
+Knatte.DE_SMDoubleInvSlope.Description,Combinatie van gladde metalen dijk en omgekeerde helling,               
+Knatte.DE_SMDoubleInvSlope.FlavorDescription,Laten we een brug bouwen,                   
+//,//,
+Knatte.DE_SMSquare1x2.DisplayName,Decoratie metalen blok 1x2,                               
+Knatte.DE_SMSquare1x3.DisplayName,Decoratie metalen blok 1x3,                               
+Knatte.DE_SMSquare_B.Description,Glad metalen vierkant dat kan uitsteken maar het water niet blokkeert.,
+Knatte.DE_SMSquare_B.FlavorDescription,"Kijk, het drijft",                                             
+//,//,
+Knatte.DE_SMInvSlope1x1.DisplayName,Metaal omgekeerde helling 1x1,                              
+Knatte.DE_SMInvSlope1x2.DisplayName,Metaal omgekeerde helling 1x2,                              
+Knatte.DE_SMInvSlope1x3.DisplayName,Metaal omgekeerde helling 1x3,                              
+Knatte.DE_SMInvSlope2x1.DisplayName,Metaal omgekeerde helling 2x1,                              
+Knatte.DE_SMInvSlope.Description,Glad metalen vierkant dat kan uitsteken maar het water niet blokkeert.,
+Knatte.DE_SMInvSlope.FlavorDescription,We gaan weg,
+//,//,
+Knatte.DE_SMInvTrapezium1x1.DisplayName,Omgekeerd trapezium 1x1,
+//,//,
+Knatte.DE_SMBlockDecoration.DisplaynameLocKey,Mooie dam,                           Untranlsated
+Knatte.DE_SMInvSlopeW1x1.DisplayName,Omgekeerde metalen dijkhelling 1x1,
+Knatte.DE_SMInvSlopeW1x2.DisplayName,Omgekeerde metalen dijkhelling 1x2,
+Knatte.DE_SMInvSlopeW1x3.DisplayName,Omgekeerde metalen dijkhelling 1x3,
+Knatte.DE_SMInvSlopeW2x1.DisplayName,Omgekeerde metalen dijkhelling 2x1,
+Knatte.DE_SMInvSlopeW.Description,"Glad metalen vierkant dat kan uitsteken. 
+Plaats zeskantblokken, alle waterblokken, andere blokken alleen van boven/onder, zoals een ingebouwde ondoordringbare vloer",
+Knatte.DE_SMInvSlopeW.FlavorDescription,We gaan weg,
+//,//,
+Knatte.DE_SMInvTrapeziumW1x1.DisplayName,Omgekeerde trapezium metalen dijk 1x1,
+Knatte.DE_SMDoubleInvSlopeW.Description,"Glad metalen vierkant dat aan beide zijden uitsteekt. 
+Plaats zeskantblokken, alle waterblokken, andere blokken alleen van boven/onder, zoals een ingebouwde ondoordringbare vloer",
+Knatte.DE_SMDoubleInvSlopeW.FlavorDescription,Laten we een brug bouwen,
+//,/--------Aque geribbelde blokken---------------/,
+Knatte.DE_A_RMCorner.DisplayName,Decoratie metalen hoek,-
+Knatte.DE_A_RMCorner.Description,"Laat de geribbelde metalen dijk een hoek hebben.
+In aquaductstijl.",-
+Knatte.DE_A_RMCorner.FlavorDescription,Blokkeert geen water,-
+//,//,
+Knatte.DE_A_RMSQCorner.DisplayName,Decoratie metaal vierkant hoek,-
+Knatte.DE_A_RMSQCorner.Description,"Laat de geribbelde metalen dijk een hoek hebben.
+In aquaductstijl.",-
+Knatte.DE_A_RMSQCorner.FlavorDescription,Blokkeert geen water,-
+//,//,
+Knatte.DE_A_RMDiagonal.DisplayName,Decoratie metaal diagonaal,-
+Knatte.DE_A_RMDiagonal.Description,"Laat de geribbelde metalen dijk naar de zijkant gaan.
+In aquaductstijl.",-
+Knatte.DE_A_RMDiagonal.FlavorDescription,Blokkeert geen water,-
+//,//,
+Knatte.DE_A_RMDiagonalW.DisplayName,Dijk diagonaal,-
+Knatte.DE_A_RMDiagonalW.Description,"Laat de geribbelde metalen dijk naar de zijkant gaan.
+In aquaductstijl.",-
+Knatte.DE_A_RMDiagonalW.FlavorDescription,Water zal niet passeren,-
+//,//,
+Knatte.DE_A_RMInvCorner.DisplayName,Decoratie metalen inverse hoek,-
+Knatte.DE_A_RMInvCorner.Description,"Laat de geribbelde metalen dijk een hoek hebben.
+In aquaductstijl.",-
+Knatte.DE_A_RMInvCorner.FlavorDescription,Blokkeert geen water,-
+//,//,
+Knatte.DE_A_RMInvCornerW.DisplayName,Dijk inverse hoek,-
+Knatte.DE_A_RMInvCornerW.Description,"Laat de geribbelde metalen dijk een hoek hebben.
+In aquaductstijl.",-
+Knatte.DE_A_RMInvCornerW.FlavorDescription,Water zal niet passeren,-
+//,//,
+Knatte.DE_A_RMSlope.DisplayName,Decoratie metalen helling,-
+Knatte.DE_A_RMSlope.Description,"Laat de geribbelde metalen dijk hellend zijn.
+In aquaductstijl.",-
+Knatte.DE_A_RMSlope.FlavorDescription,Blokkeert geen water,-
+//,//,
+Knatte.DE_A_RMCornerSlope.DisplayName,Decoratie metaal hellinghoek,-
+Knatte.DE_A_RMCornerSlope.Description,"Laat de geribbelde metalen dijk een hoek hebben.
+In aquaductstijl.",-
+Knatte.DE_A_RMCornerSlope.FlavorDescription,Blokkeert geen water,-
+//,//,
+Knatte.DE_A_RMSquare.DisplayName,Decoratie metalen blok,
+Knatte.DE_A_RMSquare.Description,"Dijk het geribbelde metalen vierkant
+In aquaductstijl.",
+Knatte.DE_A_RMSquare.FlavorDescription,Blokkeert geen water,-
+//,//,
+Knatte.DE_A_RMSquare2W.DisplayName,Metalen dijk 2x2,
+Knatte.DE_A_RMSquare3W.DisplayName,Metalen dijk 3x3,
+Knatte.DE_A_RMSquareW.Description,"Dijk laat het groot zijn in geribbeld metaal
+In aquaductstijl.",
+Knatte.DE_A_RMSquareW.FlavorDescription,Water zal niet passeren,-
+//,//,
+Knatte.DE_A_RMSquareW1x1.DisplayName,Metalen dijk 1x1,
+Knatte.DE_A_RMSquareW1x2.DisplayName,Metalen dijk 1x2,
+Knatte.DE_A_RMSquareW1x3.DisplayName,Metalen dijk 1x3,
+Knatte.DE_A_RMSquareW2x1.DisplayName,Metalen dijk 2x1,
+Knatte.DE_A_RMSquareW2x3.DisplayName,Metalen dijk 2x3,
+Knatte.DE_A_RMSquareW3x1.DisplayName,Metalen dijk 3x1,
+Knatte.DE_A_RMSquareW3x2.DisplayName,Metalen dijk 3x2,
+//,//,
+Knatte.DE_A_RMCorner2X.DisplayName,"Decoratie metalen hoek 
+Dubbele hoogte",-
+Knatte.DE_A_RMCorner2X.Description,"Laat de geribbelde metalen dijk een hoek hebben.
+In aquaductstijl.",-
+Knatte.DE_A_RMCorner2X.FlavorDescription,Blokkeert geen water,-
+//,//,
+Knatte.DE_A_RMSQCorner2X.DisplayName,"Decoratie metaal vierkant hoek 
+Dubbele hoogte",-
+Knatte.DE_A_RMSQCorner2X.Description,"Laat de geribbelde metalen dijk een hoek hebben.
+In aquaductstijl.",-
+Knatte.DE_A_RMSQCorner2X.FlavorDescription,Blokkeert geen water,-
+//,//,
+Knatte.DE_A_RMDiagonal2X.DisplayName,"Decoratie metaal diagonaal 
+Dubbele hoogte",-
+Knatte.DE_A_RMDiagonal2X.Description,"Laat de geribbelde metalen dijk naar de zijkant gaan.
+In aquaductstijl.",-
+Knatte.DE_A_RMDiagonal2X.FlavorDescription,Blokkeert geen water,-
+//,//,
+Knatte.DE_A_RMInvCornerS2X.DisplayName,Decoratie metaal inverse hoek zijplatform dubbele hoogte,-
+Knatte.DE_A_RMInvCornerS2X.Description,"Laat de geribbelde metalen dijk naar de zijkant gaan en een platform hebben.
+In aquaductstijl.",-
+Knatte.DE_A_RMInvCornerS2X.FlavorDescription,Blokkeert geen water,-
+//,//,
+Knatte.DE_A_RMInvCorner2X.DisplayName,"Decoratie metalen inverse hoek 
+Dubbele hoogte",-
+Knatte.DE_A_RMInvCorner2X.Description,"Laat de geribbelde metalen dijk een hoek hebben.
+In aquaductstijl.",-
+Knatte.DE_A_RMInvCorner2X.FlavorDescription,Blokkeert geen water,-
+//,//,
+Knatte.DE_A_RMInvCornerW2X.DisplayName,"Metalen dijk inverse hoek 
+Dubbele hoogte",-
+Knatte.DE_A_RMInvCornerW2X.Description,"Laat de geribbelde metalen dijk een hoek hebben.
+In aquaductstijl.",-
+Knatte.DE_A_RMInvCornerW2X.FlavorDescription,Water zal niet passeren,-
+//,//,
+Knatte.DE_A_RMSlope2X.DisplayName,"Decoratie metalen helling 
+Dubbele hoogte",-
+Knatte.DE_A_RMSlope2X.Description,"Laat de geribbelde metalen dijk hellend zijn.
+In aquaductstijl.",-
+Knatte.DE_A_RMSlope2X.FlavorDescription,Blokkeert geen water,-
+//,//,
+Knatte.DE_A_RMCornerSlope2X.DisplayName,"Decoratie metaal hellinghoek 
+Dubbele hoogte",-
+Knatte.DE_A_RMCornerSlope2X.Description,"Laat de geribbelde metalen dijk een hoek hebben.
+In aquaductstijl.",-
+Knatte.DE_A_RMCornerSlope2X.FlavorDescription,Blokkeert geen water,-
+//,//,
+Knatte.DE_A_RMCorner3X.DisplayName,"Decoratie metalen hoek 
+Drievoudige hoogte",-
+Knatte.DE_A_RMCorner3X.Description,"Laat de geribbelde metalen dijk een hoek hebben.
+In aquaductstijl.",-
+Knatte.DE_A_RMCorner3X.FlavorDescription,Blokkeert geen water,-
+//,//,
+Knatte.DE_A_RMInvCorner3X.DisplayName,"Decoratie metalen inverse hoek 
+Drievoudige hoogte",-
+Knatte.DE_A_RMInvCorner3X.Description,"Laat de geribbelde metalen dijk een hoek hebben.
+In aquaductstijl.",-
+Knatte.DE_A_RMInvCorner3X.FlavorDescription,Blokkeert geen water,-
+//,//,
+Knatte.DE_A_RMSlope3X.DisplayName,Decoratie metaal helling drievoudig hoogte,-
+Knatte.DE_A_RMSlope3X.Description,"Laat de geribbelde metalen dijk hellend zijn.
+In aquaductstijl.",-
+Knatte.DE_A_RMSlope3X.FlavorDescription,Blokkeert geen water,-
+//,//,
+Knatte.DE_A_RMInvCornerW3X.DisplayName,Dijk inverse hoek drievoudige hoogte,-
+Knatte.DE_A_RMInvCornerW3X.Description,"Laat de geribbelde metalen dijk een hoek hebben.
+In aquaductstijl.",-
+Knatte.DE_A_RMInvCornerW3X.FlavorDescription,Water zal niet passeren,-
+//,//,
+Knatte.DE_A_RMSlopeW_1.DisplayName,Metalen dijkhelling,
+Knatte.DE_A_RMSlopeW_2.DisplayName,"Metalen dijkhelling 
+Dubbele hoogte",
+Knatte.DE_A_RMSlopeW_3.DisplayName,"Metalen dijkhelling 
+Drievoudige hoogte",
+Knatte.DE_A_RMSlopeW.Description,"Geribbelde metalen helling die water volledig blokkeert
+In aquaductstijl.",
+Knatte.DE_A_RMSlopeW.FlavorDescription,Water zal niet passeren,
+//,//,
+Knatte.DE_A_RMSlopeS.DisplayName,Decoratie metalen trap,-
+Knatte.DE_A_RMSlopeS.Description,"Laat de geribbelde metalen dijk betreden worden.
+In aquaductstijl.",-
+Knatte.DE_A_RMSlopeS.FlavorDescription,Blokkeert geen water,-
+//,//,
+Knatte.DE_A_RMToolGroup.Decoration,Decoratieblokken,-
+//,//,
+Knatte.DE_A_RMCategoryDam.DisplayName,Aquaduct metalen decoratie,-
+Knatte.DE_A_RMCategoryDam.Des,Blokkeert geen water,-
+//,//,
+Knatte.DE_A_RMCategoryLevees.DisplayName,Gevormde aquaduct metalen dijken,-
+Knatte.DE_A_RMCategoryLeveesSQ.DisplayName,Vierkante aquaduct metalen dijken,-
+//,//,
+Knatte.DE_A_RMCategoryDam2.DisplayName,Aquaduct metalen decoratie,-               Untranlsated
+Knatte.DE_A_RMCategoryDamSQ.DisplayName,Aquaduct metaal decoratie vierkant,
+Knatte.DE_A_RMCategoryDam2.Des,Blokkeert geen water,-                      Untranlsated
+//,//,
+Knatte.DE_A_RMDoubleInvSlope.DisplayName,Metalen dubbele omgekeerde helling,                   
+Knatte.DE_A_RMDoubleInvSlope.Description,"Combinatie van geribbelde metalen dijk en omgekeerde helling
+In aquaductstijl.",               
+Knatte.DE_A_RMDoubleInvSlope.FlavorDescription,Laten we een brug bouwen,                   
+//,//,
+Knatte.DE_A_RMSquare1x2.DisplayName,Decoratie metalen blok 1x2,                               
+Knatte.DE_A_RMSquare1x3.DisplayName,Decoratie metalen blok 1x3,                               
+Knatte.DE_A_RMSquare_B.Description,"Geribbeld metalen vierkant dat kan uitsteken maar het water niet blokkeert.
+In aquaductstijl.",
+Knatte.DE_A_RMSquare_B.FlavorDescription,"Kijk, het drijft",                                             
+//,//,
+Knatte.DE_A_RMInvSlope1x1.DisplayName,Metaal omgekeerde helling 1x1,                              
+Knatte.DE_A_RMInvSlope1x2.DisplayName,Metaal omgekeerde helling 1x2,                              
+Knatte.DE_A_RMInvSlope1x3.DisplayName,Metaal omgekeerde helling 1x3,                              
+Knatte.DE_A_RMInvSlope2x1.DisplayName,Metaal omgekeerde helling 2x1,                              
+Knatte.DE_A_RMInvSlope.Description,"Geribbeld metalen vierkant dat kan uitsteken maar het water niet blokkeert.
+In aquaductstijl.",
+Knatte.DE_A_RMInvSlope.FlavorDescription,We gaan weg,
+//,//,
+Knatte.DE_A_RMInvTrapezium1x1.DisplayName,Omgekeerd trapezium 1x1,
+//,//,
+Knatte.DE_A_RMBlockDecoration.DisplaynameLocKey,Mooie dam,                           Untranlsated
+Knatte.DE_A_RMInvSlopeW1x1.DisplayName,Omgekeerde metalen dijkhelling 1x1,
+Knatte.DE_A_RMInvSlopeW1x2.DisplayName,Omgekeerde metalen dijkhelling 1x2,
+Knatte.DE_A_RMInvSlopeW1x3.DisplayName,Omgekeerde metalen dijkhelling 1x3,
+Knatte.DE_A_RMInvSlopeW2x1.DisplayName,Omgekeerde metalen dijkhelling 2x1,
+Knatte.DE_A_RMInvSlopeW.Description,"Geribbeld metalen vierkant dat kan uitsteken. 
+Plaats zeskantblokken, alle waterblokken, andere blokken alleen van boven/onder, zoals een ingebouwde ondoordringbare vloer
+In aquaductstijl.",
+Knatte.DE_A_RMInvSlopeW.FlavorDescription,We gaan weg,
+//,//,
+Knatte.DE_A_RMInvTrapeziumW1x1.DisplayName,Omgekeerde trapezium metalen dijk 1x1,
+Knatte.DE_A_RMDoubleInvSlopeW.Description,"Geribbeld metalen vierkant dat aan beide kanten uitsteekt. 
+Plaats zeskantblokken, alle waterblokken, andere blokken alleen van boven/onder, zoals een ingebouwde ondoordringbare vloer
+In aquaductstijl.",
+Knatte.DE_A_RMDoubleInvSlopeW.FlavorDescription,Laten we een brug bouwen,

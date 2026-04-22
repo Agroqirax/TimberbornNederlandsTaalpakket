@@ -1,0 +1,177 @@
+ID,Text,Comment
+Knatte.Corner.DisplayName,Decoratieve hoek,-
+Knatte.Corner.Description,Laat de dijk een hoek hebben.,-
+Knatte.Corner.FlavorDescription,Blokkeert geen water,-
+//,//,
+Knatte.SQCorner.DisplayName,Decoratieve vierkante hoek,-
+Knatte.SQCorner.Description,Laat de dijk een hoek hebben.,-
+Knatte.SQCorner.FlavorDescription,Blokkeert geen water,-
+//,//,
+Knatte.Diagonal.DisplayName,Decoratieve diagonaal,-
+Knatte.Diagonal.Description,Laat de dijk naar de zijkant gaan.,-
+Knatte.Diagonal.FlavorDescription,Blokkeert geen water,-
+//,//,
+Knatte.DiagonalS.DisplayName,Decoratief diagonaal zijplatform,-
+Knatte.DiagonalS.Description,Laat de dijk naar de zijkant gaan en een platform hebben.,-
+Knatte.DiagonalS.FlavorDescription,Blokkeert geen water,-
+//,//,
+Knatte.DiagonalW.DisplayName,Dijk diagonaal,-
+Knatte.DiagonalW.Description,Laat de dijk naar de kant gaan.,-
+Knatte.DiagonalW.FlavorDescription,Water zal niet passeren,-
+//,//,
+Knatte.InvCorner.DisplayName,Decoratie inverse hoek,-
+Knatte.InvCorner.Description,Laat de dijk een hoek hebben.,-
+Knatte.InvCorner.FlavorDescription,Blokkeert geen water,-
+//,//,
+Knatte.InvCornerW.DisplayName,Dijk inverse hoek,-
+Knatte.InvCornerW.Description,Laat de dijk een hoek hebben.,-
+Knatte.InvCornerW.FlavorDescription,Water zal niet passeren,-
+//,//,
+Knatte.Slope.DisplayName,Decoratieve helling,-
+Knatte.Slope.Description,Laat de dijk hellend zijn.,-
+Knatte.Slope.FlavorDescription,Blokkeert geen water,-
+//,//,
+Knatte.CornerSlope.DisplayName,Decoratieve helling hoek,-
+Knatte.CornerSlope.Description,Laat de dijk een hoek hebben.,-
+Knatte.CornerSlope.FlavorDescription,Blokkeert geen water,-
+//,//,
+Knatte.Square.DisplayName,Decoratief vierkant,
+Knatte.Square.Description,Dijk het vierkant,
+Knatte.Square.FlavorDescription,Blokkeert geen water,-
+//,//,
+Knatte.Square2W.DisplayName,Dijk 2x2,
+Knatte.Square3W.DisplayName,Dijk 3x3,
+Knatte.SquareW.Description,Laat de dijk groot zijn,
+Knatte.SquareW.FlavorDescription,Water zal niet passeren,-
+//,//,
+Knatte.SquareW1x1.DisplayName,Dijk 1x1,
+Knatte.SquareW1x2.DisplayName,Dijk 1x2,
+Knatte.SquareW1x3.DisplayName,Dijk 1x3,
+Knatte.SquareW2x1.DisplayName,Dijk 2x1,
+Knatte.SquareW2x3.DisplayName,Dijk 2x3,
+Knatte.SquareW3x1.DisplayName,Dijk 3x1,
+Knatte.SquareW3x2.DisplayName,Dijk 3x2,
+//,//,
+//,//,
+Knatte.HighDam.DisplayName,Hoge Dijk,
+Knatte.HighDam.Description,"Houdt water tegen, maar laat minder (85%) door een overlaat stromen.
+Groter risico op overstromingen!",
+Knatte.HighDam.FlavorDescription,Water zal niet passeren,-
+//,//,
+Knatte.Corner2X.DisplayName,"Decoratieve hoek 
+Dubbele hoogte",-
+Knatte.Corner2X.Description,Laat de dijk een hoek hebben.,-
+Knatte.Corner2X.FlavorDescription,Blokkeert geen water,-
+//,//,
+Knatte.SQCorner2X.DisplayName,"Decoratieve vierkante hoek 
+Dubbele hoogte",-
+Knatte.SQCorner2X.Description,Laat de dijk een hoek hebben.,-
+Knatte.SQCorner2X.FlavorDescription,Blokkeert geen water,-
+//,//,
+Knatte.Diagonal2X.DisplayName,"Decoratieve diagonaal 
+Dubbele hoogte",-
+Knatte.Diagonal2X.Description,Laat de dijk naar de kant gaan.,-
+Knatte.Diagonal2X.FlavorDescription,Blokkeert geen water,-
+//,//,
+Knatte.InvCornerS2X.DisplayName,Decoratieve inverse hoek zijplatform dubbele hoogte,-
+Knatte.InvCornerS2X.Description,Laat de dijk naar de zijkant gaan en een platform hebben.,-
+Knatte.InvCornerS2X.FlavorDescription,Blokkeert geen water,-
+//,//,
+Knatte.InvCorner2X.DisplayName,"Decoratieve inverse hoek 
+Dubbele hoogte",-
+Knatte.InvCorner2X.Description,Laat de dijk een hoek hebben.,-
+Knatte.InvCorner2X.FlavorDescription,Blokkeert geen water,-
+//,//,
+Knatte.InvCornerW2X.DisplayName,"Dijk inverse hoek 
+Dubbele hoogte",-
+Knatte.InvCornerW2X.Description,Laat de dijk een hoek hebben.,-
+Knatte.InvCornerW2X.FlavorDescription,Water zal niet passeren,-
+//,//,
+Knatte.Slope2X.DisplayName,"Decoratieve helling 
+Dubbele hoogte",-
+Knatte.Slope2X.Description,Laat de dijk hellend zijn.,-
+Knatte.Slope2X.FlavorDescription,Blokkeert geen water,-
+//,//,
+Knatte.CornerSlope2X.DisplayName,"Decoratie hellinghoek 
+Dubbele hoogte",-
+Knatte.CornerSlope2X.Description,Laat de dijk een hoek hebben.,-
+Knatte.CornerSlope2X.FlavorDescription,Blokkeert geen water,-
+//,//,
+Knatte.Corner3X.DisplayName,"Decoratieve hoek 
+Drievoudige hoogte",-
+Knatte.Corner3X.Description,Laat de dijk een hoek hebben.,-
+Knatte.Corner3X.FlavorDescription,Blokkeert geen water,-
+//,//,
+Knatte.InvCorner3X.DisplayName,"Decoratieve inverse hoek 
+Drievoudige hoogte",-
+Knatte.InvCorner3X.Description,Laat de dijk een hoek hebben.,-
+Knatte.InvCorner3X.FlavorDescription,Blokkeert geen water,-
+//,//,
+Knatte.Slope3X.DisplayName,Decoratiehelling drievoudige hoogte,-
+Knatte.Slope3X.Description,Laat de dijk hellend zijn.,-
+Knatte.Slope3X.FlavorDescription,Blokkeert geen water,-
+//,//,
+Knatte.InvCornerW3X.DisplayName,Dijk inverse hoek drievoudige hoogte,-
+Knatte.InvCornerW3X.Description,Laat de dijk een hoek hebben.,-
+Knatte.InvCornerW3X.FlavorDescription,Water zal niet passeren,-
+//,//,
+Knatte.SlopeW_1.DisplayName,Dijk helling,
+Knatte.SlopeW_2.DisplayName,"Dijk helling 
+Dubbele hoogte",
+Knatte.SlopeW_3.DisplayName,"Dijk helling 
+Drievoudige hoogte",
+Knatte.SlopeW.Description,Helling die het water volledig blokkeert,
+Knatte.SlopeW.FlavorDescription,Water zal niet passeren,
+//,//,
+Knatte.SlopeS.DisplayName,Decoratieve trap,-
+Knatte.SlopeS.Description,Laat bevers over de dijk lopen.,-
+Knatte.SlopeS.FlavorDescription,Blokkeert geen water,-
+//,//,
+Knatte.DiagPath.DisplayName,Diagonaal pad,
+Knatte.DiagPath.Description,"Pad diagonaal op decoraties en dijken.
+Het neemt niet minder padlengte in beslag dan de normale weg, maar ziet er beter uit.",
+Knatte.DiagPath.FlavorDescription,"""Bever slalom"" —Een vrolijke bever",
+//,//,
+Knatte.ToolGroup.DecorationBlocks,Decoratieblokken,-
+//,//,
+Knatte.CategoryDamSQ.DisplayName,Houtdecoratie vierkant,
+Knatte.CategoryDam.DisplayName,Houten decoratie,-
+Knatte.CategoryDam.Des,Blokkeert geen water,-
+//,//,
+Knatte.CategoryLevees.DisplayName,Gevormde dijken,-
+Knatte.CategoryLeveesSQ.DisplayName,Vierkante dijken,-
+//,//,
+Knatte.CategoryDam2.DisplayName,Houten decoratie,-               Untranlsated
+Knatte.CategoryDam2.Des,Blokkeert geen water,-                      Untranlsated
+//,//,
+Knatte.DoubleInvSlope.DisplayName,Dubbele omgekeerde helling,                   
+Knatte.DoubleInvSlope.Description,Combinatie van dijk en omgekeerde helling,               
+Knatte.DoubleInvSlope.FlavorDescription,Laten we een brug bouwen,                   
+//,//,
+Knatte.Square1x2.DisplayName,Decoratief vierkant 1x2,                               
+Knatte.Square1x3.DisplayName,Decoratief vierkant 1x3,                               
+Knatte.Square_B.Description,Vierkant dat kan uitsteken maar het water niet blokkeert.,
+Knatte.Square_B.FlavorDescription,"Kijk, het drijft",                                             
+//,//,
+Knatte.InvSlope1x1.DisplayName,Omgekeerde helling 1x1,                              
+Knatte.InvSlope1x2.DisplayName,Omgekeerde helling 1x2,                              
+Knatte.InvSlope1x3.DisplayName,Omgekeerde helling 1x3,                              
+Knatte.InvSlope2x1.DisplayName,Omgekeerde helling 2x1,                              
+Knatte.InvSlope.Description,Vierkant dat kan uitsteken maar het water niet blokkeert.,
+Knatte.InvSlope.FlavorDescription,We gaan weg,
+//,//,
+Knatte.InvTrapezium1x1.DisplayName,Omgekeerd trapezium 1x1,
+//,//,
+Knatte.BlockDecoration.DisplaynameLocKey,Mooie dijk,                           Untranlsated
+Knatte.InvSlopeW1x1.DisplayName,Omgekeerde dijkhelling 1x1,
+Knatte.InvSlopeW1x2.DisplayName,Omgekeerde dijkhelling 1x2,
+Knatte.InvSlopeW1x3.DisplayName,Omgekeerde dijkhelling 1x3,
+Knatte.InvSlopeW2x1.DisplayName,Omgekeerde dijkhelling 2x1,
+Knatte.InvSlopeW.Description,"Vierkant dat kan uitsteken. 
+Plaats zeskantblokken, alle waterblokken, andere blokken alleen van boven/onder, zoals een ingebouwde ondoordringbare vloer",
+Knatte.InvSlopeW.FlavorDescription,We gaan weg,
+//,//,
+Knatte.InvTrapeziumW1x1.DisplayName,Omgekeerde trapeziumdijk 1x1,
+Knatte.DoubleInvSlopeW.Description,"Vierkant dat aan beide kanten uitsteekt. 
+Plaats zeskantblokken, alle waterblokken, andere blokken alleen van boven/onder, zoals een ingebouwde ondoordringbare vloer",
+Knatte.DoubleInvSlopeW.FlavorDescription,Laten we een brug bouwen,

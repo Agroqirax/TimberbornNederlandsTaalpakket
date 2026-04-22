@@ -1,0 +1,32 @@
+ID,Text,Comment
+Lapantouflemagic.Pitwarehouse.DisplayName,Put Pakhuis,-
+Lapantouflemagic.Pitwarehouse.Description,"Een opslagplaats met toegang van bovenaf, die in afgelegen hoeken past.",-
+Lapantouflemagic.Pitwarehouse.FlavorDescription,‘Laten we hopen dat de dingen onderaan niet rotten’,-
+Lapantouflemagic.Pitpile.DisplayName,Put Stapel,-
+Lapantouflemagic.Pitpile.Description,"Een opslagplaats met toegang van bovenaf, die in afgelegen hoeken past.",-
+Lapantouflemagic.Pitpile.FlavorDescription,"""Ik zou er gemakkelijk een lichaam in kunnen verstoppen""
+—Jack de Knager",-
+Lapantouflemagic.SCoveredtank.DisplayName,Klein overdekt Vat,-
+Lapantouflemagic.SCoveredtank.Description,"Een kleiner opslagvat, maar daar kan op gebouwd worden.",-
+Lapantouflemagic.Longwarehouse.DisplayName,Lang klein magazijn,-
+Lapantouflemagic.Longwarehouse.Description,Een iets langer magazijn om moeilijk bereikbare hoekjes op te vullen.,-
+Lapantouflemagic.Longwarehouse.FlavorDescription,"""Ik ben benieuwd met welke vreemde vormen het opslagcomité nu gaat komen""
+—Een houthakkersbever""",-
+Lapantouflemagic.2x2pile.DisplayName,Middelgrote stapel,-
+Lapantouflemagic.2x2pile.FlavorDescription,Het is belangrijk dat de boomstammen op de juiste manier wordt afgewisseld.,-
+Lapantouflemagic.Longpile.DisplayName,Lange kleine Stapel,-
+Lapantouflemagic.Longpile.Description,Een langwerpige kleine stapel om moeilijk bereikbare hoeken te gebruiken.,-
+Lapantouflemagic.Longpile.FlavorDescription,Eerlijk gezegd verwachtte ik een kronkelige opslag.,-
+Lapantouflemagic.PitTank.DisplayName,Put Vat,-
+Lapantouflemagic.PitTank.FlavorDescription,"Verlies de emmer niet, Hoomans voerde oorlogen voor zulke dingen.",-
+Lapantouflemagic.SCoveredtank.FlavorDescription,"Niet de beste manier om water op te slaan, maar het blijft in ieder geval schoon.",-
+Lapantouflemagic.GigargantuanPile.DisplayName,Gigantische opslagstapel,-
+Lapantouflemagic.GigargantuanWarehouse.DisplayName,Gigantisch Pakhuis,-
+Lapantouflemagic.GigargantuanStorage.Description,"Slaat een belachelijke hoeveelheid van één type grondstof op.
+<color=yellow>Vereist ladders voor toegang</color>
+De centrale 7x1-lijnen vereisen geen ondersteuning eronder.
+<color=#FF6EC7>De glazen ruiten bovenaan zijn vriendelijk geleverd door de </color><b>WhitePaws</b><color=#FF6EC7> als onderdeel van een zelfpromotiecampagne.</color>",-
+Lapantouflemagic.GigargantuanStorage.FlavorDescription,Hopelijk is dat geen radioactief glas...,-
+Lapantouflemagic.GigargantuanStorageWP.Description,"Slaat een belachelijke hoeveelheid van één type grondstof op.
+De centrale 7x1-lijnen vereisen geen ondersteuning eronder.",-
+Lapantouflemagic.GigargantuanStorageWP.FlavorDescription,Dacht je dat iemand je al dat glas gratis zou geven? Wie zou dat ooit doen?,-
