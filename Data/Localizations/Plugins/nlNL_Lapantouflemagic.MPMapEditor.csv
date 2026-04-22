@@ -1,0 +1,37 @@
+ID,Text,Comment
+MapMakerPlants.GiantSequoia.DisplayName,3x3 Mammoetboom,-
+MapMakerPlants.2X2treePlaceholder1.DisplayName,2x2 ??? boom,-
+MapMakerPlants.Brambles.DisplayName,Bramen,-
+MapMakerPlants.NewVineV.DisplayName,Wijnstokken (verticaal),-
+MapMakerPlants.NewVineH.DisplayName,Wijnstokken (horizontaal),-
+MapMakerPlants.Waterbamboo.DisplayName,2x2 W.bamboe,-
+MapMakerPlants.Baobab.DisplayName,5x5 Baobab,-
+MapMakerPlants.LemonTree.DisplayName,Citroenboom,-
+MapMakerPlants.PinkBirch.DisplayName,Everbloesem,-
+MapMakerPlants.RuinedPath.DisplayName,Verwoest pad,-
+MapMakerPlants.BrokenHouse.DisplayName,Gebroken huis (stammen),-
+MapMakerPlants.PlankRuin.DisplayName,Gebroken huis (planken),-
+NaturalResource.PinkBirch.DisplayName,Everbloesem,-
+Good.Pumpkin.DisplayName,Pompoen,-
+NaturalResource.Waterbamboo.DisplayName,Ongelooflijk hoge bamboe,-
+Lapantouflemagic.NewVineH.DisplayName,Wijnstok,-
+MapMakerPlants.CrystalSupport.Description,"Ondersteuning nodig om zwevende kristallen boven Z-niveau 1 te plaatsen.
+Zelf stapelbaar
+Zal onzichtbaar zijn en geen hitbox hebben tijdens het spelen",-
+MapMakerPlants.CrystalSupport.DisplayName,Kristalondersteuning,-
+MPME.FloatingRock.DisplayName,Zwevend kristal,-
+MPME.FloatingRock.Description,"Zweeft in de lucht om een luchteiland te ondersteunen
+Als je om onbegrijpelijke redenen ergens op moet rusten, gebruik dan de ondersteuning",-
+MPME.FloatingRock.FlavorDescription,"""Hoe werkt het?""
+Oh ? O, nu? Na al die jaren? Na al deze spellen? Nu vraag je MIJ hoe die werken?",-
+MapMakerPlants.GearsRuin.DisplayName,Kapot gebouw (tandwielen),-
+Building.SkyBadwaterSource.DisplayName,Hemel slechtwater-bron,-
+Building.SkyWaterSource.DisplayName,Hemel waterbron,-
+Building.VoidSinkHole.DisplayName,Zinkgat luchtblok,-
+Building.VoidSinkHole.Description,"Verwijdert visueel de grond eronder.
+Fungeert als een negatieve waterbron om water dat van de eilanden valt te verwijderen
+De vlag is niet zichtbaar in het spel",-
+MapMakerPlants.VoidTile.DisplayName,Hemel blok,-
+MapMakerPlants.VoidTile.Description,"Verwijdert visueel de grond eronder.
+Voor plekken waar je nooit water verwacht te zien.",-
+MapMakerPlants.VoidTileLarge.DisplayName,Hemelblok 9x9,-

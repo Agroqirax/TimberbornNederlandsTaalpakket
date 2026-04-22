@@ -1,0 +1,113 @@
+ID,Text,Comment
+TerrainTools.ToolGroupButton.Label,Extra terreinhulpmiddelen,Should be same as mod name
+TerrainTools.KeyBindingGroup.Label,Terrein gereedschap,Label for mod group in keybindings
+TerrainTools.Keybinding.Undo,Ongedaan maken,Undo keybinding name (CTRL Z)
+TerrainTools.Keybinding.FastUndo,Ongedaan maken x5,Fast Undo keybinding name (CTRL SHIFT Z)
+TerrainTools.Keybinding.Redo,Opnieuw uitvoeren,Redo keybinding name (CTRL Y)
+TerrainTools.Keybinding.FastRedo,Opnieuw uitvoeren x5,Fast Redo keybinding name (CTRL SHIFT Y)
+TerrainTools.Keybinding.CycleMode,Cyclusmodus,"Cycle Mode keybinding name, used by Mound Maker"
+TerrainTools.Keybinding.Selection.PosUp,Verplaats selectie omhoog,Selection Position Up keybinding name
+TerrainTools.Keybinding.Selection.PosDown,Verplaats selectie omlaag,Selection Position Down keybinding name
+TerrainTools.Keybinding.Selection.PosForward,Verplaats selectie naar voren,Selection Position Forward keybinding name
+TerrainTools.Keybinding.Selection.PosBack,Verplaats selectie terug,Selection Position Back keybinding name
+TerrainTools.Keybinding.Selection.PosLeft,Verplaats selectie naar links,Selection Position Left keybinding name
+TerrainTools.Keybinding.Selection.PosRight,Verplaats selectie naar rechts,Selection Position Right keybinding name
+TerrainTools.Keybinding.Selection.HeightUp,Verhoog de selectiehoogte,Selection Height Up keybinding name
+TerrainTools.Keybinding.Selection.HeightDown,Verlaag de selectiehoogte,Selection Height Down keybinding name
+TerrainTools.Keybinding.Selection.Copy,Kopieer selectie,Selection Copy keybinding name
+TerrainTools.Keybinding.Selection.Cut,Knip selectie,Selection Cut keybinding name
+TerrainTools.Keybinding.Selection.Paste,Plak selectie,Selection Paste keybinding name
+TerrainTools.Keybinding.Selection.RotateCW,Roteer selectie rechtsom,Selection Rotate Clockwise keybinding name
+TerrainTools.Keybinding.Selection.RotateCCW,Roteer selectie linksom,Selection Rotate Counter-Clockwise keybinding name
+TerrainTools.Keybinding.Selection.Flip,Spiegel selectie,Selection Flip along axis facing camera keybinding name
+TerrainTools.Keybinding.Selection.Reset,Reset selectie,Selection Reset keybinding name
+TerrainTools.Common.Button.Apply,Toepassen,Generic button to apply currently selected tool and options to the terrain
+TerrainTools.Common.Button.Reset,Opnieuw instellen,Generic button to reset the options in the selected tool
+TerrainTools.Heightmap.Tool.Title,Hoogtekaartgenerator,Title of the tool
+TerrainTools.Heightmap.Tool.Warning,Wijzigingen hebben invloed op de hele kaart,"Warning that the tool has a global effect, displayed just above the toolbar in orange"
+TerrainTools.Heightmap.Button.Generate,Genereer,Generate button label
+TerrainTools.Heightmap.Checkbox.ClearObjects,Wis bestaande objecten,Checkbox label for clearing existing objects on or off
+TerrainTools.Heightmap.Generate.Hint,Klik op {0} om het terrein bij te werken.,"{0} contains the name of the generate button in bold, text is italicised"
+TerrainTools.Heightmap.Generate.Warning,{0} wordt verwijderd. Deze actie kan niet ongedaan worden gemaakt.,{0} contains the text from Clear.WaterSourcesOnly or Clear.All
+TerrainTools.Heightmap.Clear.WaterSourcesOnly,Alle waterbronnen,"Text displayed when in mode: clear all objects, text will be highlighted by colour"
+TerrainTools.Heightmap.Clear.All,Alle objecten,"Text displayed when in mode: clear water sources only, text will be highlighted by colour"
+TerrainTools.Heightmap.Status.Idle,Inactief,"Status text when not generating map, keep short"
+TerrainTools.Heightmap.Status.Generating,Genereren,"Status text when generating map, keep short, is follow by percentage of map generated"
+TerrainTools.Heightmap.Seed.Label,Zaad,"Label of the Seed editable field, keep same length as Seed.Lock.Label if possible"
+TerrainTools.Heightmap.Seed.Lock.Label,Slot,"Label of the checkbox to lock the seed field from editing, keep same length as Seed.Label if possible"
+TerrainTools.Heightmap.Slider.LOD,Detailniveau,Label for slider controlling how much surface detail the generator will create
+TerrainTools.Heightmap.Slider.Amplitude,Amplitude,Label for slider controlling the amplitude of the noise function i.e. how high/low the hills/valleys are
+TerrainTools.Heightmap.Slider.Frequency,Frequentie,Label for slider controlling the frequency of the noise function i.e. how many hills/valleys there are
+TerrainTools.Heightmap.Slider.Crest,Vorm van een kuif,"Label for curve slider adjusting the shape of the upper half of the noise, i.e. mountain crest"
+TerrainTools.Heightmap.Slider.Base,Basisvorm,"Label for curve slider adjusting the shape of the lower half of the noise, i.e. mountain base"
+TerrainTools.Heightmap.Slider.Mean,Gemiddelde hoogte,Label for slider controlling the mean height
+TerrainTools.Heightmap.Slider.Min,Minimale hoogte,Label for slider controlling the min height
+TerrainTools.Heightmap.Slider.Max,Maximale hoogte,Label for slider controlling the max height
+TerrainTools.Heightmap.Slider.PeriodX,Periode X,Label for slider controlling noise period in the X direction
+TerrainTools.Heightmap.Slider.PeriodY,Periode Y,Label for sldier controllion noise period in the Y direction
+TerrainTools.PathPainter.Tool.Title,Pad schilder,Title of the tool
+TerrainTools.PathPainter.Tool.Description,Pas het terrein aan met behulp van lijnen,"Description of the tool, the tool lets you draw lines and adjust terrain along it, keep short and sweet"
+TerrainTools.PathPainter.Tip.AddMove,{0} = Punten toevoegen of verplaatsen,"Keybind Tip, {0} is replaced with the keybind for the respective"
+TerrainTools.PathPainter.Tip.DeleteHovered,{0} = Verwijder het zwevende punt,"Keybind Tip, {0} is replaced with the keybind for the respective"
+TerrainTools.PathPainter.Tip.DeleteMultiple,{0} (vasthouden) = Punten verwijderen,"Keybind Tip, {0} is replaced with the keybind for the respective, key must be held to get the described effect"
+TerrainTools.PathPainter.Curve.Button.Line,Lijn,Text on button for entering mode to draw straight lines
+TerrainTools.PathPainter.Curve.Button.3Points,3 punten,Text on button for entering mode to draw curves based on 3 points (2nd order Bezier curve)
+TerrainTools.PathPainter.Curve.Button.4Points,4 punten,Text on button for entering mode to draw curves based on 4 points (3rd order Bezier curve)
+TerrainTools.PathPainter.Curve.Button.Continuous,Continu,Text on button for entering mode to draw a curve passing through all points (Catmul-Rom Spline)
+TerrainTools.PathPainter.Curve.Toggle.SingleSegment,Enkel segment,When toggle is checked user can only draw one single line segment (based on current mode)
+TerrainTools.PathPainter.Curve.Toggle.DrawEndCaps,Gladde uiteinden,When toggle is checked line endings will be smoothed out
+TerrainTools.PathPainter.Curve.Slider.Distance,Afstand,Distance from line to paint terrain on
+TerrainTools.PathPainter.ToggleText.Symmetry,Symmetrie,"Single word, if toggle is enabled left and right side will be identical"
+TerrainTools.PathPainter.ToggleText.Symmetry.On,Ingeschakeld,"Single word, matched with ToggleText.Symmetry to represent the On state"
+TerrainTools.PathPainter.ToggleText.Symmetry.Off,Gehandicapt,"Single word, matched with ToggleText.Symmetry to represent the Off state"
+TerrainTools.PathPainter.Button.ClearAll,Duidelijk pad,"Clears all points, path is in reference to the tool name"
+TerrainTools.Smoothing.Tool.Title,Gladmakende borstel,Title of the tool
+TerrainTools.Smoothing.Slider.Brush.Size,Penseelgrootte,Size of the brush
+TerrainTools.Smoothing.Slider.Sample.Size,Steekproefgrootte,"Sample size of the brush, used for controlling how far to go when smoothing"
+TerrainTools.Smoothing.Slider.Force,Kracht,How strong the brush should smooth the terrain
+TerrainTools.Smoothing.ToggleGroup.Shape,Borstelvorm,Label for the toggle group controlling the shape of the brush
+TerrainTools.Smoothing.Shape.Square,Vierkant,Option for a square shaped brush
+TerrainTools.Smoothing.Shape.Circle,Cirkel,Option for a circular shaped brush
+TerrainTools.MoundMaker.Tool.Title,Heuvelmaker,Title fo the tool
+TerrainTools.MoundMaker.Hint.CycleSeed,{0} = Cycluszaad,"Hint text for keybind to change the seed, {0} is replaced by actual keybind"
+TerrainTools.MoundMaker.Hint.DigMode,{0} (vasthouden) = Jij-modus,"Hint text for keybind to enter digging mode, when held, {0} is replaced by actual keybind"
+TerrainTools.MoundMaker.Header.Shape,Vorm,Header label for Shape category of sliders
+TerrainTools.MoundMaker.Slider.PeakHeight,Piekhoogte,Label for slider controlling the height of the peak
+TerrainTools.MoundMaker.Slider.MaxChange,Maximale verandering,Label for slider controlling the maximum adjustment allowed
+TerrainTools.MoundMaker.Header.RadialNoise,Radiale ruis,Header label for Radial Noise category of sliders
+TerrainTools.MoundMaker.Slider.Radial.Scale,Schaal,"Label for slider controlling radial noise scale, value in percentage"
+TerrainTools.MoundMaker.Slider.Radial.Frequency,Frequentie,Label for slider controlling radial noise frequency
+TerrainTools.MoundMaker.Slider.Radial.Detail,Detail,Label for slider controlling radial noise level of detail
+TerrainTools.MoundMaker.Header.VerticalNoise,Verticale ruis,Header label for Vertical Noise category of sliders
+TerrainTools.MoundMaker.Slider.Vertical.Amplitude,Amplitude,"Label for slider controlling vertical noise amplitude, value in distance units"
+TerrainTools.MoundMaker.Slider.Vertical.Frequency,Frequentie,Label for slider controlling vertical noise frequency
+TerrainTools.MoundMaker.Slider.Vertical.Detail,Detail,Label for slider controlling vertical noise level of detail
+TerrainTools.MoundMaker.Checkbox.Randomize,Willekeurig,Label for checkbox controlling auto-randomization of the seed
+TerrainTools.MoundMaker.Seed.Label,Zaad,Label for seed display
+TerrainTools.CloneTool.Title,Selectie-editor,Title of the tool
+TerrainTools.CloneTool.Description,"Kopiëren, knippen, roteren, spiegelen en plakken","Description of the tool. The tool lets the user select, copy/cut, rotate and flip and paste in new position"
+TerrainTools.CloneTool.InputGroup.Select,Selecteer gebied,Label for input group describing selection action
+TerrainTools.CloneTool.InputGroup.Cancel,Annuleren,Label for input group describing cancel action
+TerrainTools.CloneTool.InputGroup.HeightSelect,Selecteer hoogte,Label for input group describing height selection
+TerrainTools.CloneTool.InputGroup.Confirm,Bevestigen,Label for input group describing confirm action
+TerrainTools.CloneTool.InputGroup.MoveSelection,Beweging,Label for input group describing moving the selection
+TerrainTools.CloneTool.InputGroup.Cut,Snee,Label for input group describing cut action
+TerrainTools.CloneTool.InputGroup.Copy,Kopiëren,Label for input group describing copy action
+TerrainTools.CloneTool.InputGroup.Paste,Plakken,Label for input group describing paste action
+TerrainTools.CloneTool.InputGroup.Rotate,Draaien,Label for input group describing rotate action
+TerrainTools.CloneTool.InputGroup.Flip,Omdraaien,Label for input group describing flip action
+TerrainTools.CloneTool.InputGroup.PositionTrim,Trimpositie,Label for input group describing position trim
+TerrainTools.CloneTool.InputGroup.HeightTrim,Trimhoogte,Label for input group describing height trim
+TerrainTools.CloneTool.InputGroup.Reset,Opnieuw instellen,Label for input group describing reset action
+TerrainTools.CloneTool.InputDesciption.LeftClick,Klik met de linkermuisknop,Description for left mouse click action
+TerrainTools.CloneTool.InputDesciption.RightClick,Klik met de rechtermuisknop,Description for right mouse click action
+TerrainTools.CloneTool.InputDesciption.ClickAndDrag,Klik en sleep,Description for click and drag action
+TerrainTools.CloneTool.InputDesciption.MouseScroll,Muis scrollen,Description for mouse scroll action
+TerrainTools.CloneTool.InputDesciption.Hold,Uitstel,Description for hold action
+TerrainTools.CloneTool.ToolTip.Start,Basis selecteren,Tooltip for the Start phase of the Clone Tool
+TerrainTools.CloneTool.ToolTip.Base,Basis selecteren,Tooltip for the Base phase of the Clone Tool
+TerrainTools.CloneTool.ToolTip.Height,Selecteer hoogte,Tooltip for the Height phase of the Clone Tool
+TerrainTools.CloneTool.ToolTip.MoveApply,Selectie voltooid,Tooltip for the MoveApply phase of the Clone Tool
+TerrainTools.CloneTool.Error.NoText,Fout - Geen tekst,Fallback tooltip when no text is available
+TerrainTools.CloneTool.Option.IncludeAirBlocks,Kopieer lege blokken,Label for toggle to include air blocks in selection
+TerrainTools.CloneTool.Option.IncludeStackedBlocks,Kopieer gestapelde objecten,Label for toggle to include stacked blocks in selection

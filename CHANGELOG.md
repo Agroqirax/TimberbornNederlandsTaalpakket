@@ -1,10 +1,11 @@
 # Changelog
 
-## [0.1.13] - 2026-04-21
+## [0.1.13] - 2026-04-22
 
 ### Changed
 
 - Mods bijgewerkt
+- Verouderde mods verwijdert
 
 ## [0.1.12] - 2026-04-20
 

@@ -1,0 +1,277 @@
+ID,Text,Comment
+IgorZ.Automation.CancelTool.Description,Gebruik deze tool om eventuele automatisering op de gebouwen of bouwplaatsen op te ruimen.,
+IgorZ.Automation.CancelTool.Title,Automatisering annuleren,
+IgorZ.Automation.EnableRulesTool.Description,Gebruik deze sjabloon om alle regels voor het gebouw in te schakelen,
+IgorZ.Automation.EnableRulesTool.Title,Regels voor het gebouw inschakelen,
+IgorZ.Automation.CheckAccessBlockCondition.Blocking.Description,<YellowHighlight>blokkeert pad</YellowHighlight>,
+IgorZ.Automation.CheckAccessBlockCondition.NotBlocking.Description,<YellowHighlight>blokkeert het pad niet</YellowHighlight>,
+IgorZ.Automation.CheckAccessBlockCondition.NotYetReachable,"Bouwers kunnen het nog niet bereiken, maar er wordt een pad aangelegd",
+IgorZ.Automation.CheckAccessBlockCondition.UnreachableAlert,Onbereikbare bouwplaats,
+IgorZ.Automation.CheckAccessBlockCondition.UnreachableStatus,De bouwers kunnen de weg naar deze site niet vinden. Misschien kan hier niets gebouwd worden,
+IgorZ.Automation.DebugPickTool.Description,Toont componenten van het geselecteerde object.,
+IgorZ.Automation.DebugPickTool.DescriptionHint1,Houd <i>SHIFT</i> ingedrukt om Toegankelijk af te drukken.,
+IgorZ.Automation.DebugPickTool.DescriptionHint2,Houd <i>CTRL</i> ingedrukt om NavMesh-randen af ​​te drukken.,
+IgorZ.Automation.DebugPickTool.Title,Debug-tool,
+IgorZ.Automation.DisableRulesTool.Title,Schakel regels voor het gebouw uit,
+IgorZ.Automation.DisableRulesTool.Description,Gebruik deze sjabloon om alle regels voor het gebouw uit te schakelen,
+IgorZ.Automation.ShowStatusAction.AutomationErrorAlert,Automatiseringsfout,
+IgorZ.Automation.ShowStatusAction.AutomationErrorDescription,Sommige automatiseringsregels kunnen niet worden uitgevoerd,
+IgorZ.Automation.ShowStatusAction.HoldCompletionStatusText,Wachten tot de andere gebouwen klaar zijn,
+IgorZ.Automation.ShowStatusAction.HoldConstruction,<YellowHighlight>voltooiing vasthouden</YellowHighlight>,
+IgorZ.Automation.ShowStatusAction.ResumeConstruction,<YellowHighlight>hervat het bouwen</YellowHighlight>,
+IgorZ.Automation.Tool.tmpl.2LevelsDynamite.DisplayName,Ontplof dynamiet 2 keer,
+IgorZ.Automation.Tool.tmpl.3LevelsDynamite.DisplayName,Ontplof dynamiet 3 keer,
+IgorZ.Automation.Tool.tmpl.4LevelsDynamite.DisplayName,Ontplof dynamiet 4 keer,
+IgorZ.Automation.Tool.tmpl.5LevelsDynamite.DisplayName,Ontplof dynamiet 5 keer,
+IgorZ.Automation.Tool.tmpl.6LevelsDynamite.DisplayName,Ontplof dynamiet 6 keer,
+IgorZ.Automation.Tool.tmpl.RunIf1PlusCollectables.DisplayName,Actief als er verzamelobjecten zijn,
+IgorZ.Automation.Tool.tmpl.RunIf2PlusCollectables.DisplayName,Actief als er 2 of meer verzamelvoorwerpen zijn,
+IgorZ.Automation.Tool.tmpl.RunIf3PlusCollectables.DisplayName,Actief als er 3 of meer verzamelvoorwerpen zijn,
+IgorZ.Automation.Tool.tmpl.RunIf4PlusCollectables.DisplayName,Actief als er 4 of meer verzamelvoorwerpen zijn,
+IgorZ.Automation.Tool.tmpl.RunIf5PlusCollectables.DisplayName,Actief als er 5 of meer verzamelvoorwerpen zijn,
+IgorZ.Automation.Tool.tmpl.HasCollectables.Description,"Pas dit sjabloon toe op gebouwen die actief moeten zijn, zolang er in de buurt van het gebouw knipbare of verzamelbare voorwerpen zijn die kunnen worden verzameld.",
+IgorZ.Automation.Tool.tmpl.BadtideCloseFloodgate.Description,Pas dit sjabloon toe op sluizen die moeten sluiten als het tij begint.,
+IgorZ.Automation.Tool.tmpl.BadtideCloseFloodgate.DisplayName,Sluit de sluisdeur bij slecht tij,
+IgorZ.Automation.Tool.tmpl.BadtideOpenFloodgate.Description,Pas dit sjabloon toe op sluizen die open moeten als het tij begint.,
+IgorZ.Automation.Tool.tmpl.BadtideOpenFloodgate.DisplayName,Open de sluisdeur bij slecht tij,
+IgorZ.Automation.Tool.tmpl.BadtidePause.Description,Pas dit sjabloon toe op gebouwen die tijdens slechte getijden gepauzeerd moeten blijven.,
+IgorZ.Automation.Tool.tmpl.BadtidePause.DisplayName,Pauzeer tijdens slechtwatervloede,
+IgorZ.Automation.Tool.tmpl.BeaversAtMax.Description,Pas dit sjabloon toe op gebouwen die moeten blijven functioneren zolang er onbezette bedden zijn.,
+IgorZ.Automation.Tool.tmpl.BeaversAtMax.DisplayName,Actief totdat de beverpopulatie maximaal is,
+IgorZ.Automation.Tool.tmpl.BeaversAtMinus10.Description,Pas dit sjabloon toe op gebouwen die gepauzeerd moeten blijven totdat de beverpopulatie 10 bevers onder het huidige niveau zakt.,
+IgorZ.Automation.Tool.tmpl.BeaversAtMinus10.DisplayName,Beverpopulatie -10,
+IgorZ.Automation.Tool.tmpl.BeaversAtMinus20.Description,Pas dit sjabloon toe op gebouwen die gepauzeerd moeten blijven totdat de beverpopulatie 20 bevers onder het huidige niveau zakt.,
+IgorZ.Automation.Tool.tmpl.BeaversAtMinus20.DisplayName,Beverpopulatie -20,
+IgorZ.Automation.Tool.tmpl.BeaversAtPlus10.Description,Pas dit sjabloon toe op gebouwen die in bedrijf moeten zijn totdat de beverpopulatie het huidige niveau met 10 bevers overschrijdt.,
+IgorZ.Automation.Tool.tmpl.BeaversAtPlus10.DisplayName,Beverpopulatie +10,
+IgorZ.Automation.Tool.tmpl.BeaversAtPlus20.Description,Pas dit sjabloon toe op gebouwen die in bedrijf moeten zijn totdat de beverpopulatie het huidige niveau met 20 bevers overschrijdt.,
+IgorZ.Automation.Tool.tmpl.BeaversAtPlus20.DisplayName,Beverpopulatie +20,
+IgorZ.Automation.Tool.tmpl.BotsAtMinus10.Description,Pas dit sjabloon toe op gebouwen die gepauzeerd moeten blijven totdat de botpopulatie 10 bots onder het huidige niveau zakt.,
+IgorZ.Automation.Tool.tmpl.BotsAtMinus10.DisplayName,Botpopulatie -10,
+IgorZ.Automation.Tool.tmpl.BotsAtMinus20.Description,Pas dit sjabloon toe op gebouwen die gepauzeerd moeten blijven totdat de botpopulatie 20 bots onder het huidige niveau zakt.,
+IgorZ.Automation.Tool.tmpl.BotsAtMinus20.DisplayName,Botpopulatie -20,
+IgorZ.Automation.Tool.tmpl.BotsAtPlus10.Description,Pas dit sjabloon toe op gebouwen die in bedrijf moeten zijn totdat de botpopulatie het huidige niveau met 10 bots overschrijdt.,
+IgorZ.Automation.Tool.tmpl.BotsAtPlus10.DisplayName,Botpopulatie +10,
+IgorZ.Automation.Tool.tmpl.BotsAtPlus20.Description,Pas dit sjabloon toe op gebouwen die in bedrijf moeten zijn totdat de botpopulatie het huidige niveau met 20 bots overschrijdt.,
+IgorZ.Automation.Tool.tmpl.BotsAtPlus20.DisplayName,Botpopulatie +20,
+IgorZ.Automation.Tool.tmpl.ChainedBuildings.Description,"Pas deze sjabloon toe op bouwplaatsen die de paden van bouwers kunnen blokkeren. Opmerking: resultaten zijn niet gegarandeerd, vooral als gebouwen zich niet op hetzelfde niveau bevinden.",
+IgorZ.Automation.Tool.tmpl.ChainedBuildings.DisplayName,Blokkeer bouwers niet,
+IgorZ.Automation.Tool.tmpl.ConstructionCompleteNotice.DisplayName,Bouw volledige aankondiging,
+IgorZ.Automation.Tool.tmpl.ConstructionCompleteNotice.Description,Pas dit sjabloon toe op bouwplaatsen om een ​​melding te krijgen wanneer de bouw voltooid is.,
+IgorZ.Automation.Tool.tmpl.ConstructionCompleteNotice.StatusText,Bouw voltooid. Wis de regel om de melding te verwijderen.,
+IgorZ.Automation.Tool.tmpl.ConstructionCompleteNotice.AlertText,Bouw voltooid,
+IgorZ.Automation.Tool.tmpl.DroughtCloseFloodgate.Description,Pas dit sjabloon toe op sluizen die moeten sluiten als de droogte begint.,
+IgorZ.Automation.Tool.tmpl.DroughtCloseFloodgate.DisplayName,Sluit de sluisdeur bij het begin van de droogte,
+IgorZ.Automation.Tool.tmpl.DroughtOpenFloodgate.Description,Pas dit sjabloon toe op sluizen die open moeten gaan als de droogte begint.,
+IgorZ.Automation.Tool.tmpl.DroughtOpenFloodgate.DisplayName,Open de sluisdeur bij het begin van de droogte,
+IgorZ.Automation.Tool.tmpl.DroughtOpenFlowControl.Description,Pas dit sjabloon toe op gebouwen die de waterstroom regelen (zoals <YellowHighlight>Slechtwater Koepel</YellowHighlight> of <YellowHighlight>Sluis</YellowHighlight>) om ze open te houden tijdens droogtes.,
+IgorZ.Automation.Tool.tmpl.DroughtOpenFlowControl.DisplayName,Open waterstroomcontrole tijdens droogte,
+IgorZ.Automation.Tool.tmpl.DroughtPause.Description,Pas dit sjabloon toe op gebouwen die tijdens droogtes gepauzeerd moeten blijven.,
+IgorZ.Automation.Tool.tmpl.DroughtPause.DisplayName,Pauzeer tijdens droogte,
+IgorZ.Automation.Tool.tmpl.DynamiteNow.Description,Laat het dynamiet automatisch tot ontploffing komen wanneer de constructie voltooid is. Dit sjabloon kan ook op een voltooid dynamiet worden toegepast.,
+IgorZ.Automation.Tool.tmpl.DynamiteNow.DisplayName,Laat het dynamiet nu exploderen,
+IgorZ.Automation.Tool.tmpl.EmitSelectedGood.Description,Pas dit sjabloon toe op gebouwen die een signaal moeten afgeven van de geselecteerde goede hoeveelheid in de opslag. Het signaal kan worden gebruikt in omstandigheden op de andere gebouwen.,
+IgorZ.Automation.Tool.tmpl.EmitSelectedGood.DisplayName,Geselecteerd goed signaal uitzenden,
+IgorZ.Automation.Tool.tmpl.EmptyAt50pct.DisplayName,Leeg de opslag als de capaciteit hoger is dan 50%,
+IgorZ.Automation.Tool.tmpl.EmptyAt60pct.DisplayName,Leeg de opslag als de capaciteit hoger is dan 60%,
+IgorZ.Automation.Tool.tmpl.EmptyAt70pct.DisplayName,Maak de opslag leeg als de capaciteit hoger is dan 70%,
+IgorZ.Automation.Tool.tmpl.EmptyAt80pct.DisplayName,Maak de opslag leeg als de capaciteit hoger is dan 80%,
+IgorZ.Automation.Tool.tmpl.EmptyAt90pct.DisplayName,Maak de opslag leeg als de capaciteit hoger is dan 90%,
+IgorZ.Automation.Tool.tmpl.EmptyAtXpct.Description,"Dit sjabloon kan worden toegepast op gebouwen die goederen produceren en geen inputvoorraad hebben. Als het <i>output</i> voorraadniveau de vooraf bepaalde drempel overschrijdt, gaat het gebouw over in een 'lege' modus, waardoor een snelle afvoer van goederen mogelijk wordt.",
+IgorZ.Automation.Tool.tmpl.FloodgateGroup.Description,Pas dit sjabloon toe op sluizen om de hoogte ervan synchroon te regelen.,
+IgorZ.Automation.Tool.tmpl.FloodgateGroup.DisplayName,Floodgate-groep,
+IgorZ.Automation.Tool.tmpl.PauseConstruction.Description,Pas dit sjabloon toe op bouwplaatsen die moeten worden onderbroken zodra de bouwvoortgang 100% bereikt.,
+IgorZ.Automation.Tool.tmpl.PauseConstruction.DisplayName,Pauzeer de bouw,
+IgorZ.Automation.Tool.tmpl.RunIfCanPlan.Description,"Pas dit sjabloon toe op gebouwen die in bedrijf moeten zijn, zolang er beplantingsplekken in de omgeving van het gebouw zijn.",
+IgorZ.Automation.Tool.tmpl.RunIfCanPlan.DisplayName,Actief als er iets geplant kan worden,
+IgorZ.Automation.Tool.tmpl.PrioritizeByHaulers.Description,Pas dit sjabloon toe op gebouwen die prioriteit moeten krijgen van vervoerders zodra de constructie voltooid is.,
+IgorZ.Automation.Tool.tmpl.PrioritizeByHaulers.DisplayName,Prioriteit geven aan vervoerders,
+IgorZ.Automation.Tool.tmpl.StreamGauge.Description,Pas dit sjabloon toe op stroommeters die een signaal moeten afgeven over de huidige waterconditie. De signalen kunnen worden gebruikt in omstandigheden op de andere gebouwen.,
+IgorZ.Automation.Tool.tmpl.StreamGauge.DisplayName,Stroommetersignaal,
+IgorZ.Automation.Tool.tmpl.TemperateCloseFloodgate.Description,Pas dit sjabloon toe op sluizen die moeten sluiten wanneer het gematigde seizoen begint.,
+IgorZ.Automation.Tool.tmpl.TemperateCloseFloodgate.DisplayName,Sluit de sluisdeur bij starten bij gematigd weer,
+IgorZ.Automation.Tool.tmpl.TemperateOpenFloodgate.Description,Pas dit sjabloon toe op sluizen die open moeten als het gematigde seizoen begint.,
+IgorZ.Automation.Tool.tmpl.TemperateOpenFloodgate.DisplayName,Open de sluisdeur bij starten bij gematigd weer,
+IgorZ.Automation.Tool.tmpl.TemperatePause.Description,Pas dit sjabloon toe op gebouwen die tijdens gematigd weer gepauzeerd moeten blijven.,
+IgorZ.Automation.Tool.tmpl.TemperatePause.DisplayName,Pauzeer tijdens gematigd weer,
+IgorZ.Automation.Tool.tmpl.TemperateSemiOpenFloodgate.Description,"Pas dit sjabloon toe op sluizen die 0,5 m van hun maximale hoogte moeten openen wanneer het gematigde seizoen begint.",
+IgorZ.Automation.Tool.tmpl.TemperateSemiOpenFloodgate.DisplayName,Bij gematigd weer de sluisdeur iets openen,
+IgorZ.Automation.Tool.tmpl.XLevelsDynamite.Description,"Dit sjabloon kan worden toegepast op dynamiet, ongeacht of het klaar is of nog in aanbouw is. Na voltooiing zal het dynamiet automatisch tot ontploffing komen en zal er een nieuwe dynamietblauwdruk worden geplaatst om dieper te graven.",
+IgorZ.Automation.ToolGroup.Main.DisplayName,Automatisering instellen,
+IgorZ.Automation.ToolGroup.Planting.DisplayName,Regels voor het planten en verzamelen,
+IgorZ.Automation.ToolGroup.Population.DisplayName,Bevolkingsgerelateerde regels,
+IgorZ.Automation.ToolGroup.Power.DisplayName,Energiegerelateerde regels,
+IgorZ.Automation.ToolGroup.Signals.DisplayName,Signaalgerelateerde regels,
+IgorZ.Automation.ToolGroup.Storage.DisplayName,Regels met betrekking tot opslag,
+IgorZ.Automation.ToolGroup.Terrain.DisplayName,Terrein veranderende regels,
+IgorZ.Automation.ToolGroup.Water.DisplayName,Weergerelateerde regels,
+=,=,Scripting engine strings
+IgorZ.Automation.Scripting.Error.ValueOutOfRange,FOUT: Waarde buiten bereik,Localizable generic message for the related exception
+IgorZ.Automation.Scripting.Error.DivisionByZero,FOUT: Delen door nul,Localizable generic message for the related exception
+IgorZ.Automation.Scripting.Error.BadValue,FOUT: Slechte waarde,Localizable generic message for the related exception
+IgorZ.Automation.Scripting.Error.InternalError,FOUT: Interne fout,Localizable generic message for the related exception
+IgorZ.Automation.Scripting.Error.StackOverflow,FOUT: Stack overflow,Localizable generic message for the related exception
+=,=,UI fragment strings
+IgorZ.Automation.AutomationFragment.AndMoreRow,...en nog {0} regels...,Indicates that there are more rules that are not shown in the panel
+IgorZ.Automation.AutomationFragment.BuildingSignalSource,{0} ({1}),"String that represents the source signal user-friendly, and it's current value"
+IgorZ.Automation.AutomationFragment.ClearRulesBtnHint,Wis alle regels,
+IgorZ.Automation.AutomationFragment.ClearSignalsBtnHint,Wis alle signaaltoewijzingen,
+IgorZ.Automation.AutomationFragment.CopyRulesBtnHint,Kopieer regels naar een ander gebouw,
+IgorZ.Automation.AutomationFragment.CopySignalsBtnHint,Kopieer signaaltoewijzingen naar een ander gebouw,
+IgorZ.Automation.AutomationFragment.ExportRulesBtnHint,Exporteer regels en signalen als tekst,
+IgorZ.Automation.AutomationFragment.ImportRulesBtnHint,Importeer regels en signalen uit tekst,
+IgorZ.Automation.AutomationFragment.RuleActionText,Dan {0},
+IgorZ.Automation.AutomationFragment.RuleConditionText,"Als {0},",
+IgorZ.Automation.AutomationFragment.RulesCountText,Regels: {0},
+IgorZ.Automation.AutomationFragment.SetupRulesBtnHint,Regels instellen,
+IgorZ.Automation.AutomationFragment.SetupSignalsBtnHint,Stel signalen op die zichtbaar zijn voor de andere gebouwen,
+IgorZ.Automation.AutomationFragment.SignalsCountText,Signalen: {0}/{1},
+IgorZ.Automation.Tool.CopyRules.Text,Kopieer {0} regels,
+IgorZ.Automation.Tool.CopyRules.Title,Kopieer automatiseringsregels,
+=,=,Scriptable components strings
+IgorZ.Automation.Scriptable.Automator.Signal.State,automatisering signaal,Name of the condition for the automator state checking
+IgorZ.Automation.Scriptable.Collectable.Signal.CollectableReady,klaar voor verzameling,Name of the condition for the number of cuttable or gatherable items ready to be collected
+IgorZ.Automation.Scriptable.Constructable.Signal.Progress,voortgang van de bouw,Name of the condition for the construction progress checking
+IgorZ.Automation.Scriptable.Constructable.Signal.State,bouw staat,Name of the condition for the construction state checking
+IgorZ.Automation.Scriptable.Constructable.Signal.State.Finished,Afgerond,State name for when the building construction is complete
+IgorZ.Automation.Scriptable.Debug.Action.LogNum,schrijf een nummer naar logs: {0},Name of the action that write to the log an arbitrary number or a result of computation
+IgorZ.Automation.Scriptable.Debug.Action.LogStr,schrijf een tekenreeks naar logboeken: '{0}',Name of the action that write to the log an arbitrary string
+IgorZ.Automation.Scriptable.Debug.Action.Log,schrijf naar logboeken: '{0}',Name of the action that write to the log a formatted string
+IgorZ.Automation.Scriptable.Debug.Signal.Ticker,ticker,Name of the condition that returns the current tick number
+IgorZ.Automation.Scriptable.District.Signal.Beavers,bevers in de wijk,Name of the condition for the current beaver population checking
+IgorZ.Automation.Scriptable.District.Signal.Bots,bots in de wijk,Name of the condition for the current bot population checking
+IgorZ.Automation.Scriptable.District.Signal.NumberOfBeds,bedden in de wijk,Name of the condition for the current number of beds checking
+IgorZ.Automation.Scriptable.District.Signal.ResourceCapacity,districtscapaciteit: {0},Name of the condition that returns the current district stock output capacity of the specified good
+IgorZ.Automation.Scriptable.District.Signal.ResourceStock,districtsvoorraad: {0},Name of the condition that returns the current district stock output of the specified good
+IgorZ.Automation.Scriptable.Dynamite.Action.Detonate,dynamiet tot ontploffing brengen,Name of the action that immediately detonates the dynamite
+IgorZ.Automation.Scriptable.Dynamite.Action.DetonateAndRepeat,laat dynamiet tot ontploffing komen en voeg nog eens <GreenHighlight>{0} keer</GreenHighlight> toe,Name of the action that detonates the dynamite and places new dynamites the specified number of times
+IgorZ.Automation.Scriptable.Floodgate.Action.SetHeight,stel de poorthoogte in op {0},Change the floodgate height to the specified value
+IgorZ.Automation.Scriptable.Floodgate.Signal.Height,hoogte van de sluisdeur,Name of the condition for the floodgate height checking
+IgorZ.Automation.Scriptable.FlowControl.Action.Close,stroom uitschakelen,Name of the action that closes the water flow through the building
+IgorZ.Automation.Scriptable.FlowControl.Action.Open,stroom inschakelen,Name of the action that opens the water flow through the building
+IgorZ.Automation.Scriptable.Inventory.Action.EmptyingStatus,De opslag wordt met voorrang leeggemaakt.,
+IgorZ.Automation.Scriptable.Inventory.Action.StartEmptyingStock,begin met het leegmaken van de opslag,Name of the action that starts emptying the storage
+IgorZ.Automation.Scriptable.Inventory.Action.StopEmptyingStock,stop met het legen van de opslag,Name of the action that stops emptying the storage
+IgorZ.Automation.Scriptable.Inventory.Signal.InputGood,invoer: {0},Name of the condition for the inventory input goods
+IgorZ.Automation.Scriptable.Inventory.Signal.OutputGood,uitvoer: {0},Name of the condition for the inventory output goods
+IgorZ.Automation.Scriptable.Lever.Action.SetState,hendelstatus instellen: {0},Name of the action that sets the lever state to the specified value
+IgorZ.Automation.Scriptable.Manufactory.Action.SetRecipe,recept instellen: {0},Name of action that sets a recipe on a manufactory
+IgorZ.Automation.Scriptable.Notifications.Action.ClearStatus,status wissen,Name of the action that clears the notification status on the building
+IgorZ.Automation.Scriptable.Notifications.Action.SetAlert,waarschuwing instellen: {0},Name of the action that sets the alert status on the building
+IgorZ.Automation.Scriptable.Notifications.Action.SetStatus,status instellen: {0},Name of the action that sets the notification status on the building
+IgorZ.Automation.Scriptable.Notifications.Action.SetStatusAlertTextArgument,Waarschuwingstekst,Name of the argument for the SetStatus action that specifies the text to show in the alert box in the left-bottom corner of the screen
+IgorZ.Automation.Scriptable.Notifications.Action.SetStatusIconArgument,Statuspictogram,Name of the argument for the SetStatus action that specifies the status icon name in the Sprites/StatusIcons folder
+IgorZ.Automation.Scriptable.Notifications.Action.SetStatusTextArgument,Statustekst,Name of the argument for the SetStatus action that specifies the text to show in the entity panel
+IgorZ.Automation.Scriptable.Notifications.Action.SetNoticeIcon,meldingspictogram instellen: {0},Name of the action that sets the notice icon on the building
+IgorZ.Automation.Scriptable.Pausable.Action.Pause,bouw pauzeren,Name of the action that pauses the building
+IgorZ.Automation.Scriptable.Pausable.Action.Resume,bouw hervatten,Name of the action that unpauses the building
+IgorZ.Automation.Scriptable.Plantable.Signal.SpotsReady,klaar om te planten,Name of the condition that checks how many planting spots are available
+IgorZ.Automation.Scriptable.Prioritizable.Action.ResetHaulers,- prioriteren door transporteurs,Name of the action that resets the priority to the haulers
+IgorZ.Automation.Scriptable.Prioritizable.Action.SetHaulers,+ prioriteren door vervoerders,Name of the action that sets the priority to the haulers
+IgorZ.Automation.Scriptable.Signals.Action.Set,signaal instellen: {0} = {1},Name of the action that sets the signal to the specified value
+IgorZ.Automation.Scriptable.Signals.Action.Set.SignalNameArgument,Signaalnaam,Name of the signal argument that specifies the signal name to set
+IgorZ.Automation.Scriptable.Signals.Action.Set.SignalValueArgument,Signaalwaarde,Name of the signal argument that specifies the signal value to set
+IgorZ.Automation.Scriptable.Signals.Signal.Get,signaal: {0},Name of the condition for the signal checking
+IgorZ.Automation.Scriptable.StreamGauge.Signal.Contamination,besmetting,Name of the condition for the current water contamination level checking
+IgorZ.Automation.Scriptable.StreamGauge.Signal.Current,huidig,Name of the condition for the current water current checking
+IgorZ.Automation.Scriptable.StreamGauge.Signal.Depth,diepte,Name of the condition for the current water level checking
+IgorZ.Automation.Scriptable.Weather.Signal.Season,seizoen,Name of the condition for the current season checking
+IgorZ.Automation.Scriptable.Workplace.Action.RemoveWorkers,werknemers verwijderen,Name of the action that removes all workers from the workshop
+IgorZ.Automation.Scriptable.Workplace.Action.SetPriority,prioriteit van werknemer: {0},Name of the action that sets the workplace priority level
+IgorZ.Automation.Scriptable.Workplace.Action.SetWorkers,wijs {0} werknemers toe,Name of the action that sets the number of workers in the building
+IgorZ.Automation.Scriptable.Workplace.Signal.AssignedWorkers,toegewezen werknemers,Name of the condition for the current number of assigned workers
+IgorZ.Automation.Scripting.Expressions.AndOperator,En,String to join components of the expression with condition AND. Used to represent the condition in the panel
+IgorZ.Automation.Scripting.Expressions.OrOperator,of,String to join components of the expression with condition OR. Used to represent the condition in the panel
+IgorZ.Automation.Scripting.Expressions.NotOperator,NIET,NOT operator name to represent the condition in the panel
+IgorZ.Automation.Scripting.Expressions.ParseError,PARSE FOUT,String to show when the scriptable condition or action cannot be parsed
+=,=,Rules editor strings
+IgorZ.Automation.Scripting.Editor.ActionLabel,Dan,
+IgorZ.Automation.Scripting.Editor.ActionMustBeAction,Actie moet de operator 'act' zijn,A message to show when the action is not an action
+IgorZ.Automation.Scripting.Editor.ActionArgumentName,Argumentnr.{0},The generic name of the action arguments when there is no display name specified
+IgorZ.Automation.Scripting.Editor.AddRuleFromScriptBtn,Script toevoegen,
+IgorZ.Automation.Scripting.Editor.AddRuleViaConstructorBtn,Regel maken via constructor,
+IgorZ.Automation.Scripting.Editor.ArgumentMaxValueHint,(max: {0}),A hint to show the maximum value of the argument
+IgorZ.Automation.Scripting.Editor.ArgumentMinValueHint,(min: {0}),A hint to show the minimum value of the argument
+IgorZ.Automation.Scripting.Editor.ConditionLabel,Als,
+IgorZ.Automation.Scripting.Editor.ConditionMustBeBoolean,Voorwaarde moet een Booleaanse expressie zijn,A message to show when the condition is not a boolean expression
+IgorZ.Automation.Scripting.Editor.ConditionMustHaveSignals,Voorwaarde moet ten minste één signaal bevatten,A message to show when the condition does not have any signals
+IgorZ.Automation.Scripting.Editor.ConstantTypeDecimals,decimalen,Name of the decimals constant type
+IgorZ.Automation.Scripting.Editor.ConstantTypeString,snaar,Name of the string constant type
+IgorZ.Automation.Scripting.Editor.ConstantTypePercent,procent,Name of the percent constant type
+IgorZ.Automation.Scripting.Editor.ConstantTypeWholeNumber,geheel getal,Name of the whole number constant type
+IgorZ.Automation.Scripting.Editor.CopyRuleBtn,Duplicaat,
+IgorZ.Automation.Scripting.Editor.DeletedRule,Regel verwijderd,A message to show over the deleted rule
+IgorZ.Automation.Scripting.Editor.DeleteRuleBtn,Regel verwijderen,
+IgorZ.Automation.Scripting.Editor.DialogHeader,Automatiseringsregels,
+IgorZ.Automation.Scripting.Editor.DiscardChangesBtn,Wijzigingen negeren,
+IgorZ.Automation.Scripting.Editor.DiscardScriptBtn,Weggooien,
+IgorZ.Automation.Scripting.Editor.EditAsScriptBtn,Script,
+IgorZ.Automation.Scripting.Editor.EditInConstructorBtn,Constructeur,
+IgorZ.Automation.Scripting.Editor.ExportRulesBtn,Regels exporteren,
+IgorZ.Automation.Scripting.Editor.ImportRulesBtn,Regels importeren,
+IgorZ.Automation.Scripting.Editor.InvertRuleBtn,Omkeren,
+IgorZ.Automation.Scripting.Editor.MoreInfoBtn,Lees meer over scripting,
+IgorZ.Automation.Scripting.Editor.PauseRuleBtn,Schakel regel uit,
+IgorZ.Automation.Scripting.Editor.PendingEditsNotification,Er zijn regels in de bewerkingsstatus. Vul ze eerst in.,
+IgorZ.Automation.Scripting.Editor.ReadMoreLink,https://github.com/ihsoft/TimberbornMods/wiki/Automation-(scripting),Link to the localized wiki page about scripting
+IgorZ.Automation.Scripting.Editor.ResetChangesBtn,Wijzigingen resetten,
+IgorZ.Automation.Scripting.Editor.ResumeRuleBtn,Regel inschakelen,
+IgorZ.Automation.Scripting.Editor.RulesWithErrorsNotification,Sommige regels bevatten fouten! Repareer ze eerst.,
+IgorZ.Automation.Scripting.Editor.SaveRulesBtn,Opslaan en sluiten,
+IgorZ.Automation.Scripting.Editor.SaveScriptBtn,Opslaan,
+IgorZ.Automation.Scripting.Editor.TemplateFamilyLabel,Sjabloongroep: {0},Name of the template group (family) the rule belongs to
+IgorZ.Automation.Scripting.Editor.TestScriptBtn,Test,
+=,=,Signals editor strings
+IgorZ.Automation.Scripting.SignalsEditor.DialogHeader,Bouwsignalen instellen,
+IgorZ.Automation.Scripting.SignalsEditor.BadSignalNameMsg,"❌ Slechte signaalnaam!
+De naam moet beginnen met een letter en mag alleen letters, cijfers en punten bevatten.",Message shown when the signal name is invalid; explain naming rules and note that only Latin letters are allowed.
+=,=,Import dialog
+IgorZ.Automation.Scripting.Editor.ExportDialogHeader,Automatiseringsregels exporteren,
+IgorZ.Automation.Scripting.Editor.ImportDialogHeader,Automatiseringsregels importeren,
+IgorZ.Automation.Scripting.ImportDialog.AllowErrors,Importeren met fouten,
+IgorZ.Automation.Scripting.ImportDialog.DeleteExistingRules,Verwijder bestaande regels,
+IgorZ.Automation.Scripting.ImportDialog.ReadMore,Lees over import,
+IgorZ.Automation.Scripting.ImportDialog.ReadMoreUrl,https://github.com/ihsoft/TimberbornMods/wiki/Automation-export-import-concept,
+IgorZ.Automation.Scripting.ImportDialog.SkipFailedRules,Sla mislukte regels over,
+IgorZ.Automation.Scripting.ImportRules.ActionNotApplicableError,"Actie niet van toepassing:
+{0}",
+IgorZ.Automation.Scripting.ImportRules.ConditionNotApplicableError,"Voorwaarde niet van toepassing:
+{0}",
+IgorZ.Automation.Scripting.ImportRules.ExpectedActionError,Verwachte actie-expressie,
+IgorZ.Automation.Scripting.ImportRules.ExpectedConditionError,Verwachte voorwaarde-expressie,
+IgorZ.Automation.Scripting.ImportRules.ImportError,Fout op regel {0}: {1},
+IgorZ.Automation.Scripting.ImportRules.IncompleteDeclarationError,Onvolledige regeldeclaratie,
+IgorZ.Automation.Scripting.ImportRules.UnclosedMultiLineComment,Niet-gesloten commentaar van meerdere regels,
+=,=,Mod settings
+IgorZ.Automation.Settings.Debug.PathCheckingProfiling,Logpad controleren van motorstatistieken,
+IgorZ.Automation.Settings.Debug.LogSignalSetting,Signaalwaarden van instelling loggen,
+IgorZ.Automation.Settings.Debug.LogSignalPropagating,Voortplanting van logsignalen,
+IgorZ.Automation.Settings.Debug.ReevaluateRulesOnLoad,Evalueer de regels voor belasting opnieuw,
+IgorZ.Automation.Settings.Debug.ResetSignalsOnLoad,Aangepaste signalen opnieuw instellen bij laden,
+IgorZ.Automation.Settings.EntityPanel.Header,Bedieningselementen op het bouwpaneel,
+IgorZ.Automation.Settings.EntityPanel.RulesDescriptionStyle,Stijl van de regelbeschrijving,
+IgorZ.Automation.Settings.EntityPanel.RulesDescriptionStyle.HumanReadable,Tekst,Human readable style of the rule description.
+IgorZ.Automation.Settings.EntityPanel.RulesDescriptionStyle.Script,Script,Script style of the rule description.
+IgorZ.Automation.Settings.EntityPanel.RulesDescriptionStyle.ScriptShort,Pseudo-script,Shortened script style of the rule description.
+IgorZ.Automation.Settings.EntityPanel.EvalValuesInConditions,Evalueer de juiste waarde onder omstandigheden,
+IgorZ.Automation.Settings.EntityPanel.EvalValuesInActionArguments,Evalueer waarden in de actieargumenten,
+IgorZ.Automation.Settings.EntityPanel.MaxRulesShown,Aantal regels dat in het paneel moet worden weergegeven,
+IgorZ.Automation.Settings.ScriptEditor.Header,Scripteditor,
+IgorZ.Automation.Settings.ScriptEditor.DefaultScriptSyntax,Syntaxis van standaardexpressies,
+IgorZ.Automation.Settings.ScriptEditor.DefaultScriptSyntaxLisp,Lisp-stijl,
+IgorZ.Automation.Settings.ScriptEditor.DefaultScriptSyntaxPython,Python-stijl,
+IgorZ.Automation.Settings.ScriptEditor.DefaultScriptSyntaxTooltip,De syntaxis kan in de hoofdtekst van de expressie worden overschreven door het voorvoegsel '#PY' voor Python of '#LP' voor Lisp toe te voegen.,
+IgorZ.Automation.Settings.ScriptEngine.Header,Instellingen voor scriptengine,
+IgorZ.Automation.Settings.ScriptEngine.CheckArgumentValues,Controleer de argumentwaarde tijdens runtime,
+IgorZ.Automation.Settings.ScriptEngine.SignalExecutionStackSize,Signaaluitvoeringsstapelgrootte,
+=,=,TimberDev_Utils
+TimberDev_Utils.Settings.Debug.VerboseLogging,Uitgebreid loggen,
+TimberDev_Utils.Settings.Debug.VerboseLoggingTooltip,"Logboeken bevatten meer nuttige details, maar dit kan de spelprestaties beïnvloeden.",
+TimberDev_Utils.Settings.DebugSection,Foutopsporing en probleemoplossing,
+TimberDev_Utils.Tools.LockSelectTool.DescriptionHint,Houd <i>SHIFT</i> ingedrukt om items van slechts één type te selecteren.,
+TimberDev_Utils.Tools.LockSelectTool.SelectingNObjects,Selecteren: {0} (x{1}),The plural form of TimberDev_Utils.Tools.LockSelectTool.SelectingObject
+TimberDev_Utils.Tools.LockSelectTool.SelectingObject,Selecteren: {0},Text to show the type of the selected building. It's shown when the selection tool is locked on the specific buildings.
+TimberDev_Utils.Tools.LockSelectTool.StartObjectSelectingPrompt,Klik om te beginnen met selecteren: {0},
+TimberDev_Utils.Tools.LockSelectTool.StartSelectingPrompt,Wijs een entiteit aan en klik om te beginnen met selecteren,
+=,=,TimberDev_UI
+TimberDev_UI.AbstractDialog.UnsavedChangesConfirmation,Er zijn niet-opgeslagen wijzigingen. Wil je ze weggooien?,A confirmation message that is shown if the dialog is being closed by ESC and there were changes made.
