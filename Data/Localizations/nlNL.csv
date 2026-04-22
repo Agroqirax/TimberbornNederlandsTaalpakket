@@ -90,12 +90,12 @@ Bot.DeadNameSuffix,(vernietigd),Preceded by bot name and age
 Bot.DeathMessage,{0} is kapot gegaan.,{0} stands for bot name. Notification that shows when a bot breaks down completely (it's destroyed)
 Bot.DisplayName.Folktails,Houtbot {0},{0} stands for a bot serial number. Name of bots from the Folktails faction. Named after the fact they are visibly made from wood.
 Bot.DisplayName.IronTeeth,IJzerbot {0},{0} stands for a bot serial number. Name of bots from the Iron Teeth faction. Named after the fact they are visibly made from metal.
-Bot.Durability,Duurzaamheid,Label before a progress bar showing amount of durability left
+Bot.Durability,Duurzaamheid: {0},"Label before a progress bar showing amount of durability left, {0} is the durability value."
 Bot.PluralDisplayName,Robots,"Bots are autonomous robots, who assist beavers in their everyday tasks. They are constructed in factories."
 Bot.TemplateName,Robot,A bot is an animated anthropomorphic being which is created from inanimate matter. Timberborn bots are depicting beavers and are made of wood and metal.
 Breeding.NutrientBringing,"Voedingsstoffen worden na het werk aangevoerd door transporteurs, werklozen en werknemers.","Haulers are the same as in Building.HaulingPost.Description, unemployed as in Beaver.UnemployedPlural, workers as in Work.WorkersLabel"
 Breeding.NutrientsNeeded,Benodigde voedingsstoffen:,Followed by a list of nutrients needed to produce a new beaver in breeding facility
-Breeding.Progress,Broedvoortgang,Label inside a progress bar describing production progress of new beaver in breeding facility
+Breeding.Progress,Broedvoortgang: {0},"Label inside a progress bar describing production progress of new beaver in breeding facility, {0} is the progress value."
 BuilderPriorityTool.Description,"Gebruik dit gereedschap om de prioriteit in te stellen voor bouwen, slopen en het verzamelen van goederen uit puin.",Rubble should be plural version of RecoveredGoodStack.DisplayName
 BuilderPriorityTool.Tip,Klik op een item om de prioriteit ervan in te stellen of houd de knop ingedrukt om een ​​groter gebied te selecteren.,
 Building.AdvancedBreedingPod.Description,Maakt gebruik van een geavanceerd broedproces om volwassen bevers te produceren die graag aan de slag willen.,Breeding should be the same as Building.BreedingPod.DisplayName
@@ -249,6 +249,7 @@ Building.Detonator.DisplayName,Ontsteker,A building which arms a dynamite.
 Building.DirtExcavator.Description,"Een grote graafmachine voor het verzamelen van zand. Het zal zand blijven produceren, zelfs nadat het de bodem heeft bereikt.",Dirt must the same as Good.Dirt.DisplayName.
 Building.DirtExcavator.DisplayName,Graafmachine,"A machine used to gather dirt, leaving a giant hole. Dirt must be the same as Good.Dirt.DisplayName."
 Building.DirtExcavator.FlavorDescription,Dit is geen oefening!,It's literally not a drill. It's a different kind of mining equipment. ;)
+Building.Discharge.FlavorDescription,"Geef me genoeg emmers en ik zal het meer verplaatsen." —Ouwe Kazko,"Ol' Kazko is a legendary forefather of modern beavers, famous inventor, pioneer of rapid industrialization."
 Building.DistrictCenter.Description,"Vestigt een wijk met zijn eigen bevolking, goederen en een geïsoleerd padennetwerk. Heeft bouwers in dienst.",
 Building.DistrictCenter.DisplayName,Wijkcentrum,
 Building.DistrictCenter.FlavorDescription.Folktails,"""Comfort, eten en stevig hout."" —Volkstaart motto",The motto must be the same as in Faction.Folktails.Description
@@ -257,6 +258,7 @@ Building.DistrictCrossing.Description,Brengt goederen in evenwicht tussen de twe
 Building.DistrictCrossing.DisplayName,Wijkovergang,District should be the same as in Building.DistrictCenter.DisplayName
 Building.DistrictCrossing.FlavorDescription,Waarom stak een bever een wijk over?,"Referencing ""Why did a chicken cross a road"" jokes"
 Building.DoubleDynamite.DisplayName,Dubbele Dynamiet,Dynamite that makes 2 blocks deep hole
+Building.DoubleDynamite.FlavorDescription,Toen extreme maatregelen nog niet extreem genoeg waren.,"References extreme measures mentioned in Building.Dynamite.FlavorDescription. It's part of a set."
 Building.DoubleFloodgate.DisplayName,Dubbele Sluisdeur,
 Building.DoubleFloodgate.FlavorDescription,Hoe verbeter je perfectie? Je maakt het groter.,
 Building.DoubleLodge.Description,Een grotere hut waar meer bevers in passen.,
@@ -291,6 +293,7 @@ Building.ExercisePlaza.DisplayName,Fitnessplein,
 Building.ExercisePlaza.FlavorDescription,"De IJzertanden willen zijn zoals hun creaties: altijd harder, beter, sneller, sterker.","Reference to the Daft Punk song ""Harder, Better, Faster, Stronger""."
 Building.ExplosivesFactory.Description,Produceert explosieven uit slechtwater.,Explosives and badwater being goods names. Badwater should be the same as Good.Badwater.DisplayName.
 Building.ExplosivesFactory.DisplayName,Explosievenfabriek,Explosives is name of a good.Explosives should be the same as Good.Explosives.PluralDisplayName
+Building.ExplosivesFactory.FlavorDescription,Alsof het nog niet genoeg was om de hele nederzetting van hout te bouwen.,
 Building.FarmerMonument.DisplayName,Boerenmonument,A large statue of a farmer carrying a bundle of wheat.
 Building.FarmerMonument.FlavorDescription,"De woestenij temmen, de bevers voeden.",
 Building.Farmhouse.Description,Heeft boeren in dienst die gewassen planten en oogsten.,
@@ -299,6 +302,11 @@ Building.Farmhouse.FlavorDescription,Landbouw werd een van de pijlers waarop de 
 Building.Fermenter.Description,Fermenteert planten om voedzaam voedsel te produceren.,Ferments should be the same as in Building.Fermenter.DisplayName
 Building.Fermenter.DisplayName,Fermentatievat,A building that ferments plants to make food.
 Building.Fermenter.FlavorDescription,Na enkele incidenten is de lijst met producten die mogen worden gefermenteerd beperkt.,Referrencing fermentation used to produce alcoholic beverages.
+Building.FillValve.Description,Een eenrichtingsafvoer die het waterpeil stroomafwaarts regelt.,
+Building.FillValve.DisplayName,Vulkraan,A building which works like a valve which opens and closes to maintain the level of water in a reservoir/tank that it fills (refills).
+Building.FillValve.TargetHeight,Doelhoogte: {0},Label for a slider which sets the desired water depth.
+Building.FillValve.TargetHeightUnlimited,Onbeperkt,Label for a slider which sets the desired water depth when set to Unlimited.
+Building.FillValve.Synchronize,Synchroniseer met aangrenzende vulkranen,Label for a toggle which makes this fill valve synchronize its configuration with adjacent fill valves.
 Building.FireworkLauncher.Description,Schiet feestelijk vuurwerk af.,Fireworks should be consistent with Good.Fireworks.DisplayName
 Building.FireworkLauncher.DisplayName,Vuurwerkwerper,Name of a building which launches fireworks into the sky.
 Building.FireworkLauncher.FlightDistance,Vluchtafstand: {0},Label for firework flight distance value. {0} stands for a number.
@@ -592,9 +600,12 @@ Building.ReserveTank.DisplayName,Reserve vat,
 Building.ReserveTank.FlavorDescription,"""Ja, het was verzegeld. Ja, het is prima om te drinken. Jij eerst."" —Pina","Pina is a younger beaver figure that's exploring the world and isn't related to any faction in particular. Pina as a name relates to the pine tree, the translated name shouldn't suggest a gender if possible."
 Building.ReserveWarehouse.DisplayName,Reserve magazijn,
 Building.ReserveWarehouse.FlavorDescription,Een geschenk van vroegere generaties,
-Building.ResourceCounter.Description,Verzendt een signaal op basis van het voorraadniveau of de vulgraad van een bepaald goed.,
+Building.ResourceCounter.Description,Verzendt een signaal op basis van het voorraadniveau van een bepaald goed.,
 Building.ResourceCounter.DisplayName,Grondstofteller,
+Building.ResourceCounter.IncludeInputs,Invoer meerekenen,Toggle on Resource Counter building - switches between counting available or all goods
 Building.ResourceCounter.MeasurementPercent,Meting: {0}%,"Fill rate of choosen good, please keep short."
+Building.ResourceCounter.Mode.Percent,Procent (%),Mode for resource counter building - percent of storage spaces filled with goods
+Building.ResourceCounter.Mode.Quantity,Aantal,Mode for Resource Counter building - quantity of goods
 Building.Roof.FlavorDescription,Een mooier dak is vaak genoeg om een vriendschappelijke rivaliteit in de buurt aan te wakkeren.,
 Building.Roof1x1.DisplayName,Dak 1x1,Numbers at the end denote size X by Y
 Building.Roof1x2.DisplayName,Dak 1x2,Numbers at the end denote size X by Y
@@ -721,11 +732,14 @@ Building.Timer.Mode.Oscillator,Oscillator,"One of the modes of the Timer, which 
 Building.Timer.Mode.Oscillator.Description,Wisselt tussen aan en uit terwijl <YellowHighlight>{0}</YellowHighlight> is ingeschakeld.,This describes a mode of the Timer. {0} is Automation.Input.InputA but styled like keywords so do not worry about articles. Notice the subtles difference with other modes between 'is on' (meaning something happens for the whole duration when a signal is On) VS 'switches on' (meaning something happens the moment a signal changes from Off to On).
 Building.Timer.Mode.Pulse,Puls,"One of the modes of the Timer, which sends an output signal for a certain duration when it receives an input signal."
 Building.Timer.Mode.Pulse.Description,Aan voor <YellowHighlight>{1}</YellowHighlight> nadat <YellowHighlight>{0}</YellowHighlight> is ingeschakeld.,This describes a mode of the Timer. {0} is Automation.Input.InputA and {1} is Building.Timer.Time1 but styled like keywords so do not worry about articles. Notice the subtles difference with other modes between 'is on' (meaning something happens for the whole duration when a signal is On) VS 'switches on' (meaning something happens the moment a signal changes from Off to On).
+Building.Timer.Mode.Random,Willekeurig,"One of the modes of the Timer, which randomly changes its output to on and off at specified interval."
+Building.Timer.Mode.Random.Description,"De status wordt elke <YellowHighlight>{1}</YellowHighlight> willekeurig gewijzigd terwijl <YellowHighlight>{0}</YellowHighlight> is ingeschakeld.",This describes a mode of the Timer. {0} is Automation.Input.InputA and {1} is Building.Timer.Time1 but styled like keywords so do not worry about articles. Notice the subtles difference with other modes between 'is on' (meaning something happens for the whole duration when a signal is On) VS 'switches on' (meaning something happens the moment a signal changes from Off to On).
 Building.Timer.TimeA,T1,This must be at most two characters. Label for a time setting in Timer building in which users can enter number of hours or days. It's likely that you want to keep T1 and T2 in many languages because those are internationally used in electronics and schematics.
 Building.Timer.TimeB,T2,This must be at most two characters. Label for a time setting in Timer building in which users can enter number of hours or days. It's likely that you want to keep T1 and T2 in many languages because those are internationally used in electronics and schematics.
 Building.TributeToIngenuity.DisplayName,Eerbetoon aan vindingrijkheid,Name of a monument
 Building.TributeToIngenuity.FlavorDescription,"""Natuurlijk heeft het een doel. Het maakt indruk."" —Ouwe Kazko","Ol' Kazko is a legendary forefather of modern beavers, famous inventor, pioneer of rapid industrialization."
 Building.TripleDynamite.DisplayName,Driedubbele Dynamiet,Dynamite that makes 3 blocks deep hole
+Building.TripleDynamite.FlavorDescription,Toen zelfs de meest extreme maatregelen nog niet extreem genoeg waren.,"References extreme measures mentioned in Building.Dynamite.FlavorDescription and Building.DoubleDynamite.FlavorDescription. It's part of a set."
 Building.TripleFloodgate.DisplayName,Driedubbele Sluisdeur,
 Building.TripleFloodgate.FlavorDescription,Nog hoger en het water wordt te zwaar om tegen te houden.,
 Building.TripleLodge.Description,Huisvest veel bevers.,Houses thrice the amounts of beavers as normal lodge
@@ -750,14 +764,14 @@ Building.UnstableCore.Description,Een oud apparaat dat onvermijdelijk zal ontplo
 Building.UnstableCore.DisplayName,Onstabiele kern,An object that can be placed in map editor that explodes after a set time. Name shouldn't suggest strictly military use or radioactive effect.
 Building.UnstableCore.FlavorDescription,"Ja, Julie, boem.",Suli is a younger beaver that likes to play tricks on their fellow beavers and isn't related to any faction in particular. Translated name shouldn't suggest a gender if possible.
 Building.Valve.Description,Een eenrichtingswateruitlaat met instelbare stroomsnelheid.,
-Building.Valve.DisplayName,Klep,
+Building.Valve.DisplayName,Regelklep,A building which works like a valve which opens and closes to maintain a steady water flow rate.
 Building.Valve.OutflowLimit,Stroomlimiet: {0},Label for flow limit setting in valve building
 Building.Valve.OutflowUnlimited,Stroom onbeperkt,Label for flow limit setting when it is set to unlimited
 Building.Valve.ReactionSpeed,Reactiesnelheid: {0},Label for a slider which controls how fast this valve reacts to changes in throughput. {0} is 0-100%.
 Building.Valve.State.Closing,Sluiten,"Gender should be consistent with Automation.Mode. Please keep short, at most the width of 11 latin characters."
 Building.Valve.State.Idle,Inactief,"Gender should be consistent with Automation.Mode. Please keep short, at most the width of 11 latin characters. This is the state of a valve that is not moving - not closing or opening."
 Building.Valve.State.Opening,Openen,"Gender should be consistent with Automation.Mode. Please keep short, at most the width of 11 latin characters."
-Building.Valve.Synchronize,Synchroniseer met aangrenzende kleppen,Label for a toggle which makes this valve synchronize its flow rate with adjacent valves.
+Building.Valve.Synchronize,Synchroniseer met aangrenzende regelkleppen,Label for a toggle which makes this throttling valve synchronize its flow rate with adjacent throttling valves.
 Building.VerticalPowerShaft.Description,Geeft energie door. Verbindt naar boven.,"Power being mechanical/kinetic, not electricity. Alternative name: axle."
 Building.VerticalPowerShaft.DisplayName,Verticale aandrijfas,"Power being mechanical/kinetic, not electricity. Alternative name: axle."
 Building.VerticalPowerShaft.FlavorDescription,Helpt als het energieverbruik stijgt.,"Power being mechanical/kinetic, not electricity. Alternative name: axle."
@@ -775,7 +789,9 @@ Building.WaterSource.FlavorDescription,"""Moge jouw rivier altijd stromen."" —
 Building.WaterWheel.Description,"Produceert energie, moet in stromend water op de oever van een rivier worden geplaatst.",Power is not an electrical but mechanical/kinetic energy.
 Building.WaterWheel.DisplayName,Waterrad,
 Building.WaterWheel.FlavorDescription,Het meesterwerk van Ouwe Kazko.,"Ol' Kazko is a legendary forefather of modern beavers, famous inventor, pioneer of rapid industrialization."
+Building.WeatherStation.Description,Geeft een signaal af op basis van het weer.,
 Building.WeatherStation.DisplayName,Weerstation,A building which checks the current weather condition (does not make forecasts).
+Building.WeatherStation.EarlyActivation,Vroegtijdig activeren,A label for a checkbox which makes the weather station activate a specified number of hours before the season starts
 Building.WeatherStation.Header,Actief tijdens:,"Header for weather station building settings. After this header, there are checkboxes for each weather type that can be enabled or disabled."
 Building.Weathervane.Description,Een kleine vaan die de windrichting en sterkte aangeeft.,
 Building.Weathervane.DisplayName,Windwijzer,A decoration that turns towards the wind
@@ -831,7 +847,8 @@ Button.Refresh,Vernieuw,Label of a button that refreshes/reloads custom files fr
 Camera.StateSaved,Camerastatus opgeslagen,"Notification on top of the window when camera state(location, rotation) is saved by player."
 CancelPlantingTool.Description,Gebruik dit gereedschap om plantgebieden te verwijderen.,Description of a tool that removes fields.
 CancelPlantingTool.Title,Verwijder plantgebied,Tool that removes fields so the beavers won't plant there.
-Carrying.Carry,Dragen: {0} ({1} van {2} kg),{0} stands for Good.DisplayName {1} stands for carried good weight {2} stands for beaver lifting capacity. Tells player what the beaver is carrying and how much it weighs in comparison to the beaver's strength
+Carrying.Carry,Dragen: {0},"Label indicating what good the beaver is carrying. {0} will be either filled with the name of the good along with its current weight and the beaver lifting capacity (consistent with Carrying.Good), or will have Carrying.Nothing set if the beaver is not carrying anything."
+Carrying.Good,{0} ({1} van {2} kg),"Label used to tell player what good beaver is carrying and how much it weights in comparison to the beaver's strength. {0} stands for Good.DisplayName, {1} stands for carried good weight and {2} stands for a character lifting capacity. Used together with Carrying.Carry."
 Carrying.Nothing,Niets,When beaver is carrying nothing.
 Condition.DisplayName,Voorwaarde,"Bot equivalent of wellbeing (how good they are taken care of, how good their mechanical condition is)"
 Console.CloseButton,Sluiten,Label of the button that closes the console
@@ -1417,6 +1434,7 @@ MapSelection.SemiCompatibleMapVersion,"Deze kaartversie ({0}) is niet compatibel
 
 Weet je zeker dat je het spel wilt starten?","{0} is the map version (e.g. 0.1.15.1), {1} is the game version (in the same format). This message is shown after a player tries to start game on an incompatible map."
 MapSelection.Unconventional,Onconventioneel,"Label of the maps that have some special, different, unconventional mechanics"
+Mechanical.BatteryCharge,{0} / {1},"Current and total value of battery charge. {0} is current value, {1} is total value."
 Mechanical.Charge,Opslag,Current battery charge (how much power a battery has left)
 Mechanical.Efficiency,Efficiëntie: {0}%,{0} stands for efficiency percentage number. How efficient workshop is at using the power.\
 Mechanical.NetworkPower,Netwerk aanbod / vraag: {0} / {1},{0} stands for supply amount {1} stands for demand amount followed by PowerSymbol
@@ -1567,7 +1585,6 @@ NeedGroup.BasicNeeds.DisplayName,Basisbehoeften,"A group of needs which includes
 NeedGroup.Boosts.DisplayName,Versterkingen,Name of a group containing boosting effects for bots
 NeedGroup.Fun.DisplayName,Plezier,"Name of a need group where needs are satisfied by building attractions for the beavers, previously Need.Fun.DisplayName"
 NeedGroup.Happiness.DisplayName,Geluk,General happiness of the populace
-NeedGroup.Knowledge.DisplayName,Kennis,"Name of a need group where needs are satisfied when beavers learn new stuff, previously Need.Knowledge.DisplayName"
 NeedGroup.Nutrition.DisplayName,Voeding,Same as the need named Nutrition
 NeedGroup.SocialLife.DisplayName,Sociaal leven,"Name of a need group where needs are satisfied by letting beavers be social and chat with other beavers, previously Need.SocialLife.DisplayName"
 NeedGroup.Temporary.DisplayName,Tijdelijke effecten,"Name of a need group containing temporary effects, both positive and negative."
@@ -1765,8 +1782,6 @@ Status.Automation.ApiStopped,API gestopt.,A warning when the API is stopped.
 Status.Automation.ApiStopped.Short,API gestopt,A warning when the API is stopped.
 Status.Automation.AutomationLoop,Automatiseringslus.,A warning when there is an infinite loop (a cycle) in the automation.
 Status.Automation.AutomationLoop.Short,Automatiseringslus,A warning when there is an infinite loop (a cycle) in the automation.
-Status.Automation.NoSpaceBelowSensor,Geen ruimte onder de sensor.,A warning when there is no space under a sensor so it cannot measure anything.
-Status.Automation.NoSpaceBelowSensor.Short,Geen ruimte onder de sensor,A warning when there is no space under a sensor so it cannot measure anything.
 Status.BadwaterContamination.Incubation,"Deze bever bracht te veel tijd door in vervuild water. Voor nu is het oké, maar over een paar dagen wordt hij ziek.",Shown as an status alert when beaver spents too much time in contaminated water (and will get sick soon). Badwater should be the same as Good.Badwater.DisplayName.
 Status.BadwaterContamination.Incubation.Short,Bever is onwel,Shown as an status alert when beaver spents too much time in contaminated badwater (and will get sick soon). Please keep short.
 Status.Beaver.Dead,Dood,Shown in the beaver info window to explain that the beaver died
@@ -1918,6 +1933,9 @@ ToolGroups.Water,Water,Buildings that gather and store water.
 ToolGroups.Wood,Hout,Buildings that allow gathering and producing using wood
 TopBar.Badwater,Slechtwater,A group of goods. Please keep short.
 TopBar.Food,Voedsel,A group of goods. Please keep short.
+TopBar.GoodStockpileTooltip.Inputs,Invoer,Label in topbar tooltip - for goods keeped in input directories - please keep short
+TopBar.GoodStockpileTooltip.Outputs,Uitvoer,Label in topbar tooltip - for goods ready to use - please keep short
+TopBar.GoodStockpileTooltip.Stockpiles,Opslag,Label in topbar tooltip - for goods keeped in stockpiles warehouses etc - please keep short
 TopBar.Ingredients,Ingrediënten,Please keep short.
 TopBar.Logs,Hout,A group of goods. Please keep short.
 TopBar.Materials,Materialen,A group of goods. Please keep short.
@@ -1967,7 +1985,9 @@ Je kunt het later opnieuw inschakelen in de instellingen.",
 Tutorial.Droughts,Droogte,"Tutorial title, Droughts refers to Weather.Drought"
 Tutorial.Droughts.Description,"Gefeliciteerd! Je nederzetting heeft de eerste droogte overleefd.
                                
-Droogtes maken deel uit van de seizoenscyclus. Ze zullen terugkeren en in de loop van de tijd langer worden.",Drought refers to Weather.Drought
+Droogtes maken deel uit van de seizoenscyclus. Ze zullen terugkeren en in de loop van de tijd langer worden.
+
+Als je dat nog niet hebt gedaan, begin dan met de voorbereidingen voor de volgende door een dam te bouwen.",Drought refers to Weather.Drought
 Tutorial.Forestry,Bosbouw,
 Tutorial.Forestry.Forester,"Bevers hebben een stabiele bron van hout nodig. Duh.
                             
@@ -1996,7 +2016,7 @@ Selecteer de transportpost en pauzeer deze door op de knop in het paneel te klik
 Tutorial.Housing,Huisvesting,"Tutorial title, housing should be the same as ToolGroups.Housing"
 Tutorial.Housing.Lodges,"""Twee bevers zijn beter dan één! Huizen zorgen ervoor dat je bevers zich beter voelen en zorgen ervoor dat je Volkstaart-populatie groeit.
 
-Bevers gaan vanzelf in de beschikbare woonruimtes wonen.""",Folktails is the same as faction as Faction.Folktails.DisplayName,
+Bevers gaan vanzelf in de beschikbare woonruimtes wonen.""",Folktails is the same as faction as Faction.Folktails.DisplayName
 Tutorial.IncreaseDesiredWorkers,Aantal gewenste werknemers verhogen: {0},{0} stands for building name
 Tutorial.Introduction.Description,"Welkom bij Timberborn! Deze tutorial zal je helpen je poot in de woestenij te zetten en de eerste dagen te overleven.
                                    
@@ -2126,6 +2146,10 @@ Tutorial.WorkingHours.SetWorkingHours,"Het aanpassen van de werktijden is één 
 Langere werkdagen betekenen snellere vooruitgang, maar elke avond hebben bevers tijd nodig om te ontspannen en te slapen. Duw ze niet te lang te hard.
                                        
 Laten we voorlopig de werktijden een beetje verhogen.","Working hours refers to Work.WorkingHoursTooltip, Starvation refers to Status.Need.Hunger, dehydration refers to Status.Need.Thirst"
+Unit.Compact.Kilo.NumberAndUnit,{0}k,"Number with symbol unit added to denote thousands, {0} is the number, 'k' should be consistent with Unit.Kilo.UnitOnly. This should be extremely short - everything of more then 2 characters (inlcuding space and dot) is too long. If in doubt, just left it as k."
+Unit.Compact.Kilo.UnitOnly,k,"SI symbol for kilo, used in numbers to denote thousands and shorten their display, e.g. 1k = 1000, 2.5k = 2500, etc. This should be extremely short - everything of more then 2 characters (inlcuding space and dot) is too long. If in doubt, just left it as k."
+Unit.Compact.Mega.NumberAndUnit,{0}M,"Number with symbol unit added to denote millions, {0} is the number, 'M' should be consistent with Unit.Mega.UnitOnly. This should be extremely short - everything of more then 2 characters (inlcuding space and dot) is too long. If in doubt, just left it as M."
+Unit.Compact.Mega.UnitOnly,M,"SI symbol for mega, used in numbers to denote millions and shorten their display, e.g. 1M = 1,000,000, 2.5M = 2,500,000, etc. This should be extremely short - everything of more then 2 characters (inlcuding space and dot) is too long. If in doubt, just left it as M."
 Unit.CubicMeterPerSecond.NumberAndUnit,{0} m³/s,Abbreviation for cubic meters per second with numeric value. {0} stands for the number. Should be consistent with Unit.CubicMeterPerSecond.UnitOnly. Please keep very short.
 Unit.CubicMeterPerSecond.UnitOnly,m³/s,Abbreviation for cubic meters per second - standard unit of flow rate/speed. Please keep very short.
 Unit.Day.NumberAndUnit,{0} d,Abbreviation for day/days with numeric value. {0} stands for the number. Should be consistent with Unit.Day.UnitOnly. Please keep very short.
@@ -2142,8 +2166,12 @@ Unit.HorsePowerPerCubicMeterPerSecond.NumberAndUnit,{0} pk/m³/s,Abbreviation fo
 Unit.HorsePowerPerCubicMeterPerSecond.UnitOnly,pk/m³/s,Abbreviation for horse power per cubic meter per second. It should be consistent with Unit.HorsePower.UnitOnly and Unit.CubicMeterPerSecond.UnitOnly. Please keep very short.
 Unit.Hour.NumberAndUnit,{0} u,Abbreviation for hour/hours with numeric value. {0} stands for the number. Should be consistent with Unit.Hour.UnitOnly. Please keep very short.
 Unit.Hour.UnitOnly,u,Abbreviation for hour/hours - standard unit of time. Please keep very short.
+Unit.Kilogram.NumberAndUnit,{0} kg,"Abbreviation for kilogram, {0} is the number, kg is the unit symbol, which should be consistent with Unit.Kilogram.UnitOnly"
+Unit.Kilogram.UnitOnly,kg,Standard unit symbol for kilogram
 Unit.Meter.NumberAndUnit,{0} m,Abbreviation for meters with numeric value. {0} stands for the number. Should be consistent with Unit.Meter.UnitOnly. Please keep very short.
 Unit.Meter.UnitOnly,m,Abbreviation for meters - standard unit of length/distance/depth. Please keep very short.
+Unit.Percent.NumberAndUnit,{0}%,"Number with percent unit added, {0} is the number, % is the unit symbol, which should be consistent with Unit.Percent.UnitOnly"
+Unit.Percent.UnitOnly,%,Standard math unit symbol for percent
 Unit.Tick.NumberAndUnit,{0} t,Short format for time in ticks with numeric value. It should probably be a short form of Building.Timer.IntervalType.Ticks. It should use different letter than the ones used in Unit.Hour.UnitOnly and Unit.Day.UnitOnly to avoid confusion. {0} stands for the number. Please keep very short.
 Unit.Tick.UnitOnly,t,Short format for time in ticks. It should probably be a short form of Building.Timer.IntervalType.Ticks. It should use different letter than the ones used in Unit.Hour.UnitOnly and Unit.Day.UnitOnly to avoid confusion. Please keep very short.
 UnstableCore.ExplosionRadius,Explosie straal,Label of a field that allows to set explosion radius of an unstable core.
@@ -2198,7 +2226,8 @@ Work.Incapacitated,Arbeidsongeschikt,Label before a number of characters unfit f
 Work.MaxDepth,Maximale diepte: {0},"Explains how deep a building can reach, for example how deep it can pump water from. {0} stands for a number."
 Work.MaximumWorkers,Maximaal aantal werknemers: {0},{0} stands for max number of workers that can work in building.
 Work.PriorityTitle,Werkplek prioriteit,Setting a priority on workplace building
-Work.Productivity,Productiviteit:,How productive a workplace is. Followed by a percentage.
+Work.Productivity,Productiviteit: {0},"Label stating how productive a workplace is, should be consistent with Work.ProductivityHeader. {0} is the value of productivity,"
+Work.ProductivityHeader,Productiviteit,"Label in a tooltip header describing the productivity of a workplace."
 Work.ProductivityTip,"Het percentage tijd besteed aan productie in plaats van stilstand, zoals het vervoeren van materialen.",Tooltip of how productivity works
 Work.Vacant,Leeg,Denotes an empty workplace slot without a worker.
 Work.VacantPlural,Vacatures,Label before number of vacant work slots

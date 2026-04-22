@@ -22,7 +22,6 @@ jobs:
         id: changelog
         uses: mindsers/changelog-reader-action@v2
         with:
-          validation_level: warn
           version: ${{ steps.version.outputs.value }}
           path: ./CHANGELOG.md
 
