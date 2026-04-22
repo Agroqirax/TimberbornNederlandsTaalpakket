@@ -1,10 +1,14 @@
 # Changelog
 
-## [Unreleased] - 2026-04-22
+## [0.1.14] - 2026-04-22
+
+### Added
+
+- Diverse nieuwe mods
 
 ### Changed
 
-- Timberborn 1.0.13.0-1e60728-xsw
+- Timberborn bijgewerkt naar 1.0.13.0-1e60728-xsw
 
 ### Removed
 

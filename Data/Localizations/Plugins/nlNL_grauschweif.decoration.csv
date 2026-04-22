@@ -17,7 +17,7 @@ Grauschweif.Building.HugeGate.FlavorDescription,Enorm,
 Grauschweif.Floats.Lantern.DisplayName,Drijvende lantaarn,
 Grauschweif.Floats.Lantern.Description,Gaat nog <i>{0} uur</i> mee.,
 Grauschweif.Floats.Lantern.FlavorDescription,Een zacht licht,
-Grauschweif.Building.FloatDispatcher.DisplayName,Vlot verzender,
+Grauschweif.Building.FloatDispatcher.DisplayName,Vlot-verzender,
 Grauschweif.Building.FloatDispatcher.Description,"Een simpel dingetje. WORK-IN-PROGRESS zal langzaam de inventarisbehoefte toevoegen en deze verbinden met de wijk, overstroombaar, enz..",Generic description
 Grauschweif.Building.FloatDispatcher.Description.DispatchMessage,Verzendt {0} van ongeveer {1} tot {2}.,Timing info. 0=name. 1/2=hour like 16:30
 Grauschweif.Building.FloatDispatcher.Description.ActiveMessage,Verzending van {1} nieuwe {0} per uur.,
@@ -27,3 +27,12 @@ Grauschweif.Building.ArtisansLodge.DisplayName,Ambachtelijke werkplaats,
 Grauschweif.Building.ArtisansLodge.Description,Ambachtslieden maken veel mooie dingen. Deze maakt graag papieren lantaarns.,
 Grauschweif.Building.ArtisansLodge.FlavorDescription,,
 Grauschweif.Time.HourMinute,{0}:{1},hour and minutes
+Grauschweif.WaterPlant.DisplayName,Waterplanten,
+Grauschweif.WaterPlant.Description,Decoratieve planten.,
+Grauschweif.WaterPlant.Description.DispatchMessage,"Vissen zorgen ervoor dat planten sneller groeien, net als bijen. Zal willekeurig een {0} spawnen.",Timing info. 0=name. 1/2=hour like 16:30
+Grauschweif.WaterPlant.Description.ActiveMessage,,
+Grauschweif.WaterPlant.Description.PausedMessage,,
+Grauschweif.WaterPlant.FlavorDescription,,
+Grauschweif.Fish.Koi.DisplayName,Vis,
+Grauschweif.Fish.Koi.Description,Zwemmende cirkels. Geboren in decoratieve waterplanten. Zal zich na een paar dagen verstoppen.,
+Grauschweif.Fish.Koi.FlavorDescription,Ongrijpbaar voor de klik,

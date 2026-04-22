@@ -1,0 +1,6 @@
+ID,Text,Comment
+LV.RHP.RamPump.Name,Ram-pomp,
+LV.RHP.RamPump.Desc,Verplaats een deel van de vloeistof naar een hogere locatie zonder stroom te gebruiken.,
+LV.RHP.RamPump.Flavor,"Aangedreven door geduld, druk en een beetje verspild water.",
+LV.RHP.RamPump.StrengthDesc,"<YellowHighlight>Pompsterkte:</YellowHighlight> {0:0,0##%}
+(bij 1 m³/s stroom: levert {0:0.###}m³/s, of {1:0,0} speluren om 1 m³ te pompen)",

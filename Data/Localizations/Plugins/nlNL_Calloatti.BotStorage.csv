@@ -1,0 +1,4 @@
+ID,Text,Comment
+Building.BotStorage.DisplayName,Robot-opslag,
+Building.BotStorage.Description,"Een veilige faciliteit om inactieve robots op te slaan. Robots die hier worden toegewezen, worden uitgeschakeld, waardoor achteruitgang wordt voorkomen en hun brandstof- en energieverbruik wordt stopgezet.",
+Building.BotStorage.FlavorDescription,Zelfs perfecte machines hebben een plek nodig waar ze de stroom kunnen uitschakelen en stof kunnen verzamelen... veilig.,

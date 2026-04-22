@@ -1,10 +1,1 @@
 ID,Text,Comment
-Building.ResourceCounter.IncludeInputs,Inclusief ingangen,Toggle on Resource Counter building - switches between counting available or all goods
-Building.ResourceCounter.Mode.Percent,Percentage (%),Mode for resource counter building - percent of storage spaces filled with goods
-Building.ResourceCounter.Mode.Quantity,Hoeveelheid,Mode for Resource Counter building - quantity of goods
-Building.WeatherStation.Description,Zendt een signaal op basis van het weer.,
-Building.WeatherStation.EarlyActivation,Vroegtijdig activeren,A label for a checkbox which makes the weather station activate a specified number of hours before the season starts
-Mechanical.BatteryCharge,{0} / {1},"Current and total value of battery charge. {0} is current value, {1} is total value."
-TopBar.GoodStockpileTooltip.Inputs,Ingangen,Label in topbar tooltip - for goods keeped in input directories - please keep short
-TopBar.GoodStockpileTooltip.Outputs,Uitgangen,Label in topbar tooltip - for goods ready to use - please keep short
-TopBar.GoodStockpileTooltip.Stockpiles,Opslag,Label in topbar tooltip - for goods keeped in stockpiles warehouses etc - please keep short
