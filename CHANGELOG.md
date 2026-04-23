@@ -1,5 +1,11 @@
 # Changelog
 
+## [Unreleased] - 2026-04-23
+
+### Changed
+
+- Mod: Automation Tools
+
 ## [0.1.14] - 2026-04-22
 
 ### Added
