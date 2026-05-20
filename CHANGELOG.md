@@ -1,6 +1,12 @@
 # Changelog
 
-## [Unreleased] - 2026-04-23
+## [Unreleased] - 2026-05-20
+
+## [0.1.15] - 2026-05-20
+
+### Added
+
+- Alle nieuwe modcontest mods
 
 ### Changed
 

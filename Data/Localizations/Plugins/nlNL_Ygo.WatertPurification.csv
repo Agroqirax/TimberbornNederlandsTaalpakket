@@ -1,0 +1,11 @@
+ID,Text,Comment
+Building.Ygo.WaterPurification.Description,"Filtert een deel van een stromende vervuilde stroom in een schonere zijuitvoer. Er is minimaal één leeg blok vrije ruimte nodig onder de uitlaatpijp. Werkt het beste bij een slechtwaterstroom van ongeveer 2 m³/s. Vereist stroom, kracht, extract en zand. Produceert zelf geen zuiver water.",
+Building.Ygo.WaterPurification.DisplayName,Crossflow-filter,
+Building.Ygo.WaterPurification.FlavorDescription,"""Slechtwater heeft water in de naam. Na verloop van tijd zouden we er zeker wat in vinden. Voor het hout."" —Hoofdwaterinkoper",
+Building.Ygo.MarshwatcherHut.Description,"Bereidt behandelde grond voor van zand en medicijn en gebruikt deze vervolgens om zuiverend riet en bedorven lentewortels te planten. Riet reinigt vervuild water ten koste van hun gezondheid, terwijl springwortels slecht water uit de diepe ondergrond halen en zichzelf uiteindelijk vergiftigen.",
+Building.Ygo.MarshwatcherHut.DisplayName,Moeraskwekerij,
+Building.Ygo.MarshwatcherHut.FlavorDescription,"""Een gezonde grond levert gezonde planten op. Behandelde grond levert planten op die bereid zijn namens ons met slecht water in discussie te gaan."" —Folkstaart-maarschalk",
+NaturalResource.Ygo.PurifyingReed.DisplayName,Zuiverend Riet,
+NaturalResource.Ygo.PurifyingReed.FlavorDescription,"Een eigenwijs moerasriet dat het slechte uit het slechte water drinkt. Niet voor altijd, maar lang genoeg om een ​​verschil te maken.",
+NaturalResource.Ygo.Springroot.DisplayName,Bedorven lentewortel,
+NaturalResource.Ygo.Springroot.FlavorDescription,"Het reikt diep naar verborgen water. Wat naar boven komt is bedorven, maar niet nutteloos.",

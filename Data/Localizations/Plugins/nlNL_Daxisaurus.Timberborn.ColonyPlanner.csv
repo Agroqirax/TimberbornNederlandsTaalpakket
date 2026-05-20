@@ -1,0 +1,4 @@
+ID,Text,Comment
+ColonyPlanner.EntityPanel.UnlockAction,Ontgrendel de blauwdruk om te bouwen,Single-click strip; science cost shown in vanilla tooltip / confirm dialog
+ColonyPlanner.Status.ScienceLocked,Blauwdruk vergrendeld — betaal {0} kennis (entiteitspaneel) om te bouwen.,Floating icon tooltip when ColonyPlanner blocks construction until unlock
+ColonyPlanner.Alert.ScienceLockedBuildings,Blauwdruk vergrendeld door de wetenschap ({0}),Lower-left AlertPanel row when ghost sites await unlock; {0} is site count

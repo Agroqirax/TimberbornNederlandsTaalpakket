@@ -1,0 +1,4 @@
+ID,Text,Comment
+Building.DeepReservoirAquifer.DisplayName,Diep reservoir aquifer,
+Building.DeepReservoirAquifer.Description,Boren in een afgesloten ondergronds reservoir. Vereist mechanische kracht en blijft schoon water pompen tijdens droogte en slechte getijden.,
+Building.DeepReservoirAquifer.FlavorDescription,"Eeuwenoude techniek, herbouwd voor koppige bevers.",

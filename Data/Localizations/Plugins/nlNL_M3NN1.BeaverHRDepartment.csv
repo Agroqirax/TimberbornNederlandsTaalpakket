@@ -1,0 +1,4 @@
+ID,Text,Comment
+BHR.Panel.Title,Opdracht,Panel header for workplace assignment
+BHR.Button.Assign,Bever toewijzen,Button to open beaver picker
+BHR.Picker.NoUnemployed,Geen werkloze bevers,Shown when no beavers are available

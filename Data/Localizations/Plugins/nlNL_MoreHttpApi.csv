@@ -1,0 +1,10 @@
+ID,Text,Comment
+LV.MHA.AutoStart,Automatische start,
+LV.MHA.AutoStartDesc,"Start automatisch de API-server tijdens het laden van het spel.
+Als u deze optie inschakelt, heeft u geen HTTP-adaptergebouw nodig.",
+LV.MHA.AutoStartPort,Automatische startpoort,
+LV.MHA.AutoStartPortDesc,De poort die wordt gebruikt voor het automatisch starten van de API-server.,
+LV.MHA.Authentication,Authenticatie,
+LV.MHA.AuthenticationDesc,"Schakel authenticatie in voor de API-server. U moet een wachtwoord opgeven om toegang te krijgen tot de API-eindpunten.
+Laat leeg om uit te schakelen.
+<RedHighlight>Opmerking: alleen van toepassing op eindpunten die worden geleverd met behulp van MoreHttpApi.</RedHighlight>",

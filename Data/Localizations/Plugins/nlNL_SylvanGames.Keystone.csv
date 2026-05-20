@@ -1,0 +1,25 @@
+ID,Text,Comment
+Keystone.NeedGroup.Nature.DisplayName,Natuur,Header for the Keystone Nature need group in the wellbeing panel.
+Keystone.Need.Nature.Forest.DisplayName,Woud,Nature need flavor — filled by visiting a contemplation building surrounded by Forest biome.
+Keystone.Need.Nature.Grassland.DisplayName,Grasland,Nature need flavor — filled by visiting a contemplation building surrounded by Grassland biome.
+Keystone.Need.Nature.Wetland.DisplayName,Moeras,Nature need flavor — filled by visiting a contemplation building surrounded by Wetland biome (the Lido is the only vanilla source today).
+ToolGroup.Keystone.DisplayName,Keystone-ontwikkelaarstools,Tooltip on the bottom-bar group button.
+Tool.Keystone.Flourish.DisplayName,Klasse B: Force-Place Bioom bloeit,
+Tool.Keystone.Flourish.Description,Forceert een klasse B-bloei die past bij de bioom van de tegel waarop is geklikt - omzeilt de score-/drempelpoort die de auto-spawn-handler gebruikt. Kiest het bioom met de hoogste score bij de cursor (onder de biomen die een geregistreerd klasse B-recept hebben) en brengt het eerste geregistreerde recept voort. Handig voor het ensceneren van inhoud zonder te wachten tot de ecologische dynamiek zijn inhaalslag maakt.,
+Tool.Keystone.Decoration.DisplayName,Klasse A: Reactieve decoratie,
+Tool.Keystone.Decoration.Description,"Zorgt voor een klasse A-decoratie - niet-blokkerend, niet-aanhoudend, met een vochtgestuurde controller. Het monster gebruikt een paardenbloemkloon (levend als het vochtig is, droog als dat niet het geval is). Reactiviteit is de orthogonale as: dezelfde klasse A-bucket bevat ook puur passieve inhoud.",
+Tool.Keystone.Particle.DisplayName,Klasse A: Deeltjesdecoratie,
+Tool.Keystone.Particle.Description,"Zorgt voor een Klasse A-decoratie met een Unity ParticleSystem. Passief (geen ecologische reactiviteit, geen interactie) - laat zien dat hetzelfde register niet-maasversieringen zoals atmosferische effecten kan bevatten.",
+Tool.Keystone.CrossFactionFlora.DisplayName,Klasse D: Cross-Faction Flora,
+Tool.Keystone.CrossFactionFlora.Description,"Brengt een natuurlijke hulpbron van klasse D voort: vanilleflora van de ANDERE factie (CoffeeBush in een Folktails-spel, Maple in IronTeeth). Plantable / Gatherable-specificaties worden verwijderd door Keystone's factiestrip-patch, zodat de gebruikersinterface van de actieve factie er niet op crasht.",
+Tool.Keystone.VanillaFlora.DisplayName,Klasse D: Flora met actieve factie,
+Tool.Keystone.VanillaFlora.Description,"Brengt een natuurlijke hulpbron van klasse D voort: een den, die in beide facties aanwezig is. Volledige vanillepijpleiding - kan worden doorgesneden, geplant, verzameld (waar van toepassing) en reageert normaal op vocht/overstroming.",
+Tool.Keystone.Rock.DisplayName,Klasse A: Keystone-rots,
+Tool.Keystone.Rock.Description,Zorgt voor een Klasse A-decoratie die de Keystone-originele Rock_medium_1-blauwdruk kloont. End-to-end rooktest van de op maat gemaakte pijplijn: Quaternius FBX -> Blender -> .timbermesh -> TimbermeshSpec -> KeystoneMaterialProvider lost het KeystoneRock-materiaal op -> weergegeven in de game. Met pensioen zodra het spawnen van Klasse C-rotsen via het receptsysteem is aangesloten.,
+Tool.Keystone.RockCluster.DisplayName,Klasse C: Rock Cluster (levenloos),
+Tool.Keystone.RockCluster.Description,"Genereert een willekeurige KeystoneRockCluster* levenloze Klasse C-blauwdruk bij de cursor. Geen levenscyclus (stenen verwelken niet); runtime bioom-gestuurde re-tint via KeystoneRockTint past het materiaal aan naar bemost / droog / standaard op basis van het dominante bioom van de tegel. Omzeilt de Klasse C-receptpoort, zodat het cluster landt ongeacht de bioom-niveau-omstandigheden - handig voor het verifiëren van het tintgedrag in verschillende biomen.",
+NaturalResource.KeystoneRockCluster.DisplayName,Rotscluster,Shared display name for all KeystoneRockCluster* variants.
+Tool.Keystone.Fauna.DisplayName,Fauna: Plaats Herten (rooktest),
+Tool.Keystone.Fauna.Description,"Zorgt voor een KeystoneDeer BlockObject bij de cursor. End-to-end rooktest van de op maat gemaakte pijplijn voor fauna-items: Quaternius .blend -> Blender shade-smooth + BTW-palet bakken -> .timbermesh -> KeystoneDeer-materiaal -> in-game weergegeven. Hardgecodeerde blauwdruk, geen bioomresolutie. Vervangen of gegeneraliseerd zodra de juiste infrastructuur voor fauna-inhoud (Klasse E / agentsysteem) landt.",
+Tool.Keystone.FishSmokeTest.DisplayName,Vis: KeystoneFish1 boven water plaatsen (rooktest),
+Tool.Keystone.FishSmokeTest.Description,"Plaatst een KeystoneFish1 statische prop bij de cursor en begint de standaard animatieclip te herhalen. Afgesloten op waterdiepte: klik op een droge tegel en er spawnt niets; klik op een watertegel en er verschijnt een vis net boven het wateroppervlak, die op zijn plaats zwemt. Geen agent, geen padvinding, geen despawn - pure visuele verificatie van het visgaas + standaardclip. Herlaad om de verzamelde vis te verwijderen.",

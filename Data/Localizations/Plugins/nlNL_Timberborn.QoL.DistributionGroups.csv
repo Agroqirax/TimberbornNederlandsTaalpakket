@@ -1,0 +1,3 @@
+ID,Text,Comment
+DistributionGroups.SelectAll,Selecteer alles,Label of the Select all button in the district Distribution panel header
+DistributionGroups.SelectAllTooltip,"Vink elk goed in deze wijk aan of uit. Als er twee of meer goederen zijn aangevinkt, wordt bij het bewerken van de exportdrempel of importoptie van één aangevinkt goed dezelfde wijziging op alle goederen toegepast.",Tooltip for the Select all button

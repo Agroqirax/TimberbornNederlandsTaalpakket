@@ -1,0 +1,11 @@
+ID,Text,Comment
+Good.Exoskeleton.DisplayName,Exoskelet,
+Good.Exoskeleton.PluralDisplayName,Exoskeletten,
+Good.MechanicalArm.DisplayName,Mechanische arm,
+Good.MechanicalArm.PluralDisplayName,Mechanische armen,
+Good.NeuralImplant.DisplayName,Neuraal implantaat,
+Good.NeuralImplant.PluralDisplayName,Neurale implantaten,
+Need.Exoskeleton.DisplayName,Exoskelet,
+Need.MechanicalArm.DisplayName,Mechanische arm,
+Need.NeuralImplant.DisplayName,Neuraal implantaat,
+NeedGroup.Cybernetic.DisplayName,Cybernetica,

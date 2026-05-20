@@ -2,9 +2,9 @@
   "ItemId": "3345327949",
   "Name": "Nederlands taalpakket",
   "Visibility": "Public",
-  "UpdateDescription": true,
+  "UpdateDescription": false,
   "UpdateVisibility": false,
   "UpdatePreview": false,
-  "UpdateTags": true,
+  "UpdateTags": false,
   "Tags": ["Update 1.0", "Other", "Translations"]
 }

@@ -1,0 +1,36 @@
+ID,Text,Comment
+Building.TreeOfLife.DisplayName,Levensboom,
+Building.TreeOfLife.Description,Bereidt het waterkanaal en de grond voor op de <YellowHighlight>Levensboom</YellowHighlight>. Let op: dit kan niet meer worden teruggedraaid en het terrein kan later niet meer worden gesloopt!,
+Building.TreeOfLifeGround.DisplayName,Boomgronden,
+NaturalResource.TreeOfLife.DisplayName,Levensboom,
+NaturalResource.TreeOfLife.FlavorDescription,De boom is nog erg klein,
+NaturalResource.TreeOfLife.FlavorDescription1,Een fijne boom!,lvl 1-3 flavour text for living tree
+NaturalResource.TreeOfLife.FlavorDescription4,Een schitterende boom!,lvl 4-6 flavour text for living tree
+NaturalResource.TreeOfLife.FlavorDescription7,Er werd een eekhoorn gezien die offers stal!,lvl 7-9 flavour text for living tree
+NaturalResource.TreeOfLife.FlavorDescription10,Een boom gehuld in mist!,lvl 10-12 flavour text for living tree
+NaturalResource.TreeOfLife.FlavorDescription13,Deze prachtige boom is een zegen voor onze kolonie!,lvl 13+ flavour text for living tree
+NaturalResources.DaysToLevel,Volgende niveau over: {0} dagen,
+Need.FruitOfLife.DisplayName,Vrucht van het leven,
+NeedGroup.TreeOfLife.DisplayName,Levensboom,
+Need.TreeOfLife.BlessingMinor.DisplayName,Kleine zegen,
+Need.TreeOfLife.BlessingMajor.DisplayName,Grote zegen,
+Need.TreeOfLife.Blessing.DisplayName,Zegening,
+Need.TreeOfLife.CurseMinor.DisplayName,Kleine vloek,
+Need.TreeOfLife.CurseMajor.DisplayName,Grote vloek,
+Need.TreeOfLife.Curse.DisplayName,Vloek,
+Need.TreeOfLife.Cursed.CriticalDescription,Vervloekt door de boom,
+Need.TreeOfLife.Cursed.CriticalDescriptionShort,Vervloekt,
+Grauschweif.LevelingResource.Effects.Header,Effecten (bereik {0}),
+Grauschweif.LevelingResource.Effect.Blessing,<GreenHighlight>{0}▲</GreenHighlight>,
+Grauschweif.LevelingResource.Effect.Curse,<RedHighlight>{0}▼</RedHighlight>,
+Grauschweif.LevelingResource.Entity.GrowthEffect,<GreenHighlight>Laat planten sneller groeien ({0}%)</GreenHighlight>,
+Grauschweif.LevelingResource.Entity.WaterSeep,<YellowHighlight>Is een waterlek</YellowHighlight>,
+Grauschweif.LevelingResource.Entity.Seedling,<GreenHighlight>De boom is nog steeds erg klein.</GreenHighlight>,
+Grauschweif.LevelingResource.Entity.Level,<GreenHighlight>Een prachtige boom (<YellowHighlight>niveau {0}</YellowHighlight>).</GreenHighlight>,
+Grauschweif.LevelingResource.Entity.Dying,<YellowHighlight>De stervende boom hield alle zegeningen tegen!</YellowHighlight>,
+Grauschweif.LevelingResource.Entity.Died,<RedHighlight>De dode overblijfselen vervloeken je kolonie!</RedHighlight>,
+Grauschweif.LevelingResource.Entity.Reviving,Komt over {0} dagen weer tot leven.,
+Grauschweif.LevelingResource.Entity.RevivalButton,Herleven ({0} wetenschapspunten),
+Grauschweif.LevelingResource.Ground.EntitySeedPlanted,<GreenHighlight>Er is een boom geplant en deze zal binnenkort verschijnen.</GreenHighlight>,
+Grauschweif.LevelingResource.Ground.LevelDescription,<YellowHighlight>Huidig ​​niveau {0}.</YellowHighlight>,
+Grauschweif.LevelingResource.Ground.NoLevelDescription,<YellowHighlight>Deze plek is nog steeds erg fris en kaal. Het kan zich ontwikkelen naarmate de boom groeit.</YellowHighlight>,

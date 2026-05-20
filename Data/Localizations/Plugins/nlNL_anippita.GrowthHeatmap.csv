@@ -1,0 +1,5 @@
+ID,Text,Comment
+GrowthHeatmap.HotkeyGroup,Groei Heatmap,
+GrowthHeatmap.ToggleTrees,Schakel Boom Heatmap in/uit,
+GrowthHeatmap.ToggleCrops,Schakel Gewassen Heatmap in/uit,
+GrowthHeatmap.ToggleAll,Schakel alle Heatmaps in/uit,

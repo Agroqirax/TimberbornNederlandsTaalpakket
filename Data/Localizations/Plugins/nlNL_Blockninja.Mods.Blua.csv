@@ -1,0 +1,4 @@
+ID,Text,Comment
+Building.Scripter.DisplayName,Scripter,
+Building.Scripter.Description,Maakt het mogelijk de automatisering te besturen via Lua-scripts,
+Building.Scripter.FlavorDescription,"Sommigen zeggen dat de reden waarom mensjen faalden, was vanwege Lua's op 1 gebaseerde indexering...",

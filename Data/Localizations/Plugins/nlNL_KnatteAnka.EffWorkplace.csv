@@ -1,0 +1,47 @@
+ID,Text,Comment
+Knatte.EfficientWoodWorkshop.DisplayName,Efficiënte houtwerkplaats,-
+Knatte.EfficientWoodWorkshop.Description,Efficiëntere houtwerkplaats die ook tandwielen van boomstammen kan maken,-
+Knatte.EfficientWoodWorkshop.FlavorDescription,nader bekend,Fixed to match official styling
+Knatte.EfficientGear.PluralDisplayName,Efficiënte versnellingen,
+Knatte.EfficientPlank.PluralDisplayName,Efficiënte planken,
+Knatte.EfficientTreatedPlank.PluralDisplayName,Efficiënt behandelde planken,
+Knatte.Recipe.Name,Recept:,
+//,/Transport / Bouwen /,
+Knatte.EfficientBuildersHut.DisplayName,Efficiënte bouwhut,
+Knatte.EfficientBuildersHut.Description,Sneller en sterker besteden bouwers hun nutteloze tijd aan het oefenen of sleutelen aan hun gereedschapskisten.,
+Knatte.EfficientBuildersHut.FlavorDescription,"Knap gedaan, geweldige machine!",
+Knatte.EfficientHaulingPost.DisplayName,Efficiënte transportpost,
+Knatte.EfficientHaulingPost.Description,Transportpost met trainingsapparatuur zodat ze een snelheidsboost krijgen bij het afleveren van goederen,
+Knatte.EfficientHaulingPost.FlavorDescription,Waarom rusten als je kunt sporten terwijl je wacht?,
+//,/Vlag/,
+Knatte.EfficientLumberjackFlag.DisplayName,Efficiënte houthakkersvlag,
+Knatte.EfficientLumberjackFlag.Description,"Houthakker met harnas voor meer draagvermogen
+Als er niets te snijden is, zal het helpen om wat goederen te vervoeren.",
+Knatte.EfficientLumberjackFlag.FlavorDescription,nader bekend,
+Knatte.EfficientGathererFlag.DisplayName,Efficiënte verzamelaarsvlag,
+Knatte.EfficientGathererFlag.Description,Verzamelaar met schaar voor een snellere werksnelheid.,
+Knatte.EfficientGathererFlag.FlavorDescription,nader bekend,
+Knatte.EfficientScavengerFlag.DisplayName,Efficiënte scavengervlag,
+Knatte.EfficientScavengerFlag.Description,Aaseter met harnas voor meer draagvermogen.,
+Knatte.EfficientScavengerFlag.FlavorDescription,nader bekend,
+//,//,
+Knatte.EfficientWaterExperiments.Displayname,Efficiënte waterexperimenten,
+Knatte.EfficientWaterExperiments.Description,"Een gespecialiseerd laboratorium op een heuvel, ontworpen voor onconventionele experimenten. 
+Zorg ervoor dat de achterste kelderput op een stevige ondergrond staat voor stabiliteit.
+Ingangen: bronwater, water of slecht water.
+Let op: Verander het recept en de brandstof is mogelijk op!",
+Knatte.EfficientLumberjackFlag.FlavorDescription,"""Ik hoop dat dit geen boem wordt"" - Willekeurige bever",
+Knatte.EfficientScienepoints,Wetenschap,
+Knatte.EfficientScienepoints.Water,Wetenschap met water,
+Knatte.EfficientScienepoints.BadWater,Wetenschap met slecht water,
+//,//Waterpomp//,
+Knatte.EfficientWaterPump.DisplayName,Efficiënte waterpomp,
+Knatte.EfficientWaterPump.Description,"Pomp die zonder arbeider kan werken, kracht gebruikt om te pompen en diep kan pompen.",
+Knatte.EfficientWaterPump.FlavorDescription,tbd,
+Knatte.EfficientBadWaterPump.DisplayName,Efficiënte slechte waterpomp,
+Knatte.EfficientBadWaterPump.Description,"Slechte waterpomp die zonder arbeider kan werken, stroom gebruikt om te pompen en diep kan pompen.",
+Building.BadwaterPump.FlavorDescription,"""Jack it up"" - Jaymack-bever",
+//,//Voedsel,
+Knatte.EfficientBarnHouse.DisplayName,Efficiënt schuurhuis,
+Knatte.EfficientBarnHouse.Description,Grote schuur met meer gereedschap voor efficiënt werken en veel opslagruimte voor geoogste gewassen.,
+Knatte.EfficientBarnHouse.FlavorDescription,tbd,

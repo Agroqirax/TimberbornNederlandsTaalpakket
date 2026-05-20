@@ -1,0 +1,7 @@
+ID,Text,Comment
+BuildingMover.MoveButton,Beweging,Label of the move-building button on the entity panel
+BuildingMover.MoveTooltip,Raap dit gebouw op en plaats het ergens anders,Tooltip for the move button
+BuildingMover.ToolDescription,Klik op een tegel om het gebouw te laten vallen. Klik met de rechtermuisknop of Esc om te annuleren.,Description shown while the move tool is active
+BuildingMover.MoveObject,Gebouw verplaatsen,Display name of the move-building key binding
+BuildingMover.MoveCostPercent,Verhuiskosten (%),Mod settings label for the move cost slider
+BuildingMover.MoveCostPercentTooltip,Percentage van de bouwmaterialen van het gebouw dat voor elke verplaatsing in rekening wordt gebracht. 0 betekent gratis. Materialen worden eerst uit openbare voorraden in het brondistrict gehaald en vervolgens uit nabijgelegen districten.,Tooltip for the move cost slider

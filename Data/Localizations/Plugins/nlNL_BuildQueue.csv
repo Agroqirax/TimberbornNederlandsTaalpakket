@@ -1,0 +1,20 @@
+ID,Text,Comment
+BuildQueue.Panel.Title,BOUW WACHTRIJ,Header of the BuildQueue side panel
+BuildQueue.Panel.Sites,{0} bouwplaatsen,Subtitle showing total construction site count (plural)
+BuildQueue.Panel.Site,{0} bouwplaats,Subtitle showing total construction site count (singular)
+BuildQueue.Section.Active,ACTIEF,Section header for active construction sites
+BuildQueue.Section.Scaffolds,STEIGERS,Section header for platform/scaffold construction sites
+BuildQueue.Section.Paused,GEPAUZEERD,Section header for player-paused construction sites
+BuildQueue.Empty.Active,Geen actieve bouwplaatsen.,Empty-state copy for the Active section
+BuildQueue.Filter.AllDistricts,Alle wijken,Default district filter option
+BuildQueue.Sort.Priority,Sorteren: Prioriteit,Sort indicator pill (read-only in v1)
+BuildQueue.Priority.VeryHigh,Zeer hoog,Priority tier label (matches BuildPriorityTier.VeryHigh)
+BuildQueue.Priority.High,Hoog,Priority tier label
+BuildQueue.Priority.Normal,Normaal,Priority tier label
+BuildQueue.Priority.Low,Laag,Priority tier label
+BuildQueue.Priority.VeryLow,Zeer laag,Priority tier label (matches BuildPriorityTier.VeryLow)
+BuildQueue.TopBar.Tooltip,Bouw wachtrij,Tooltip on the top-bar toggle button
+BuildQueue.Settings.Description,Toon of verberg het bouwwachtrijpaneel via de bovenste balk of sneltoets. De schakelsneltoets bevindt zich nu in Instellingen -> Sneltoetsen (standaard: B).,Header text in the mod settings page
+BuildQueue.KeyBindings.GroupName,Bouw wachtrij,Header for the BuildQueue group on the Settings -> Keybindings screen
+BuildQueue.KeyBindings.Toggle,Schakel het paneel voor het maken van wachtrijen in of uit,Display name for the BuildQueue toggle key binding
+BuildQueue.Cancel.Tooltip,Bouw annuleren (Shift+klik om de prompt over te slaan),Tooltip on the per-row cancel-construction X button

@@ -1,0 +1,34 @@
+ID,Text,Comment
+grantemsley.BeaverTaskDisplay.Idle,Inactief,Shown when the entity has no current task.
+grantemsley.BeaverTaskDisplay.TaskPrefix,Taak: {0},Wraps all task descriptions. {0} is the task name. Translators can reorder or reword as needed.
+grantemsley.BeaverTaskDisplay.Executor.Waiting,Wachten,
+grantemsley.BeaverTaskDisplay.Executor.Building,Gebouw,
+grantemsley.BeaverTaskDisplay.Executor.Demolishing,Slopen,
+grantemsley.BeaverTaskDisplay.Executor.Planting,Planten,
+grantemsley.BeaverTaskDisplay.Executor.WalkingTo,Lopen naar,Fallback when walking to a building but the behavior type is not recognized. Building name follows.
+grantemsley.BeaverTaskDisplay.Executor.Working,Werken,
+grantemsley.BeaverTaskDisplay.Executor.Entering,Binnenkomen,Fallback when entering a building but the behavior type is not recognized. Building name follows.
+grantemsley.BeaverTaskDisplay.Executor.Walking,Lopen,Fallback when walking to a position with no entity destination and no recognized behavior.
+grantemsley.BeaverTaskDisplay.Executor.Producing,Produceren,
+grantemsley.BeaverTaskDisplay.Executor.Harvesting,Oogsten,
+grantemsley.BeaverTaskDisplay.Animation.Eating,Eten,Shown when eating. Also used for the Hunger need via slot-based buildings.
+grantemsley.BeaverTaskDisplay.Animation.Drinking,Drinken,Shown when drinking. Also used for the Thirst need via slot-based buildings.
+grantemsley.BeaverTaskDisplay.Animation.Sleeping,Slapen,Shown when sleeping. Also used for the Sleep need via slot-based buildings.
+grantemsley.BeaverTaskDisplay.Animation.Bathing,Baden,Shown when bathing. Also used for the WetFur need via slot-based buildings.
+grantemsley.BeaverTaskDisplay.Animation.HavingFun,Plezier hebben,
+grantemsley.BeaverTaskDisplay.Animation.Healing,Genezen,Shown when healing. Also used for the Injury need via slot-based buildings (e.g. medical bed).
+grantemsley.BeaverTaskDisplay.Animation.Resting,Rusten,
+grantemsley.BeaverTaskDisplay.Walk.HaulFrom,Slepen van,Prefix before building name when walking to pick up goods. Building name follows.
+grantemsley.BeaverTaskDisplay.Walk.HaulTo,Slepen naar,Prefix before building name when walking to deliver goods. Building name follows.
+grantemsley.BeaverTaskDisplay.Walk.WorkAt,Lopen naar het werk,Prefix before building name when walking to a workplace. Building name follows.
+grantemsley.BeaverTaskDisplay.Walk.BuildAt,Lopen om te bouwen,Prefix before building name when walking to a construction site. Building name follows.
+grantemsley.BeaverTaskDisplay.Walk.DemolishAt,Lopen om te slopen,Prefix before building name when walking to demolish. Building name follows.
+grantemsley.BeaverTaskDisplay.Walk.HarvestAt,Lopen om te oogsten,Prefix before building name when walking to harvest/gather/log. Building name follows.
+grantemsley.BeaverTaskDisplay.Walk.Plant,Lopen om te planten,Complete text when walking to a tile position to plant (no entity destination).
+grantemsley.BeaverTaskDisplay.Walk.Sleep,Lopen om te slapen,Complete text when walking to a sleep position with no building destination.
+grantemsley.BeaverTaskDisplay.Walk.SleepAt,Lopen om te slapen,Prefix before building name when walking to sleep inside a building. Building name follows.
+grantemsley.BeaverTaskDisplay.Walk.EatAt,Wandelen om te eten,Prefix before building name when walking to eat. Building name follows.
+grantemsley.BeaverTaskDisplay.Walk.DrinkAt,Lopen om te drinken,Prefix before building name when walking to drink. Building name follows.
+grantemsley.BeaverTaskDisplay.Walk.VisitAt,Wandelen om te bezoeken,Prefix before building name when walking to an attraction. Building name follows.
+grantemsley.BeaverTaskDisplay.Behavior.EmptyingOutput,Uitvoer leegmaken,Shown when emptying a workshop's output with no active walking executor.
+grantemsley.BeaverTaskDisplay.Behavior.FillingInput,Invoer vullen,Shown when filling a workshop's input with no active walking executor.

@@ -1,0 +1,88 @@
+ID,Text,Comment
+Building.AridFarmhouse.Description,Heeft gespecialiseerde boeren in dienst die <YellowHighlight>Arid</YellowHighlight> gewassen planten en oogsten.,"Arid is a keyword, must be the same as in NaturalResources.Arid."
+Building.AridFarmhouse.DisplayName,Dorre boerderij,A farmhouse that specializes in dry plants.
+Building.AridFarmhouse.FlavorDescription,'Er was eens het gerucht dat we vis aten. Walgelijk!' —Ma'Ngonel,"Beavers eating fish is a common misconception. Beavers are 100% herbivores. Ma' Ngonel is an almost legendary figure - a beaver grandma, known for her stern hand, cooking skills and respect among both kits and adult beavers. Her name is an inside joke, as our community constantly demands an addition of catapults, mangonels etc."
+Building.CombustionEngine.Description,Verbrandt brandstof om kracht te creëren.,
+Building.CombustionEngine.DisplayName,Verbrandingsmotor,
+Building.CombustionEngine.FlavorDescription,"Hoe geweldig deze uitvinding ook is, ze werd een doorn in het oog van andere bevernaties dan Badfurs.","Badfurs is one of the playable factions, with the Engine being one of their unique buildings."
+Building.BadwaterTap.Description,"Dicht een Badtide-afvoer af. Kan geopend of gesloten worden. Wanneer deze open is, stroomt er onder alle weersomstandigheden slecht water.","Badtide Drain must be the same as Building.BadtideDrain.DisplayName, Badwater must be the same as Good.Badwater.DisplayName."
+Building.BadwaterTap.DisplayName,Slechtwaterkraan,Name of the building that can either stop flow of badwater or enforce flow with full power. It's a mechanical building that functions like a pump. Badwater must be the same as Good.Badwater.DisplayName.
+Building.Distillery.Description,Distillaten,
+Building.Distillery.DisplayName,Distilleerderij,
+Building.Distillery.FlavorDescription,Het destilleerapparaat wordt uitsluitend voor niet-medische doeleinden gebruikt.,A reference to the Herbalist flavor description.
+Building.FoodDehydrator.Description,Droogt voedsel,
+Building.FoodDehydrator.DisplayName,Voedseldroger,
+Building.FoodDehydrator.FlavorDescription,"Zorgt voor een droog, droog dessert!","This is a reference to ""Dry Dry Desert"" from Super Mario."
+Building.FoodPress.Description,Drukt voedsel in repen.,
+Building.FoodPress.DisplayName,Voedselpers,
+Building.FoodPress.FlavorDescription,Kom genieten van de heerlijke rabarberrepen van Beavara,"This is a reference to the German ""Rhabarberbarbara"" tongue-twister."
+Building.FuelStation.Description,Een plek waar robots komen tanken.,Bots should be the same as Bot.PluralDisplayName
+Building.FuelStation.DisplayName,Brandstofstation,A mechanically powered building where bots come to refuel
+Building.FuelStation.FlavorDescription,Harde werkers hebben een hoog octaangehalte nodig.,Referring the octane rating of fuel
+Building.HonorToTheFallen.DisplayName,Eer aan de gevallenen,A monument of two beavers standing in front of a headstone of a dead beaver
+Building.HonorToTheFallen.FlavorDescription,"Niet iedereen die de woestenij trotseert, haalt het.",
+Building.HydrationBarrier.Description,"Voorkomt dat de hydratatie van de bodem zich eronder verspreidt, maar maakt verontreiniging mogelijk.",Name of the building that stops spreading soil moisture that's placed on the ground and is presented as square with objects sticking out of the ground.
+Building.HydrationBarrier.DisplayName,Hydratatiebarrière,Name of the building that stops spreading soil moisture that's placed on the ground and is presented as square with objects sticking out of the ground. Barrier should be the same between Building.IrrigationBarrier.DisplayName and Building.ContaminationBarrier.DisplayName.
+Building.HydrationBarrier.FlavorDescription,De Badfurs beheersen graag elk aspect van het leven in de woestijn.,Iron Teeth must be the same as Faction.Badfurs.DisplayName.
+Building.IndustrialRefinery.Description,Produceert brandstof voor robots en motoren.,Bots should be the same as Bot.PluralDisplayName.
+Building.IndustrialRefinery.DisplayName,Industriële raffinaderij,A building where badwater is processed to make fuel
+Building.IndustrialRefinery.FlavorDescription,"Verminderen, verfijnen, recyclen.","Adapted ""Reduce, reuse, recycle"" tagline."
+Building.LargeBadwaterPump.Description,Pompt en filtert grote hoeveelheden slecht water zodat bevers kunnen drinken. Een lage verontreiniging met slecht water vertraagt ​​de pompsnelheid.,Badwater should be the same as Good.Badwater.DisplayName. Ideally all uses of the word contaminate/contamination/contaminated should be uniform across the project.
+Building.LargeBadwaterPump.DisplayName,Grote Slechtwaterpomp,A large variant of the normal badwater pump. Pump should be the same as in Building.WaterPump.DisplayName.
+Building.LargeBadwaterPump.FlavorDescription,"""Met het waterreservoir kunnen we elke dag drinken."" - ""De oevers van Beaver Bay""","""The Shores of Beaver Bay"" is a song composed by the Timberborn community."
+Building.LargeSilo.DisplayName,Grote Silo,
+Building.ResearchLab.Description,Bevers trekken hun laboratoriumjassen aan om wetenschap te onderzoeken met geavanceerde technieken.,A building where beavers research science
+Building.ResearchLab.DisplayName,Onderzoekslaboratorium,A building where beavers research science. 'Lab' is short for 'Laboratory'.
+Building.ResearchLab.FlavorDescription,"""Probeer misschien eens de wetenschap op zichzelf te gooien"" -Furmi","A reference to Fermilab, the basis for the research lab model. It is a particle accelerator named after Enrico Fermi."
+Building.ScienceMonument.DisplayName,Wetenschapsmonument,A monument of a beaver holding up a telescope
+Building.ScienceMonument.FlavorDescription,De wetenschap heeft ervoor gezorgd dat de Badfurs konden overleven en dat moet gevierd worden.,
+Building.Silo.Description,Een plek om bevers 's nachts op te bergen,
+Building.Silo.DisplayName,Silo,
+Building.Silo.FlavorDescription,"""Ik wil naar buiten."" —Ol' Kazko",A reference to the series Silo
+Building.UndergroundWarehouse.DisplayName,Ondergronds magazijn,"The underground version of a warehouse, for reference check Building.SmallWarehouse.DisplayName or Building.LargeWarehouse.DisplayName"
+Building.WaterTurbine.DisplayName,Waterturbine,
+Faction.Badfurs.DisplayName,Slecht bont,Name of a faction
+Faction.Badfurs.Description,"Als overlopers van de traditionele houtmethoden evolueerden ze om te gedijen in de vervuilde woestenij.
+Ze bereiken vooruitgang door vindingrijkheid, efficiëntie en minachting voor het milieu.
+Hun motto: <i>Brand, beverbrand</i>",Description of a beaver faction
+Faction.Badfurs.GameOver.Message,Je Badfurs zijn gesmolten. Dit is het einde.,Text of the game over panel
+Faction.Badfurs.GameOver.Flavor,Je hebt de apocalyps niet kunnen concretiseren,"Flavor text of the game over pane, a reference to ""Conker's Bad Fur Day"""
+Good.Badshine.DisplayName,Badschijn,A portmanteu of Badwater and Moonshine.
+Good.Badshine.PluralDisplayName,Badschijn,A portmanteu of Badwater and Moonshine.
+Good.BerryBar.DisplayName,Bessenreep,
+Good.BerryBar.PluralDisplayName,Bessenrepen,
+Good.CornFlakes.DisplayName,Cornflakes,Corn should be the same as Good.Corn.DisplayName
+Good.CornFlakes.PluralDisplayName,Cornflakes,Corn should be the same as Good.Corn.DisplayName
+Good.DriedBerries.DisplayName,Gedroogde bessen,Berries should be the same as Good.Berries.DisplayName
+Good.DriedBerries.PluralDisplayName,Gedroogde bessen,Berries should be the same as Good.Berries.DisplayName
+Good.GrilledEggplant.DisplayName,Gegrilde Aubergine,Eggplant should be the same as Good.Eggplant.DisplayName.
+Good.GrilledEggplant.PluralDisplayName,Gegrilde Aubergines,Eggplant should be the same as Good.Eggplant.DisplayName.
+Good.GrilledPricklyPear.DisplayName,Gegrilde Cactusvijg,Prickly Pear should be the same as Good.PricklyPear.DisplayName.
+Good.GrilledPricklyPear.PluralDisplayName,Gegrilde Stekelige Peren,Prickly Pear should be the same as Good.PricklyPear.DisplayName.
+Good.JuniperBerry.DisplayName,Jeneverbes,
+Good.JuniperBerry.PluralDisplayName,Jeneverbessen,
+Good.PricklyPear.DisplayName,Stekelige peer,
+Good.PricklyPear.PluralDisplayName,Stekelige Peren,
+Good.Rhubarb.DisplayName,Rabarber,
+Good.Rhubarb.PluralDisplayName,Rabarber,
+Good.RhubarbBar.DisplayName,Rabarberreep,
+Good.RhubarbBar.PluralDisplayName,Rabarberrepen,
+NaturalResources.Arid,<YellowHighlight>Dor</YellowHighlight>: deze plant moet op droog land worden geplant.,Arid is a keyword. Shown after selecting an arid plant. Examples of arid plants include cacti or aloe vera.
+NaturalResources.Boosted,Het is bewaterd en bloeit.,Shown when plant is healthy and boosted
+NaturalResource.Juniper.DisplayName,Jeneverbes,Tree of the genus Juniperus
+NaturalResource.PricklyPear.DisplayName,Stekelige peer,Should be consistent with Good.PricklyPear.DisplayName
+NaturalResource.Rhubarb.DisplayName,Rabarber,Should be consistent with Good.Rhubarb.DisplayName
+NaturalResource.Rhubarb.FlavorDescription,Badfurs was resistent tegen de giftige bladeren en vond rabarber de perfecte zoete lekkernij.,Raw rhubarb leaves are poisonous but the stalk is sweet like fruit.
+NaturalResources.WaterResistance,Waterbestendigheid: {0} dagen,The number of days a plant can survive in a flood.
+NewGameConfigurationPanel.BadAge,Slechte leeftijd,Game Mode for use with Badfurs
+NewGameConfigurationPanel.BadAgeDescription,"De mensjen hebben de wereld in een slechte staat achtergelaten.
+
+Je nederzetting begint met gematigde middelen.
+
+Badtides komen veel vaker voor en zijn ernstiger.
+
+Bedoeld voor gebruik met de Badfurs","Badtide should be the same as Weather.Badtide, Badfurs should be the same as Faction.Badfurs.DisplayName"
+Status.Buildings.BlockedByWater,Dit gebouw is geblokkeerd door water.,Shown as status when badwater contamination affects building and requires it to work.
+Status.Buildings.BlockedByWater.Short,Geblokkeerd door water,Shown as status when badwater contamination affects building and requires it to work (please keep short).
+Status.NaturalResources.Dying,Sterven.,Shown when an arid plant is dying because it has too much water
+Buildings.UnsuitableBuildingNeighbor,Dit gebouw moet naast {0} worden gebouwd,{0} stands for another buildings DisplayName. This is a warning shown to the user during building placing.

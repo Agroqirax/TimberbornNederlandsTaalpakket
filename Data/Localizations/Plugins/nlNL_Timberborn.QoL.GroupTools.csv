@@ -1,0 +1,3 @@
+ID,Text,Comment
+GroupTools.DeleteConfirm,De geselecteerde objecten verwijderen ({0})?,Confirmation shown before deleting the Shift-selected group
+GroupTools.CopyToolDescription,Klik om de gekopieerde groep te plaatsen. Draai en draai hem om met je gebruikelijke bouw toetsen. Klik met de rechtermuisknop of Esc om te annuleren.,Shown while the group copy tool is active
