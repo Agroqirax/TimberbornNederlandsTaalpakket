@@ -1,0 +1,10 @@
+ID,Text,Comment
+blight.settings.profile,De ernst van de ziekte,
+blight.settings.profile.tooltip,"Moeilijkheidsgraad verhogen of verlagen. Voordat iemand erom vraagt, is dit met opzet alleen ingesteld op het hoofdmenu en niet midden in het spel, om ervoor te zorgen dat de instellingen correct worden toegepast.",
+blight.settings.profile.dormant,Slapend (gemakkelijkst),
+blight.settings.profile.creeping,Kruipend,
+blight.settings.profile.outbreak,Uitbraak (standaard),
+blight.settings.profile.epidemic,Epidemie,
+blight.settings.profile.plague,Pest (HEEL moeilijk!),
+blight.settings.allowhazardousweather,"Verspreiding tijdens gevaarlijk weer (droogte, slechte tij)",
+blight.settings.allowhazardousweather.tooltip,"Indien aangevinkt, kunnen sporenwolkgebeurtenissen optreden tijdens een droogt of slechte tij.",

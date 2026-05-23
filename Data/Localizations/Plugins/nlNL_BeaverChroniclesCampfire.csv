@@ -1,0 +1,242 @@
+ID,Text,Comment
+LV.BCEv.CampfireMystery.WaitNight,Wacht op de nacht...,
+LV.BCEv.CampfireMystery.WaitPrompt,"Nu het kampvuur is gebouwd, lijkt de kolonie al warmer.
+Bevers kijken ernaar tussen taken door en wisselen gissingen uit over de verhalen die zullen worden verteld aan het einde van de werkdag. Sommigen willen oude legendes. Sommigen willen grappen. Je houdt vol dat elk echt kampvuurverhaal minstens één mysterieuze klap nodig heeft.
+Verzamel de kolonie als het laat wordt.
+[[C]]Wacht tot [[time:{0:0}h]] om het verhaal te beginnen.",
+LV.BCEv.CampfireMystery1,Kampvuurmysterie: de staart die driemaal klopte,
+LV.BCEv.CampfireMystery1.Content,"Het kampvuur brandt laag en de kolonie komt dichterbij. In eerste instantie behoort de avond tot gewone dingen: vermoeide poten, warm licht, oude grappen en het geruststellende geknetter van hout dat as wordt. Dan klinkt er iets vanuit het donker achter het vuurlicht.
+[[C]]<YellowHighlight><i>Klop. Klop. Klop.</i></YellowHighlight>
+Niemand beweegt. Een jonge bever fluistert dat hij uit de bomen kwam. Een ouderling houdt vol dat het gewoon oud hout was. Iemand anders wijst erop dat oud hout meestal niet beleefd wacht tussen de stoten door.
+Het vuur knettert. Vonken drijven omhoog. Ieder oog richt zich naar het donker achter de cirkel. Dan komt het weer.
+[[C]]<YellowHighlight><i>Klop. Klop. Klop.</i></YellowHighlight>
+Deze keer is het geluid dichterbij. Tegen de ochtend vindt de kolonie modderige pootafdrukken bij de opslagpalen, een paar ontbrekende voorraden en een vreemde spiraal die in een plank is gekrast. Het lijkt bijna op de staart van een bever, al had de bever die hem tekende er nog nooit een duidelijk gezien. Tegen zonsondergang heeft elke bever een theorie.
+[[C]]Een geest uit de Old Banks.
+[[C]]Een dief met hele kleine pootjes.
+[[C]]Een waarschuwing uit het bos.
+[[C]]Een grap van iemand met te veel vrije tijd.
+[[C]]<i>Of iets ergers.</i>
+Vanavond zal het kampvuur weer branden. De kolonie moet beslissen welk antwoord ze uit het donker wil.",
+LV.BCEv.CampfireMystery1.C1,Voed het vuur,
+LV.BCEv.CampfireMystery1.C1N,[[C]]Betaal [[good:{0}:{1}]] om het kampvuur de hele nacht helder te houden.,
+LV.BCEv.CampfireMystery1.C2,Laat voedsel buiten het licht,
+LV.BCEv.CampfireMystery1.C2N,"[[C]]Betaal [[good:{0}:{1}]] als aas, eerbetoon of diner. Het verschil is vooral vertrouwen.",
+LV.BCEv.CampfireMystery1.C3,Vraag de uitvinder om te luisteren,
+LV.BCEv.CampfireMystery1.C3N,[[C]]Betaal [[good:{0}:{1}]] om het kloppen te onderzoeken met iets dat betrouwbaarder is dan paniek.,
+LV.BCEv.CampfireMystery1.O1,"De bevers stapelen verse houtblokken naast het kampvuur en houden de vlammen hoog.
+Het donker verdwijnt niet. Het trekt zich alleen terug.
+De hele nacht kijkt de kolonie toe hoe het licht van het vuur tegen de bomen, de stapels en de oneffen grond buiten het kamp drukt. Het geklop klinkt die nacht nog twee keer, maar telkens verder weg, alsof alles wat buiten de cirkel wacht, weigert de gloed binnen te gaan.
+Bij zonsopgang ontbreken de ontbrekende voorraden nog steeds. Het spiraalvormige merkteken is nog steeds in de plank uitgehouwen.
+Maar de kolonie heeft één ding geleerd.
+<b>Wat het geluid ook maakt, het houdt er niet van om gezien te worden.</b>",
+LV.BCEv.CampfireMystery1.O2,"De bessen worden voorzichtig aan de rand van het vuurlicht geplaatst.
+Niemand is het erover eens wat dit betekent.
+Sommigen noemen het aas. Sommigen noemen het barmhartigheid. Een zeer nerveuze bever noemt het diplomatie en staat erop dat de kom lichtjes wordt gedraaid om respect te tonen.
+Tegen de ochtend zijn de bessen verdwenen. De kom blijft.
+Het is teruggeduwd richting het kampvuur, slecht schoongemaakt, met een kleine spiraal ernaast in het vuil gekrast. Het merkteken voelt minder als een bedreiging. Meer als een antwoord.
+De kolonie weet niet wat er achter het licht wacht.
+<b>Maar nu weet het dat het donker honger had.</b>",
+LV.BCEv.CampfireMystery1.O3,"De Uitvinder arriveert met een apparaat gemaakt van hol riet, een gebogen kom, uitgerekte schors en het absolute vertrouwen van iemand die nog niets heeft getest.
+De kolonie verzamelt zich terwijl het vreemde gereedschap naar het donker wordt gericht.
+Een tijdlang zijn er alleen wind, vuur en ongemakkelijke stilte.
+Dan komt het kloppen weer.
+[[C]]<YellowHighlight><i>Klop. Klop. Klop.</i></YellowHighlight>
+De oren van de uitvinder schieten omhoog. Het geluid komt niet uit de bomen. Het komt niet eens van achter het kampvuur.
+Het apparaat vangt een echo op van onder het opslagplatform, hol en zwak, asof de kolonie al die tijd de verkeerde kant op luisterde.
+Tegen de ochtend voelt het spiraalvormige merkteken minder als een vloek en meer als een aanwijzing.",
+LV.BCEv.CampfireMystery2,Kampvuurmysterie: het spiraalpad,
+LV.BCEv.CampfireMystery2.Content,"{0}
+De volgende nacht wordt het kampvuur weer aangestoken.
+Niemand beweert meer dat dit alleen voor verhalen is.
+De bevers zitten dichter bij elkaar dan normaal. Sommigen kijken naar de bomen. Sommigen kijken naar de opslagpalen. Eén bever kijkt vooral naar de andere toeschouwers en noemt dat “strategie”.
+Dan komt het kloppen weer.
+[[C]]<YellowHighlight><i>Klop. Klop. Klop.</i></YellowHighlight>
+Deze keer weet de kolonie genoeg om bang te zijn.
+{1}
+Een paar bevers beweren dat het een waarschuwing is. Anderen denken dat het een pad is. De uitvinder zegt dat het absoluut bewijs is, hoewel het bewijs van wat ongemakkelijk onduidelijk blijft.
+De kolonie weet nu één ding zeker:
+<b>De spiraal is niet willekeurig.</b>
+{2}
+Vanavond moeten de bevers beslissen hoe nauw ze het willen volgen.",
+LV.BCEv.CampfireMystery2.Content.Ch1C1,"Nadat het vuur was aangestoken, eindigde de eerste nacht met een vreemde les: wat er ook achter het geluid zite, vermeed het licht.
+Dus vanavond worden de boomstammen hoger gestapeld. De vlammen stijgen helderder op. De kolonie wacht in een bredere cirkel van warmte, in de hoop dat uit hout moed kan worden opgebouwd.",
+LV.BCEv.CampfireMystery2.Content.Ch1C2,"Nadat de bessen verdwenen waren, eindigde de eerste nacht met één vreemde les: wat daar in het donker wachtte, had honger.
+Dus vanavond staat de geretourneerde kom bij het kampvuur, waar iedereen hem kan zien. Niemand is het erover eens of het een bewijs is van barmhartigheid, manieren of een zeer selectieve eetlust.",
+LV.BCEv.CampfireMystery2.Content.Ch1C3,"Nadat het apparaat van de uitvinder de holle echo had opgevangen, eindigde de eerste nacht met een vreemde les: het geluid kwam misschien helemaal niet uit de bomen.
+Dus vanavond staat het apparaat als een geëerde gast naast het kampvuur, hoewel verschillende bevers privé opmerken dat het er nog steeds uitziet als een beker die aan een fout is vastgemaakt.",
+LV.BCEv.CampfireMystery2.Content.ClueCh1C1,"Wanneer de vlammen opkomen, verdwijnt het kloppen. Als het vuur is gedoofd, keert het terug. Wat er ook is, ontvlucht het kampvuur niet volledig, maar blijft aan de rand van de gloed.",
+LV.BCEv.CampfireMystery2.Content.ClueCh1C2,"De kom wordt vóór zonsopgang weer gevonden. Het is iets dichter bij het kamp geschoven en weer slecht schoongemaakt. De boodschap blijft onduidelijk, maar de zorgzaamheid niet.",
+LV.BCEv.CampfireMystery2.Content.ClueCh1C3,"Wanneer het kloppen begint, richt de uitvinder het apparaat op de bomen. Niets. Dan richting de opslagpalen. De uitgerekte schors trilt. De holle echo keert van beneden terug.",
+LV.BCEv.CampfireMystery2.Content.ToneCh1C1,"Het merkteken wijst richting het oude opslagplatform, net voorbij de plek waar het vuurlicht het sterkst was. De kolonie vraagt zich af of het duister zich terugtrekt, of hen eenvoudigweg uitnodigt om te volgen.",
+LV.BCEv.CampfireMystery2.Content.ToneCh1C2,"Het merkteken wijst richting het oude opslagplatform. Als het een spoor is, is het achtergelaten door iemand die voorzichtig is. Als het een waarschuwing is, is deze achtergelaten door iemand die de kom alsnog heeft teruggegeven.",
+LV.BCEv.CampfireMystery2.Content.ToneCh1C3,"Het merkteken wijst richting het oude opslagplatform, precies waar het apparaat de holle echo hoorde. Voor één keer ziet de uitvinder er zowel zelfvoldaan als gealarmeerd uit.",
+LV.BCEv.CampfireMystery2.C3.Ch1C1,Verbreed de vuurlijn,
+LV.BCEv.CampfireMystery2.C3N.Ch1C1,[[C]]Betaal [[good:Log:{0}]] om het licht van het kampvuur verder in het donker te duwen.,
+LV.BCEv.CampfireMystery2.C3.Ch1C2,Laat nog een kom staan,
+LV.BCEv.CampfireMystery2.C3N.Ch1C2,[[C]]Betaal [[good:Berries:{0}]] om te zien of het duister twee keer vriendelijkheid antwoordt.,
+LV.BCEv.CampfireMystery2.C3.Ch1C3,Verbeter het luisterapparaat,
+LV.BCEv.CampfireMystery2.C3N.Ch1C3,[[C]]Betaal [[good:Science:{0}]] om het twijfelachtige apparaat van de uitvinder iets minder twijfelachtig te maken.,
+LV.BCEv.CampfireMystery2.O3.Ch1C1,"De bredere vuurlinie reikt verder dan ooit, en het donker geeft meer van zijn vorm op.
+Bij zonsopgang wordt er nog een spiraal in de grond gekrast nabij de oude opslagplatform. Bij de rand van het nieuwe licht vinden de bevers klauwsporen in het vuil, een moddervlek op oud hout en het merkteken wijst recht naar de opslagplaats.",
+LV.BCEv.CampfireMystery2.O3.Ch1C2,"De tweede kom is vóór zonsopgang verdwenen.
+Bij zonsopgang wordt er nog een spiraal gevonden nabij de oude opslagplatform. Daarnaast vinden de bevers drie bessen, gerangschikt in een nette lijn. Niet gegeten. Niet verborgen. Achtergelaten.
+Niemand weet of het een bedankje, een waarschuwing of vreselijke tafelmanieren betekent.",
+LV.BCEv.CampfireMystery2.O3.Ch1C3,"Het verbeterde apparaat werkt bijna té goed.
+Als er wordt geklopt, trilt de uitgerekte bast zo hard dat de Uitvinder gaat piepen. De echo zit duidelijk onder de oude opslagplatform.
+Bij zonsopgang wordt er nog een spiraal gevonden nabij de oude opslagplatform, precies waar de holle echo het sterkst was.
+De geest — als het al een geest is — blijkt verrassend gewone echo's te hebben.",
+LV.BCEv.CampfireMystery3,Kampvuurmysterie: de Kauwende Chewer,
+LV.BCEv.CampfireMystery3.Content,"{0}
+De volgende nacht is het kampvuur luider dan de verhalen.
+Iedere bever heeft een mening over de oude opslagplatform. Sommigen willen geduld. Sommigen willen bewakers. Sommigen willen dat de vloer meteen geopend wordt, bij voorkeur door iemand anders.
+Dan doen de jonge bevers hun voorstel.
+Ze hebben schorsmaskers, een bladcape en een heroïsche naam voorbereid die geen enkele volwassene zich herinnert.
+<b>De Gecapeerde Kauwer.</b>
+De oudsten staren.
+De uitvinder vraagt of dit een patrouille, een optreden of een arbeidsongeval is dat op getuigen wacht.
+De Gecapeerde Kauwer zegt dat het alle drie is, wat niet helpt.
+Toch moet de kolonie actie ondernemen. Er zit iets onder de oude opslagplatform. Iets hongerig, slim en bang om gezien te worden.
+Vanavond zullen de bevers niet meer wachten tot het kloppen naar hen toe komt.",
+LV.BCEv.CampfireMystery3.Content.Ch1C1,"De kolonie herinnert zich de manier waarop het kloppen zich terugtrok uit het licht.
+Als het ding dat wordt opgeslagen bang is voor de gloed, dan ligt het stoutmoedigste plan voor de hand: draag de gloed dichterbij.
+Dit is hoe de Gecapeerde Kauwer het uitlegt.
+Dit is ook hoe verschillende oudsten zich realiseren dat de cape waarschijnlijk brandbaar is.",
+LV.BCEv.CampfireMystery3.Content.Ch1C2,"De kolonie herinnert zich de lege kom, de ontbrekende bessen en de zorgvuldige spiraal die ernaast lag.
+Als het opgeslagen ding hongerig is, kan het misschien zonder angst naar buiten worden gehaald.
+Dit is hoe de Gecapeerde Kauwer het uitlegt.
+De uitvinder noemt het aas. De Gecapeerde Kauwer noemt het een heroïsche uitnodigingssnack.",
+LV.BCEv.CampfireMystery3.Content.Ch1C3,"De kolonie herinnert zich dat het apparaat van de uitvinder trillend richting de oude opslagplatform liep.
+Als het geluid van onderaf komt, moet de val bovenaan worden geplaatst.
+Dit is hoe de Gecapeerde Kauwer het uitlegt.
+De uitvinder is blij dat hij als bewijs wordt aangehaald en is gealarmeerd omdat hij in het plan wordt opgenomen.",
+LV.BCEv.CampfireMystery3.C1,Moedig de kauwende kauwer aan,
+LV.BCEv.CampfireMystery3.C1N,{0},
+LV.BCEv.CampfireMystery3.C1N.Ch1C1,[[C]]Betaal {0} om de held uit te rusten met een goede fakkelpatrouille.,
+LV.BCEv.CampfireMystery3.C1N.Ch1C2,[[C]]Betaal {0} om een heldhaftige uitnodigingssnack te bereiden met behulp van het zeer wetenschappelijke aasprotocol van de uitvinder.,
+LV.BCEv.CampfireMystery3.C1N.Ch1C3,[[C]]Betaal {0} om aas uit te zetten in de buurt van de oude opslagplatform en het horloge van de held verlicht te houden.,
+LV.BCEv.CampfireMystery3.C2,Plaats echte bewakers,
+LV.BCEv.CampfireMystery3.C2N,[[C]]Betaal {0} om de bewakers de hele nacht op de hoogte te houden.,
+LV.BCEv.CampfireMystery3.C3,Dicht de oude opslagplatform af,
+LV.BCEv.CampfireMystery3.C3N,[[C]]Betaal {0} om de verhoogde platformen te blokkeren en de gaten af te dichten.,
+LV.BCEv.CampfireMystery3.O1,"De Gecapeerde Kauwer neemt positie in nabij de oude opslagplatform.
+{0}
+Een tijdje gebeurt er niets.
+Dan komt het kloppen van onderaf.
+<YellowHighlight><i>Klop. Klop. Klop.</i></YellowHighlight>
+De Gecapeerde Kauwer heft één poot op voor stilte, wat indrukwekkender zou zijn als iedereen niet al was gestopt met ademen.
+Een schaduw beweegt onder het verhoogde platform.
+De held springt.
+De schaduw springt terug.
+De volgende momenten zijn vooral lawaai: schrapende klauwen, versplinterend hout, geschrokken kreten en één heroïsche verklaring die halverwege overgaat in piepen.
+Wanneer de kolonie binnenstormt, zijn de Gecapeerde Kauwer en de jonge vrijwilligers gekneusd en geschokt.
+Maar ze zijn niet met lege handen.
+In het licht van het vuur, uit de kapotte opslagruimte gesleept, ligt een bewusteloze bever die niemand herkent.
+[[C]][[-]]{1} Bever gewond.",
+LV.BCEv.CampfireMystery3.O1.Ch1C1,"De fakkel brandt helder genoeg om elk masker er moediger uit te laten zien dan de eigenaar. Harsrook krult door de stapels opslagplaatsen, scherp en goudkleurig, en duwt het donker in nauwe hoeken.",
+LV.BCEv.CampfireMystery3.O1.Ch1C2,De bessen worden met veel ceremonieel gerangschikt. De Gecapeerde Kauwer staat erop dat de kom in de heroïsche richting moet wijzen. Niemand vraagt welke richting dat is.,
+LV.BCEv.CampfireMystery3.O1.Ch1C3,"Het aas wordt bij de verhoogde platform geplaatst en de patrouille houdt het gebied verlicht. De Uitvinder geeft drie adviezen, twee waarschuwingen en één diagram waar niemand om heeft gevraagd.",
+LV.BCEv.CampfireMystery3.O2,"De bewakers nemen hun posten in nabij de oude opslagruimte.
+Ze hebben water, bessen en het soort moed dat stiller wordt naarmate de nacht langer duurt.
+Het kampvuur brandt achter hen. Voor hen uit kraken de stapels opslagplaatsen. Onder de verhoogde platform verschuift iets.
+Dan komt het kloppen.
+<YellowHighlight><i>Klop. Klop. Klop.</i></YellowHighlight>
+Eén bewaker roept.
+Weer een stap dichterbij.
+De vloer barst los.
+Een schaduw schiet van onderen op, snel en wild van paniek. De bewakers sluiten de rijen, maar het ding vecht alsof het al heeft besloten dat gevangenneming de dood betekent.
+Tegen de tijd dat de kolonie hen bereikt, raken verschillende bewakers gewond. Een kopje rolt over de aarde. Bessen verspreiden zich onder de voeten.
+Maar de schaduw is gevangen.
+In het licht van het vuur, eindelijk ingedrukt, ligt een bewusteloze bever die niemand herkent.
+[[C]][[-]]{0} Bevers gewond.",
+LV.BCEv.CampfireMystery3.O3,"Voor zonsondergang wordt de oude opslagplatform afgedicht.
+Over de verhoogde platformen worden planken gespijkerd. Gaten zijn geblokkeerd. Losse hoekjes worden platgedrukt totdat de vloer er weer gewoon uitziet.
+Een tijdje stopt het kloppen.
+Sommige bevers ontspannen.
+Dat is wanneer het terugkeert.
+<YellowHighlight><i>Klop. Klop. Klop.</i></YellowHighlight>
+Sneller deze keer.
+Luider.
+Geen waarschuwing van achter het donker, maar een wanhopig geluid van onderaf.
+De planken trillen. Eén knapt. Dan nog een.
+Een schaduw barst uit de kapotte vloer en botst op de nabijgelegen arbeiders. Poten klauteren. Tanden flitsen. Iemand roept om hulp.
+De kolonie vecht terug voordat de angst hen volledig kan verstrooien.
+Als het lawaai eindelijk ophoudt, raken verschillende arbeiders gewond, zijn de nieuwe planken kapot en ligt er een bewusteloze bever die niemand herkent naast de kapotte opslagplatform.
+[[C]][[-]]{0} Bevers gewond.",
+LV.BCEv.CampfireMystery4,Kampvuurmysterie: de bever eronder,
+LV.BCEv.CampfireMystery4.Content,"{0}
+Twee dagen lang wordt de gevangen bever niet wakker.
+De gewonden zijn verbonden. De oude opslagplatform wordt in de gaten gehouden. Het kampvuur brandt rustig, maar niemand vraagt om verhalen.
+Dan opent de vreemdeling eindelijk hun ogen.
+Ze zijn mager, bang en kleiner dan de schaduw ze doet lijken.
+Als ze de verzamelde kolonie zien, rennen ze achteruit totdat hun staart de muur raakt. Het is krom, met littekens bedekt en stijf, zo gekruld dat verschillende bevers de spiraalvormige markeringen allemaal tegelijk begrijpen.
+De merktekens waren geen vloeken.
+Het waren geen waarschuwingen van een geest.
+Het waren staarttekens, gekrast door iemand die de weg door het donker moest vinden.
+Stukje bij beetje komt de waarheid aan het licht.
+De vreemdeling kwam uit een mislukte nederzetting achter de bomen. Ze volgden de rook van het kampvuur, vonden de kolonie en verstopten zich onder de opslagplatform omdat het gemakkelijker was om honger onder ogen te zien dan verjaagd te worden.
+Ze stalen alleen wat ze konden dragen.
+Ze klopten omdat ze doodsbang waren.
+Ze vochten omdat in het donker elke uitgestoken poot op een vijand leek.
+{1}
+Nu moet de kolonie beslissen wat voor verhaal dit gaat worden.
+Een waarschuwing.
+Een welkom.
+Of het verhaal van een bever die het licht van het vuur vond en terug de duisternis in werd gestuurd.",
+LV.BCEv.CampfireMystery4.Content.Ch3C1,"De patrouille van de Gecapeerde Kauwer is nu al een legende aan het worden, vooral omdat elke getuige het anders vertelt.
+Sommigen zeggen dat de held dapper sprong. Sommigen zeggen dat de held is uitgegleden. De Gecapeerde Kauwer houdt vol dat beide waar kunnen zijn als je met opzet valt.
+Maar onder de grappen zitten verbanden, blauwe plekken en geschokte jonge bevers die hebben geleerd dat schaduwen kunnen terugbijten.",
+LV.BCEv.CampfireMystery4.Content.Ch3C2,"De bewakers hebben hun plicht gedaan, en hun plicht heeft sporen nagelaten.
+Ze hielden de oude opslagplatform de hele nacht vast. Ze vingen de schaduw op voordat deze weer verdween. Nu zitten ze bij het kampvuur met verbonden poten, rustige gezichten en de ongemakkelijke wetenschap dat ze iemand gevangen hebben genomen die alleen maar had geprobeerd te overleven.",
+LV.BCEv.CampfireMystery4.Content.Ch3C3,"De verzegelde vloer is weer opengescheurd.
+De nieuwe planken zijn kapot. De arbeiders raken gewond. Niemand zegt het woord val, maar iedereen denkt het.
+De vreemdeling kijkt met grote ogen naar de kolonie, alsof hij nog steeds het geluid hoort van de uitgangen die boven hen gesloten worden.",
+LV.BCEv.CampfireMystery4.Content.TrialCh3C1,"Als de kolonie wil dat de vreemdeling blijft, moet ze laten zien dat het kampvuur niet alleen maar lawaai, maskers en moedige toespraken is.
+Het moet bewijzen dat er écht voor elke bever in de kolonie wordt gezorgd.",
+LV.BCEv.CampfireMystery4.Content.TrialCh3C2,"Als de kolonie wil dat de vreemdeling blijft, moet ze laten zien dat de bewakers er niet alleen zijn om de bange mensen in het nauw te drijven.
+Het moet bewijzen dat orde de kolonie beschermt tegen werkelijk gevaar.",
+LV.BCEv.CampfireMystery4.Content.TrialCh3C3,"Als de kolonie wil dat de vreemdeling blijft, moet zij aantonen dat geen enkele bever hier gevangen, hongerig, dorstig of vergeten blijft.
+Het moet bewijzen dat onderdak niet hetzelfde is als een gesloten deur.",
+LV.BCEv.CampfireMystery4.C1,Bewijs dat de kolonie veilig is,
+LV.BCEv.CampfireMystery4.C1N,{0},
+LV.BCEv.CampfireMystery4.C1N.Ch3C1,[[C]]Zorg ervoor dat het gemiddelde welzijn na [[time:{0}d]] minstens {1} is.,
+LV.BCEv.CampfireMystery4.C1N.Ch3C2,[[C]]Voorkom dat de kolonie overstroomt gedurende [[time:{0}d]].,
+LV.BCEv.CampfireMystery4.C1N.Ch3C3,"[[C]]Zorg ervoor dat alle bevers beschut zijn, geen honger of dorst hebben na [[time:{0}d]].",
+LV.BCEv.CampfireMystery4.C2,Stuur ze weg met benodigdheden,
+LV.BCEv.CampfireMystery4.C2N,"[[C]]Betaal {1} binnen [[time:{0}d]]. De vreemdeling zal vertrekken, maar niet met lege poten.",
+LV.BCEv.CampfireMystery4.C3,Verdrijf ze,
+LV.BCEv.CampfireMystery4.C3N,[[C]]De kolonie zal geen nieuwe aanval riskeren. <YellowHighlight>Onbekende gevolgen.</YellowHighlight>,
+LV.BCEv.CampfireMystery4.BuffName,Binnen de Cirkel,
+LV.BCEv.CampfireMystery4.DebuffName,Koud vuurlicht,
+LV.BCEv.CampfireMystery4.O1,"Dagenlang maakt de kolonie geen ruzie met de vreemdeling.
+Het bewijst zichzelf eenvoudigweg.
+Geen enkele bever wordt genegeerd. Geen angst wordt beantwoord met paniek. Geen enkele vermoeide poot wordt als een last behandeld.
+De vreemdeling kijkt vanaf de rand van het kampvuurlicht stil en onzeker toe.
+Dan, op een avond, komen ze dichterbij. Niet onder de vloer. Niet verder dan de gloed. Binnen de cirkel. De kolonie maakt ruimte.
+Pas dan wijst de vreemdeling terug naar de kapotte opslagplatform. Onder een losse plank, verborgen voor paniek en achtervolging, onthullen ze een kleine schat aan geborgen materiaal dat ze uit de mislukte nederzetting hadden meegenomen en nooit hadden durven laten zien.
+The Tail That Knocked Thrice is niet langer een spookverhaal. Het is een welkom verhaal.
+[[C]][[+]]Een nieuwe bever voegt zich bij de kolonie.
+[[C]][[+]]Versterking {2}.
+[[C]][[+]]Alle bevers winnen {0} voor [[time:{1}d]]",
+LV.BCEv.CampfireMystery4.O2,"De kolonie probeert het, maar de angst heeft een lange herinnering.
+{0}
+De vreemdeling kijkt vanaf de rand van het kampvuurlicht stil en onzeker toe. Ze deinzen terug bij gehaaste poten, verheven stemmen en elk gekraak van de oude opslagruimte.
+Als de tijd daar is, komen ze niet dichterbij. Voor zonsopgang vertrekken ze.
+Er wordt deze keer niet geklopt. Geen spiraalmarkering. Geen laatste waarschuwing. Alleen een plek bij het vuur die leeg blijft.
+Het mysterie eindigt, maar niet als een welkom verhaal.
+[[C]][[-]]Volwassen bevers lijden {1} gedurende [[time:{2}d]]",
+LV.BCEv.CampfireMystery4.O2.FailCh3C1,"Sommige bevers zijn nog steeds uitgeput, ongelukkig of vergeten aan de rand van het kolonieleven. Voor de vreemdeling ziet het kampvuur er warm uit, maar niet breed genoeg.",
+LV.BCEv.CampfireMystery4.O2.FailCh3C2,"Het water stijgt waar het niet zou moeten stijgen. Paden stromen onder water, werkstalletjes en de kolonie haast zich om zichzelf te beschermen. Voor de vreemdeling ziet de orde er nog steeds kwetsbaar uit.",
+LV.BCEv.CampfireMystery4.O2.FailCh3C3,"Sommige bevers hebben nog steeds geen onderdak, voedsel of water. Voor de vreemdeling heeft de kolonie niet bewezen dat er voor een bange mond wordt gezorgd in plaats van dat deze wordt gesloten.",
+LV.BCEv.CampfireMystery4.O3,"De kolonie pakt bessen en water in en laat de bundel achter bij de rand van het kampvuurlicht.
+De vreemdeling neemt het zwijgend aan.
+Even lijkt het erop dat ze gaan praten. In plaats daarvan krabben ze een laatste spiraal in het vuil.
+Deze wijst niet op opslag. Het wijst niet onder de vloer. Het wijst weg.
+De kolonie kijkt toe totdat de bomen ze opslokken. Het mysterie eindigt stilletjes, maar niet gelukkig.",
+LV.BCEv.CampfireMystery4.O4,"De kolonie drijft de vreemdeling voorbij het licht.
+Niemand juicht.
+De gestolen goederen worden geteld. De kapotte planken worden vervangen. De gewonden gaan langzaam weer aan het werk.
+Bij het volgende kampvuur begint iemand het verhaal te vertellen van de geest onder de opslag.
+Niemand vraagt hen om door te gaan.
+Sommige verhalen zijn niet beangstigend vanwege de schaduw.
+Sommige zijn beangstigend vanwege wat het vuurlicht deed nadat het er een had gevonden.
+[[C]][[-]]Volwassen bevers lijden {0} gedurende [[time:{1}d]]",

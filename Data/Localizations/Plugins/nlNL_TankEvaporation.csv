@@ -1,0 +1,8 @@
+ID,Text,Comment
+TE.Header,Vatverdamping,
+TE.DailyLeak,Dagelijks lek: {0} eenheden/dag ({1}%),
+TE.DaysEmpty,Leeg over: {0} dagen,
+TE.EvaporationPercent,Verdampingssnelheid (%),
+TE.EvaporationPercentTooltip,Percentage van de maximale vatcapaciteit dat per dag verloren gaat. De standaardwaarde is 5. Een groot vat verliest 60 eenheden per dag met een percentage van 5%.,
+TE.WaterOnly,Alleen watervaten,
+TE.WaterOnlyTooltip,"Indien ingeschakeld verdampen alleen de watervaten. Wanneer uitgeschakeld, verdampen alle vloeistofvaten, inclusief slechtwater en extract. Standaard uitgeschakeld.",

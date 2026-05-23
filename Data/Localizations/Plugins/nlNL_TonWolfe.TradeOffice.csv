@@ -39,7 +39,7 @@ UI.TW.TradeOffice.TT.AutomateExportToggle,Stel regels in voor wanneer je wilt ex
 UI.TW.TradeOffice.MinSellPrice,Prijs hierboven,
 UI.TW.TradeOffice.TT.MinSellPrice,Goederen worden pas verkocht als de prijs hoger is,
 UI.TW.TradeOffice.SellCreditLimit,Kredieten minder dan,
-UI.TW.TradeOffice.TT.SellCreditLimit,Goederen worden alleen verkocht als uw credits lager zijn dan dit,
+UI.TW.TradeOffice.TT.SellCreditLimit,Goederen worden alleen verkocht als je credits lager zijn dan dit,
 UI.TW.TradeOffice.SellMinAmount,Districtsvoorraad hierboven,
 UI.TW.TradeOffice.TT.SellMinAmount,Goederen worden alleen verkocht als de districtsvoorraad groter is dan dit niveau,
 UI.TW.TradeOffice.SellMinAmountIsPercent,Het voorraadniveau is procent,

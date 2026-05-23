@@ -1,0 +1,42 @@
+ID,Text,Comment
+WWW.Settings.Header,Waar Wyrms wachten,Header above this mod's settings group
+WWW.Settings.ModEnabled,Mod inschakelen,Master switch
+WWW.Settings.ModEnabled.Tooltip,"Als de mod uit is, wordt hij nog steeds geladen, maar wordt er geen schil opgewarmd en werkt er geen wyrm. Handig voor het testen van kaarten zonder de bestaande lay-out te verstoren.",
+WWW.Settings.WakeSpeedPercent,Ontwaaksnelheid (%),Global multiplier on warmup time
+WWW.Settings.WakeSpeedPercent.Tooltip,Vermenigvuldiger boven op de opwarmduur van elke schil. 100% = standaard; lager = wyrms ontwaken langzamer; hoger = wyrms ontwaken sneller.,
+WWW.Settings.HungerRatePercent,Hongerpercentage (%),How fast wyrms get hungry
+WWW.Settings.HungerRatePercent.Tooltip,Vermenigvuldiger voor de opbouw van honger. Hoger = wyrms gaan sneller op jacht en knagen agressiever aan muren.,
+WWW.Settings.ContaminationResistancePercent,Verontreinigingsweerstand (%),Wyrm tolerance for badwater
+WWW.Settings.ContaminationResistancePercent.Tooltip,Vermenigvuldiger voor de dodelijke besmettingsdrempel. Hoger = wyrms kunnen meer vervuild water absorberen voordat ze sterven; het kost langdurige vervuiling om ze te doden.,
+WWW.Settings.SandboxMode,Sandbox-modus,Pacifist toggle
+WWW.Settings.SandboxMode.Tooltip,"Wanneer ingeschakeld; wyrms worden nog steeds wakker en lopen, maar beschadigen nooit bevers of gebouwen. Handig voor kaartauteurs die lay-outs testen.",
+Building.WyrmHusk.DisplayName,Wyrm-schil,Map-author hazard tile
+Building.WyrmHusk.Description,De uitgedroogde schil van een slapende wyrm. Ontwaakt wanneer de grond erboven groen wordt.,
+Building.WyrmHusk.Flavor,De aarde herinnert zich wat eronder sliep.,
+WWW.Husk.WarmingStatus,Roeren,Status while warming up
+WWW.Husk.DormantStatus,Sluimerend,Status while inert
+Creature.Wyrm.DisplayName,Wyrm,The active predator
+Creature.Wyrm.Description,Een uitgehongerd oeroud roofdier dat uit de grond tevoorschijn kwam. Jaagt op bevers en knaagt door onversterkte muren. Kan niet genezen worden van vervuiling door Badwater.,
+Creature.Wyrm.Flavor,De aarde geeft terug wat zij heeft behouden.,
+WWW.Wyrm.HungerLabel,Honger,Entity panel hunger label
+WWW.Wyrm.ContaminationLabel,Verontreiniging,Entity panel contamination label
+WWW.Wyrm.SatedStatus,Verzadigd,Status while pacified by Soothesop
+WWW.Wyrm.HuntingStatus,Op jacht,Status while pursuing a beaver
+WWW.Wyrm.StalkingStatus,Op de loer,No beavers in range
+WWW.Notification.BeaverEaten,Gegeten door een wyrm,Death-message string when a wyrm catches a beaver
+Good.Soothesop.DisplayName,Kalmezalf,Singular form
+Good.Soothesop.PluralDisplayName,Kalmezalf,Plural form (English uncountable)
+Recipe.Soothesop.DisplayName,Kalmezalf,Recipe-card title
+Building.WyrmForager.DisplayName,Wyrm-verzamelhut,The Soothesop workshop
+Building.WyrmForager.Description,Een werkplaats waar Kalmezalf wordt gebrouwen uit geoogste bessen en een beetje Badwater. Kalmezalf wordt naar Lokpalen gebracht om te voorkomen dat wyrms door muren heen knagen.,
+Building.WyrmForager.Flavor,Het recept is ouder dan de kolonie.,
+Building.LureStake.DisplayName,Lokpaal,Soothesop bait holder
+Building.LureStake.Description,Een houten paal met een kleine voorraad Kalmezalf. Wyrms binnen bereik stoppen met het doorknagen van muren zolang de paal gevuld blijft. Bevers binnen bereik kunnen nog steeds worden opgegeten.,
+Building.LureStake.Flavor,Plaats hem waar je liever hebt dat de wyrm op aas knaagt dan op de dijk.,
+Building.WyrmDen.DisplayName,Wyrmnest,The wyrm spawner
+Building.WyrmDen.Description,Een nest van slapende wyrms. Ontwaakt wanneer de grond erboven groen wordt en blijft periodiek wyrms voortbrengen zolang de bodem vochtig blijft. Kan alleen worden vernietigd met dynamiet.,
+Building.WyrmDen.Flavor,Er schuilt meer dan één in het donker.,
+WWW.Notification.WyrmEmerged,Er is een wyrm verschenen!,Posted when a husk or den spawns a wyrm
+WWW.Notification.WyrmDied,De wyrm is dood.,Posted when a wyrm is killed by contamination or other means
+WWW.Notification.DenDestroyed,Een wyrmhol is vernietigd.,Posted when an explosion kills a den
+WWW.Wyrm.PoisonedStatus,Vergiftigd,Status while absorbing badwater contamination

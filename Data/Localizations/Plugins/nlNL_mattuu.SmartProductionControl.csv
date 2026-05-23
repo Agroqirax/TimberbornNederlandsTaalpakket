@@ -1,0 +1,130 @@
+ID,Text,Comment
+SmartProductionControl.Fragment.Title,Productiecontrole,Building panel section header
+SmartProductionControl.Fragment.AutoPauseToggle,Automatische pauze,Main toggle in building panel
+SmartProductionControl.Fragment.SettingsButton,Instellingen,Opens the settings popup
+SmartProductionControl.Fragment.Status.Inactive,Inactief,Status when mod is disabled for this building
+SmartProductionControl.Fragment.Status.Monitoring,Actief - controle,Status when running and no rule fired yet
+SmartProductionControl.Fragment.Status.PausedNoPower,AUTOMATISCH GEPAUZED: Geen stroom,
+SmartProductionControl.Fragment.Status.PausedDrought,AUTOMATISCH GEPAUZED: Gevaarlijk weer,
+SmartProductionControl.Fragment.Status.PausedNight,AUTOMATISCH GEPAUZED: Nacht,
+SmartProductionControl.Fragment.Status.PausedNoInput,AUTOMATISCH GEPAUZED: Invoerbronnen laag,
+SmartProductionControl.Fragment.Status.PausedOutputFull,AUTOMATISCH GEPAUZED: Uitvoeropslag vol,
+SmartProductionControl.Fragment.Status.PausedNoWork,AUTOMATISCH GEPAUZED: Niets te doen binnen bereik,
+SmartProductionControl.Fragment.Status.PausedHighScience,AUTOMATISCH GEPAUZED Genoeg kennis opgeslagen,
+SmartProductionControl.Fragment.Status.PausedGeneric,AUTOMATISCH GEPAUZED,
+SmartProductionControl.Fragment.Status.ManuallyPaused,Handmatig gepauzeerd door speler,Status shown in the building panel when the player paused this building by hand
+SmartProductionControl.Fragment.Status.ManuallyResumed,Handmatig gestart door de speler,Status shown when the player resumed an SPC-paused building by hand
+SmartProductionControl.Fragment.ManuallyPaused.Banner,⏸ Handmatig gepauzeerd,Prominent banner shown when the building was paused by the player rather than by SPC
+SmartProductionControl.Fragment.ManuallyPaused.Subtitle,"Hervat het gebouw handmatig, zodat Smart Production Control het weer kan beheren.",Banner subtitle explaining how to give control back to SPC
+SmartProductionControl.Fragment.ManuallyResumed.Banner,▶ Handmatig gestart,Prominent banner shown when the player overrode an SPC auto-pause
+SmartProductionControl.Fragment.ManuallyResumed.Subtitle,SPC zal dit gebouw niet pauzeren. Pauzeer het handmatig of druk hieronder op reset om de controle terug te geven aan SPC.,Banner subtitle for ManuallyResumed
+SmartProductionControl.Fragment.ManualOverride.Reset,↻ Geef bediening terug aan SPC,Button to clear manual override flags and hand control back to SPC
+SmartProductionControl.Fragment.Tag.Storage.Global,Globale opslag: {0}%/{1}%,Output fill rate tag (global stock mode)
+SmartProductionControl.Fragment.Tag.Storage.District,Wijksopslag: {0}%/{1}%,Output fill rate tag (district stock mode)
+SmartProductionControl.Fragment.Tag.Storage.Building,Gebouwopslag: {0}%/{1}%,Output fill rate tag (building-only inventory mode)
+SmartProductionControl.Fragment.Tag.Input,Invoer: {0}%/{1}%,Input fill rate tag
+SmartProductionControl.Fragment.Tag.PowerOn,Energie: ✓,
+SmartProductionControl.Fragment.Tag.PowerOff,Energie: ✗,
+SmartProductionControl.Fragment.Tag.WorkIdle,Werk: ✗,
+SmartProductionControl.Fragment.Tag.WorkOk,Werk: ✓,
+SmartProductionControl.Fragment.Tag.Drought,Droogte,
+SmartProductionControl.Fragment.Tag.Night,Nacht,
+SmartProductionControl.Fragment.Tag.Science,Wetenschap: {0}/{1},Inventor: current global Science vs threshold
+SmartProductionControl.Fragment.Tag.NoRules,Geen regels actief,
+SmartProductionControl.Settings.Title,Productiecontrole - Instellingen,Header in settings popup
+SmartProductionControl.Settings.PresetLabel,Voorinstelling:,
+SmartProductionControl.Settings.Section.ProductionRules,Productieregels,
+SmartProductionControl.Settings.Section.Thresholds,Drempels,
+SmartProductionControl.Settings.Section.StorageMode,Opslagmodus,
+SmartProductionControl.Settings.Section.TimeBased,Tijdsgebaseerde regels,
+SmartProductionControl.Settings.Toggle.OutputFull,Pauzeer wanneer de uitvoer vol is,
+SmartProductionControl.Settings.Toggle.NoInput,Pauzeer wanneer er geen invoer is,
+SmartProductionControl.Settings.Toggle.NoPower,Pauzeer wanneer er geen stroom is,
+SmartProductionControl.Settings.Toggle.NoWork,Pauzeer als er niets te doen is,
+SmartProductionControl.Settings.Toggle.Drought,Pauzeer tijdens droogte/slechte tij,
+SmartProductionControl.Settings.Toggle.Night,Pauzeer 's nachts,
+SmartProductionControl.Settings.Toggle.HighScience,Pauzeer als er voldoende kennis is,
+SmartProductionControl.Settings.Slider.ScienceThreshold,Kennissdrempel:,
+SmartProductionControl.Settings.Slider.PauseAt,Pauzeer op:,Output fill threshold to trigger pause
+SmartProductionControl.Settings.Slider.ResumeAt,Hervatten bij:,Output fill threshold to resume
+SmartProductionControl.Settings.Slider.InputMin,Min. invoer::,Minimum input fill rate before pause
+SmartProductionControl.Settings.Status.Ok,OK,Live status indicator
+SmartProductionControl.Settings.Status.Off,UIT,
+SmartProductionControl.Settings.Status.Idle,INACTIEF,
+SmartProductionControl.Settings.StorageMode.Global,Globaal,
+SmartProductionControl.Settings.StorageMode.District,Wijk,
+SmartProductionControl.Settings.StorageMode.Building,Gebouw,
+SmartProductionControl.Dashboard.Title,Productiecontrole - Dashboard,
+SmartProductionControl.Dashboard.SearchLabel,Zoekopdracht:,
+SmartProductionControl.Dashboard.Filter.Status,Status:,
+SmartProductionControl.Dashboard.Filter.Type,Type:,
+SmartProductionControl.Dashboard.Filter.District,Wijk:,
+SmartProductionControl.Dashboard.Filter.All,Alle,
+SmartProductionControl.Dashboard.Filter.Active,Actief,
+SmartProductionControl.Dashboard.Filter.Paused,Gepauzeerd,
+SmartProductionControl.Dashboard.Bulk.EnableAll,Schakel alles in,
+SmartProductionControl.Dashboard.Bulk.DisableAll,Schakel alles uit,
+SmartProductionControl.Dashboard.Bulk.ApplyPreset,Voorinstelling toepassen op gefilterd:,
+SmartProductionControl.Dashboard.Summary,Bijgehouden: {0} | Actief: {1} | Automatisch gepauzeerd: {2} | Weergegeven: {3},
+SmartProductionControl.Dashboard.Column.Building,Gebouw,
+SmartProductionControl.Dashboard.Column.Type,Type,
+SmartProductionControl.Dashboard.Column.District,Wijk,
+SmartProductionControl.Dashboard.Column.Status,Status,
+SmartProductionControl.Dashboard.Column.Output,Uitvoer,
+SmartProductionControl.Dashboard.Column.Input,Invoer,
+SmartProductionControl.Dashboard.Column.Preset,Voorinstelling,
+SmartProductionControl.Dashboard.Status.Monitoring,Toezicht,
+SmartProductionControl.Dashboard.Status.NoPower,Geen stroom,
+SmartProductionControl.Dashboard.Status.Drought,Droogte,
+SmartProductionControl.Dashboard.Status.Night,Nacht,
+SmartProductionControl.Dashboard.Status.NoInput,Invoer laag,
+SmartProductionControl.Dashboard.Status.OutputFull,Uitvoer vol,
+SmartProductionControl.Dashboard.Status.NoWork,Geen werk,
+SmartProductionControl.Dashboard.Status.HighScience,Wetenschap vol,
+SmartProductionControl.Dashboard.Status.Paused,Gepauzeerd,
+SmartProductionControl.Dashboard.Status.ManuallyPaused,Handmatig,Dashboard status: paused by the player (SPC dormant)
+SmartProductionControl.Dashboard.Status.ManuallyResumed,Handmatig ingeschakeld,Dashboard status: resumed by the player overriding SPC auto-pause
+SmartProductionControl.Dashboard.ButtonLabel,SPC,Bottom bar button label
+SmartProductionControl.Dashboard.ButtonTooltip,Slim productiecontroledashboard,
+SmartProductionControl.Category.Workshop,Werkplaats,
+SmartProductionControl.Category.Gatherer,Verzamelaar,
+SmartProductionControl.Category.Lumberjack,Houthakker,
+SmartProductionControl.Category.Forester,Boswachter,
+SmartProductionControl.Category.WaterPump,Waterpomp,
+SmartProductionControl.Category.Consumer,Consument,
+SmartProductionControl.Category.Power,Stroom,
+SmartProductionControl.Category.Inventor,Uitvinder,
+SmartProductionControl.Category.Other,Ander,
+SmartProductionControl.Preset.Standard,Standaard,
+SmartProductionControl.Preset.Conservative,Conservatief,
+SmartProductionControl.Preset.Drought,Droogte,
+SmartProductionControl.Preset.Early,Vroeg,
+SmartProductionControl.Preset.Late,Laat,
+SmartProductionControl.Preset.Custom,Aangepast,
+SmartProductionControl.Fragment.AutoPauseToggle.Tooltip,"Hoofdschakelaar voor dit gebouw. Indien ingeschakeld, bepalen de onderstaande regels automatisch wanneer er wordt gepauzeerd.",
+SmartProductionControl.Fragment.SettingsButton.Tooltip,Open de pop-up met gedetailleerde instellingen voor dit gebouw.,
+SmartProductionControl.Settings.Toggle.OutputFull.Tooltip,Pauzeer wanneer het uitvoergoed van het gebouw zijn voorraaddrempel heeft bereikt (zie schuifregelaars hieronder).,
+SmartProductionControl.Settings.Toggle.NoInput.Tooltip,Pauzeer wanneer inputgoederen (ingrediënten / brandstof / verbruikte goederen) onder de inputdrempel dalen.,
+SmartProductionControl.Settings.Toggle.NoPower.Tooltip,Pauzeer wanneer het mechanische elektriciteitsnetwerk van het gebouw offline is. Wordt automatisch hervat wanneer de stroom terugkeert.,
+SmartProductionControl.Settings.Toggle.NoWork.Tooltip,Pauzeer als er niets te doen is voor de werknemers in de buurt - geen oogstbare bomen / bessen / gewassen / plantplekken / water bij de inlaat.,
+SmartProductionControl.Settings.Toggle.Drought.Tooltip,Pauzeer tijdens gevaarlijk weer (droogte of slechte vloed). Hervat wanneer het weer opklaart.,
+SmartProductionControl.Settings.Toggle.Night.Tooltip,Pauzeer tijdens de nacht. Hervat bij zonsopgang.,
+SmartProductionControl.Settings.Toggle.HighScience.Tooltip,Pauzeer deze Uitvinder wanneer de monidale hoeveelheid kennis de drempel bereikt. Wordt hervat wanneer de speler kennis besteedt en het totaal daalt.,
+SmartProductionControl.Settings.Slider.ScienceThreshold.Tooltip,Pauzeer deze uitvinder automatisch wanneer de globale kennis op of boven dit aantal liggen.,
+SmartProductionControl.Settings.Slider.PauseAt.Tooltip,De uitvoeropvullingssnelheid waarbij het gebouw zal pauzeren. Standaard: 100%.,
+SmartProductionControl.Settings.Slider.ResumeAt.Tooltip,De uitvoeropvullingssnelheid waarbij het gepauzeerde gebouw weer gaat produceren. Standaard: 90%. Hysteresis voorkomt snelle aan/uit-oscillatie.,
+SmartProductionControl.Settings.Slider.InputMin.Tooltip,"Minimale invoeropvullingssnelheid. Als alle inputgoederen onder dit tarief vallen, pauzeert het gebouw.",
+SmartProductionControl.Settings.StorageMode.Global.Tooltip,Gebruik de globale voorraadtelling van alle wijken om te bepalen of de productie 'vol' is.,
+SmartProductionControl.Settings.StorageMode.District.Tooltip,Gebruik alleen de voorraadteller van dit wijk.,
+SmartProductionControl.Settings.StorageMode.Building.Tooltip,Gebruik alleen de eigen interne inventaris van het gebouw. Handig voor posten met kleine vaste inventarissen.,
+SmartProductionControl.Dashboard.Bulk.EnableAll.Tooltip,Schakel Auto-Pauze in voor elk gebouw dat zichtbaar is in de huidige gefilterde weergave.,
+SmartProductionControl.Dashboard.Bulk.DisableAll.Tooltip,Schakel Auto-Pauze uit voor elk gebouw dat zichtbaar is in de huidige gefilterde weergave.,
+SmartProductionControl.Dashboard.SearchLabel.Tooltip,Filter de lijst op gebouwnaam/type/wijk.,
+SmartProductionControl.Preset.Standard.Tooltip,Standaardregels: alle pauzevoorwaarden aan; pauzeren op 100%; hervatten op 90%.,
+SmartProductionControl.Preset.Conservative.Tooltip,Strengere drempels: eerder pauzeren (90%) en pas hervatten als de voorraad ruim onder de helft (50%) ligt.,
+SmartProductionControl.Preset.Drought.Tooltip,Pauzeert ook tijdens droogte/slechte vloed. Strengere drempels voor het behoud van hulpbronnen.,
+SmartProductionControl.Preset.Early.Tooltip,Voorinstelling voor het begin van het spel: pauzeert alleen als er geen stroom is. Houdt de productie maximaal actief.,
+SmartProductionControl.Preset.Late.Tooltip,Voorinstelling voor later in het spel: pauzeert ook 's nachts voor energie-/arbeidsbehoud.,
+SmartProductionControl.Welcome.Title,Welkom bij Smart Production Control,
+SmartProductionControl.Welcome.Body,"Deze mod voegt een Auto-Pauze-schakelaar toe aan elk productiegebouw. Wanneer het gebouw geen nuttig werk kan doen – output vol, input ontbreekt, geen stroom of geen werk binnen bereik – pauzeert het automatisch en wordt het hervat wanneer de omstandigheden dit toelaten. Klik op de onderstaande schakelaar om deze in te schakelen, of gebruik de SPC-knop in de onderste balk voor een koloniebrede weergave.",
+SmartProductionControl.Welcome.GotIt,Ik heb het,

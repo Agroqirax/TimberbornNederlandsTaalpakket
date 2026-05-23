@@ -1,0 +1,3 @@
+ID,Text,Comment
+grantemsley.EmergencyPriority.Emergency,Noodgeval,Label for the Emergency priority toggle on construction sites.
+grantemsley.EmergencyPriority.EmergencyTooltip,"Noodsituatie: bouwers doen dit werk vóór al het andere, waarbij ze hun schema negeren en hun slaap overslaan tot ze doodmoe zijn.",Tooltip for the Emergency priority toggle.

@@ -1,0 +1,7 @@
+ID,Text,Comment
+BuildingPicker.Mod.Name,Gebouwkiezer,
+BuildingPicker.Mod.Tagline,"Maak niet alleen het leven van je bevers gemakkelijker, maar trakteer uzelf ook!",
+BuildingPicker.Mod.Author,mattuu,
+BuildingPicker.KeyBindingGroup,Gebouwkiezer,
+BuildingPicker.KeyBinding.PickUnderCursor,Kies onder de cursor,
+BuildingPicker.KeyBinding.RepeatLastPick,Herhaal laatste keuze,
