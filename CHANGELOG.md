@@ -2,6 +2,16 @@
 
 ## [Unreleased] - 2026-05-20
 
+## [0.1.16] - 2026-06-13
+
+### Added
+
+- Bijgewerkt naar 1.1.0.0-8dbbbe9-xsw. Verwijderde vertalingen blijven in de release tot 1.1 op de main branch is.
+
+### Changed
+
+- Fouten verbeterd
+
 ## [0.1.15] - 2026-05-20
 
 ### Added
