@@ -36,7 +36,7 @@ LV.BCEv.StartBonus.C2N,[[C]]Schoon water verzamelt zich in een ondiep zwembad. [
 LV.BCEv.StartBonus.C3,Claim de gevallen boomstammen,
 LV.BCEv.StartBonus.C3N,[[C]]Droge gevallen stammen liggen vlakbij de boomgrens. [[+]][[goed:Logboek:{0:+0}]],
 LV.BCEv.StartBonus.C4,Red het jong,
-LV.BCEv.StartBonus.C4N,—[[C]]Een jong bevertje wordt vlakbij de rivier gevonden, nauwelijks levend. [[+]]{0:+0} [[icon:UI/images/game/ico-child]] Kindbever,
+LV.BCEv.StartBonus.C4N,—[[C]]Een jong bevertje wordt vlakbij de rivier gevonden, nauwelijks levend. [[+]]{0:+0} [[icon:UI/images/game/ico-child]] Kindbever
 LV.BCEv.FirstDeath,Eerste passage,
 LV.BCEv.FirstDeath.Content,"{0} is overleden.
 
@@ -159,7 +159,7 @@ LV.BCEv.ContaminationCure.C1N,[[C]]Betaal [[goed:{1}:{2}]] over [[tijd:{0}d]]. <
 LV.BCEv.ContaminationCure.C2,Geef zonnebloemen,
 LV.BCEv.ContaminationCure.C2N,[[C]]Betaal [[goed:{1}:{2}]] over [[tijd:{0}d]]. <YellowHighlight>Onbekende gevolgen.</YellowHighlight>,
 LV.BCEv.ContaminationCure.C3,Help de behandeling,
-LV.BCEv.ContaminationCure.C3N,—[[C]]Betaal [[goed:{1}:{2}]], [[goed:{3}:{4}]] en [[goed:{5}:{6}]] over [[tijd:{0}d]]. <YellowHighlight>Onbekende gevolgen.</YellowHighlight>,
+LV.BCEv.ContaminationCure.C3N,—[[C]]Betaal [[goed:{1}:{2}]], [[goed:{3}:{4}]] en [[goed:{5}:{6}]] over [[tijd:{0}d]]. <YellowHighlight>Onbekende gevolgen.</YellowHighlight>
 LV.BCEv.ContaminationCure.C4,Ontsla de dokter,
 LV.BCEv.ContaminationCure.C4N,[[C]]Er gebeurt niets.,
 LV.BCEv.ContaminationCure.O1,"Tegen elke twijfelachtige blik werkt de behandeling. De ademhaling van {0} wordt stabieler, hun ogen worden helder en het duurt niet lang voordat ze weer rechtop zitten.

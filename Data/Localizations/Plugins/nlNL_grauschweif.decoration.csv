@@ -1,8 +1,8 @@
 ID,Text,Comment
 Grauschweif.Building.Lantern.DisplayName,Houten lantaarn,
-Grauschweif.Building.Lantern.FlavorDescription,"'t is een mooie glimp voor m'n kool" een boerenbever,
+Grauschweif.Building.Lantern.FlavorDescription,"""'t is een mooie glimp voor m'n kool"" een boerenbever",
 Grauschweif.Building.StoneLantern.DisplayName,Stenen Lantaarn,
-Grauschweif.Building.StoneLantern.FlavorDescription,"Volkomen veilig" —een mijnwerker,
+Grauschweif.Building.StoneLantern.FlavorDescription,"""Volkomen veilig"" —een mijnwerker",
 Grauschweif.Building.PaperLantern.DisplayName,Papieren lantaarn,
 Grauschweif.Building.PaperLantern.FlavorDescription,"Een kaars in een papieren zak, vastgeplakt aan een huis? Is dat niet leuk?",
 Grauschweif.DecorationGroup.DisplayName,G's decoraties,Tool group label
