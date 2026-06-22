@@ -142,25 +142,25 @@ Building.Aquifer.FlavorDescription,Het is niet moeilijk te vinden als het zo lui
 Building.AquiferDrill.Description,Haalt water uit een aquifer.,
 Building.AquiferDrill.DisplayName,Aquifer Boor,
 Building.AquiferDrill.FlavorDescription,In tegenstelling tot bevers is hij gebouwd om water te laten stromen.,
-Building.BadtideDrain.Description,Spuit slechtwater uit tijdens een Slechtwater vloed.,
-Building.BadtideDrain.DisplayName,Slechtwater Afvoer,
+Building.BadtideDrain.Description,Spuit vuilwater uit tijdens een vuilwatergolf.,
+Building.BadtideDrain.DisplayName,Vuilwaterafvoer,
 Building.BadtideDrain.FlavorDescription,"""Is dat waar mensjen pijpen voor gebruikten? Bah."" —Pina.","Pina is a younger beaver figure that's exploring the world and isn't related to any faction in particular. Pina as a name relates to the pine tree, the translated name shouldn't suggest a gender if possible."
-Building.BadwaterDome.Description,Sluit een Slechtwater bron af. Kan naar wens worden geopend of gesloten.,"Badwater Source must be the same as Building.BadwaterSource.DisplayName, Badwater must be the same as Good.Badwater.DisplayName."
-Building.BadwaterDome.DisplayName,Slechtwater Koepel,Name of the building that stops flow of badwater when put on its source. It's a dome shaped mechanical building that can open and close by raising the cover up and down. Badwater must be the same as Good.Badwater.DisplayName.
-Building.BadwaterDome.FlavorDescription,"Geen slechtwater, geen gehuil.","This is a reference to a Bob Marley song ""No woman, no cry""."
-Building.BadwaterPressurizer.Description,"Sluit een bron van slechtwater af. Kan geopend of gesloten worden. Als het open is, stroomt er zelfs tijdens droogte slechtwater.","Badwater Source must be the same as Building.BadwaterSource.DisplayName, Badwater must be the same as Good.Badwater.DisplayName."
-Building.BadwaterPressurizer.DisplayName,Slechtwater-drukregelaar,"Name of the building that can either stop flow of badwater or enforce flow with full power. It's a dome shaped, mechanical building that opens and closes like a camera shutter. Badwater must be the same as Good.Badwater.DisplayName."
+Building.BadwaterDome.Description,Sluit een vuilwaterbron af. Kan naar wens worden geopend of gesloten.,"Badwater Source must be the same as Building.BadwaterSource.DisplayName, Badwater must be the same as Good.Badwater.DisplayName."
+Building.BadwaterDome.DisplayName,Vuilwaterkoepel,Name of the building that stops flow of badwater when put on its source. It's a dome shaped mechanical building that can open and close by raising the cover up and down. Badwater must be the same as Good.Badwater.DisplayName.
+Building.BadwaterDome.FlavorDescription,"Geen vuilwater, geen gehuil.","This is a reference to a Bob Marley song ""No woman, no cry""."
+Building.BadwaterPressurizer.Description,"Sluit een bron van vuilwater af. Kan geopend of gesloten worden. Als het open is, stroomt er zelfs tijdens droogte vuilwater.","Badwater Source must be the same as Building.BadwaterSource.DisplayName, Badwater must be the same as Good.Badwater.DisplayName."
+Building.BadwaterPressurizer.DisplayName,Vuilwater-drukregelaar,"Name of the building that can either stop flow of badwater or enforce flow with full power. It's a dome shaped, mechanical building that opens and closes like a camera shutter. Badwater must be the same as Good.Badwater.DisplayName."
 Building.BadwaterPressurizer.FlavorDescription,Alleen echte civiel ingenieurs mogen in de buurt komen.,This is a reference to a youtuber called Real Civil Engineer.
-Building.BadwaterPump.Description,Een versterkte pomp die slechtwater kan wegpompen. Een lage verontreiniging door slechtwater vertraagt ​​de pompsnelheid.,Badwater should be the same as Good.Badwater.DisplayName. Ideally all uses of the word contaminate/contamination/contaminated should be uniform across the project.
-Building.BadwaterPump.DisplayName,Slechtwater Pomp,Badwater should be the same as Good.Badwater.DisplayName.
+Building.BadwaterPump.Description,Een versterkte pomp die vuilwater kan wegpompen. Een lage verontreiniging door vuilwater vertraagt ​​de pompsnelheid.,Badwater should be the same as Good.Badwater.DisplayName. Ideally all uses of the word contaminate/contamination/contaminated should be uniform across the project.
+Building.BadwaterPump.DisplayName,Vuilwaterpomp,Badwater should be the same as Good.Badwater.DisplayName.
 Building.BadwaterPump.FlavorDescription,"""Ik wou dat de extra beschermende maatregelen geurkaarsen bevatten."" —Suli",Suli is a younger beaver that likes to play tricks on their fellow beavers and isn't related to any faction in particular. Translated name shouldn't suggest a gender if possible.
-Building.BadwaterRig.Description,Sluit een slechtwater bron af. Heeft werknemers in dienst die slechtwater rechtstreeks uit de bron halen.,"Badwater Source must be the same as Building.BadwaterSource.DisplayName, Badwater must be the same as Good.Badwater.DisplayName."
-Building.BadwaterRig.DisplayName,Slechtwater Installatie,Name of the building that stops flow from badwater source and generates Good.Badwater.DisplayName goods (by extracting them from source). It's a mechanical building that needs workers to operate. Badwater must be the same as Good.Badwater.DisplayName
-Building.BadwaterRig.FlavorDescription,"Degenen die bovenop een kokende slechtwater bron werken, voelen een constante druk.",Play on words with pressure referring to both water pressure and stress. If possible try to adapt the phrase to fit your language.
-Building.BadwaterSeep.Description,Een bron van slechtwater met beperkte druk.,
-Building.BadwaterSeep.DisplayName,Slechtwater lek,"A building that allows badwater to seep through, creating a natural badwater source."
+Building.BadwaterRig.Description,Sluit een vuilwater bron af. Heeft werknemers in dienst die vuilwater rechtstreeks uit de bron halen.,"Badwater Source must be the same as Building.BadwaterSource.DisplayName, Badwater must be the same as Good.Badwater.DisplayName."
+Building.BadwaterRig.DisplayName,Vuilwater Installatie,Name of the building that stops flow from badwater source and generates Good.Badwater.DisplayName goods (by extracting them from source). It's a mechanical building that needs workers to operate. Badwater must be the same as Good.Badwater.DisplayName
+Building.BadwaterRig.FlavorDescription,"Degenen die bovenop een kokende vuilwater bron werken, voelen een constante druk.",Play on words with pressure referring to both water pressure and stress. If possible try to adapt the phrase to fit your language.
+Building.BadwaterSeep.Description,Een bron van vuilwater met beperkte druk.,
+Building.BadwaterSeep.DisplayName,Vuilwater lek,"A building that allows badwater to seep through, creating a natural badwater source."
 Building.BadwaterSeep.FlavorDescription,"Beperkte druk, onbeperkte gevaren.",
-Building.BadwaterSource.DisplayName,Slechtwater Bron,A crack or spring in the ground spuming badwater. Badwater should be the same as Good.Badwater.DisplayName.
+Building.BadwaterSource.DisplayName,Vuilwaterbron,A crack or spring in the ground spuming badwater. Badwater should be the same as Good.Badwater.DisplayName.
 Building.BadwaterSource.FlavorDescription,"""Waarom moeten we de rotzooi van de mensjen opruimen? Oh ja, ze zijn allemaal dood."" —Pina",
 Building.Bakery.Description,Bakt brood en gebak van verschillende meelsoorten.,Pastry being a baked good.
 Building.Bakery.DisplayName,Bakkerij,Building that bakes bread
@@ -213,7 +213,7 @@ Building.Campfire.FlavorDescription,Soms gaan vuur en hout goed samen.,
 Building.Carousel.Description,Een houten draaimolen voor bevers van alle leeftijden.,
 Building.Carousel.DisplayName,Carrousel,Alternative name: Merry-Go-Round
 Building.Carousel.FlavorDescription,"""Waar denk je heen te gaan, kit? Deze takken zullen zichzelf niet pellen."" —Oma Ngonel","Ma' Ngonel is an almost legendary figure - a beaver grandma, known for her stern hand, cooking skills and respect among both kits and adult beavers. Her name is an inside joke, as our community constantly demands an addition of catapults, mangonels etc."
-Building.Centrifuge.Description,Zware machines die het gevaarlijke slechtwater omzetten in bruikbaar extract.,Badwater should be the same as Good.Badwater.DisplayName. Extract should be the same as Good.Extract.DisplayName.
+Building.Centrifuge.Description,Zware machines die het gevaarlijke vuilwater omzetten in bruikbaar extract.,Badwater should be the same as Good.Badwater.DisplayName. Extract should be the same as Good.Extract.DisplayName.
 Building.Centrifuge.DisplayName,Centrifuge,
 Building.Centrifuge.FlavorDescription,Het idee ontstond nadat een Volkstaart-carrousel te snel draaide.,"Folktails must be the same as Faction.Folktails.DisplayName, carousel should be the same as Building.Carousel.DisplayName."
 Building.ChargingStation.Description,Een plek waar robots komen opladen.,Bots should be the same as Bot.PluralDisplayName
@@ -233,14 +233,14 @@ Building.Clutch.Mode.Engaged,Verbonden,As in the car part - it engages and disen
 Building.CoffeeBrewery.Description,Brouwt koffie.,Coffee should be the same as in Good.Coffee.DisplayName.
 Building.CoffeeBrewery.DisplayName,Koffie brouwerij,A building that brews coffee.
 Building.CoffeeBrewery.FlavorDescription,Zonder consumptielimieten zouden de IJzertanden helemaal niet slapen.,
-Building.CompactMechanicalPump.Description,Zuigt water of slechtwater aan de ene kant aan en voert het af aan de andere kant.,
+Building.CompactMechanicalPump.Description,Zuigt water of vuilwater aan de ene kant aan en voert het af aan de andere kant.,
 Building.CompactMechanicalPump.DisplayName,Compacte mechanische pomp,
 Building.CompactWaterWheel.Description,Een compacte generator die waterstroom omzet in energie.,
 Building.CompactWaterWheel.DisplayName,Compact waterrad,A water wheel that's smaller than other versions.
 Building.CompactWaterWheel.FlavorDescription,"Ja, je kunt het waterrad opnieuw uitvinden.",A play on 'can't reinvent the wheel'
 Building.ContaminationBarrier.Description,Voorkomt dat bodemverontreiniging zich eronder verspreidt.,Ideally all uses of the word contaminate/contamination/contaminated should be uniform across the project.
 Building.ContaminationBarrier.DisplayName,Verontreinigingsbarrière,Name of the building that stops spreading soil contamination that's placed on the ground and is presented as square shape with objects sticking out. Ideally all uses of the word contaminate/contamination/contaminated should be uniform across the project. Barrier should be the same between Building.IrrigationBarrier.DisplayName and Building.ContaminationBarrier.DisplayName.
-Building.ContaminationBarrier.FlavorDescription,"""Bouw elke dag een dam, houd het slechtwater tam!"" —motiverende poster","Reference to the ""An apple a day, keeps the doctor away"" proverb. If possible try to adapt the phrase to fit your language."
+Building.ContaminationBarrier.FlavorDescription,"""Bouw elke dag een dam, houd het vuilwater tam!"" —motiverende poster","Reference to the ""An apple a day, keeps the doctor away"" proverb. If possible try to adapt the phrase to fit your language."
 Building.ContaminationSensor.Description,Meet waterverontreiniging onder zijn arm.,
 Building.ContaminationSensor.DisplayName,Verontreinigingssensor,
 Building.ContemplationSpot.Description,Een klein plekje waar bevers de natuur kunnen aanschouwen.,
@@ -257,16 +257,16 @@ Building.DanceHall.DisplayName,Danszaal,
 Building.DanceHall.FlavorDescription,"""Kom op, blijf daar niet zo staan ​​als een saaie IJzertand."" —Suli",Iron Teeth must be the same as Faction.IronTeeth.DisplayName. Suli is a younger beaver that likes to play tricks on their fellow beavers and isn't related to any faction in particular. Translated name shouldn't suggest a gender if possible.
 Building.DancePit.Description,Een modderige put waar bevers hun stress kunnen uitdansen.,
 Building.DancePit.DisplayName,Dans Put,
-Building.DecontaminationPod.Description,Een bad voor bevers om te herstellen van blootstelling aan slechtwater.,Badwater should be the same as Good.Badwater.DisplayName.
+Building.DecontaminationPod.Description,Een bad voor bevers om te herstellen van blootstelling aan vuilwater.,Badwater should be the same as Good.Badwater.DisplayName.
 Building.DecontaminationPod.DisplayName,Decontaminatie bad,Ideally the name of the building should refer to the contamination effect on the beaver (Need.BadwaterContamination).
 Building.DecontaminationPod.FlavorDescription,"""Nee Suli, je mag het extract niet drinken. Je bent in de ketel gevallen toen je een kit was!"" —Oma Ngonel","Reference to Obelix from Asterix and Obelix falling into a cauldron. Suli is a younger beaver that likes to play tricks on their fellow beavers and isn't related to any faction in particular. Translated name shouldn't suggest a gender if possible. Ma' Ngonel is an almost legendary figure - a beaver grandma, known for her stern hand, cooking skills and respect among both kits and adult beavers. Her name is an inside joke, as our community constantly demands an addition of catapults, mangonels etc."
 Building.DecorativeClock.Description,Een decoratief uurwerk dat groot genoeg is om door grootouders gelezen te worden.,
 Building.DecorativeClock.DisplayName,Decoratieve klok,
 Building.DecorativeClock.FlavorDescription,Het is moeilijk voor te stellen dat bevers vroeger clepsydra's gebruikten.,Clepsydra is an ancient water clock.
-Building.DeepBadwaterPump.DisplayName,Diepe Slechtwater Pomp,"Badwater Pump Must be the same as Building.BadwaterPump.DisplayName, Deep should be the same as in Building.DeepWaterPump.DisplayName"
+Building.DeepBadwaterPump.DisplayName,Diepe Vuilwaterpomp,"Badwater Pump Must be the same as Building.BadwaterPump.DisplayName, Deep should be the same as in Building.DeepWaterPump.DisplayName"
 Building.DeepBadwaterPump.FlavorDescription,De verlengde pijp helpt zowel tegen hoogteverschillen als tegen de geur.,
 Building.DeepMechanicalPump.DisplayName,Diepe mechanische pomp,This must be consistent with Building.MechanicalPump.DisplayName. This is an upgraded variant which can reach deeper water.
-Building.DeepWaterPump.Description,Pompt en filtert water zodat bevers kunnen drinken. Verontreiniging door slechtwater vertraagt ​​de pompsnelheid.,
+Building.DeepWaterPump.Description,Pompt en filtert water zodat bevers kunnen drinken. Verontreiniging door vuilwater vertraagt ​​de pompsnelheid.,
 Building.DeepWaterPump.DisplayName,Diepwaterpomp,A water pump which can access deeper water than a regular pump.
 Building.DeepWaterPump.FlavorDescription,"""Het water komt van het land daar beneden, waar lisdodden groeien en de bever een loodgieter is."" —IJzertanden werklied","Adapted from Men at Work's famous 'Down Under' song ; Iron Teeth is a faction name, keep consistent (Faction.IronTeeth.DisplayName)"
 Building.DepthSensor.Description,Meet de waterdiepte onder zijn arm.,
@@ -280,7 +280,7 @@ Building.Detonator.DisplayName,Ontsteker,A building which arms a dynamite.
 Building.DirtExcavator.Description,"Een grote graafmachine voor het verzamelen van zand. Het zal zand blijven produceren, zelfs nadat het de bodem heeft bereikt.",Dirt must the same as Good.Dirt.DisplayName.
 Building.DirtExcavator.DisplayName,Graafmachine,"A machine used to gather dirt, leaving a giant hole. Dirt must be the same as Good.Dirt.DisplayName."
 Building.DirtExcavator.FlavorDescription,Dit is geen oefening!,It's literally not a drill. It's a different kind of mining equipment. ;)
-Building.Discharge.Description,Voert water of slechtwater af.,Badwater should be the same as Good.Badwater.DisplayName.
+Building.Discharge.Description,Voert water of vuilwater af.,Badwater should be the same as Good.Badwater.DisplayName.
 Building.Discharge.DisplayName,Afvoer,"A building which dumps water or badwater, for example to fill the reservoir below. It looks like a large faucet operated by a beaver."
 Building.Discharge.FlavorDescription,"""Geef me genoeg emmers en ik zal het meer verplaatsen."" —Ouwe Kazko","Ol' Kazko is a legendary forefather of modern beavers, famous inventor, pioneer of rapid industrialization."
 Building.Discharge.ToggleLabel,Vloeistof,Label of the toggle button in the discharge building panel that changes the type of fluid that is being discharged (water or badwater)
@@ -327,7 +327,7 @@ Building.EfficientMine.FlavorDescription,De IJzertanden kregen de overhand door 
 Building.ExercisePlaza.Description,Een gebied dat is aangewezen voor gestructureerde groepsroutines om kracht en flexibiliteit op te bouwen.,
 Building.ExercisePlaza.DisplayName,Fitnessplein,
 Building.ExercisePlaza.FlavorDescription,"De IJzertanden willen zijn zoals hun creaties: altijd harder, beter, sneller, sterker.","Reference to the Daft Punk song ""Harder, Better, Faster, Stronger""."
-Building.ExplosivesFactory.Description,Produceert explosieven uit slechtwater.,Explosives and badwater being goods names. Badwater should be the same as Good.Badwater.DisplayName.
+Building.ExplosivesFactory.Description,Produceert explosieven uit vuilwater.,Explosives and badwater being goods names. Badwater should be the same as Good.Badwater.DisplayName.
 Building.ExplosivesFactory.DisplayName,Explosievenfabriek,Explosives is name of a good.Explosives should be the same as Good.Explosives.PluralDisplayName
 Building.ExplosivesFactory.FlavorDescription,Alsof het nog niet genoeg was om de hele nederzetting van hout te bouwen.,
 Building.FarmerMonument.DisplayName,Boerenmonument,A large statue of a farmer carrying a bundle of wheat.
@@ -460,7 +460,7 @@ Building.LargeTank.DisplayName,Groot vat,
 Building.LargeTank.FlavorDescription,"Ondanks de pogingen van kits die hem als zwembad proberen te gebruiken, is dit vat ontworpen voor industriële doeleinden.",
 Building.LargeWarehouse.DisplayName,Groot magazijn,
 Building.LargeWarehouse.FlavorDescription,Met zoveel goederen erin is er geen ruimte om met de staart te zwaaien.,"""No room to swing a cat"" is an English idiom, feel free to adapt."
-Building.LargeWaterPump.Description,Pompt en filtert grote hoeveelheden water zodat bevers kunnen drinken. Verontreiniging door slechtwater vertraagt ​​de pompsnelheid.,Badwater should be the same as Good.Badwater.DisplayName. Ideally all uses of the word contaminate/contamination/contaminated should be uniform across the project.
+Building.LargeWaterPump.Description,Pompt en filtert grote hoeveelheden water zodat bevers kunnen drinken. Verontreiniging door vuilwater vertraagt ​​de pompsnelheid.,Badwater should be the same as Good.Badwater.DisplayName. Ideally all uses of the word contaminate/contamination/contaminated should be uniform across the project.
 Building.LargeWaterPump.DisplayName,Grote waterpomp,A large variant of the normal water pump. Pump should be the same as in Building.WaterPump.DisplayName.
 Building.LargeWaterPump.FlavorDescription,"""Met het waterreservoir kunnen we elke dag drinken."" —""The Shores of Beaver Bay""","""The Shores of Beaver Bay"" is a song composed by the Timberborn community."
 Building.LargeWaterWheel.Description,"Een groter, efficiënter waterrad. Ondersteund vanaf de zijkant.",
@@ -491,7 +491,7 @@ Building.LumberjackFlag.DisplayName,Houthakkers post,Flag' could also be a Post 
 Building.LumberjackFlag.FlavorDescription,"""Ze zijn houthakkers en dat is de manier waarop ze de hele nacht slapen en de hele dag werken!"" —Populair beverlied","Adapted from Monthy Python's ""Lumberjack Song"""
 Building.Massager.Description,Een niet zo zachte massage.,
 Building.Massager.DisplayName,Massageapparaat,A mechanical massaging device.
-Building.MechanicalPump.Description,Pompt water of slechtwater aan de ene kant op en loost het aan de andere kant.,Badwater should be the same as Good.Badwater.DisplayName.
+Building.MechanicalPump.Description,Pompt water of vuilwater aan de ene kant op en loost het aan de andere kant.,Badwater should be the same as Good.Badwater.DisplayName.
 Building.MechanicalPump.DisplayName,Mechanische pomp,A mechanically powered water pump.
 Building.MechanicalPump.FlavorDescription,Beter stromend water dan stromen met emmers.,Running water meaning water that is moving.
 Building.MedicalBed.Description,Gewonde bevers liggen hier om te rusten en genezen., 
@@ -804,7 +804,7 @@ Building.VerticalPowerShaft.FlavorDescription,Helpt als het energieverbruik stij
 Building.VerticalTubeway.Description,"Een snel, maar krap, vervoermiddel voor bevers. Verbindt naar boven.",The first sentence must be the same as Building.Tubeway.Description
 Building.VerticalTubeway.DisplayName,Verticale buis,"An expanded version of the Building.Tubeway.DisplayName with a solid platform on top of it, that allows other Tubes or structures to be placed on top of it. Tubes are used as a network of large pipes for faster transportation around the map. Departure and arrival happens in Building.TubewayStation.DisplayName, so they should be named similarly."
 Building.VerticalTubeway.FlavorDescription,"Ga omhoog, omhoog, omlaag, omlaag, links, rechts, links, rechts, achteruit, vooruit. Hm, je bent weer precies waar je begon.",Konami Code reference
-Building.WaterPump.Description,Pompt en filtert water zodat bevers kunnen drinken. Verontreiniging door slechtwater vertraagt ​​de pompsnelheid.,Badwater should be the same as Good.Badwater.DisplayName. Ideally all uses of the word contaminate/contamination/contaminated should be uniform across the project.
+Building.WaterPump.Description,Pompt en filtert water zodat bevers kunnen drinken. Verontreiniging door vuilwater vertraagt ​​de pompsnelheid.,Badwater should be the same as Good.Badwater.DisplayName. Ideally all uses of the word contaminate/contamination/contaminated should be uniform across the project.
 Building.WaterPump.DisplayName,Waterpomp,
 Building.WaterPump.FlavorDescription,Twee emmertjes water halen.,"""Pumped"" pun, feel free to adapt."
 Building.WaterSeep.Description,Een waterbron met beperkte druk.,
@@ -849,7 +849,7 @@ BuildingTools.DistrictsInConflict,Wijken moeten worden gescheiden door een wijko
 BuildingTools.UnlockLabel,Ontgrendel:,"Label of the button that unlocks the building, please keep short."
 BuildingTools.UnlockPrompt,Weet je zeker dat je {0} wilt ontgrendelen? Het kost {1} kennis.,{0} stands for Building.DisplayName {1} stands for amount. Prompt when player presses to unlock a building.
 Buildings.AboveGround,<YellowHighlight>Bovengronds:</YellowHighlight> Moet bovenop andere gebouwen worden geplaatst.,
-Buildings.BadwaterAccess,<YellowHighlight>Afhankelijk van slechtwater:</YellowHighlight> Vereist toegang tot slechtwater.,
+Buildings.BadwaterAccess,<YellowHighlight>Vuilwaterafhankelijk:</YellowHighlight> Vereist toegang tot vuilwater.,
 Buildings.BottomConstraint,Dit kan niet onderaan de kaart worden gebouwd.,An alert for when someone tries to build at the lowest layer of the map.
 Buildings.ContinuousTerrainConstraint,Vereist ononderbroken terrein tot aan de onderkant van de kaart.,Warning when trying to place an object (that requires it) on a terrain with gaps
 Buildings.DeletePrompt,Weet je zeker dat je het geselecteerde gebouw wilt slopen? Je kunt dit niet ongedaan maken.,
@@ -1062,8 +1062,8 @@ Good.AlgaeRation.DisplayName,Algenrantsoen,"Algae should be the same as in Good.
 Good.AlgaeRation.PluralDisplayName,Algenrantsoenen,Algae should be the same as in Good.Algae.DisplayName
 Good.Antidote.DisplayName,Tegengif,Antidote made out of natural resources (used to heal badwater contamination).
 Good.Antidote.PluralDisplayName,Tegengif,Antidote made out of natural resources (used to heal badwater contamination).
-Good.Badwater.DisplayName,Slechtwater,"A toxic liquid resource, a remnant of human civilization that contaminates the land, plants, and beavers. It flows on the maps in the form of toxic rivers. The name comes from 'bad' and 'water' and it does not refer to any actual resource or place in the real world, it is a name that beavers came up with. Please note that this term is very important because it is one of the core aspects of the game, the resource is as abundant in the game as normal water. If you have any doubts about the meaning of the word, please contact the developers."
-Good.Badwater.PluralDisplayName,Slechtwater,"A toxic liquid resource, a remnant of human civilization that contaminates the land, plants, and beavers. It flows on the maps in the form of toxic rivers. The name comes from 'bad' and 'water' and it does not refer to any actual resource or place in the real world, it is a name that beavers came up with. Please note that this term is very important because it is one of the core aspects of the game, the resource is as abundant in the game as normal water. If you have any doubts about the meaning of the word, please contact the developers."
+Good.Badwater.DisplayName,Vuilwater,"A toxic liquid resource, a remnant of human civilization that contaminates the land, plants, and beavers. It flows on the maps in the form of toxic rivers. The name comes from 'bad' and 'water' and it does not refer to any actual resource or place in the real world, it is a name that beavers came up with. Please note that this term is very important because it is one of the core aspects of the game, the resource is as abundant in the game as normal water. If you have any doubts about the meaning of the word, please contact the developers."
+Good.Badwater.PluralDisplayName,Vuilwater,"A toxic liquid resource, a remnant of human civilization that contaminates the land, plants, and beavers. It flows on the maps in the form of toxic rivers. The name comes from 'bad' and 'water' and it does not refer to any actual resource or place in the real world, it is a name that beavers came up with. Please note that this term is very important because it is one of the core aspects of the game, the resource is as abundant in the game as normal water. If you have any doubts about the meaning of the word, please contact the developers."
 Good.Berries.DisplayName,Bessen,Resource name
 Good.Berries.PluralDisplayName,Bessen,Resource name
 Good.Biofuel.DisplayName,Biobrandstof,Fuel made out of natural resources like plants.
@@ -1632,13 +1632,13 @@ Needs.InRange,binnen {0} tegels,"{0} stands for radius size (area of effect), te
 Needs.SatisfiesInRange,Voldoet aan {0} binnen {1} tegels,{0} stands for Need.DisplayName {1} stands for radius size (area of effect)
 NewGame.Notification,Hout en water gevonden. Een nieuw begin.,Notification when a new game is started
 NewGameConfigurationPanel.Aged,oud,"Describing age of beavers, between text fields, example: 'Starting beavers: [20] aged [10]'"
-NewGameConfigurationPanel.BadtideDuration,Slechtwatervloed duur,"Label of a setting, how long badtide season could be. Badtide should be the same as Weather.Badtide"
-NewGameConfigurationPanel.BadtideDurationHandicap,Slechtwatervloed duur handicap,"Label of a setting, makes badtide season shorter during a game, example usage: 'Badtide duration handicap: 50%. Badtide should be the same as Weather.Badtide"
-NewGameConfigurationPanel.ChanceForBadtide,Slechtwatervloed kans,"Label of a setting, what is the chance for a badtide season. Badtide should be the same as Weather.Badtide"
+NewGameConfigurationPanel.BadtideDuration,Vuilwatergolf duur,"Label of a setting, how long badtide season could be. Badtide should be the same as Weather.Badtide"
+NewGameConfigurationPanel.BadtideDurationHandicap,Vuilwatergolf duur handicap,"Label of a setting, makes badtide season shorter during a game, example usage: 'Badtide duration handicap: 50%. Badtide should be the same as Weather.Badtide"
+NewGameConfigurationPanel.ChanceForBadtide,Vuilwatergolf kans,"Label of a setting, what is the chance for a badtide season. Badtide should be the same as Weather.Badtide"
 NewGameConfigurationPanel.Custom,Aangepast,Game mode keep short
 NewGameConfigurationPanel.Customize,Pas aan,Label of the button that opens the customization panel.
 NewGameConfigurationPanel.Cycles,cycli,"Cycle is a unit of time shown after a number, example usage: '10 cycles'. Must be consistent with Weather.CycleAndDayLong."
-NewGameConfigurationPanel.CyclesBeforeBadtideRandomization,Cycli zonder slechtwatervloed,"Label of a setting, how many cycles there will be without badtide seaon possibility. Badtide should be the same as Weather.Badtide"
+NewGameConfigurationPanel.CyclesBeforeBadtideRandomization,Cycli zonder vuilwatergolf,"Label of a setting, how many cycles there will be without badtide seaon possibility. Badtide should be the same as Weather.Badtide"
 NewGameConfigurationPanel.Days,dagen,"Shown after a number field, example usage: '10 days'"
 NewGameConfigurationPanel.DemolishableRecoveryRate,Terugbetalingspercentage voor gebouwen,"Label of a setting, defines how much goods user will get back after demolishing a building, example usage: 'Building refund rate: 75%'"
 NewGameConfigurationPanel.DroughtDuration,Duur van de droogte,"Label of a setting, how long drought is during each cycle."
@@ -1650,8 +1650,8 @@ Je nederzetting begint met een overvloedige voorraad grondstoffen.
 
 Bevers verbruiken minder voedsel en water.
 
-Droogtes en slechtwatervloeden zijn zeldzaam en kort.",Badtide should be the same as Weather.Badtide
-NewGameConfigurationPanel.EnableBadtides,Slechtwatervloeden,"Label of the checkbox that enables badtides, ""Badtides"" should be plural of Weather.Badtide."
+Droogtes en vuilwatergolven zijn zeldzaam en kort.",Badtide should be the same as Weather.Badtide
+NewGameConfigurationPanel.EnableBadtides,Vuilwatergolven,"Label of the checkbox that enables badtides, ""Badtides"" should be plural of Weather.Badtide."
 NewGameConfigurationPanel.EnableDroughts,Droogtes,"Label of the checkbox that enables droughts, ""Droughts"" should be plural of Weather.Drought."
 NewGameConfigurationPanel.FoodConsumption,Voedselconsumptie,"Label of a setting, how much food beavers consume during a game. For example 'Food consumption: 60%'"
 NewGameConfigurationPanel.For,voor,"Specifies a duration, between text fields, example usage: 'Drought duration handicap: [50%] for [10] cycles'"
@@ -1660,7 +1660,7 @@ NewGameConfigurationPanel.HardModeDescription,"De mens heeft het niet gered en j
 
 Je nederzetting begint met schaarse grondstoffen.
 
-Droogtes en slechtwatervloeden zijn ernstig en worden na verloop van tijd nog erger.
+Droogtes en vuilwatergolven zijn ernstig en worden na verloop van tijd nog erger.
 
 Zet je schrap.",Hard difficulty description. 'did not make it' as in they did not survive. 'sharpen your incisors' is meant to be a kind of a call to arms before a tough game. Badtide should be the same as Weather.Badtide
 NewGameConfigurationPanel.InjuryChance,Blessurekans,"Label of a setting, how often injuries occur in workshops (relative to predefined value), example usage: 'Injury chance: 50%'. Injury must be the same as Need.Injury.DisplayName"
@@ -1669,7 +1669,7 @@ NewGameConfigurationPanel.NormalModeDescription,"Je wilt een uitdaging.
 
 Je nederzetting begint met gematigde grondstoffen.
 
-Droogtes en slechtwatervloeden zijn in het begin milder, maar worden na verloop van tijd erger.", Badtide should be the same as Weather.Badtide
+Droogtes en vuilwatergolven zijn in het begin milder, maar worden na verloop van tijd erger.", Badtide should be the same as Weather.Badtide
 NewGameConfigurationPanel.Start,Start,A button starting the game please keep short
 NewGameConfigurationPanel.StartingAdults,Aantal volwassenen,"Label of a setting, number of adults spawned at the start of a game."
 NewGameConfigurationPanel.StartingChildren,Aantal kinderen,"Label of a setting, number of children spawned at the start of a game."
@@ -1830,8 +1830,8 @@ Status.Bot.Dead,Vernietigd.,This shows up when a bot has been destroyed
 Status.Bot.DeadShort,Robot werd vernietigd,This shows up as an alert when a bot has been destroyed. Please keep short.
 Status.Breeding.ProgressHalted,"Broeden gepauzeerd, wachtend op voedingsstoffen",
 Status.Breeding.ProgressHalted.Short,Broeden gepauzeerd,Please keep short.
-Status.Buildings.BlockedByContamination,Dit gebouw is geblokkeerd door slechtwater.,Shown as status when badwater contamination affects building and stops it from working. Badwater should be the same as Good.Badwater.DisplayName.
-Status.Buildings.BlockedByContamination.Short,Geblokkeerd door slechtwater,Shown as status when badwater contamination affects building and stops it from working (please keep short). Badwater should be the same as Good.Badwater.DisplayName.
+Status.Buildings.BlockedByContamination,Dit gebouw is geblokkeerd door vuilwater.,Shown as status when badwater contamination affects building and stops it from working. Badwater should be the same as Good.Badwater.DisplayName.
+Status.Buildings.BlockedByContamination.Short,Geblokkeerd door vuilwater,Shown as status when badwater contamination affects building and stops it from working (please keep short). Badwater should be the same as Good.Badwater.DisplayName.
 Status.Buildings.DirectionalBlocking,De bouw wacht tot het gebouw erachter af is.,"Status shown on construction sites, that need to be finished in directional order."
 Status.Buildings.Flooded,Overstroomd.,Notification that shows in the selected building's panel when it's flooded.
 Status.Buildings.Flooded.Short,Overstroomd gebouw,Alert that shows up when a building is flooded. Please keep short.
@@ -1868,7 +1868,7 @@ Status.NaturalResources.Drying,Uitdrogen.,Shown when a plant is dying because it
 Status.NaturalResources.NotEnoughWater,Geen water.,Shown when a water plant is dying because its river or lake dried up.
 Status.NaturalResources.Overwatered,Overwaterd.,Shown when a plant is overwatered. Please keep short. Overwatered term should be consistnt with NaturalResources.Overwatered.
 Status.NaturalResources.TooMuchWater,Overstroomd.,Shown when a plant is dying because it is submerged in water.
-Status.Need.BadwaterContamination,Verontreinigd door slechtwater.,This shows up in the selected beaver's panel when it is contaminated. Badwater should be the same as Good.Badwater.DisplayName. Ideally all uses of the word contaminate/contamination/contaminated should be uniform across the project.
+Status.Need.BadwaterContamination,Verontreinigd door vuilwater.,This shows up in the selected beaver's panel when it is contaminated. Badwater should be the same as Good.Badwater.DisplayName. Ideally all uses of the word contaminate/contamination/contaminated should be uniform across the project.
 Status.Need.BadwaterContamination.Short,Bever is verontreinigd,This shows up as an alert when a beaver is contaminated. Please keep short. Ideally all uses of the word contaminate/contamination/contaminated should be uniform across the project.
 Status.Need.Biofuel,Geen brandstof meer.,This shows up when a bot runs out of fuel.
 Status.Need.Biofuel.Short,Robot heeft geen brandstof meer,This shows up when a bot runs out of fuel. Please keep short. Bot should be the same as Bot.TemplateName.
@@ -1939,7 +1939,7 @@ Tip.Game.Duplicate,Tip: Gebruik de gereedschappen <YellowHighlight>Dupliceren</Y
 Tip.Game.Flip,Tip: Gebruik <YellowHighlight>Spiegelen</YellowHighlight> om een ​​gebouw tijdens de plaatsing te spiegelen.,Tip on the loading screen. 'Flip' should be the same as in KeyBinding.Flip.
 Tip.Game.Solid,"Tip: Als een gebouw is gemarkeerd als <YellowHighlight>Stevig</YellowHighlight>, zoals een hut of een pakhuis, kun je andere bouwwerken op het dak ervan bouwen.",Tip on the loading screen. Solid is a keyword.
 Tip.MapEditor.Undo,Tip: gebruik <YellowHighlight>Ongedaan maken</YellowHighlight> en <YellowHighlight>Opnieuw uitvoeren</YellowHighlight> om een ​​fout snel te corrigeren.,Tip on the loading screen. 'Undo' and 'Redo' should be the same as in MapEditor.Undo and MapEditor.Redo respectively.
-Tip.MapEditor.SeasonControls,Tip: Gebruik de seizoensknoppen bovenaan het scherm om droogte en slechtwatervloeden te simuleren.,Tip on the loading screen.
+Tip.MapEditor.SeasonControls,Tip: Gebruik de seizoensknoppen bovenaan het scherm om droogte en vuilwatergolven te simuleren.,Tip on the loading screen.
 Tip.MapEditor.SpeedControls,Tip: Gebruik de watersnelheidsregelaars bovenaan het scherm om je kaart vooraf met water te vullen.,Tip on the loading screen.
 Toggle.Selected,(gekozen),Indication in tooltip about selected item. Fore example: 'Planting (selected)'
 Toggle.State.Closed,Gesloten,Indication in tooltip about toggle state. For example 'Status: Closed'
@@ -1973,7 +1973,7 @@ ToolGroups.Storage,Opslag,Buildings that store goods and resources
 ToolGroups.TreeCutting,Bomen kappen,This is in active voice
 ToolGroups.Water,Water,Buildings that gather and store water.
 ToolGroups.Wood,Hout,Buildings that allow gathering and producing using wood
-TopBar.Badwater,Slechtwater,A group of goods. Please keep short.
+TopBar.Badwater,Vuilwater,A group of goods. Please keep short.
 TopBar.Food,Voedsel,A group of goods. Please keep short.
 TopBar.GoodStockpileTooltip.Inputs,Invoer,Label in topbar tooltip - for goods keeped in input directories - please keep short
 TopBar.GoodStockpileTooltip.Outputs,Uitvoer,Label in topbar tooltip - for goods ready to use - please keep short
@@ -1988,12 +1988,12 @@ TreeCuttingSelectionTool.Description,Gebruik dit gereedschap om gebieden te mark
 TreeCuttingSelectionTool.Title,Markeer het kapgebied,
 TreeCuttingUnselectionTool.Description,Gebruik dit gereedschap om gebieden waar bomen worden gekapt te demarkeren.,Doesn't have to use a personal verb
 TreeCuttingUnselectionTool.Title,Demarkeer het boomkapgebied,
-Tutorial.Badtides,Slechtwatervloeden,"Tutorial title, Badtides refers to Weather.Badtide"
-Tutorial.Badtides.Description,"Je nederzetting heeft zijn eerste slechtwatervloed doorstaan.
+Tutorial.Badtides,Vuilwatergolven,"Tutorial title, Badtides refers to Weather.Badtide"
+Tutorial.Badtides.Description,"Je nederzetting heeft zijn eerste vuilwatergolf doorstaan.
                                
-Net als droogtes maken slechtwatervloeden deel uit van de seizoenscyclus. 
+Net als droogtes maken vuilwatergolven deel uit van de seizoenscyclus. 
                                
-Toekomstige slechtwatervloeden zullen niet zo vergevingsgezind zijn, dus blijf scherp.",Badtide refers to Weather.Badtide
+Toekomstige vuilwatergolven zullen niet zo vergevingsgezind zijn, dus blijf scherp.",Badtide refers to Weather.Badtide
 Tutorial.Basics,Basisprincipes,Header of the tutorial section that covers the basic concepts
 Tutorial.Basics.ManagePause,"Het spel kan op elk moment worden gepauzeerd, zodat je de situatie kunt beoordelen en dingen kunt plannen.",
 Tutorial.Basics.ManageSpeed,Je kunt ook de spelsnelheid verhogen om de uitvaltijd te verminderen terwijl je bevers werken of slapen.,
@@ -2223,17 +2223,17 @@ WaterInputCoordinates.Limit,Limiet: {0},Depth limit of the water input building 
 WaterMover.Unfiltered,Ongefilterd,"Tooltip for a toggle, that decides what kind of fluid should be pumped: unfiltered, water or badwater"
 WaterOpacity.Visibility.Hide,Water verbergen,Tooltip for button hiding water
 WaterOpacity.Visibility.Show,Water weergeven,Tooltip for button showing water
-Weather.Badtide,Slechtwatervloed,Name of toxic hazard season during which all rivers turn into badwater instead of water. Ideally the name should refer to Good.Badwater.DisplayName and follow its pattern. Please read the comment for Good.Badwater.DisplayName for a complete description of what badwater is.
-Weather.BadtideEndedNotification,Slechtwatervloed voorbij,Notification that shows up when a badtide season ends. Badtide should be the same as Weather.Badtide.
-Weather.BadtideStartedNotification,Slechtwatervloed begonnen,Notification that shows up when a badtide season starts. Badtide should be the same as Weather.Badtide.
+Weather.Badtide,Vuilwatergolf,Name of toxic hazard season during which all rivers turn into badwater instead of water. Ideally the name should refer to Good.Badwater.DisplayName and follow its pattern. Please read the comment for Good.Badwater.DisplayName for a complete description of what badwater is.
+Weather.BadtideEndedNotification,Vuilwatergolf voorbij,Notification that shows up when a badtide season ends. Badtide should be the same as Weather.Badtide.
+Weather.BadtideStartedNotification,Vuilwatergolf begonnen,Notification that shows up when a badtide season starts. Badtide should be the same as Weather.Badtide.
 Weather.CycleAndDayLong,"Cyclus {0}, dag {1}","Example usage: 'Cycle 2, day 5'."
 Weather.CycleAndDayShort,Dag {0}-{1},Example usage: 'Day 2-5'.
 Weather.CycleBegins,Cyclus {0} begint,"Shown as a message when new cycle begins, {0} stands for cycle number, example usage: 'Cycle 4 begins'."
 Weather.Drought,Droogte,
 Weather.DroughtEndedNotification,Droogte voorbij,A notification that a drought has ended.
 Weather.DroughtStartedNotification,Droogte begonnen,A notification that a drought has begun.
-Weather.Notification.BadtideApproaching,Slechtwatervloed nadert,Tooltip of weather panel shown when a badtide season is approaching. Badtide should be the same as Weather.Badtide.
-Weather.Notification.BadtideInProgress,Slechtwatervloed bezig,Tooltip of weather panel shown when a badtide season is in progress. Badtide should be the same as Weather.Badtide.
+Weather.Notification.BadtideApproaching,Vuilwatergolf nadert,Tooltip of weather panel shown when a badtide season is approaching. Badtide should be the same as Weather.Badtide.
+Weather.Notification.BadtideInProgress,Vuilwatergolf bezig,Tooltip of weather panel shown when a badtide season is in progress. Badtide should be the same as Weather.Badtide.
 Weather.Notification.DroughtApproaching,Droogte nadert,Tooltip of weather panel shown when a drought season is approaching. Drought should be the same as Weather.Drought.
 Weather.Notification.DroughtInProgress,Droogte bezig,Tooltip of weather panel shown when a drought season is in progress. Drought should be the same as Weather.Drought.
 Weather.Temperate,Gematigd weer,
