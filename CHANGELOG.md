@@ -11,6 +11,7 @@
 ### Changed
 
 - Fouten verbeterd
+- Samenhang verbeterd
 
 ## [0.1.15] - 2026-05-20
 
