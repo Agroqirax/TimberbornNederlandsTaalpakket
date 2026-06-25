@@ -1,0 +1,19 @@
+ID,Text,Comment
+CycleReward.ChooseTitle,Kies een Cyclus Bonus,Title shown at the top of the reward selection panel
+CycleReward.SciencePoints.DisplayName,{0} Kennis,"{0} is the amount"
+CycleReward.SciencePoints.PluralDisplayName,{0} Kennis,"{0} is the amount"
+CycleReward.Resource,+{0} {1},"{0} = amount; {1} = localized good name"
+CycleReward.Weather.DisplayName,{0} {1} dag,"{0} = signed day count; {1} = localized season name"
+CycleReward.Weather.PluralDisplayName,{0} {1} dagen,"{0} = signed day count; {1} = localized season name"
+CycleReward.Weather.Temperate,gematigde,Season name for the temperate season
+CycleReward.Weather.Hazardous,gevaarlijke,Season name for the hazardous season
+CycleReward.Need,{0} {1} voor alle {2},"{0} = signed delta; {1} = need display name; {2} = Beavers or Bots"
+CycleReward.BuildingUnlock,{0} ontgrendelen,"{0} = localized building display name"
+CycleReward.Mystery.DisplayName,??? Mysterieuze beloning ???,Label shown on the hidden/mystery reward button
+CycleReward.Mystery.RevealTitle,Je hebt ontvangen,Title shown on the mystery reward reveal popup
+CycleReward.Population.Beaver.DisplayName,{0} Bever,"{0} is the amount"
+CycleReward.Population.Beaver.PluralDisplayName,{0} Bevers,"{0} is the amount"
+CycleReward.Population.Child.DisplayName,{0} Kind,"{0} is the amount"
+CycleReward.Population.Child.PluralDisplayName,{0} Kinderen,"{0} is the amount"
+CycleReward.Population.Bot.DisplayName,{0} Bot,"{0} is the amount"
+CycleReward.Population.Bot.PluralDisplayName,{0} Bots,"{0} is the amount"

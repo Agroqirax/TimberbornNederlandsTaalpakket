@@ -1,0 +1,26 @@
+ID,Text,Comment
+IgorZ.XRay.KeyBindingGroup,Röntgenmod,The header for the section of the mod settings that allows to customize the key bindings
+IgorZ.XRay.KeyBinding.ToggleMode,Röntgenmodus in-/uitschakelen,The label for the key binding that toggles the X-Ray mode on and off
+IgorZ.XRay.KeyBinding.ShowMode,Röntgenmodus weergeven,The label for the key binding that shows the X-Ray mode while held down
+IgorZ.XRay.MeshSettings.Color.CliffEdge,Kleur van de klifrand,
+IgorZ.XRay.MeshSettings.Color.Cliff,Kleur van de klif,
+IgorZ.XRay.MeshSettings.Color.Grass,Kleur van het gras,
+IgorZ.XRay.MeshSettings.Color.WireframeEdge,Kleur van het draadframe,
+IgorZ.XRay.MeshSettings.ColorSchemaDropdown,Kleurenschema,The dropdown label for color schema selection
+IgorZ.XRay.MeshSettings.ColorSchemaName.Blueprint,Blauwdruk,The name of the color schema with blue colors in blueprint style and contoured edges
+IgorZ.XRay.MeshSettings.ColorSchemaName.BlueGrid,Blauw draadmodel,The name of the blue wireframe color schema
+IgorZ.XRay.MeshSettings.ColorSchemaName.BWBright,Zwart en wit helder,The name of the color schema with bright colors in black and white style
+IgorZ.XRay.MeshSettings.ColorSchemaName.BWDark,Zwart en wit donker,The name of the color schema with dark colors in black and white style
+IgorZ.XRay.MeshSettings.ColorSchemaName.Custom,Aangepast,The name of the custom color schema. User can choose own settings
+IgorZ.XRay.MeshSettings.ColorSchemaName.NormalGlow,Gloeiend,The name of the color schema with normal colors and glowing effect
+IgorZ.XRay.MeshSettings.ColorSchemaName.Normal,Normaal,The name of the color schema with normal colors and no glowing effect
+IgorZ.XRay.MeshSettings.GhostModelIntensity,Transparantie van modellen,The label for the slider that controls the transparency of the models
+IgorZ.XRay.MeshSettings.Glowing,Gloei-effect,The label for the toggle that enables or disables the glowing effect on the models
+IgorZ.XRay.MeshSettings.Header,Overlay-uiterlijk,The header for the section of the mod settings that allows to customize the overlay appearance
+IgorZ.XRay.MeshSettings.WireframeModeDropdown,Terreinvisualisatie,The dropdown label for terrain visualization mode selection
+IgorZ.XRay.MeshSettings.WireframeModeDropdown.Note,Het bijwerken van het terrein kan langer duren als deze modus is ingeschakeld.,The note for the wireframe mode dropdown that informs the user about the performance impact of using wireframe modes
+IgorZ.XRay.MeshSettings.WireframeMode.None,Geen,The name of the visualization mode that disables terrain overlay rendering
+IgorZ.XRay.MeshSettings.WireframeMode.Grid,Raster,The name of the visualization mode that renders a grid over the terrain
+IgorZ.XRay.MeshSettings.WireframeMode.Contours,Contouren,The name of the visualization mode that renders terrain contours
+IgorZ.XRay.Visibility.Show,Ondergrondse gebouwen weergeven,The label for the toggle that enables or disables the visibility of underground structures
+IgorZ.XRay.Visibility.Hide,Ondergrondse gebouwen verbergen,The label for the toggle that enables or disables the visibility of underground buildings

@@ -1,12 +1,18 @@
 # Changelog
 
-## [Unreleased] - 2026-05-20
+All notable changes to this project will be documented in this file.
 
-## [0.1.16] - 2026-06-13
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/2.0.0/),
+and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+
+## [Unreleased] - 2026-06-25
+
+## [0.1.16] - 2026-06-25
 
 ### Added
 
 - Bijgewerkt naar 1.1.0.0-8dbbbe9-xsw. Verwijderde vertalingen blijven in de release tot 1.1 op de main branch is.
+- Diverse nieuwe mods
 
 ### Changed
 
@@ -215,3 +221,19 @@
 - [Tobbert.Ladder](Data/Localizations/Plugins/Tobbert.Ladder)
 - [Tobbert.MorePlatforms](Data/Localizations/Plugins/Tobbert.MorePlatforms)
 - [Tobbert.VerticalPowerShaft](Data/Localizations/Plugins/Tobbert.VerticalPowerShaft)
+
+[unreleased]: https://github.com/agroqirax/TimberbornNederlandsTaalpakket/compare/v2.0.0...HEAD
+[0.1.16]: https://github.com/agroqirax/TimberbornNederlandsTaalpakket/compare/v0.1.15...v0.1.16
+[0.1.15]: https://github.com/agroqirax/TimberbornNederlandsTaalpakket/compare/v0.1.14...v0.1.15
+[0.1.14]: https://github.com/agroqirax/TimberbornNederlandsTaalpakket/compare/v0.1.13...v0.1.14
+[0.1.13]: https://github.com/agroqirax/TimberbornNederlandsTaalpakket/compare/v0.1.12...v0.1.13
+[0.1.12]: https://github.com/agroqirax/TimberbornNederlandsTaalpakket/compare/v0.1.9...v0.1.12
+[0.1.9]: https://github.com/agroqirax/TimberbornNederlandsTaalpakket/compare/v0.1.8...v0.1.9
+[0.1.8]: https://github.com/agroqirax/TimberbornNederlandsTaalpakket/compare/v0.1.7...v0.1.9
+[0.1.7]: https://github.com/agroqirax/TimberbornNederlandsTaalpakket/compare/v0.1.6...v0.1.7
+[0.1.6]: https://github.com/agroqirax/TimberbornNederlandsTaalpakket/compare/v0.1.5...v0.1.6
+[0.1.5]: https://github.com/agroqirax/TimberbornNederlandsTaalpakket/compare/v0.1.4...v0.1.5
+[0.1.4]: https://github.com/agroqirax/TimberbornNederlandsTaalpakket/compare/v0.1.3...v0.1.4
+[0.1.3]: https://github.com/agroqirax/TimberbornNederlandsTaalpakket/compare/v0.1.2...v0.1.3
+[0.1.2]: https://github.com/agroqirax/TimberbornNederlandsTaalpakket/compare/v0.1.1...v0.1.2
+[0.1.1]: https://github.com/agroqirax/TimberbornNederlandsTaalpakket//releases/tag/v0.1.1

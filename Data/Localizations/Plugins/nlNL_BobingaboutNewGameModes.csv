@@ -1,0 +1,53 @@
+ID,Text,Comment
+NewGameConfigurationPanel.BobEasy,Ontspannen (Bobingabout),
+NewGameConfigurationPanel.BobEasyModeDescription,"Een verfijnde makkelijke-modus.
+
+Moeilijkheidsgraad: 1/5. Geen vuilwatergolf, volledige terugbetaling, geen letsel.
+
+Seizoenen kunnen qua lengte iets gevarieerder zijn dan Vanilla Makkelijk.
+
+Droogtes duren 1 tot 5 dagen. (met een vroege spelhandicap.)
+
+Gematigde seizoenen duren 15 tot 20 dagen.",
+NewGameConfigurationPanel.BobPolluted,Vervuild (Bobingabout),
+NewGameConfigurationPanel.BobPollutedModeDescription,"Vuilwatergolven komen vaker voor.
+
+Moeilijkheidsgraad: 3/5. Je hebt je gevestigd in een gebied met zware vervuiling.
+
+Droogtes en vuilwatergolven duren 10 tot 15 dagen. (met een vroege spelhandicap.)
+
+Gematigde seizoenen duren 15 tot 20 dagen.
+
+80% kans op vuilwatergolf vanaf cyclus 4.",
+NewGameConfigurationPanel.BobBalanced,Evenwichtig (Bobingabout),
+NewGameConfigurationPanel.BobBalancedModeDescription,"De seizoenen zijn in balans.
+
+Moeilijkheidsgraad: 3/5. De eerste droogte kan net als de moeilijke modus lang duren, maar je hebt meer tijd om je erop voor te bereiden.
+
+50% kans op vuilwatergolf vanaf cyclus 5.
+
+Alle seizoenen duren 20 dagen. (behalve voor vroege spelhandicap.)",
+NewGameConfigurationPanel.BobLong,Lang (Bobingabout),
+NewGameConfigurationPanel.BobLongModeDescription,"De seizoenen zijn lang.
+
+Moeilijkheidsgraad: 4/5. Moeilijke modus, maar langer.
+
+Droogtes en vuilwatergolven duren 50 tot 100 dagen. (met een vroege spelhandicap.)
+
+Gematigde seizoenen duren 20 tot 30 dagen.
+
+40% kans op vuilwatergolven vanaf cyclus 3.",
+NewGameConfigurationPanel.BobHard,Apocalyptisch (Bobingabout),
+NewGameConfigurationPanel.BobHardModeDescription,"Je bevers hebben een zware reis achter de rug.
+
+Moeilijkheidsgraad: 5/5. Je bevers verbruiken 20% meer voedsel en water dan normaal, geen grondstoffenteruggave bij sloop.
+
+Je begint met slechts 6 volwassen en 3 kits, met nauwelijks voedsel of water.
+
+Droogtes en vuilwatergolven duren 40 tot 80 dagen. (met een vroege spelhandicap.)
+
+Gematigde seizoenen duren 4 tot 8 dagen.
+
+50% kans op vuilwatergolven vanaf cyclus 3.
+
+Kies een kaart met voldoende waterbronnen, anders krijg je het zwaar.",

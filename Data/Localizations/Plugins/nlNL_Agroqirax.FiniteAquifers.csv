@@ -1,0 +1,14 @@
+ID,Text,Comment
+Agroqirax.FiniteAquifers.SettingsHeader,Eindige aquifers,Header shown above this mod's settings in the Mod Settings panel
+Agroqirax.FiniteAquifers.MaxReserve,Maximale reserve (m³),Label for the max water reserve setting
+Agroqirax.FiniteAquifers.MaxReserveTooltip,"De maximale hoeveelheid water die een watervoerende laag kan bevatten en waarnaar deze zich weer aanvult. Watervoerende lagen beginnen met deze hoeveelheid en vullen zich niet verder aan zodra deze is bereikt.",Tooltip for max reserve setting
+Agroqirax.FiniteAquifers.DepletionRate,Vermenigvuldiger voor uitputtingssnelheid,Label for the depletion rate setting
+Agroqirax.FiniteAquifers.DepletionRateTooltip,"Hoeveel van de reserve van een watervoerende laag wordt verbruikt voor elke eenheid watersterkte die per seconde wordt geproduceerd. Hogere waarden zorgen ervoor dat watervoerende lagen sneller uitgeput raken.",Tooltip for depletion rate setting
+Agroqirax.FiniteAquifers.RefillRate,Aanvulsnelheid (m³/s),Label for the refill rate setting
+Agroqirax.FiniteAquifers.RefillRateTooltip,"Hoe snel de reserve van een watervoerende laag zichzelf elke seconde aanvult, ongeacht weer of seizoen. Het aanvullen stopt zodra de maximale reserve is bereikt.",Tooltip for refill rate setting
+Agroqirax.FiniteAquifers.LowReserveThresholdPercent,Drempel voor lage reserve (%),Label for the low reserve threshold setting
+Agroqirax.FiniteAquifers.LowReserveThresholdPercentTooltip,"Onder dit percentage van de maximale reserve wordt een watervoerende laag als laag beschouwd: er verschijnt een waarschuwingspictogram en de wateropbrengst neemt geleidelijk af tot nul naarmate de reserve leeg raakt.",Tooltip for low reserve threshold setting
+Building.Aquifer.Description,Een eindige ondergrondse waterbron.,
+Agroqirax.FiniteAquifers.LowReserveStatus,Reserve raakt op,Status text shown in the entity panel when an aquifer's water reserve is running low
+Agroqirax.FiniteAquifers.LowReserveAlert,Een aquifer raakt bijna zonder water,Alert text shown in the bottom-left alert panel when an aquifer's water reserve is running low
+Agroqirax.FiniteAquifers.ReserveLabel,Reserve,Label for the dev-mode entity panel field showing/setting an aquifer's current water reserve

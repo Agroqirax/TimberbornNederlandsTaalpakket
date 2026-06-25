@@ -1,0 +1,13 @@
+ID,Text,Comment
+GridCutting.Checkerboard.Title,Bomen kappen: schaakbord,Tool name
+GridCutting.Checkerboard.Description,"Markeert in een schaakbordpatroon, zodat de overgebleven bomen de gaten opnieuw inzaaien. Kapt ongeveer de helft.",Tool tooltip
+GridCutting.StripesHorizontal.Title,Bomen kappen: horizontale strepen,Tool name
+GridCutting.StripesHorizontal.Description,Markeert afwisselende rijen bomen en laat volledig horizontale zaadrijen achter. Kapt ongeveer de helft.,Tool tooltip
+GridCutting.StripesVertical.Title,Bomen kappen: verticale strepen,Tool name
+GridCutting.StripesVertical.Description,Markeert afwisselende kolommen met bomen en laat volledig verticale zaadrijen achter. Kapt ongeveer de helft.,Tool tooltip
+GridCutting.Thin.Title,Bomen kappen: weinig,Tool name
+GridCutting.Thin.Description,Markeert één op de vier bomen: de zachtste uitdunning voor de snelste hergroei. Kapt ongeveer een kwart.,Tool tooltip
+GridCutting.Heavy.Title,Bomen kappen: veel,Tool name
+GridCutting.Heavy.Description,Markeert drie op de vier bomen en houdt een schaars zaadrooster overeind. Kapt ongeveer driekwart.,Tool tooltip
+GridCutting.Sparse.Title,Gekapte bomen: schaars,Tool name
+GridCutting.Sparse.Description,"Markeert alles behalve een wijd verspreid raster van zaadbomen; elke staande boom wordt omringd door lege tegels. De kans op uitzaaien neemt niet toe met nabijgelegen bomen, dus dit is het meest efficiënte patroon voor natuurlijke hergroei. Kapt ongeveer vier op de vijf. Voorgesteld door yo.bo.",Tool tooltip

@@ -1,0 +1,110 @@
+ID,Text,Comment
+academicunwinds.Rainborn.Notification.RainStarted,Er komt een storm aan.,
+academicunwinds.Rainborn.Notification.AcidRainStarted,Deze storm lijkt gevaarlijk!,
+academicunwinds.Rainborn.Notification.RainEnded,De regen is gestopt.,
+academicunwinds.Rainborn.Notification.SandStormStarted,Er komt een zandstorm aan.,
+academicunwinds.Rainborn.Notification.SandStormEnded,De zandstorm is voorbij.,
+academicunwinds.Rainborn.Notification.RainApproaching,Onweerswolken aan de horizon.,Orphan since 0.2.0 forecast removal; kept for re-wiring later
+academicunwinds.Rainborn.Notification.AcidRainApproaching,Er nadert een gevaarlijke storm!,Orphan since 0.2.0 forecast removal; kept for re-wiring later
+academicunwinds.Rainborn.Notification.SandStormApproaching,Vanuit de duinen komt een zandstorm aanstormen.,Orphan since 0.2.0 forecast removal; kept for re-wiring later
+academicunwinds.Rainborn.Settings.WeatherMode,Weermodus,How the scheduler picks each event's type
+academicunwinds.Rainborn.Settings.WeatherMode.Tooltip,"Uit: helemaal geen weer. De mod blijft geladen, maar de planner is stil.
+
+Cyclusgebonden: de vanillecyclus beslist. Droogte zorgt altijd voor een zandstorm, vuilwatergolf zorgt altijd voor zure regen, gematigde weer zorgt altijd voor schone regen. Als het verwachte weer van de cyclus echter is uitgeschakeld (bijvoorbeeld droogte met uitgeschakelde zandstormen), kan deze gebeurtenis niet worden beïnvloed.
+
+Gewogen (standaard): 90% kans dat de gebeurtenis overeenkomt met de cyclus, 5% kans op de andere twee weertypes. De cyclus bepaalt meestal, terwijl je toch af en toe een verrassing krijgt. Uitgeschakelde weertypes herverdelen hun aandeel onder de anderen.
+
+Willekeurig: de cyclus wordt volledig genegeerd. De kans op zandstormen en zure regen bepalen elke worp.",
+academicunwinds.Rainborn.Settings.WeatherMode.Off,Uit,Picker label
+academicunwinds.Rainborn.Settings.WeatherMode.Strict,Cyclusgebonden,Picker label
+academicunwinds.Rainborn.Settings.WeatherMode.Biased,Gewogen (standaard),Picker label
+academicunwinds.Rainborn.Settings.WeatherMode.Random,Willekeurig,Picker label
+academicunwinds.Rainborn.Settings.SandStormEnabled,Zandstormen inschakelen (experimenteel),Allow sandstorms to roll at all
+academicunwinds.Rainborn.Settings.SandStormEnabled.Tooltip,"Hoofdschakelaar voor zandstormen. Uit betekent dat de planner nooit een zandstorm kiest, ongeacht de modus. Strikte droogtes die normaal gesproken zand zouden kiezen, zullen in plaats daarvan niets kiezen; Vooringenomen keuzes herverdelen het zandaandeel naar de andere typen; Willekeurig kiest zand opnieuw uit als regen.
+
+Gemarkeerd als experimenteel omdat zandafzetting het terrein tijdens stormen hervormt.",
+academicunwinds.Rainborn.Settings.RainIntensityMin,Minimale regenintensiteit,Lower end of the random intensity range
+academicunwinds.Rainborn.Settings.RainIntensityMin.Tooltip,"Onderkant van het willekeurige intensiteitsbereik. Elke storm kiest een intensiteit tussen dit en het maximum, dus twee opeenvolgende stormen voelen zelden hetzelfde.
+
+10 is ongeveer een motregen; 30+ is een zware storm.",
+academicunwinds.Rainborn.Settings.RainIntensityMax,Maximale regenintensiteit,Upper end of the random intensity range
+academicunwinds.Rainborn.Settings.RainIntensityMax.Tooltip,"Bovenkant van het willekeurige intensiteitsbereik.
+
+Als je dit onder de min-schuifregelaar sleept, wordt de volgorde automatisch omgewisseld, zodat de optie nooit gekozen wordt.",
+academicunwinds.Rainborn.Settings.StartCycle,Geen weer vóór cyclus,Earliest cycle that may roll a rain event
+academicunwinds.Rainborn.Settings.StartCycle.Tooltip,Het weer blijft uitgeschakeld totdat je kolonie deze cyclus bereikt. 1 = geen limiet (standaard). Handig als je rustig wilt beginnen voordat het weer zich tegen je keert.,
+academicunwinds.Rainborn.Settings.RainCoverage,Regenbereik (%),Percentage of map tiles sampled each tick
+academicunwinds.Rainborn.Settings.RainCoverage.Tooltip,Percentage kaarttegels dat bij elke tik is bemonsterd. Hoger betekent meer totaal water op de kaart en meer berekeningen per tik. Gecombineerd met de intensiteit bepaalt dit het totale volume per storm.,
+academicunwinds.Rainborn.Settings.RainHoursMin,Minimale regenduur (uren),Shortest possible rain event
+academicunwinds.Rainborn.Settings.RainHoursMin.Tooltip,"Kortst mogelijke regengebeurtenis, in speluren.
+
+Elke storm kiest een nieuwe duur ergens tussen dit en het maximum.",
+academicunwinds.Rainborn.Settings.RainHoursMax,Maximale regenduur (uren),Longest possible rain event
+academicunwinds.Rainborn.Settings.RainHoursMax.Tooltip,"Langst mogelijke regengebeurtenis, in speluren.",
+academicunwinds.Rainborn.Settings.DryDaysMin,Min. aantal dagen tussen regen,Minimum dry gap in days
+academicunwinds.Rainborn.Settings.DryDaysMin.Tooltip,"Minimumaantal dagen tussen regengebeurtenissen.
+
+0 laat de regen binnen dezelfde dag terugkeren als de rol aan de lage kant landt.",
+academicunwinds.Rainborn.Settings.DryDaysMax,Max. aantal dagen tussen regen,Maximum dry gap in days
+academicunwinds.Rainborn.Settings.DryDaysMax.Tooltip,"Maximaal aantal dagen tussen regengebeurtenissen.
+
+Bij elke opening wordt een willekeurige waarde tussen min en max gekozen, plus een willekeurige verschuiving van het tijdstip van de dag, zodat de volgende storm niet altijd op hetzelfde uur landt.",
+academicunwinds.Rainborn.Settings.InitialWaitDays,Initiële wachttijd (dagen),Days to wait before the first rain
+academicunwinds.Rainborn.Settings.InitialWaitDays.Tooltip,"Hoeveel volledige dagen moeten worden gewacht bij het begin van het spel voordat er een regengebeurtenis kan plaatsvinden.
+
+0 laat de eerste regen vallen op dag 1 (standaard).",
+academicunwinds.Rainborn.KeyBindingGroup,Academic's Rainborn,Group label for the rain keybinds
+academicunwinds.Rainborn.KeyBinding.ToggleNormalRain,Schakel schone regen in (foutopsporing),Force clean rain on/off
+academicunwinds.Rainborn.KeyBinding.ToggleAcidRain,Schakel zure regen in (foutopsporing),Force acid rain on/off
+academicunwinds.Rainborn.KeyBinding.ToggleSandStorm,Zandstorm aan/uit (foutopsporing),Force a sandstorm on/off
+academicunwinds.Rainborn.KeyBinding.ToggleAutoEvent,Schakel geplande gebeurtenis in (foutopsporing),Force the next scheduled event on or off. Respects the active Weather mode and the sandstorm toggle.
+academicunwinds.Rainborn.Settings.RainAreaSize,Straal zware regenval (%),Upper cap on per-storm rolled peak radius
+academicunwinds.Rainborn.Settings.RainAreaSize.Tooltip,"Maximale straal die een storm kan krijgen, uitgedrukt als percentage van de kleinste kaartafmeting. Elke storm levert iets op [5%, deze waarde], dus sommige stormen zijn lokale buien en sommige bestrijken het grootste deel van de kaart.
+
+Binnen de gewalste kernfractie (25-75% van de live straal) is de regen op volle intensiteit; buiten daalt het scherp naar nul aan de rand.",
+academicunwinds.Rainborn.Settings.AcidRainEnabled,Zure regen inschakelen,Master toggle for contaminated-water rain
+academicunwinds.Rainborn.Settings.AcidRainEnabled.Tooltip,"Indien ingeschakeld, hebben regengebeurtenissen een toenemende kans om verontreinigd water te laten vallen in plaats van schoon water.
+
+De waarschijnlijkheid begint bij 0% en stijgt naar een limiet van 50% naarmate er meer schone regenbuien passeren. Alleen schone regen telt mee voor escalatie, dus de snelheid wordt beperkt tot 50/50 in plaats van steeds hoger te worden.",
+academicunwinds.Rainborn.Settings.AcidRainEscalation,Escalatie van zure regen,Clean rains needed to reach the 50% acid cap
+academicunwinds.Rainborn.Settings.AcidRainEscalation.Tooltip,"Hoeveel schone regen-evenementen moeten er plaatsvinden voordat de kans op zure regen de limiet van 50% bereikt?
+
+Lager betekent een snellere escalatie richting 50/50.",
+academicunwinds.Rainborn.Settings.AcidRainContamination,Maximale verontreiniging door zure regen (%),Upper cap on each acid storm's rolled concentration
+academicunwinds.Rainborn.Settings.AcidRainContamination.Tooltip,"Bovengrens op de opgerolde verontreinigingsratio van elke zuurstorm. De planner kiest een nieuwe waarde per gebeurtenis ergens in [25%, deze schuifregelaar], dus twee opeenvolgende zuurstormen kunnen heel verschillend van elkaar aanvoelen.
+
+100% geeft de grootste variëteit. Verlaag de schuifregelaar tot aan de hard-cap hoe hevig een enkele storm kan zijn.
+
+Heeft geen effect als Zure regen inschakelen is uitgeschakeld, of als de huidige gebeurtenis een schone regen is.",
+academicunwinds.Rainborn.Settings.AcidRainMinCycle,Min. cyclus voor zure regen,Earliest cycle when acid rain can happen
+academicunwinds.Rainborn.Settings.AcidRainMinCycle.Tooltip,"Vroegste cyclus waarop zure regen kan voorkomen. Gebeurtenissen vóór deze cyclus zijn altijd schoon, zelfs als de escalatieteller onder de oppervlakte al vol is.
+
+Standaard 10 geeft de kolonie een rustige uitstelperiode voordat het weer zich tegen je kan keren.",
+academicunwinds.Rainborn.Settings.SandStormMinCycle,Min cyclus voor zandstormen,Earliest cycle when a sandstorm can happen
+academicunwinds.Rainborn.Settings.SandStormMinCycle.Tooltip,"Vroegste cyclus waarop een zandstorm kan voorkomen. Vóór deze cyclus behandelt de planner het zand alsof het uitgeschakeld is, zodat droogtes gewoon uitblijven en willekeurige of vooringenomen rollen die zand zouden hebben geplukt, in plaats daarvan tot stilte komen.
+
+Zand verandert het terrein permanent, dus een uitstelperiode is hier net zo belangrijk als voor zuur. Standaard 10 weerspiegelt de zuurpoort.",
+academicunwinds.Rainborn.Settings.Volume,Geluidsvolume (%),Volume multiplier for rain and thunder
+academicunwinds.Rainborn.Settings.Volume.Tooltip,"Volume voor de regenlus, de dondergeluiden en de zandstormlus.
+
+Komt bovenop de op intensiteit gebaseerde schaling van de storm (lichtere stormen zijn op zichzelf stiller) en de audioschuifregelaar voor de omgeving van de game. 0 dempt de audio van de mod volledig.",
+academicunwinds.Rainborn.Settings.FloodTolerance,Overstromingsmarge,How much rain water a building shrugs off during a storm
+academicunwinds.Rainborn.Settings.FloodTolerance.Tooltip,"Hoeveel stilstaand water een gebouw kan hebben tijdens regen voordat het als overstroomd wordt gemarkeerd. Alleen toegepast tijdens regenbuien.
+
+0 is standaard (elk water boven de basis activeert een overstromingswaarschuwing). Hogere waarden zorgen ervoor dat gebouwen diepere plassen kunnen negeren, zodat een dun laagje motregen de overstromingsmelding niet activeert.
+
+Buiten de regen loopt de marge binnen een paar uur in het spel terug naar 0, dus rivieroverstromingen en overstromingen door vuilwatergolven worden nog steeds normaal gedetecteerd.",
+academicunwinds.Rainborn.Settings.SandChance,Kans op zandstormen (%),Chance the next event rolls as a sandstorm
+academicunwinds.Rainborn.Settings.SandChance.Tooltip,"In de willekeurige modus is dit de procentuele kans dat de planner een zandstorm kiest in plaats van een regengebeurtenis. 0 betekent een pure regenkolonie; 100 betekent een dorre woestenij waar nooit regen valt. Standaard 25.
+
+Genegeerd in de modi Strict en Biased (die volgen in plaats daarvan de voorkeur van de vanillecyclus).",
+academicunwinds.Rainborn.Settings.SandIntensity,Intensiteit van de zandstorm,How fast sand accumulates per storm
+academicunwinds.Rainborn.Settings.SandIntensity.Tooltip,"Bepaalt hoe snel zand zich ophoopt op geschikte tegels (tegen de wind beschut tegen obstakels, of in depressies zitten). Hogere waarden betekenen dat zich tijdens een enkele storm zichtbare duinen vormen. Lagere waarden betekenen dat duinen zich alleen tijdens vele stormen opbouwen, of helemaal nooit op marginale tegels.",
+academicunwinds.Rainborn.Good.Pickax.DisplayName,Pikhouweel,
+academicunwinds.Rainborn.Good.Pickax.PluralDisplayName,Pikhouwelen,
+academicunwinds.Rainborn.Good.AdvancedPickax.DisplayName,Geavanceerd pikhouweel,
+academicunwinds.Rainborn.Good.AdvancedPickax.PluralDisplayName,Geavanceerde pikhouwelen,
+academicunwinds.Rainborn.Building.ExcavationFlag.DisplayName,Opgravingspost,
+academicunwinds.Rainborn.Building.ExcavationFlag.Description,"Markeer een terreinblok voor verwijdering. Een bouwer sleept een pikhouweel over en graaft het blok uit. Het blok wordt los zand, dat een bever nog moet wegslepen voordat de tegel helemaal vrij is.",
+academicunwinds.Rainborn.Building.LooseDirt.DisplayName,Los zand,
+academicunwinds.Rainborn.Building.LooseDirt.Description,Een losgegraven terreinblok. Bevers halen het zelf weg; het onderliggende terrein blijft vrij als ze klaar zijn.,

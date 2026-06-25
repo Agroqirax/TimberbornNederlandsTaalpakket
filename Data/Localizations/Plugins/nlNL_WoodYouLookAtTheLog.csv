@@ -1,0 +1,7 @@
+ID,Text,Comment
+LV.WYLATL.Title,Hout je naar deze boomstam kijken?,
+LV.WYLATL.PickMinutes,Hoeveel minuten ga je deze keer spelen?,
+LV.WYLATL.ImGood,"Nee bedankt.",
+LV.WYLATL.GameClosesIn,Resterende minuten:,
+LV.WYLATL.CloseWarning,Het spel wordt over {0} minuten afgesloten. Sla je voortgang op.,
+LV.WYLATL.SaveError,"De tijd is om, maar de mod kan je voortgang niet opslaan. Het spel wordt niet afgesloten.",
