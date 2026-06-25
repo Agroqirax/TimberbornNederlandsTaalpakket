@@ -1,0 +1,7 @@
+ID,Text,Comment
+Building.CompactWaterTurbine.DisplayName,Compacte waterturbine,
+Building.CompactWaterTurbine.Description,Een inline waterturbine die senergie opwekt uit stromend water. Past perfect in smalle 1x1 kanalen.,
+Building.CompactWaterTurbine.FlavorDescription,"Bevers beseften al snel dat als een pomp energie gebruikt om water te verplaatsen, water een pomp kan verplaatsen om energie te maken.",
+Building.CompactWaterTurbine.CurrentDrop,Huidige waterdruppel: {0},
+Building.CompactWaterTurbine.RealFlow,Huidige stroom: {0},
+Building.CompactWaterTurbine.Synchronize,Synchroniseer met aangrenzende turbines,

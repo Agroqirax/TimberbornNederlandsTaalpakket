@@ -3,7 +3,7 @@
     "prefix": ["header"],
     "body": ["ID,Text,Comment\n$1,$2,"],
     "description": "Header for timberborn language files.",
-    "scope": "csv,plaintext",
+    "scope": "csv,dynamic csv,plaintext",
     "isFileTemplate": true,
   },
 }

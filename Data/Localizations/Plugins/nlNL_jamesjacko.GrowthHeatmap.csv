@@ -1,0 +1,21 @@
+ID,Text,Comment
+GrowthHeatmap.ToggleOverlay,Groei heatmap,Tooltip/label for the overlay toggle
+GrowthHeatmap.ToggleOverlay.Description,"Geef planten en bomen een nieuwe kleur, afhankelijk van hoe volwassen ze zijn",Toggle description
+GrowthHeatmap.ToggleOverlay.DisplayName,Groei heatmap in-/uitschakelen,Keybinding name in Controls settings
+GrowthHeatmap.TogglePalette,Toegankelijkheidsmodus,Tooltip/label for the accessibility palette toggle
+GrowthHeatmap.TogglePalette.DisplayName,Toegankelijkheidsmodus in-/uitschakelen,Keybinding name in Controls settings
+GrowthHeatmap.KeyBindingGroup.DisplayName,Groei heatmap,Keybinding group heading in Controls settings
+GrowthHeatmap.PanelTitle,Groei heatmap,Title shown at the top of the control panel
+GrowthHeatmap.PlantTypes,Soorten planten,Panel sub-frame title for the plant-type filters
+GrowthHeatmap.Trees,Bomen,Filter row label (trees)
+GrowthHeatmap.Bushes,Struiken,Filter row label (bushes)
+GrowthHeatmap.Crops,Gewassen,Filter row label (crops)
+GrowthHeatmap.Source,Bron,Panel sub-frame title for the source filters
+GrowthHeatmap.Planted,Geplant,Filter row label (player-planted)
+GrowthHeatmap.Natural,Natuurlijk,Filter row label (wild / map-grown)
+GrowthHeatmap.Key,Legenda,Panel sub-frame title for the colour legend
+GrowthHeatmap.Growth,Groei,Legend row label for the growth-stage ramp
+GrowthHeatmap.Yield,Opbrengst,Legend row label for the yield-stage ramp
+GrowthHeatmap.KeyHint,Van links naar rechts jong tot volwassen; einde = klaar om te oogsten,Caption under the colour legend
+GrowthHeatmap.KeyReady,Klaar om te oogsten,Tooltip on the legend's ready swatch
+GrowthHeatmap.ColourblindMode,Toegankelijkheidsmodus,Key row label for the accessibility palette toggle
