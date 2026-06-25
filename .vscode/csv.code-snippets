@@ -1,9 +1,9 @@
 {
   "Timberborn language csv header": {
     "prefix": ["header"],
-    "body": ["ID,Text,Comment\n,,"],
+    "body": ["ID,Text,Comment\n$1,$2,"],
     "description": "Header for timberborn language files.",
-    "scope": "csv,txt",
+    "scope": "csv,plaintext",
     "isFileTemplate": true,
   },
 }

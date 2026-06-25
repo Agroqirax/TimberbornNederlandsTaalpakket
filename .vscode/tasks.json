@@ -29,6 +29,29 @@
         "color": "terminal.ansiYellow"
       },
       "detail": "Controleer de spelling"
+    },
+    {
+      "label": "build",
+      "command": "tbuild",
+      "options": {
+        "env": {
+          "PATH": "${env:HOME}/.local/bin:${env:PATH}"
+        }
+      },
+      "type": "shell",
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "presentation": {
+        "reveal": "silent",
+        "revealProblems": "onProblem"
+      },
+      "problemMatcher": "$msCompile",
+      "icon": {
+        "id": "build",
+        "color": "terminal.ansiGreen"
+      }
     }
   ],
   "inputs": [
