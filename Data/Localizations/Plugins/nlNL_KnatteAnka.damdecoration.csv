@@ -98,20 +98,20 @@ Knatte.CornerSlope2X.Description,Laat de dijk een hoek hebben.,-
 Knatte.CornerSlope2X.FlavorDescription,Blokkeert geen water,-
 //,//,
 Knatte.Corner3X.DisplayName,"Decoratieve hoek 
-Drievoudige hoogte",-
+Driedubbele hoogte",-
 Knatte.Corner3X.Description,Laat de dijk een hoek hebben.,-
 Knatte.Corner3X.FlavorDescription,Blokkeert geen water,-
 //,//,
 Knatte.InvCorner3X.DisplayName,"Decoratieve inverse hoek 
-Drievoudige hoogte",-
+Driedubbele hoogte",-
 Knatte.InvCorner3X.Description,Laat de dijk een hoek hebben.,-
 Knatte.InvCorner3X.FlavorDescription,Blokkeert geen water,-
 //,//,
-Knatte.Slope3X.DisplayName,Decoratiehelling drievoudige hoogte,-
+Knatte.Slope3X.DisplayName,Decoratiehelling driedubbele hoogte,-
 Knatte.Slope3X.Description,Laat de dijk hellend zijn.,-
 Knatte.Slope3X.FlavorDescription,Blokkeert geen water,-
 //,//,
-Knatte.InvCornerW3X.DisplayName,Dijk inverse hoek drievoudige hoogte,-
+Knatte.InvCornerW3X.DisplayName,Dijk inverse hoek driedubbele hoogte,-
 Knatte.InvCornerW3X.Description,Laat de dijk een hoek hebben.,-
 Knatte.InvCornerW3X.FlavorDescription,Water zal niet passeren,-
 //,//,
@@ -119,7 +119,7 @@ Knatte.SlopeW_1.DisplayName,Dijk helling,
 Knatte.SlopeW_2.DisplayName,"Dijk helling 
 Dubbele hoogte",
 Knatte.SlopeW_3.DisplayName,"Dijk helling 
-Drievoudige hoogte",
+Driedubbele hoogte",
 Knatte.SlopeW.Description,Helling die het water volledig blokkeert,
 Knatte.SlopeW.FlavorDescription,Water zal niet passeren,
 //,//,

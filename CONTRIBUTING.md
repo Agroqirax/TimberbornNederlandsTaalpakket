@@ -14,7 +14,7 @@ Data
    ├─ nlNL_names.csv          (namenlijst)
    ├─ nlNL_wip.csv            (vertalingen van de exp branch)
    ├─ nlNL_old.csv            (verwijderde vertalingen die tijdelijk in de release blijven)
-   └─ Plugins                 (map met mod vertalingen)
+   └─ Plugins
       └─ nlNL_Mod.ID.csv      (mod vertaling met mod id als suffix)
 ```
 
@@ -30,7 +30,8 @@ Download de te vertalen mod (dit kan op [mod.io](https://mod.io/g/timberborn) of
 
 > [!TIP]
 > De bestanden van de steam workshop worden opgeslagen in `C:\Program Files (x86)\Steam\steamapps\workshop\content\1062090`<br>
-> Op MacOS is dit `~/Library/Application Support/Steam/steamapps/workshop/content/1062090`
+> Op MacOS is dit `~/Library/Application Support/Steam/steamapps/workshop/content/1062090`<br>
+> Op Linux is dit `~/.steam/steam/steamapps/workshop/content/1062090/`
 
 Kopier `/localizations/enUS.csv` (of `.txt`) (of `/version-x.x/...`) van de mod naar `/Data/Localizations/Plugins/nlNL_MOD.ID.csv`
 
