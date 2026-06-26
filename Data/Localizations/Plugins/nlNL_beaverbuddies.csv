@@ -13,7 +13,7 @@ BeaverBuddies.ClientDesynced.Message,"Een verbonden speler is gedesynchroniseerd
 BeaverBuddies.ClientDesynced.FailedToRehostMessage,Opnieuw hosten is mislukt. Sla handmatig op en host opnieuw.,Failed to Rehost. Manually save and Host again.
 BeaverBuddies.ClientDesynced.SaveAndRehostButton,Opslaan en opnieuw hosten,Save and Rehost
 BeaverBuddies.ClientDesynced.WaitForRehostButton,Opnieuw verbinden (wachten op opnieuw hosten),Reconnect (wait for Rehost)
-BeaverBuddies.ClientDesynced.PostBugReportButton,Bugrapport indienen,Post Bug Report
+BeaverBuddies.ClientDesynced.PostBugReportButton,Foutrapport indienen,Post Bug Report
 BeaverBuddies.Editor.StartingLocation1,Startlocatie - Speler 1,
 BeaverBuddies.Editor.StartingLocation2,Startlocatie - Speler 2,
 BeaverBuddies.Editor.StartingLocation3,Startlocatie - Speler 3,
@@ -24,7 +24,7 @@ BeaverBuddies.ClientDesynced.ReportFailed,Mislukt :(,
 BeaverBuddies.ClientDesynced.ConsentAgreement,"Ja, ik ga akkoord",
 BeaverBuddies.ClientDesynced.TracingEnabled,Ingeschakeld,
 BeaverBuddies.ClientDesynced.EnableTracing,Logging inschakelen,
-BeaverBuddies.ClientDesynced.NeedToEnableTracing,"Om deze desynchronisatie te kunnen melden, moeten *alle spelers* eerst meer gedetailleerde logging inschakelen door hieronder op Logregistratie inschakelen te drukken. Als er opnieuw een desynchronisatie plaatsvindt, kun je een gedetailleerd, geautomatiseerd bugrapport plaatsen. De logmodus kan enige vertraging veroorzaken, maar deze zal alleen actief zijn totdat je het spel opnieuw start.",
+BeaverBuddies.ClientDesynced.NeedToEnableTracing,"Om deze desynchronisatie te kunnen melden, moeten *alle spelers* eerst meer gedetailleerde logging inschakelen door hieronder op Logregistratie inschakelen te drukken. Als er opnieuw een desynchronisatie plaatsvindt, kun je een gedetailleerd, geautomatiseerd foutrapport plaatsen. De logmodus kan enige vertraging veroorzaken, maar deze zal alleen actief zijn totdat je het spel opnieuw start.",
 BeaverBuddies.ClientDesynced.ConsentMessage,"Toestemming om gebruiksgegevens te delen
 
 Door ervoor te kiezen je gegevens te delen, ga je ermee akkoord de volgende informatie van je gameplay-sessie naar de ontwikkelaars van deze mod te sturen:
@@ -51,7 +51,7 @@ Deze instelling is bedoeld voor ontwikkelaars.",
 BeaverBuddies.Settings.ShowFirstTimerMessage,Eerste gebruiksbericht weergeven,
 BeaverBuddies.Settings.AlwaysTrace,Gebruik altijd gedetailleerde logging,
 BeaverBuddies.Settings.AlwaysTrace.Tooltip,"Indien ingeschakeld, gebruikt de game altijd gedetailleerde logging, waardoor je desynchronisatierapporten kunt indienen bij het eerste voorval zonder dat je handmatig gedetailleerde logging hoeft in te schakelen.
-Houd er rekening mee dat alle spelers de instelling ingeschakeld moeten hebben. 
+Houd er rekening mee dat alle spelers de instelling ingeschakeld moeten hebben.
 Deze instelling veroorzaakt enige vertraging en wordt voor de meeste spelers niet aanbevolen.",
 BeaverBuddies.Settings.ReportingConsent,Toestemming voor rapportage,
 BeaverBuddies.Settings.EnableSteamConnection,Schakel Steam-netwerken in,
@@ -61,13 +61,28 @@ Opmerking: deze functie werkt mogelijk niet als je netwerk geen peer-to-peer-ver
 Bovendien kunnen peer-to-peer-verbindingen langzamer zijn dan directe verbindingen.",
 BeaverBuddies.Settings.FriendsCanJoinSteamGame,Laat vrienden rechtstreeks deelnemen via Steam,
 BeaverBuddies.Settings.FriendsCanJoinSteamGame.Tooltip,"Indien ingeschakeld, kunnen je vrienden rechtstreeks via Steam deelnemen aan je game zonder dat je ze uitnodigt.",
+BeaverBuddies.Settings.PauseReduction,Verminder het aantal gedwongen pauzes,
+BeaverBuddies.Settings.PauseReduction.Tooltip,"Voor een optimale ervaring moeten alle spelers deze op dezelfde waarde instellen.
+
+Uit - Standaardgedrag
+Alleen menu - Alleen automatische pauze bij het openen van het menu (niet voor deconstructies)
+Nooit automatisch pauzeren - Het spel pauzeert nooit automatisch, ook niet bij het openen van het menu. Dit kan ertoe leiden dat het spel beschadigd raakt als je het spel niet pauzeert voordat je het opslaat.",
+BeaverBuddies.Settings.PauseReduction.Off,Uit,
+BeaverBuddies.Settings.PauseReduction.LowRisk,Alleen menu,
+BeaverBuddies.Settings.PauseReduction.HighRisk,Nooit automatisch pauzeren,
 BeaverBuddies.Host.ConnectedClients,"Wachten tot een client verbinding maakt...
 Momenteel aangesloten spelers:",
 BeaverBuddies.Host.DirectConnectClient,Directe verbinding (client),
 BeaverBuddies.Host.StartGame,Spel starten,
 BeaverBuddies.Host.InviteFriends,Nodig vrienden uit,
-BeaverBuddies.JoinCoopGame.Success,Aangesloten! Bezig met kaart ontvangen...,
+BeaverBuddies.JoinCoopGame.Success,Aangesloten! Kaart ontvangen...,
 BeaverBuddies.JoinCoopGame.Error.InvalidFormat,Ongeldig adresformaat. Kan de poort niet parseren.,
 BeaverBuddies.JoinCoopGame.Error.InvalidAddress,"Adres was geen geldig IP-adres.
 Er is geprobeerd het probleem op te lossen als een hostnaam, maar het is niet omgezet in een IP-adres.",
 BeaverBuddies.JoinCoopGame.Error.CouldNotConnect,Kan geen verbinding maken met de host. Controleer het adres en de poort en zorg ervoor dat de host actief is en indien nodig de poort doorstuurt. Foutdetails:,
+BeaverBuddies.KeyBindings.Group,BeverBuddy's,
+BeaverBuddies.KeyBindings.Ping,Ping-locatie,
+BeaverBuddies.Settings.PingPlayerName,Ping-weergavenaam,
+BeaverBuddies.Settings.PingPlayerName.Tooltip,De naam die naast je pings aan andere spelers wordt getoond.,
+BeaverBuddies.Settings.PingColor,Ping-kleur,
+BeaverBuddies.Settings.PingColor.Tooltip,De kleur waarmee je pings op het scherm van elke speler worden weergegeven.,

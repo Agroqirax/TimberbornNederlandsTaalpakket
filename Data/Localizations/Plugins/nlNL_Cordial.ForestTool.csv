@@ -1,5 +1,5 @@
 ID,Text,Comment
-Cordial.ForestTool.DisplayName,Boomplant tool,-
+Cordial.ForestTool.DisplayName,Boomplant gereedschap,-
 Cordial.ForestTool.Description,Configureerbare tool voor het planten van gemengde bossen.,-
 Coridal.ForestTool.Requirement,Vereist gebouw: {0},{0} stands for Building.Forester.DisplayName
 Cordial.ForestTool.ForestToolPanel.Title,Boomplant instellingen,-

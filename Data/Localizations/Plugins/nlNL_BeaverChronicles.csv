@@ -149,7 +149,7 @@ LV.BCEv.FoodWoodDispute2.O4,"Eindelijk overwint de uitputting de woede. De arbei
 [[C]][[+]]De werkers van beide groepen winnen een werksnelheid van {1:0%} gedurende [[time:{0}d]]",
 LV.BCEv.FoodWoodDispute2.O5,"Zonder begeleiding blijft de wrok ongecontroleerd voortwoekeren. Werknemers van beide kanten verlaten de bijeenkomst meer gefrustreerd dan voorheen en geven de leiding van de nederzetting de schuld dat ze er niet in zijn geslaagd de zaak op te lossen.
 [[C]][[-]]De werkers van beide groepen verliezen {1:0%} werksnelheid gedurende [[time:{0}d]]",
-LV.BCEv.FoodWoodDispute2.Lumberjack,Houthakkersvlaggen,
+LV.BCEv.FoodWoodDispute2.Lumberjack,Houthakkersposten,
 LV.BCEv.FoodWoodDispute2.Farmer,Boerderijen,
 LV.BCEv.ContaminationCure,Pasteurs gok,
 LV.BCEv.ContaminationCure.Content,"{0} is besmet en ligt stil met een vochtige vacht, doffe ogen en een staart die te zwak is om op de grond te slaan. Het grootste deel van de nederzetting houdt een zorgvuldige afstand.
@@ -173,7 +173,7 @@ De zorgvuldige aantekeningen blijken echter voor iets anders nuttig te zijn. De 
 [[C]][[+]]Teruggave van {1} Wetenschap.",
 LV.BCEv.ContaminationConspiracy,Een rustige plek,
 LV.BCEv.ContaminationConspiracy.Content,"{0} is besmet.
-Tegen de schemering kruipen er gefluister door de nederzetting als mist over slecht water. Sommigen zeggen dat de besmette mensen niet alleen voor de veiligheid worden weggestuurd. Sommigen zeggen dat een afgelegen district op hen wacht, stil en leeg, zonder warme bedden, zonder volle tanks en niemand die de laatste klap in de staart hoort.
+Tegen de schemering kruipen er gefluister door de nederzetting als mist over vuilwater. Sommigen zeggen dat de besmette mensen niet alleen voor de veiligheid worden weggestuurd. Sommigen zeggen dat een afgelegen district op hen wacht, stil en leeg, zonder warme bedden, zonder volle tanks en niemand die de laatste klap in de staart hoort.
 Niemand zegt het luid. Niemand geeft toe dat ze het geloven. Maar elke bever heeft gezien hoe snel een zieke werknemer een probleem kan worden dat moet worden opgelost.
 Nu kijkt {0} van een afstand naar de anderen, en de nederzetting kijkt naar zichzelf.",
 LV.BCEv.ContaminationConspiracy.C1,Wij zullen deze complottheorie verdrijven,

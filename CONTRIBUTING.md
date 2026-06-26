@@ -55,7 +55,7 @@ Voeg de mod toe aan de changelog en modlijst
 `./modlist.csv`
 
 ```csv
-Naam,Mod.Id,https://steamcommunity.com/sharedfiles/filedetails/?id=xxxxxxxxxx,https://mod.io/g/timberborn/m/ModNaam,x.x.x
+Naam,Mod.Id,https://steamcommunity.com/sharedfiles/filedetails/?id=xxxxxxxxxx,https://mod.io/g/timberborn/m/xxx,x.x.x
 ```
 
 Commit je veranderingen en push de branch
@@ -64,31 +64,8 @@ Commit je veranderingen en push de branch
 
 Let op deze dingen tijdens het vertalen
 
-- Termen
-  - District -> Wijk
-  - Settlement -> Nederzetting
-  - Logs -> Hout
-  - Hoomans, Hoomanity -> Mensjen, Mensjheit (incorrecte spelling aanhouden)
-  - Floodgate, Sluice -> Sluisdeur
-  - Badwater -> Slechtwater
-  - Save (als znw.) -> Save
-  - Haulers -> Transporteurs
-  - Contaminated -> Besmet, Verontreinigd
-  - Bot -> Robot
-  - Timberbot -> Houtbot
-  - Ironbot -> IJzerbot
-  - Lodge, Barrack -> Hut
-  - Science points -> Kennis
-  - Tubeway -> Metro
-  - Dirt -> Zand
-  - Power shaft -> Aandrijfas
-- Namen
-  - Ma' Ngonel -> Oma Ngonel
-  - Ol' Kazko -> Ouwe Kazko
 - Quotes schrijven met een em-dash (U+2014), geen spatie en bijde delen met een hoofdletter (bijv. —Oma Ngonel)
 - Houd het hoofdlettergebruik van het origineel aan
-- Niet te lange samenstellingen (bijv. Slechtwater bron i.p.v. Slechtwaterbron)
 - "FlavorDescriptions" verliezen vaak hun betekenis wanneer vertaald. Gebruik zo nodig een standaard vertaling i.p.v. de grap letterlijk over te nemen.
-- Houd een informele toon aan
-- Vermijd het gebruik van te ingewikkelde woorden
+- Houd een informele toon aan en maak het taalgebruik niet onnodig ingewikkeld
 - Let op het correcte gebruik van de ZWSP (U+200B) & NBSP (U+00A0) (gebruik evt. een editor die onzichtbare tekens toont)

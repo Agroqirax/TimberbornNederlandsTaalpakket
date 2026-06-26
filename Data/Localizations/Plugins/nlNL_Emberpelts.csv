@@ -1,7 +1,7 @@
 ID,Text,Comment
 Faction.Emberpelts.DisplayName,Emberpelts,Name of a faction
 Faction.Charcoal.DisplayName,Houtskool,
-Faction.Emberpelts.Description,"De Emberpelts hebben een affiniteit met de kleur rood en blijven graag warm. Soms vinden ze het gewoon leuk om dingen te zien branden.
+Faction.Emberpelts.Description,"De Emberpelts hebben affiniteit met de kleur rood en blijven graag warm. Soms vinden ze het gewoon leuk om dingen te zien branden.
 Ze houden er niet van om hun vacht nat te maken.
 Hun motto: <i>Harten van vuur.</i>",Description of a beaver faction
 Bot.DisplayName.Emberpelts,Emberbot {0},Bot name
@@ -51,11 +51,11 @@ Manufactory.Recipe.FuelRadish,Brandstof (Radijzen),
 Manufactory.Recipe.FuelBeetroot,Brandstof (bieten),
 Manufactory.Recipe.FuelCanola,Brandstof (canolazaden),
 Manufactory.Recipe.FuelCorn,Brandstof (maïs),
-Manufactory.Recipe.FuelBadwater,Brandstof (slechtwater),
-Building.HalfRoof1x1.DisplayName,Half-dak 1x1,
-Building.HalfRoof1x2.DisplayName,Half-dak 2x1,
-Building.HalfRoof2x1.DisplayName,Half-dak 2x1,
-Building.HalfRoof2x2.DisplayName,Half-dak 2x2,
+Manufactory.Recipe.FuelBadwater,Brandstof (vuilwater),
+Building.HalfRoof1x1.DisplayName,Halfdak 1x1,
+Building.HalfRoof1x2.DisplayName,Halfdak 1x2,
+Building.HalfRoof2x1.DisplayName,Halfdak 2x1,
+Building.HalfRoof2x2.DisplayName,Halfdak 2x2,
 Building.Lodge.Emberpelts.FlavorDescription,Een hut was maar een hut.,
 Building.BigLodge.DisplayName,Grote loge,
 Building.BigLodge.Description,Driemaal zo groot als de hut.,
@@ -64,7 +64,7 @@ Building.VerticalLodge.DisplayName,Verticale loge,
 Building.VerticalLodge.Description,Een hut die naar boven is gebouwd,
 Building.VerticalLodge.FlavorDescription,De mogelijkheden zijn onbegrensd!,
 Building.DoubleVerticalLodge.DisplayName,Dubbele verticale hut,
-Building.DoubleVerticalLodge.Description,Het lijkt wel alsof er twee op elkaar liggen.,
+Building.DoubleVerticalLodge.Description,Het is alsof ze met z'n tweeën op elkaar liggen.,
 Building.DoubleVerticalLodge.FlavorDescription,Groter! Hoger!,
 Building.TenementLodge.DisplayName,Huurwoning,
 Building.TenementLodge.Description,Een hele grote en hoge plek om te overnachten.,
@@ -89,7 +89,7 @@ Building.Kiln.DisplayName,Oven,
 Building.Kiln.Description,Maakt houtskool van boomstammen en stenen van klei.,
 Building.Kiln.FlavorDescription,"Brand maar, schatje!",
 Building.SmallEngine.DisplayName,Kleine motor,
-Building.SmallEngine.FlavorDescription,"Een geweldige uitvinding, de IJzertanden hebben ons ontwerp gejat!",
+Building.SmallEngine.FlavorDescription,"Een geweldige uitvinding, de IJzertanden hebben ons ontwerp waarschijnlijk gejat!",
 Building.Engine.Emberpelts.FlavorDescription,Het verbranden van steenkool vereist een verbeterd ontwerp.,
 Building.FuelEngine.DisplayName,Vloeibare brandstofmotor,
 Building.FuelEngine.FlavorDescription,Vloeibare brandstof is nog krachtiger voor het opwekken van energie.,
@@ -102,7 +102,7 @@ Building.LargeUndergroundTank.DisplayName,Ondergrondse tank,
 Building.UndergroundWarehouse.DisplayName,Ondergronds magazijn,
 Building.IndustrialPile.DisplayName,Industriële stapel,
 Building.TubewayStation.Small.DisplayName,Klein metrostation,
-Building.TubewayLevee.DisplayName,Dijk metro,
+Building.TubewayLevee.DisplayName,Metro-dijk,
 NaturalResource.AppleTree.DisplayName,Appelboom,
 NaturalResource.AppleTree.FlavorDescription,De zaden werden meegebracht door reizigers uit verre landen.,
 NaturalResource.Beetroot.DisplayName,Biet,
@@ -137,7 +137,7 @@ Building.Floodgate.Flat.Description,"Blokkeert water tot een instelbare hoogte. 
 Building.PhoenixDistillery.DisplayName,Phoenix-distilleerderij,
 Building.PhoenixDistillery.Description,Voor de productie van Phoenix Essence,
 Manufactory.Recipe.BadwaterRig.PurifiedWater,Gezuiverd water,
-Manufactory.Recipe.BadwaterRig.ForcedExtraction,Geforceerde extractie van slecht water,
+Manufactory.Recipe.BadwaterRig.ForcedExtraction,Geforceerde extractie van vuilwater,
 Building.SkyBridge.DisplayName,Loopbrug,
 Building.SkyBridge.Description,Een loopbrug om tussen de hutten te reizen.,
 Building.SkyBridgeEntrance.DisplayName,Ingang via loopbrug,
@@ -155,28 +155,16 @@ Building.SkyBridgeLadder.DisplayName,Loopladder,
 Building.SkyBridgeBridge.DisplayName,Loopbrug,
 Building.LeveeTunnel.DisplayName,Dijktunnel,
 Building.TubewayBridge.DisplayName,Metrobrug,
-Building.TubewayLeveeTunnel.DisplayName,Metro dijk tunnel,
+Building.TubewayLeveeTunnel.DisplayName,Metro-dijk-tunnel,
 Building.TubewayTunnel.DisplayName,Metrotunnel,
 Building.TunnelOther.Description,Tunnelt door terrein en vervangt het door een ander gebouw. Gebruik het lagengereedschap om onder terrein of structuren te kijken.,
 Building.VerticalPowerShaftTunnel.DisplayName,Verticale aandrijfastunnel,
-Building.DistrictCenter.FlavorDescription.Emberpelts,"""Harten van vuur."" – Emberpelts-motto",The motto must be the same as in Faction.Emberpelts.Description
+Building.DistrictCenter.FlavorDescription.Emberpelts,"""Harten van vuur."" –Emberpelts-motto",The motto must be the same as in Faction.Emberpelts.Description
 Building.AquiferRig.DisplayName,Aquifer-installatie,
 Building.MetalPlatform.DisplayName,Metalen platform,
-NewGameConfigurationPanel.BobBalanced,Evenwichtig (Bobingabout),
-NewGameConfigurationPanel.BobBalancedModeDescription,"De seizoenen zijn redelijk in balans.
-
-Moeilijkheidsgraad: 3/5. De eerste droogte kan net als de Harde modus lang duren, maar je hebt meer tijd om je erop voor te bereiden.
-
-50% kans op slecht tij vanaf cyclus 5.
-
-Alle seizoenen duren 25 dagen. (behalve voor vroege spelhandicap.)",
-NewGameConfigurationPanel.BobLong,Lang (Bobingabout),
-NewGameConfigurationPanel.BobLongModeDescription,"De seizoenen zijn lang.
-
-Moeilijkheidsgraad: 4/5. Harde modus, maar langer.
-
-Droogtes en slechte getijden duren 50 tot 100 dagen. (met een vroege spelhandicap.)
-
-Gematigde seizoenen duren 20 tot 30 dagen.
-
-40% kans op slechte getijden vanaf cyclus 3.",
+Building.Tubeway.Gate.DisplayName,Metropoort,
+Building.Tubeway.Gate.Description,Verbreekt op verzoek een metroverbinding.,
+Building.ImpermeablePowerShaft.Description,Brengt energie over. Blokkeert water.,
+Building.ImpermeablePowerShaft.DisplayName,Ondoordringbare aandrijfas,Must be consistent with Building.PowerShaft.DisplayName. An axle which transfers power embedded in a block of wood which keeps it watertight.
+Building.Airlock.Description,Laat bevers door terwijl het water wordt geblokkeerd.,
+Building.Airlock.DisplayName,Luchtsluis,

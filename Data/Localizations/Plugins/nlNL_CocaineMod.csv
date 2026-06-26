@@ -1,16 +1,39 @@
 ID,Text,Comment
-Good.CocaLeaves.DisplayName,Rijstblad,
-Good.CocaLeaves.PluralDisplayName,Rijst bladeren,
-Good.BasePaste.DisplayName,Rijstpasta,
-Good.BasePaste.PluralDisplayName,Rijstpasta,
-Good.Cocaine.DisplayName,Rijstpoeder,
-Good.Cocaine.PluralDisplayName,Rijstpoeder,
-Need.Cocaine.DisplayName,Rijstpoeder,
-Need.Addiction.DisplayName,Verslaving,
-NaturalResource.CocaPlant.DisplayName,Rijstplant,
-NaturalResource.CocaPlant.FlavorDescription,"""Het zijn maar wilde kaneelstruiken, agent.""",
-Recipe.Cocaine.PluralDisplayName,Rijstpoeder,
-Need.Withdrawal.DisplayName,Ontwenning,
-Need.Withdrawal.WorkRefusalWarning,Te onstabiel om te werken,
-Need.Withdrawal.CriticalDescription,Beaver lijdt aan ontwenning.,
-Need.Withdrawal.CriticalDescriptionShort,Bever in ontwenning,
+Good.CocaLeaves.DisplayName,Rijstblad,Name of the coca leaf good
+Good.CocaLeaves.PluralDisplayName,Rijst bladeren,Name of the coca leaf good in plural form
+Good.BasePaste.DisplayName,Rijstpasta,Name of the base paste good
+Good.BasePaste.PluralDisplayName,Rijstpasta,Name of the base paste good in plural form
+Good.Cocaine.DisplayName,Rijstpoeder,Name of the cocaine good
+Good.Cocaine.PluralDisplayName,Rijstpoeder,Name of the cocaine good in plural form
+Need.Cocaine.DisplayName,Rijstpoeder,Name of the cocaine need
+Need.Addiction.DisplayName,Verslaving,Name of the addiction need
+NaturalResource.CocaPlant.DisplayName,Rijstplant,Name of the coca plant crop
+NaturalResource.CocaPlant.FlavorDescription,"""Het zijn maar wilde kaneelstruiken, agent.""",Description of the coca plant crop
+Recipe.Cocaine.DisplayName,Rijstpoeder,Name of the cocaine recipe
+Need.Withdrawal.DisplayName,Ontwenning,Name of the withdrawal need
+Need.Withdrawal.WorkRefusalWarning,Te onstabiel om te werken,Warning when a beaver is too unstable to work
+Need.Withdrawal.CriticalDescription,Beaver lijdt aan ontwenning.,Critical description of the withdrawal need
+Need.Withdrawal.CriticalDescriptionShort,Bever in ontwenning,UI warning of the withdrawal need
+ModSettings.BonusSettings.Header,Bonussen,
+ModSetting.WorkSpeedBonus.Name,Bonus voor werksnelheid,
+ModSetting.WorkSpeedBonus.Tooltip,De procentuele toename van de werksnelheid onder invloed van rijstpoeder.,
+ModSetting.MovementSpeedBonus.Name,Bewegingssnelheidsbonus,
+ModSetting.MovementSpeedBonus.Tooltip,De procentuele toename van de bewegingssnelheid onder invloed van rijstpoeder.,
+ModSetting.LifeExpectancyPenalty.Name,Levensverwachting straf,
+ModSetting.LifeExpectancyPenalty.Tooltip,De procentuele daling van de levensverwachting onder invloed van rijstpoeder.,
+ModSettings.AdvancedSettings.Header,Toleranties,
+ModSetting.WithdrawalThreshold.Name,Ontwenningsdrempel,
+ModSetting.WithdrawalThreshold.Tooltip,Het minimale verslavingsniveau waarbij ontwenningsverschijnselen beginnen als een bever geen rijstpoeder meer krijgt. Hogere waarden zorgen voor een grotere verslaving met minder gevolgen.,
+ModSetting.MaxDecayMultiplier.Name,Desensibilisatie,
+ModSetting.MaxDecayMultiplier.Tooltip,Hoe snel de effecten van rijstpoeder afnemen bij maximale verslaving. Hogere waarden betekenen dat bevers het vaker nodig hebben.,
+ModSetting.AddictionFillPerDose.Name,Verslaving,
+ModSetting.AddictionFillPerDose.Tooltip,Hoeveel de verslaving toeneemt per dosis rijstpoeder.,
+ModSetting.AddictionDailyDelta.Name,Herstelpercentage,
+ModSetting.AddictionDailyDelta.Tooltip,Hoeveel het verslavingsniveau per dag afneemt. Hogere waarden betekenen dat bevers sneller zullen herstellen van de gevolgen van verslaving en ontwenning.,
+ModSetting.WithdrawalDailyDelta.Name,Ontwenning herstel,
+ModSetting.WithdrawalDailyDelta.Tooltip,Hoeveel het opnameniveau per dag afneemt. (Aanbevolen om gesynchroniseerd te blijven met Verslavingsherstel voor de beste resultaten.),
+ModSettings.SleepSettings.Header,Slaap,
+ModSetting.SleepFillPerDose.Name,Energie hersteld,
+ModSetting.SleepFillPerDose.Tooltip,Hoeveel energie wordt er hersteld per dosis rijstpoeder.,
+ModSetting.SleepDecayMultiplier.Name,Uitputtingspercentage,
+ModSetting.SleepDecayMultiplier.Tooltip,Hoe snel bevers hun energie kwijtraken onder invloed van rijstpoeder. Lagere waarden betekenen dat bevers langzamer moe worden.,

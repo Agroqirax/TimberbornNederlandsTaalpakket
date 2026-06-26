@@ -24,7 +24,7 @@ const EXCLUDED_DIRS = new Set([
   ".svn",
   ".hg",
   ".vscode",
-  "*.zed",
+  ".zed",
   ".idea",
   ".DS_Store",
   "dist",

@@ -1,4 +1,4 @@
 ID,Text,Comment
 SteamUpdateButtons.UpdateMod,Update deze mod,
-SteamUpdateButtons.UpdateAllMods,Update alle mods,
-SteamUpdateButtons.UpdatesAvailable,{0} updates beschikbaar,
+SteamUpdateButtons.UpdateAllMods,Update alle Steam-mods,
+SteamUpdateButtons.UpdatesAvailable,{0} Steam-updates beschikbaar,

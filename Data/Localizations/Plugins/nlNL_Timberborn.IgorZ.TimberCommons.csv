@@ -2,15 +2,26 @@ ID,Text,Comment
 IgorZ.TimberCommons.WaterTower.Utilization,Benutte potentieel: {0:0.#}%,
 IgorZ.TimberCommons.WaterTower.IrrigatedArea,Geïrrigeerd gebied: {0},
 IgorZ.TimberCommons.WaterTower.EffectiveRange,Effectief bereik: {0},
-IgorZ.TimberCommons.WaterTower.NoTilesToIrrigate,Geen tegels binnen bereik om te irrigeren,
+IgorZ.TimberCommons.WaterTower.NoTilesToIrrigate,Geen bereikbare tegels om te irrigeren,
+IgorZ.TimberCommons.IrrigationTower.Efficient,<YellowHighlight>Efficiënt: </YellowHighlight>Verspilt geen water.,Building description bullet. Explains that irrigation towers consume water only for tiles they can irrigate.
+IgorZ.TimberCommons.IrrigationTower.MaxRange,Maximaal bereik: {0},Building description bullet. Shows irrigation tower maximum range.
+IgorZ.TimberCommons.IrrigationTower.GrowthBoost,Groeiboost: <GreenHighlight>+{0:0.#}%</GreenHighlight>,Full standalone building description bullet for a positive growth effect.
+IgorZ.TimberCommons.IrrigationTower.GrowthSlowdown,Groeivertraging: <RedHighlight>-{0:0.#}%</RedHighlight>,Full standalone building description bullet for a negative growth effect.
+IgorZ.TimberCommons.IrrigationTower.ContaminationBlock,Blokkeert besmetting,Building description phrase. Shows contamination blocking effect.
+IgorZ.TimberCommons.IrrigationTower.OutputRangeAmount,{0},Compact virtual recipe output. {0} is the maximum irrigation range in tiles.
+IgorZ.TimberCommons.IrrigationTower.OutputRangeTooltip,Maximaal irrigatiebereik,Tooltip for the virtual recipe output that represents maximum irrigation range.
+IgorZ.TimberCommons.IrrigationTower.OutputGrowthModifierAmount,{0:+0.#;-0.#;0}%,Compact virtual recipe output. {0} is the growth rate modifier percentage.
+IgorZ.TimberCommons.IrrigationTower.OutputGrowthModifierTooltip,Groeisnelheidsmodificator,Tooltip for the virtual recipe output that represents a growth rate modifier.
+IgorZ.TimberCommons.IrrigationTower.OutputContaminationBlockTooltip,Blokkeert besmetting,Tooltip for the virtual recipe output that represents contamination blocking.
 IgorZ.TimberCommons.GrowthRateModifier.BoostPercentile,Groeiboost: <GreenHighlight>🡅</GreenHighlight>{0:0.#}%,"It indicates growth boost, it's a good effect."
 IgorZ.TimberCommons.GrowthRateModifier.SlowdownPercentile,Groeivertraging: <RedHighlight>🡇</RedHighlight>{0:0.#}%,"It indicates growth penalty, it's a bad effect."
+IgorZ.TimberCommons.AdjustableWaterOutput.LimitOutputLevel,Beperk het uitgangswaterniveau,
 IgorZ.TimberCommons.AdjustableWaterOutput.StopAboveDownstream,Sluit boven waterdiepte bij overlaat: {0},
 IgorZ.TimberCommons.InjuryProbability,Blessurekans: {0} per uur,
 IgorZ.TimberCommons.InjuryProbabilityDaily,Blessurekans: {0} gedurende de dag,
 IgorZ.TimberCommons.Settings.TimeAndDurationSection,Weergave van tijd en duur,
-IgorZ.TimberCommons.Settings.TimeAndDuration.DaysHoursSupplyLeft,Toon voorraadduur in dagen/uren,
-IgorZ.TimberCommons.Settings.TimeAndDuration.DaysHoursGrowingTime,Toon groeitijd in dagen/uren,
+IgorZ.TimberCommons.Settings.TimeAndDuration.DaysHoursSupplyLeft,Toon 'voorraadduur' in dagen/uren,
+IgorZ.TimberCommons.Settings.TimeAndDuration.DaysHoursGrowingTime,Toon de groeitijd in dagen/uren,
 IgorZ.TimberCommons.Settings.TimeAndDuration.DaysHoursForRecipeDuration,Toon receptentijd als dagen/uren,
 IgorZ.TimberCommons.Settings.TimeAndDuration.HigherPrecisionForFuelConsumingRecipes,Toon het brandstofverbruik van het recept met een hogere precisie,
 IgorZ.TimberCommons.Settings.IrrigationSystemSection,Irrigatiesysteem,
@@ -19,13 +30,19 @@ IgorZ.TimberCommons.Settings.IrrigationSystem.OverrideDesertLevelsForWaterTowers
 IgorZ.TimberCommons.Settings.WaterBuildingsSection,Watergebouwen,
 IgorZ.TimberCommons.Settings.WaterBuildings.AdjustWaterDepthAtSpillwayOnMechanicalPumps,Laat het instellen van het maximale waterniveau toe bij de overlaat van de mechanische pompen,
 IgorZ.TimberCommons.Settings.WaterBuildings.AdjustWaterDepthAtSpillwayOnFluidDumps,Laat het instellen van het maximale waterniveau toe bij de overlaat van de vloeistofdruppels,
-IgorZ.TimberCommons.Settings.WaterBuildings.ShowCurrentStrengthInSluice,Toon huidige waterkracht in de sluis,
+IgorZ.TimberCommons.Settings.WaterBuildings.UseLocalOutputLevelLimitScan,Gebruik het lokale hoogtebereik voor de schuifregelaar voor het uitgangswaterniveau,
+IgorZ.TimberCommons.Settings.WaterBuildings.OutputLevelLimitScanRadius,Gebied gecontroleerd rond de wateruitvoer,
+IgorZ.TimberCommons.Settings.WaterBuildings.OutputLevelLimitScanRadiusTooltip,"Hoe ver van de wateropbrengst moet worden gezocht naar het hoogste bruikbare niveau van de schuifregelaar.
+Hogere waarden duiden op een groter nabijgelegen gebied.",
 IgorZ.TimberCommons.Settings.InjuryProbabilitySection,Blessurekans,
 IgorZ.TimberCommons.Settings.InjuryProbability.ShowInFragment,Toon de blessurekans in het rechterpaneel,
 IgorZ.TimberCommons.Settings.InjuryProbability.ShowAvatarHint,Toon indicator op de gebouwavatar,
 IgorZ.TimberCommons.Settings.InjuryProbability.ShowAvatarHintTooltip,Beweeg over de indicator om de blessurekans te zien,
 IgorZ.TimberCommons.Settings.InjuryProbability.ShowAsDailyProbability,Toon kans per dag,
+=,=,CommonUIPatches
+IgorZ.TimberCommons.CommonUIPatches.ModListView.ShowActiveMods,Actief weergeven ({0}/{1}),Button in mod manager. Shows only enabled mods.
+IgorZ.TimberCommons.CommonUIPatches.ModListView.ShowAllMods,Alles weergeven ({0}),Button in mod manager. Shows all installed mods.
 =,=,TimberDev_Utils
 TimberDev_Utils.Settings.DebugSection,Foutopsporing en probleemoplossing,
-TimberDev_Utils.Settings.Debug.VerboseLogging,Uitgebreide logboekregistratie,
+TimberDev_Utils.Settings.Debug.VerboseLogging,Uitgebreid loggen,
 TimberDev_Utils.Settings.Debug.VerboseLoggingTooltip,"Logboeken bevatten meer nuttige details, maar dit kan de spelprestaties beïnvloeden.",

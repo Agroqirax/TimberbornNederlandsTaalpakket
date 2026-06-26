@@ -7,7 +7,7 @@ LV.BBb.BathBomb.Flavor,"Geïnspireerd door de naam uit een hooman \badkamerhandl
 LV.BBb.DirtyBathBomb.GoodName,Vuile badbom,
 LV.BBb.DirtyBathBomb.GoodNamePlural,Vuile badbommen,
 LV.BBb.DirtyBathBomb.Name,Vuile badbom,
-LV.BBb.DirtyBathBomb.Description,Een dynamiet dat bij ontploffing een uitbarsting van slecht water vrijgeeft. Heeft geen invloed op terrein of bevers.,
+LV.BBb.DirtyBathBomb.Description,Een dynamiet dat bij ontploffing een uitbarsting van vuilwater vrijgeeft. Heeft geen invloed op terrein of bevers.,
 LV.BBb.DirtyBathBomb.Flavor,In dezelfde handleiding zal deze explosieve ontlading blijkbaar zeker volgen na het gebruik van een interessant artefact genaamd taco.,
 LV.BBb.BurstAmount,<YellowHighlight>Bursthoeveelheid:</YellowHighlight> {0:0.#}m³,
 Name_BathBombFragment,[DO_NOT_COLLAPSE],

@@ -1,7 +1,7 @@
 ID,Text,Comment
 Riverborne.DispatchItem.Paused,Gepauzeerd,
-Riverborne.EditDispatchPanel.DefaultDispatchName,Totaal gewicht: {0} kg / {1} kg,
-Riverborne.EditDispatchPanel.Interval,"Interval: {0}",
+Riverborne.EditDispatchPanel.DefaultDispatchName,Verzending #,
+Riverborne.EditDispatchPanel.Interval,Interval: {0},
 Riverborne.EditDispatchPanel.TotalWeight,Totaal gewicht: {0} kg / {1} kg,
 Riverborne.EditDispatchPanel.Weight,{0}kg×,
 Riverborne.Raft.DeletePrompt,Weet je zeker dat je dit vlot wilt verwijderen?,

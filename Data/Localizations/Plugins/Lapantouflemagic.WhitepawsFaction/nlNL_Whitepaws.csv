@@ -504,7 +504,7 @@ Lapantouflemagic.PassthroughHouse.Description,"Een iets grotere hut met een inge
 Biedt onderdak aan <color=green>één transporteur</color> en zijn familie.
 <color=#00FFFF>Werkt als dijk</color>",505
 Lapantouflemagic.PassthroughHouse.FlavorDescription,"""Je zou denken dat dit huis extra ruimte heeft, toch? Nou nee, het waterslotmechanisme is enorm en lawaaierig. Gelukkig gebruikt bijna niemand het 's nachts.""",506
-Lapantouflemagic.TappersFlag.DisplayName,Tappers-vlag,507
+Lapantouflemagic.TappersFlag.DisplayName,Tapperspost,507
 Lapantouflemagic.TappersFlag.Description,Oogst dennenhars en andere extracten van sommige bomen.,508
 Lapantouflemagic.TappersFlag.FlavorDescription,"""Het lijkt vrij eenvoudig, maar het vereist enige techniek om te voorkomen dat je haar vol komt te zitten met dit plakkerige spul""",509
 Lapantouflemagic.TallPlatform.DisplayName,Hoog platform,510
@@ -649,8 +649,8 @@ Lapantouflemagic.VillageJobs.DisplayName,Dorpsbanen,632
 Good.BalloonPlatformBlueprint.DisplayName,Blauwdruk voor landingsplatform van Ballon Handelaar,633
 Good.BalloonPlatformBlueprint.PluralDisplayName,Blauwdrukken voor landingsplatform van Ballon Handelaar,634
 Good.BalloonPlatformFancyBlueprint.DisplayName,Ballon Handelaar Landingsplaats Luxe Blauwdruk,635
-Good.BalloonPlatformFancyBlueprint.PluralDisplayName,Ballon Handelaar Landingsplaats
- Luxe Blauwdrukken,636
+Good.BalloonPlatformFancyBlueprint.PluralDisplayName,"Ballon Handelaar Landingsplaats
+ Luxe Blauwdrukken",636
 Lapantouflemagic.MasterInMetallurgy.DisplayName,Meester in metallurgie,637
 Lapantouflemagic.MasterInMetallurgy.PluralDisplayName,Masters in metallurgie,638
 Lapantouflemagic.NursingLicense.DisplayName,Verpleegkundige licentie,639
@@ -868,7 +868,7 @@ Building.GiantBuriedTank.Description,"Een gigantische opslagtank, zo groot en zo
 Moet in een 3x3x3 nis of put worden gebouwd.
 De metalen spanten moeten in de grond of op stapelbare waterdichte gebouwen worden vastgezet.
 <color=green>Controleer het billboard voor visuele hulp.</color>",806
-Lapantouflemagic.BadwaterPump.Description,"Een beter en mechanisch bediend slecht waterpompstation.
+Lapantouflemagic.BadwaterPump.Description,"Een beter en mechanisch bediend vuilwaterpompstation.
 Zeker ontworpen door een gestoorde (maar slimmere) bever.
 De propeller moet onder water staan.
 <color=#00FFFF>Kan onder water werken!</color>.
@@ -943,7 +943,7 @@ Good.Amazake.PluralDisplayName,Half gefermenteerde Sake,867
 Good.ChemistrySet.DisplayName,Laboratoriumglaswerk,869
 Good.ChemistrySet.PluralDisplayName,Laboratoriumglaswerk,870
 Lapantouflemagic.SmallBadwaterPump.DisplayName,Kleine defecte waterpomp,871
-Lapantouflemagic.SmallBadwaterPump.Description,"Een klein, handmatig bediend pompstation voor slecht water.
+Lapantouflemagic.SmallBadwaterPump.Description,"Een klein, handmatig bediend pompstation voor vuilwater.
 Mogelijk ontworpen door een gestoorde bever. De propeller moet onder water staan.
 <color=#00FFFF>Kan onder water werken!</color>.
 <color=#00FFFF>Werkt als dijk</color>",872
@@ -987,8 +987,8 @@ Dit gebouw is niet waterdicht!</color>",898
 Lapantouflemagic.GreenHouse.FlavorDescription,"""Als je alleen bananen eet, slijten je tanden niet en uiteindelijk worden ze zo lang dat ze door je schedel heen gaan""
 - Mama bever",899
 Lapantouflemagic.Trebuchet.Description,De enige realistische manier om van al die nutteloze rotsen af ​​te komen. En laat die ene nerdy bever ook een beetje ballistiek studeren.,900
-Lapantouflemagic.Badbucket.DisplayName,Bericht over het plaatsen van een emmer met slecht water,901
-Lapantouflemagic.Badbucket.Description,"Een paar boomstammen en planken, lukraak op een platform gelegd, nauwelijks goed genoeg om met een emmer slecht water af te tappen, hopelijk zonder jezelf te bezoedelen.",902
+Lapantouflemagic.Badbucket.DisplayName,Vuilwater-emmerpost,901
+Lapantouflemagic.Badbucket.Description,"Een paar boomstammen en planken, lukraak op een platform gelegd, nauwelijks goed genoeg om met een emmer vuilwater af te tappen, hopelijk zonder jezelf te bezoedelen.",902
 Lapantouflemagic.Badbucket.FlavorDescription,"""Ik weet zeker dat we iets nuttigs met deze vloeistof kunnen doen, we hebben alleen iemand nodig die dom genoeg is om het te accepteren. Bobby zal de taak vast wel aankunnen.""
 - Een beverwetenschapper",903
 Lapantouflemagic.ZauerKrautBarrel_Noworker.DisplayName,Fermentatievat (geen arbeider),904

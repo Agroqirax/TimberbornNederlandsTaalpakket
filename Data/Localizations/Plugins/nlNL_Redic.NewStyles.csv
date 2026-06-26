@@ -1,4 +1,9 @@
 ID,Text,Comment
-PerrinStatue.IronTeeth.Description,Een standbeeld van de beste jongen.,
-PerrinStatue.DisplayName,Perrin-standbeeld,
-PerrinStatue.FlavorDescription,Legenden zeggen dat hij door het land dwaalt op zoek naar de grootste waterbak.,
+Building.Stringlights.Description,Hanglampen tussen twee palen,
+StringLight.DisplayName,Lichtslingers,
+StringLights.FlavorDescription,Buncha hanglampen,
+MiniCabin.DisplayName,Mini-cabine,
+Cabin.DisplayName,Cabine,
+DoubleCabin.DisplayName,Dubbele cabine,
+TripleCabin.DisplayName,Driedubbele cabine,
+WindMill.DisplayName,Windmolen,

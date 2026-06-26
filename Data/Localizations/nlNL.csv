@@ -369,7 +369,7 @@ Building.FountainOfJoy.FlavorDescription,Het is geen verspilling als je er blij 
 Building.Gate.Description,Verbreekt op verzoek een pad.,Path needs to be consistent with Building.Path.DisplayName
 Building.Gate.DisplayName,Poort,Building which can be opened and closed to allow or block passage through a path.
 Building.GathererFlag.Description,Verzamelt grondstoffen van wilde planten.,
-Building.GathererFlag.DisplayName,Verzamelaars post,Flag' could also be a Post or something similar as long as it is consistent with other Flags and different from Haulers Post
+Building.GathererFlag.DisplayName,Verzamelaarspost,Flag' could also be a Post or something similar as long as it is consistent with other Flags and different from Haulers Post
 Building.GathererFlag.FlavorDescription,"Door bessen in een mand te doen, bedachten bevers per ongeluk een smakelijk dessert.",
 Building.GearWorkshop.Description,Maakt tandwielen van planken.,Gears and Planks are goods; keep consistent.
 Building.GearWorkshop.DisplayName,Tandwiel werkplaats,Gear is a good
@@ -397,7 +397,7 @@ Building.Hammock.Description,Een schommelstoel voor ontspanning.,
 Building.Hammock.DisplayName,Hangmat,A free-standing hammock that beavers can rest in.
 Building.Hammock.FlavorDescription,"Vroeger werden ze vastgebonden aan bomen, totdat er een paar te veel ongelukken met het kappen van bomen gebeurden.",
 Building.HaulingPost.Description,"Transporteurs helpen werknemers in een wijk bij het vervoeren van goederen, waardoor hun productiviteit aanzienlijk toeneemt.",
-Building.HaulingPost.DisplayName,Transport post,Keep different from Flag buildings since the building is of a different category than flags.
+Building.HaulingPost.DisplayName,Transportpost,Keep different from Flag buildings since the building is of a different category than flags.
 Building.HaulingPost.FlavorDescription,"De meest gespierde van alle bevers, je wilt niet op de staart van een transporteur trappen.",
 Building.Hedge.Description,Een decoratieve pothaag.,
 Building.Hedge.DisplayName,Heg,
@@ -487,7 +487,7 @@ Building.LumberMill.Description,Maakt planken van hout.,Planks and Logs are reso
 Building.LumberMill.DisplayName,Houtzagerij,
 Building.LumberMill.FlavorDescription,Aangemoedigd door Ouwe Kazko veroorzaakte de gemechaniseerde houtverwerking veel tandenknarsen onder oudere bevers.,"Ol' Kazko is a legendary forefather of modern beavers, famous inventor, pioneer of rapid industrialization."
 Building.LumberjackFlag.Description,Heeft een houthakker in dienst die bomen kapt.,
-Building.LumberjackFlag.DisplayName,Houthakkers post,Flag' could also be a Post or something similar as long as it is consistent with other Flags and different from Haulers Post
+Building.LumberjackFlag.DisplayName,Houthakkerspost,Flag' could also be a Post or something similar as long as it is consistent with other Flags and different from Haulers Post
 Building.LumberjackFlag.FlavorDescription,"""Ze zijn houthakkers en dat is de manier waarop ze de hele nacht slapen en de hele dag werken!"" —Populair beverlied","Adapted from Monthy Python's ""Lumberjack Song"""
 Building.Massager.Description,Een niet zo zachte massage.,
 Building.Massager.DisplayName,Massageapparaat,A mechanical massaging device.
@@ -565,7 +565,7 @@ Building.Overhang5x1.DisplayName,Overhang 5x1,An artificial overhang made out of
 Building.Overhang6x1.DisplayName,Overhang 6x1,An artificial overhang made out of wood and metal that allows new buildings to be put on top of it. Numbers at the end denote size X by Y.
 Building.PaperMill.Description,Een gemechaniseerde papierfabriek.,Paper is a name of a good.
 Building.PaperMill.DisplayName,Papierfabriek,
-Building.PaperMill.FlavorDescription,"Wat begon als een gedroogde snack voor aaseters, vond al snel allerlei andere toepassingen.",
+Building.PaperMill.FlavorDescription,"Wat begon als een gedroogde snack voor schroothalers, vond al snel allerlei andere toepassingen.",
 Building.Path.Description,Gebouwen moeten met elkaar verbonden zijn door paden.,
 Building.Path.DisplayName,Pad,
 Building.Path.FlavorDescription,"""Country roads, take me home, to the lodge I belong."" —Populair beverlied","Adapted from ""Take Me Home, Country Roads"" by John Denver"
@@ -664,9 +664,9 @@ Building.Sauna.DisplayName,Sauna,
 Building.Scarecrow.Description,"Een veldversiering die ooit bedoeld was om vogels af te schrikken, brengt nu vreugde bij jong en oud.",
 Building.Scarecrow.DisplayName,Vogelverschrikker,
 Building.Scarecrow.FlavorDescription,Uitmuntend in hun vakgebied.,
-Building.ScavengerFlag.Description,Aaseters verzamelen schroot uit Ruïnes.,Metal is a name of a good;Ruins are a building
-Building.ScavengerFlag.DisplayName,Aaseters post,
-Building.ScavengerFlag.FlavorDescription,"Door metaal naar traditioneel houten nederzettingen te brengen, verdienen aaseters respect van sommigen en minachting van anderen.",
+Building.ScavengerFlag.Description,Schroothalers verzamelen schroot uit Ruïnes.,Metal is a name of a good;Ruins are a building
+Building.ScavengerFlag.DisplayName,Schroothalerspost,
+Building.ScavengerFlag.FlavorDescription,"Door metaal naar traditioneel houten nederzettingen te brengen, verdienen schroothalers respect van sommigen en minachting van anderen.",
 Building.ScienceCounter.Description,Stuurt een signaal op basis van de hoeveelheid kennnis.,Science Points must correspond to Science.SciencePoints.
 Building.ScienceCounter.DisplayName,Kennisteller,The name of a building which counts how many Science Points the player has and sends an automation signal based on that.
 Building.Scratcher.Description,Een machine om de moeilijk bereikbare jeuk te krabben.,
@@ -1210,7 +1210,7 @@ Key.RightArrow,Pijl naar rechts,Label of the right arrow key
 Key.RightWindows,Rechter windows,Label of the right windows key
 Key.Space,Spatie,Label of the space key
 Key.UpArrow,Pijl omhoog,Label of the up arrow key
-KeyBinding.AlternateClickableAction,Alternatieve toets,Label of the key that toggles the alternate action of some buttons
+KeyBinding.AlternateClickableAction,Alternatieve sneltoets,Label of the key that toggles the alternate action of some buttons
 KeyBinding.AttractionsTab,Open het tabblad Welzijn,"Label of the key that opens the Settlement Panel and selects the Attractions tab, Well-being should be the same as Wellbeing.DisplayName"
 KeyBinding.Cancel,Annuleren,Label of the key that cancels actions
 KeyBinding.CharactersTab,Open het tabblad Bevolking,"Label of the key that opens the Settlement Panel and selects the Characters tab, Population should be the same as BatchControl.Population"
@@ -1314,16 +1314,16 @@ KeyBinding.WorkplacesTab,Tabblad Werkplekken openen,"Label of the key that opens
 KeyBinding.ZoomIn,Inzoomen,Label of the key that zooms camera in
 KeyBinding.ZoomOut,Uitzoomen,Label of the key that zooms camera out
 KeyBindingBox.ClearBinding,Wissen,Text on the button in rebinding dialog box that clears the current key binding. Please keep short.
-KeyBindingBox.DuplicatedBinding,"Deze toetsencombinatie is al toegewezen aan: 
+KeyBindingBox.DuplicatedBinding,"Deze sneltoets is al toegewezen aan: 
 
 {0}
 
 Wil je deze toch toewijzen?","Message shown on key rebinding dialog box when the user tries to assign a key combination that is already assigned to another key binding, {0} stands for the list of key bindings e.g. KeyBinding.Speed0, KeyBinding.ToggleGUI etc."
-KeyBindingBox.PrimaryBinding,Primaire toets,Header of the primary key bindings column in the key bindings panel
-KeyBindingBox.RebindingMessage,Druk op een toets om de binding opnieuw toe te wijzen voor: {0},"Message shown on key rebinding dialog box, {0} stands for the name of the key binding e.g. KeyBinding.Speed0, KeyBinding.ToggleGUI etc."
+KeyBindingBox.PrimaryBinding,Primaire sneltoets,Header of the primary key bindings column in the key bindings panel
+KeyBindingBox.RebindingMessage,Druk op een sneltoets om de binding opnieuw toe te wijzen voor: {0},"Message shown on key rebinding dialog box, {0} stands for the name of the key binding e.g. KeyBinding.Speed0, KeyBinding.ToggleGUI etc."
 KeyBindingBox.ResetToDefault,Opnieuw instellen,Text on the button in key bindings panel that resets all key bindings to their default bindings
-KeyBindingBox.ResetToDefaultMessage,Weet je zeker dat je alle toetscombinaties wilt resetten?,Message shown on key bindings panel when the user clicks the KeyBindingBox.ResetToDefault button
-KeyBindingBox.SecondaryBinding,Secundaire toets,Header of the secondary key bindings column in the key bindings panel
+KeyBindingBox.ResetToDefaultMessage,Weet je zeker dat je alle sneltoetsen wilt resetten?,Message shown on key bindings panel when the user clicks the KeyBindingBox.ResetToDefault button
+KeyBindingBox.SecondaryBinding,Secundaire sneltoets,Header of the secondary key bindings column in the key bindings panel
 KeyBindingGroup.Buildings,Gebouwen,"Label for the key binding group associated with building controls (pausing, changing priority etc)"
 KeyBindingGroup.Camera,Camera,"Label for the key binding group associated with camera controls (camera movement, rotation, zoom etc)"
 KeyBindingGroup.MapEditor,Kaarteditor,Label for the key binding group associated with map editor controls (mostly brush manipulation)
@@ -1331,7 +1331,7 @@ KeyBindingGroup.Objects,Objectinstellingen,"Label for the key binding group asso
 KeyBindingGroup.SettlementPanel,Nederzettingspaneel,Label for the key binding group associated with settlement panel controls (opening panel and its tabs)
 KeyBindingGroup.Time,Tijd,Label for the key binding group associated with time controls (changing time speed)
 KeyBindingGroup.UI,Gebruikersinterface,"Label for the key binding group associated with user interface controls (opening panels, toggling overlays etc)"
-KeyBindingsPanel.Header,Toetscombinaties,Header of the key bindings box
+KeyBindingsPanel.Header,Sneltoetsen,Header of the key bindings box
 LevelVisibility.InfoTooltip,Zichtbare lagen,Tooltip for controls that allow the player to set the vertical level visibility
 LevelVisibility.ResetTooltip,Zichtbare lagen opnieuw instellen,Tooltip for button that resets the vertical vertical visibility
 LoadMapPanel.Delete,Kaart verwijderen,A button. Please keep short.
@@ -1486,7 +1486,7 @@ Menu.ExitToDesktopPrompt,Weet je zeker dat je het spel wilt afsluiten?,
 Menu.ExitToMenu,Terug naar hoofdmenu,A button please keep short
 Menu.ExitToMenuPrompt,Weet je zeker dat je naar het hoofdmenu wilt gaan?,
 Menu.Feedback,Ga naar de feedbacksite,A button please keep short
-Menu.KeyBindings,Toetscombinaties,A button please keep short
+Menu.KeyBindings,Sneltoetsen,A button please keep short
 Menu.LoadGame,Spel laden,A button please keep short
 Menu.ModManager,Mods,Label of a button that opens the mod manager.
 Menu.NewGame,Nieuw spel,A button please keep short
@@ -1933,7 +1933,7 @@ TimedComponentActivator.DaysUntilActivationLoc,Aftelduur in dagen,Label for inpu
 TimedComponentActivator.DaysUntilActivationProgress,Wordt geactiveerd over: {0} dagen,Text shown in entity panel during gameplay when count down is active. Informs abount time left until activation.
 TimedComponentActivator.DaysUntilExplosionProgress,Ontploft over: {0} dagen,Text shown in entity panel during gameplay when count down is active. Informs abount time left until activation.
 TimedComponentActivator.IsEnabledToggle,Vertraagde activering,Label for toggle in entity panel in editor. Allows to enable or disable time activation.
-Tip.Common.KeyBindings,"Tip: Gebruik toetsbindingen om bepaalde acties sneller uit te voeren, zoals het verwijderen of dupliceren van een gebouw. De volledige lijst vind je onder Opties.",Tip on the loading screen.
+Tip.Common.KeyBindings,"Tip: Gebruik sneltoetsen om bepaalde acties sneller uit te voeren, zoals het verwijderen of dupliceren van een gebouw. De volledige lijst vind je onder Opties.",Tip on the loading screen.
 Tip.Common.LayerTool,Tip: Gebruik het <YellowHighlight>Laaggereedschap</YellowHighlight> om onder terrein en gebouwen te kijken.,Tip on the loading screen. Layer tool naming must be consistent with the usage of those terms in the rest of the game.
 Tip.Game.Duplicate,Tip: Gebruik de gereedschappen <YellowHighlight>Dupliceren</YellowHighlight> en <YellowHighlight>Instellingen kopiëren</YellowHighlight> om snel identieke gebouwen te maken.,Tip on the loading screen. 'Duplicate' and 'Copy settings' should be the same as in KeyBinding.DuplicateObject and KeyBinding.DuplicateSettings respectively.
 Tip.Game.Flip,Tip: Gebruik <YellowHighlight>Spiegelen</YellowHighlight> om een ​​gebouw tijdens de plaatsing te spiegelen.,Tip on the loading screen. 'Flip' should be the same as in KeyBinding.Flip.
@@ -2067,7 +2067,7 @@ Je leert hoe je de tools kunt gebruiken die nodig zijn om een ​​bloeiende be
 Naarmate je de volgende stappen doorloopt, verschijnen de tips hier.",
 Tutorial.LayerTool.ChangeUsingMouse,"U kunt de zichtbare laag besturen zonder op de knoppen te klikken met aanpasbare sneltoetsen.
                                      
-Veel andere acties hebben ook toetsbindingen. Je kunt ze vinden in tooltips of in het menu Instellingen.",Keybindings refers to Menu.KeyBindings
+Veel andere acties hebben ook sneltoetsen. Je kunt ze vinden in tooltips of in het menu Instellingen.",Keybindings refers to Menu.KeyBindings
 Tutorial.LayerTool.ChangeUsingUI,"Naarmate je nederzetting verticaal groeit, kan het moeilijk worden om onder gebouwen en terrein te werken.
                                   
 Het Laaggereedschap helpt daarbij door alles boven de geselecteerde laag te verbergen.
@@ -2178,7 +2178,7 @@ Tutorial.Wood.MarkTrees,"Houthakkers kappen alleen bomen in gebieden die je mark
                          
 De bomen moeten zich binnen het bereik van een houthakkerspost bevinden. Selecteer een post om het bereik ervan te zien.
                          
-Gebruik nu het gereedschap Markeer boomsnijgebied. Houd de muisknop ingedrukt om meerdere tegels tegelijk te selecteren.","Lumberjacks refers to workers working in Building.LumberjackFlag.DisplayName, Lumberjack Flag is the same as Building.LumberjackFlag.DisplayName. Mark Tree Cutting Area tool is the same as TreeCuttingSelectionTool.Title"
+Gebruik nu het gereedschap Markeer boomkapgebied. Houd de muisknop ingedrukt om meerdere tegels tegelijk te selecteren.","Lumberjacks refers to workers working in Building.LumberjackFlag.DisplayName, Lumberjack Flag is the same as Building.LumberjackFlag.DisplayName. Mark Tree Cutting Area tool is the same as TreeCuttingSelectionTool.Title"
 Tutorial.Wood.PlaceLumberjacks,"Elke bevernederzetting heeft boomstammen nodig, en heel veel. Alleen houthakkers kappen bomen. 
                                 
 Bouw houthakkersposten naast nabijgelegen bomen.","Logs is same as Good.Log.PluralDisplayName, Lumberjack Flag is the same as Building.LumberjackFlag.DisplayName"

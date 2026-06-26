@@ -12,7 +12,7 @@ Mods.Votes,Stemmen:,Label before count of mod likes and dislikes.
 Mods.ModsChanged,Wijzigingen worden van kracht na een herstart,Instruction on the dialog for the user to restart the game after changes to mods have been made
 Mods.Quit,Afsluiten,Button to quit game
 Mods.Restart,Opnieuw opstarten,Button to restart game
-Mods.Stay,Blijven,Button to not quit the game immediately
+Mods.Stay,Blijf,Button to not quit the game immediately
 Mods.Enabled,Ingeschakeld,Toggle for if a mod is enabled or not. Keep short.
 Mods.Installed,Geïnstalleerd,Toggle for is a mod is installed or not. Keep short.
 Mods.Uninstall,Verwijderen,Button to uninstall a mod.
