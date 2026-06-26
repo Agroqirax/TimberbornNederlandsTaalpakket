@@ -1,0 +1,38 @@
+ID,Text,Comment
+Building.BadwaterDischarge.Description,"Sluit een vuilwaterbron af. Kan geopend of gesloten worden. Als het open is, stroomt er zelfs tijdens droogte vuilwater.","Badwater Source must be the same as Building.BadwaterSource.DisplayName, Badwater must be the same as Good.Badwater.DisplayName."
+Building.BadwaterDischarge.DisplayName,Vuilwaterafvoer,"Name of the building that can either stop flow of badwater or enforce flow with full power. It's a dome shaped, mechanical building that opens and closes like a camera shutter. Badwater must be the same as Good.Badwater.DisplayName."
+Building.BadwaterDischarge.FlavorDescription,Alleen echte civiele ingenieurs mogen in de buurt komen.,This is a reference to a youtuber called Real Civil Engineer.
+Building.DeepMechanicalFluidPump.DisplayName,Diepe mechanische vloeistofpomp,
+Building.FluidDump.Description,Voert water of vuilwater af.,Badwater should be the same as Good.Badwater.DisplayName.
+Building.FluidDump.DisplayName,Vloeistof uitlaat,
+Building.FluidDump.ToggleLabel,Vloeistof,Label of the toggle button in fluid dump panel that changes the type of fluid that is being dumped (water or badwater)
+Building.MechanicalFluidPump.Description,Pompt water of vuilwater aan de ene kant op en loost het aan de andere kant. Efficiënter dan een gewone pomp.,Badwater should be the same as Good.Badwater.DisplayName.
+Building.MechanicalFluidPump.DisplayName,Mechanische vloeistofpomp,A mechanically powered water pump.
+Building.MechanicalFluidPump.FlavorDescription,Beter stromend water dan stromen met emmers.,Running water meaning water that is moving.
+Building.Sluice.AboveContaminationToggle,Sluit boven verontreiniging: {0},"Label of a toggle that enables automation based on contamination level, {0} stands for currently set level, ie 5%"
+Building.Sluice.BelowContaminationToggle,Sluit onder verontreiniging: {0},"Label of a toggle that enables automation based on contamination level, {0} stands for currently set level, ie 5%"
+Building.Sluice.Contamination,Verontreiniging: {0},"Level of the water contamination, {0} stands for contamination level in percent. Ideally all uses of the word contaminate/contamination/contaminated should be uniform across the project."
+Building.Sluice.Description,"Een unidirectionele, geautomatiseerde waterafvoer.",
+Building.Sluice.DisplayName,Sluisdeur,Also known as a sluice gate. Different than Building.Floodgate.DisplayName.
+Building.Sluice.DownstreamDepth,Stroomafwaartse diepte {0},{0} stands for chosen downstream depth maintained by the building.
+Building.Sluice.FlavorDescription,"""Suli, ben je vergeten het vuilwater weer door te spoelen?"" —Oma Ngonel",Badwater has to be consistent with Good.Badwater.DisplayName
+Building.Sluice.MaximumDepthToggle,Sluit boven stroomafwaartse diepte: {0},Label of a toggle that enables automation based on the maximum downstream depth of water
+Building.Sluice.Mode.Auto,Auto,Label of the toggle that sets the sluice to work in automatic mode
+Building.Sluice.Mode.AutoClosed,Auto: gesloten,Label for sluice working in automatic mode and is closed
+Building.Sluice.Mode.AutoOpen,Auto: Open,Label for sluice working in automatic mode and is opened
+Building.Sluice.Mode.Closed,Gesloten,Label of the toggle that sets the sluice to be always closed
+Building.Sluice.Mode.Open,Open,Label of the toggle that sets the sluice to be always open
+Building.Sluice.Synchronize,Synchroniseer met aangrenzende sluizen,
+Building.Valve.Description,Een eenrichtingswateruitlaat met instelbare stroomsnelheid.,
+Building.Valve.DisplayName,Regelklep,A building which works like a valve which opens and closes to maintain a steady water flow rate.
+Building.Valve.OutflowLimit,Stroomlimiet: {0},Label for flow limit setting in valve building
+Building.Valve.OutflowUnlimited,Stroom onbeperkt,Label for flow limit setting when it is set to unlimited
+Building.Valve.ReactionSpeed,Reactiesnelheid: {0},Label for a slider which controls how fast this valve reacts to changes in throughput. {0} is 0-100%.
+Building.Valve.State.Closing,Sluiten,"Gender should be consistent with Automation.Mode. Please keep short, at most the width of 11 latin characters."
+Building.Valve.State.Idle,Inactief,"Gender should be consistent with Automation.Mode. Please keep short, at most the width of 11 latin characters. This is the state of a valve that is not moving - not closing or opening."
+Building.Valve.State.Opening,Openen,"Gender should be consistent with Automation.Mode. Please keep short, at most the width of 11 latin characters."
+Building.Valve.Synchronize,Synchroniseer met aangrenzende regelkleppen,Label for a toggle which makes this throttling valve synchronize its flow rate with adjacent throttling valves.
+DeletionBlocker.Prefix,Kan niet worden verwijderd.,Tooltip prefix for the delete button when the object cannot be deleted.
+DeletionBlocker.Stockpile.NotEmpty,Er zitten nog goederen in.,Warning shown to player when trying to delete a stockpile that still has some goods inside.
+DeletionBlocker.TerrainPhysics,Gebouw ondersteunt het terrein.,Building can't be deleted when it has the terrain on top of it and it last valid support for the terrain
+Status.Beaver.Dead,Dood,Shown in the beaver info window to explain that the beaver died

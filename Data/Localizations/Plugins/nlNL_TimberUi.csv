@@ -1,0 +1,6 @@
+ID,Text,Comment
+LV.TimberUi.DisableCameraShake,Schakel cameratrillingen uit,
+LV.TimberUi.UpdateMessage,"<b>{0} is bijgewerkt naar v{1}</b>:
+{2}",
+LV.TimberUi.UpdateDismiss,Niet meer laten zien,
+LV.TimberUi.UpdateRemind,Herinner me er later aan,

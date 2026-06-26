@@ -1,15 +1,28 @@
 ID,Text,Comment
 Building.TreeOfLife.DisplayName,Levensboom,
-Building.TreeOfLife.Description,Bereidt het waterkanaal en de grond voor op de <YellowHighlight>Levensboom</YellowHighlight>. Let op: dit kan niet meer worden teruggedraaid en het terrein kan later niet meer worden gesloopt!,
+Building.TreeOfLife.Description,"Bereidt de grond voor op de <YellowHighlight>Levensboom</YellowHighlight>.
+
+Plaatsing vereist voldoende ruimte voor de laatste boom:
+
+Een brede vlakke ondergrond (5x5, 2 diep).
+Ruimte voor al zijn toekomstige groei (15m breed).
+De wortels reiken diep, diep van binnen.
+De 'X' markeert waar hij verwacht dat er water naar binnen zal stromen.
+
+<YellowHighlight>Als je klaar bent, zullen de bevers het niet meer verwijderen!</YellowHighlight>",
+Building.TreeOfLife.LeafCoats.Description,"Bereidt de grond voor op de <YellowHighlight>Levensboom</YellowHighlight>.
+
+Het moet een boomtopper zijn. Zijn wortels reiken diep naar beneden, er moet niets anders zijn dan grond eronder.
+<YellowHighlight>Als de bevers klaar zijn, willen ze het niet meer verwijderen.</YellowHighlight>",
 Building.TreeOfLifeGround.DisplayName,Boomgronden,
 NaturalResource.TreeOfLife.DisplayName,Levensboom,
-NaturalResource.TreeOfLife.FlavorDescription,De boom is nog erg klein,
+NaturalResource.TreeOfLife.FlavorDescription,De boom is nog erg klein,Seedling flavor text
 NaturalResource.TreeOfLife.FlavorDescription1,Een fijne boom!,lvl 1-3 flavour text for living tree
 NaturalResource.TreeOfLife.FlavorDescription4,Een schitterende boom!,lvl 4-6 flavour text for living tree
 NaturalResource.TreeOfLife.FlavorDescription7,Er werd een eekhoorn gezien die offers stal!,lvl 7-9 flavour text for living tree
 NaturalResource.TreeOfLife.FlavorDescription10,Een boom gehuld in mist!,lvl 10-12 flavour text for living tree
 NaturalResource.TreeOfLife.FlavorDescription13,Deze prachtige boom is een zegen voor onze kolonie!,lvl 13+ flavour text for living tree
-NaturalResources.DaysToLevel,Volgende niveau over: {0} dagen,
+NaturalResources.DaysToLevel,Volgende niveau over: {0} dagen,Text on progress bar
 Need.FruitOfLife.DisplayName,Vrucht van het leven,
 NeedGroup.TreeOfLife.DisplayName,Levensboom,
 Need.TreeOfLife.BlessingMinor.DisplayName,Kleine zegen,
@@ -20,6 +33,8 @@ Need.TreeOfLife.CurseMajor.DisplayName,Grote vloek,
 Need.TreeOfLife.Curse.DisplayName,Vloek,
 Need.TreeOfLife.Cursed.CriticalDescription,Vervloekt door de boom,
 Need.TreeOfLife.Cursed.CriticalDescriptionShort,Vervloekt,
+Goods.FruitOfLife.DisplayName,Vrucht van het leven,
+Goods.FruitOfLife.PluralDisplayName,Vruchten van het leven,
 Grauschweif.LevelingResource.Effects.Header,Effecten (bereik {0}),
 Grauschweif.LevelingResource.Effect.Blessing,<GreenHighlight>{0}▲</GreenHighlight>,
 Grauschweif.LevelingResource.Effect.Curse,<RedHighlight>{0}▼</RedHighlight>,
@@ -29,8 +44,14 @@ Grauschweif.LevelingResource.Entity.Seedling,<GreenHighlight>De boom is nog stee
 Grauschweif.LevelingResource.Entity.Level,<GreenHighlight>Een prachtige boom (<YellowHighlight>niveau {0}</YellowHighlight>).</GreenHighlight>,
 Grauschweif.LevelingResource.Entity.Dying,<YellowHighlight>De stervende boom hield alle zegeningen tegen!</YellowHighlight>,
 Grauschweif.LevelingResource.Entity.Died,<RedHighlight>De dode overblijfselen vervloeken je kolonie!</RedHighlight>,
-Grauschweif.LevelingResource.Entity.Reviving,Komt over {0} dagen weer tot leven.,
-Grauschweif.LevelingResource.Entity.RevivalButton,Herleven ({0} wetenschapspunten),
+Grauschweif.LevelingResource.Entity.Reviving,<b>Komt over {0} dagen weer tot leven.</b>,
+Grauschweif.LevelingResource.Entity.RevivalButton,<b>» Herleef ({0} wetenschapspunten) «</b>,
 Grauschweif.LevelingResource.Ground.EntitySeedPlanted,<GreenHighlight>Er is een boom geplant en deze zal binnenkort verschijnen.</GreenHighlight>,
 Grauschweif.LevelingResource.Ground.LevelDescription,<YellowHighlight>Huidig ​​niveau {0}.</YellowHighlight>,
 Grauschweif.LevelingResource.Ground.NoLevelDescription,<YellowHighlight>Deze plek is nog steeds erg fris en kaal. Het kan zich ontwikkelen naarmate de boom groeit.</YellowHighlight>,
+Grauschweif.LevelingResource.Ground.Gift.Header,Geschenken van de boom:,
+Grauschweif.LevelingResource.Ground.Gift.GoodAmount,{0} bij het vallen van de avond,
+Grauschweif.LevelingResource.Ground.Gift.NoneYet,{0} wordt ontgrendeld met een grotere boom,
+Grauschweif.UngroupedStorage.DisplayName,Niet op te slaan,
+Status.TreeOfLife.Dying,Deze boom gaat dood!,
+Status.TreeOfLife.Dying.Short,Stervende boom,

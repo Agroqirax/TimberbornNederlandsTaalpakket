@@ -6,21 +6,20 @@ TerrainTools.Keybinding.FastUndo,Ongedaan maken x5,Fast Undo keybinding name (CT
 TerrainTools.Keybinding.Redo,Opnieuw uitvoeren,Redo keybinding name (CTRL Y)
 TerrainTools.Keybinding.FastRedo,Opnieuw uitvoeren x5,Fast Redo keybinding name (CTRL SHIFT Y)
 TerrainTools.Keybinding.CycleMode,Cyclusmodus,"Cycle Mode keybinding name, used by Mound Maker"
-TerrainTools.Keybinding.Selection.PosUp,Verplaats selectie omhoog,Selection Position Up keybinding name
-TerrainTools.Keybinding.Selection.PosDown,Verplaats selectie omlaag,Selection Position Down keybinding name
-TerrainTools.Keybinding.Selection.PosForward,Verplaats selectie naar voren,Selection Position Forward keybinding name
-TerrainTools.Keybinding.Selection.PosBack,Verplaats selectie terug,Selection Position Back keybinding name
-TerrainTools.Keybinding.Selection.PosLeft,Verplaats selectie naar links,Selection Position Left keybinding name
-TerrainTools.Keybinding.Selection.PosRight,Verplaats selectie naar rechts,Selection Position Right keybinding name
-TerrainTools.Keybinding.Selection.HeightUp,Verhoog de selectiehoogte,Selection Height Up keybinding name
-TerrainTools.Keybinding.Selection.HeightDown,Verlaag de selectiehoogte,Selection Height Down keybinding name
+TerrainTools.Keybinding.Selection.AdjustUp,Verplaats selectie omhoog,Selection Adjust Up keybinding name
+TerrainTools.Keybinding.Selection.AdjustDown,Verplaats selectie omlaag,Selection Adjust Down keybinding name
+TerrainTools.Keybinding.Selection.AdjustForward,Verplaats selectie naar voren,Selection Adjust Forward keybinding name
+TerrainTools.Keybinding.Selection.AdjustBack,Verplaats selectie naar achteren,Selection Adjust Back keybinding name
+TerrainTools.Keybinding.Selection.AdjustLeft,Verplaats selectie naar links,Selection Adjust Left keybinding name
+TerrainTools.Keybinding.Selection.AdjustRight,Verplaats selectie naar rechts,Selection Adjust Right keybinding name
+TerrainTools.Keybinding.Selection.AdjustModifier,Selectiegrootte aanpassen (vasthouden),Selection Adjust Modifier keybinding name
 TerrainTools.Keybinding.Selection.Copy,Kopieer selectie,Selection Copy keybinding name
-TerrainTools.Keybinding.Selection.Cut,Knip selectie,Selection Cut keybinding name
-TerrainTools.Keybinding.Selection.Paste,Plak selectie,Selection Paste keybinding name
+TerrainTools.Keybinding.Selection.Cut,Selectie knippen,Selection Cut keybinding name
+TerrainTools.Keybinding.Selection.Paste,Selectie plakken,Selection Paste keybinding name
 TerrainTools.Keybinding.Selection.RotateCW,Roteer selectie rechtsom,Selection Rotate Clockwise keybinding name
 TerrainTools.Keybinding.Selection.RotateCCW,Roteer selectie linksom,Selection Rotate Counter-Clockwise keybinding name
-TerrainTools.Keybinding.Selection.Flip,Spiegel selectie,Selection Flip along axis facing camera keybinding name
-TerrainTools.Keybinding.Selection.Reset,Reset selectie,Selection Reset keybinding name
+TerrainTools.Keybinding.Selection.Flip,Selectie spiegelen,Selection Flip along axis facing camera keybinding name
+TerrainTools.Keybinding.Selection.Reset,Selectie opnieuw instellen,Selection Reset keybinding name
 TerrainTools.Common.Button.Apply,Toepassen,Generic button to apply currently selected tool and options to the terrain
 TerrainTools.Common.Button.Reset,Opnieuw instellen,Generic button to reset the options in the selected tool
 TerrainTools.Heightmap.Tool.Title,Hoogtekaartgenerator,Title of the tool
@@ -97,13 +96,14 @@ TerrainTools.CloneTool.InputGroup.Paste,Plakken,Label for input group describing
 TerrainTools.CloneTool.InputGroup.Rotate,Draaien,Label for input group describing rotate action
 TerrainTools.CloneTool.InputGroup.Flip,Omdraaien,Label for input group describing flip action
 TerrainTools.CloneTool.InputGroup.PositionTrim,Trimpositie,Label for input group describing position trim
-TerrainTools.CloneTool.InputGroup.HeightTrim,Trimhoogte,Label for input group describing height trim
+TerrainTools.CloneTool.InputGroup.SizeTrim,Trimhoogte,Label for input group describing size trim
 TerrainTools.CloneTool.InputGroup.Reset,Opnieuw instellen,Label for input group describing reset action
 TerrainTools.CloneTool.InputDesciption.LeftClick,Klik met de linkermuisknop,Description for left mouse click action
 TerrainTools.CloneTool.InputDesciption.RightClick,Klik met de rechtermuisknop,Description for right mouse click action
 TerrainTools.CloneTool.InputDesciption.ClickAndDrag,Klik en sleep,Description for click and drag action
 TerrainTools.CloneTool.InputDesciption.MouseScroll,Muis scrollen,Description for mouse scroll action
-TerrainTools.CloneTool.InputDesciption.Hold,Uitstel,Description for hold action
+TerrainTools.CloneTool.InputDesciption.Hold,Houd {0} vast,Description for hold action {0} is replaced by the action
+TerrainTools.CloneTool.InputDesciption.HoldAnd,Houd {0} en {1} vast,Description for a two-step action
 TerrainTools.CloneTool.ToolTip.Start,Basis selecteren,Tooltip for the Start phase of the Clone Tool
 TerrainTools.CloneTool.ToolTip.Base,Basis selecteren,Tooltip for the Base phase of the Clone Tool
 TerrainTools.CloneTool.ToolTip.Height,Selecteer hoogte,Tooltip for the Height phase of the Clone Tool

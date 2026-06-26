@@ -9,12 +9,13 @@ De bestanden zijn op de volgende manier ingedeeld:
 ```
 Data
 └─ Localizations
-   ├─ nlNL.csv
-   ├─ nlNL_donottranslate.csv
-   ├─ nlNL_names.csv
-   ├─ nlNL_wip.csv
-   └─ Plugins
-      └─ nlNL_Mod.ID.csv
+   ├─ nlNL.csv                (spel vertalingen)
+   ├─ nlNL_donottranslate.csv (taal naam)
+   ├─ nlNL_names.csv          (namenlijst)
+   ├─ nlNL_wip.csv            (vertalingen van de exp branch)
+   ├─ nlNL_old.csv            (verwijderde vertalingen die tijdelijk in de release blijven)
+   └─ Plugins                 (map met mod vertalingen)
+      └─ nlNL_Mod.ID.csv      (mod vertaling met mod id als suffix)
 ```
 
 ## Werken met git/github
