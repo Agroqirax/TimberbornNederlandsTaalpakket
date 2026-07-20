@@ -130,9 +130,11 @@ Building.Agora.DisplayName,Tempel,
 Building.Agora.FlavorDescription,"Wanneer de groene bakens branden, is dit een teken voor Volkstaarten om zich te verzamelen.",Folktails must be same as faction as Faction.Folktails.DisplayName.
 Building.Airlock.Description,Laat bevers door terwijl het water wordt geblokkeerd.,
 Building.Airlock.DisplayName,Luchtsluis,
+Building.Airlock.FlavorDescription,Het gras is soms groener aan de overkant.,A wordplay on 'The grass is greener on the other side.'
 Building.AncientAquiferDrill.DisplayName,Oude Aquiferboor,
 Building.AncientAquiferDrill.FlavorDescription,De laatste wanhopige poging van de mensjen om te herstellen wat verloren was.,
 Building.ArchOfProgress.DisplayName,Boog van vooruitgang,"A big arch, similar to classic victory arches, decorated with Iron Teeth workers that serves as a symbol of their drive to progress beaver society."
+Building.ArchOfProgress.FlavorDescription,"Er staat een zin op de zijkant gekrast: ""Ik kwam, ik zag, ik bouwde""","Alternative take on the famous ""I came, I saw, I conquered"" quote"
 Building.AquaticFarmhouse.Description,Heeft gespecialiseerde boeren in dienst om <YellowHighlight>Aquatische</YellowHighlight> gewassen te planten en te oogsten.,"Aquatic is a keyword, must be the same as in NaturalResources.Aquatic."
 Building.AquaticFarmhouse.DisplayName,Aquatische boerderij,A farmhouse that specializes in water plants.
 Building.AquaticFarmhouse.FlavorDescription,"""Er was eens het gerucht dat we vis eten. Walgelijk!"" —Oma Ngonel","Beavers eating fish is a common misconception. Beavers are 100% herbivores. Ma' Ngonel is an almost legendary figure - a beaver grandma, known for her stern hand, cooking skills and respect among both kits and adult beavers. Her name is an inside joke, as our community constantly demands an addition of catapults, mangonels etc."
@@ -235,6 +237,7 @@ Building.CoffeeBrewery.DisplayName,Koffie brouwerij,A building that brews coffee
 Building.CoffeeBrewery.FlavorDescription,Zonder consumptielimieten zouden de IJzertanden helemaal niet slapen.,
 Building.CompactMechanicalPump.Description,Zuigt water of vuilwater aan de ene kant aan en voert het af aan de andere kant.,
 Building.CompactMechanicalPump.DisplayName,Compacte mechanische pomp,
+Building.CompactMechanicalPump.FlavorDescription,Dit ding is waardeloos.,Play on words - the pump sucks water
 Building.CompactWaterWheel.Description,Een compacte generator die waterstroom omzet in energie.,
 Building.CompactWaterWheel.DisplayName,Compact waterrad,A water wheel that's smaller than other versions.
 Building.CompactWaterWheel.FlavorDescription,"Ja, je kunt het waterrad opnieuw uitvinden.",A play on 'can't reinvent the wheel'
@@ -257,6 +260,7 @@ Building.DanceHall.DisplayName,Danszaal,
 Building.DanceHall.FlavorDescription,"""Kom op, blijf daar niet zo staan ​​als een saaie IJzertand."" —Suli",Iron Teeth must be the same as Faction.IronTeeth.DisplayName. Suli is a younger beaver that likes to play tricks on their fellow beavers and isn't related to any faction in particular. Translated name shouldn't suggest a gender if possible.
 Building.DancePit.Description,Een modderige put waar bevers hun stress kunnen uitdansen.,
 Building.DancePit.DisplayName,Dans Put,
+Building.DancePit.FlavorDescription,De plek om naartoe te gaan nadat het quotum is gehaald. Of niet.,
 Building.DecontaminationPod.Description,Een bad voor bevers om te herstellen van blootstelling aan vuilwater.,Badwater should be the same as Good.Badwater.DisplayName.
 Building.DecontaminationPod.DisplayName,Decontaminatie bad,Ideally the name of the building should refer to the contamination effect on the beaver (Need.BadwaterContamination).
 Building.DecontaminationPod.FlavorDescription,"""Nee Suli, je mag het extract niet drinken. Je bent in de ketel gevallen toen je een kit was!"" —Oma Ngonel","Reference to Obelix from Asterix and Obelix falling into a cauldron. Suli is a younger beaver that likes to play tricks on their fellow beavers and isn't related to any faction in particular. Translated name shouldn't suggest a gender if possible. Ma' Ngonel is an almost legendary figure - a beaver grandma, known for her stern hand, cooking skills and respect among both kits and adult beavers. Her name is an inside joke, as our community constantly demands an addition of catapults, mangonels etc."
@@ -293,6 +297,7 @@ Building.DistrictCrossing.DisplayName,Wijkovergang,District should be the same a
 Building.DistrictCrossing.FlavorDescription,Waarom stak een bever een wijk over?,"Referencing ""Why did a chicken cross a road"" jokes"
 Building.DomedGarden.Description,Een rustige plek om te ontspannen tussen de natuur en het water.,
 Building.DomedGarden.DisplayName,Koepelvormige tuin,
+Building.DomedGarden.FlavorDescription,Een plek om de natuur te bewonderen... of het uitzicht op de nabijgelegen dam.,
 Building.DoubleDynamite.DisplayName,Dubbele Dynamiet,Dynamite that makes 2 blocks deep hole
 Building.DoubleDynamite.FlavorDescription,Toen extreme maatregelen nog niet extreem genoeg waren.,References extreme measures mentioned in Building.Dynamite.FlavorDescription. It's part of a set.
 Building.DoubleFloodgate.DisplayName,Dubbele Sluisdeur,
@@ -393,6 +398,7 @@ Building.Gristmill.Description,Maalt wortels en zaden tot meel.,"Plant matter me
 Building.Gristmill.DisplayName,Korenmolen,
 Building.Gristmill.FlavorDescription,Meer verfijnde smaken leidden tot meer verfijnd voedsel.,
 Building.HallOfAbundance.DisplayName,Hal van overvloed,"A big, covered intersection resembling a hall, decorated with plants to match Folktails identity of wishing for abundance of nature"
+Building.HallOfAbundance.FlavorDescription,"""Dit is niet gebouwd om overvloed te wensen, maar om te laten zien dat we het al hebben."" —Suli",Suli is a younger beaver that likes to play tricks on their fellow beavers and isn't related to any faction in particular. Translated name shouldn't suggest a gender if possible.
 Building.Hammock.Description,Een schommelstoel voor ontspanning.,
 Building.Hammock.DisplayName,Hangmat,A free-standing hammock that beavers can rest in.
 Building.Hammock.FlavorDescription,"Vroeger werden ze vastgebonden aan bomen, totdat er een paar te veel ongelukken met het kappen van bomen gebeurden.",
@@ -425,7 +431,11 @@ Building.ImpermeableFloor.Description,Een vloerpaneel dat voorkomt dat er water 
 Building.ImpermeableFloor.DisplayName,Ondoordringbare vloer,"It's a metal floor tile that doesn't let any water through, hence Impermeable."
 Building.ImpermeableFloor.FlavorDescription,Het begon allemaal toen een bever genoeg kreeg van het geluid van een lekkend dak.,
 Building.ImpermeablePowerShaft.Description,Brengt energie over. Blokkeert water.,
-Building.ImpermeablePowerShaft.DisplayName,Ondoordringbare aandrijfas,Must be consistent with Building.PowerShaft.DisplayName. An axle which transfers power embedded in a block of wood which keeps it watertight.
+Building.ImpermeablePowerShaft.DisplayName,waterdichte aandrijfas,Must be consistent with Building.PowerShaft.DisplayName. An axle which transfers power embedded in a block of wood which keeps it watertight.
+Building.ImpermeablePowerShaft.FlavorDescription,"""Het ontbreken van zichtbare machines werkt me echt op de zenuwen!"" —Pina","Pina is a younger beaver figure that's exploring the world and isn't related to any faction in particular. Pina as a name relates to the pine tree, the translated name shouldn't suggest a gender if possible."
+Building.ImpermeableTubeway.Description,"Een snel, maar krap, vervoermiddel voor bevers. Blokkeert water.",The first sentence must be the same as Building.Tubeway.Description
+Building.ImpermeableTubeway.DisplayName,waterdichte metro,"A watertight version of the Building.Tubeway.DisplayName that doesn't allow liquids to go through it. Tubes are used as a network of large pipes for faster transportation around the map. Departure and arrival happens in Building.TubewayStation.DisplayName, so they should be named similarly."
+Building.ImpermeableTubeway.FlavorDescription,Een metrodroom die uitkomt.,"A play on the ""pipe dream"" expression referencing an actual pipe in this case"
 Building.Indicator.Description,Een indicatielampje met waarschuwingsmogelijkheden.,An API URL which switches on this object.
 Building.Indicator.DisplayName,Indicator,"An building which is an indicator light - when it receives a signal it lights up and optionally raises an alarm. Alternative names: Alarm, Annunciator, Signal, Beacon."
 Building.Indicator.JournalEntryWhenSwitchedOn,Aan logboek toevoegen wanneer ingeschakeld,A label for a toggle which makes this indicator add a journal entry when its input signal is switched on.
@@ -491,6 +501,7 @@ Building.LumberjackFlag.DisplayName,Houthakkerspost,Flag' could also be a Post o
 Building.LumberjackFlag.FlavorDescription,"""Ze zijn houthakkers en dat is de manier waarop ze de hele nacht slapen en de hele dag werken!"" —Populair beverlied","Adapted from Monthy Python's ""Lumberjack Song"""
 Building.Massager.Description,Een niet zo zachte massage.,
 Building.Massager.DisplayName,Massageapparaat,A mechanical massaging device.
+Building.Massager.FlavorDescription,De pijn van vandaag is de motivatie van morgen.,
 Building.MechanicalPump.Description,Pompt water of vuilwater aan de ene kant op en loost het aan de andere kant.,Badwater should be the same as Good.Badwater.DisplayName.
 Building.MechanicalPump.DisplayName,Mechanische pomp,A mechanically powered water pump.
 Building.MechanicalPump.FlavorDescription,Beter stromend water dan stromen met emmers.,Running water meaning water that is moving.
@@ -621,15 +632,15 @@ Building.Refinery.FlavorDescription,"Verminderen, verfijnen, recyclen.","Adapted
 Building.Relay.Description,Voert eenvoudige logische bewerkingen uit op de ingangssignalen.,
 Building.Relay.DisplayName,Relais,The name of a building which can retransmit a signal or process it using boolean logic.
 Building.Relay.Mode.And,AND,A binaray logic AND operation. Only translate if you really have to but most languages should be better off OK with the English naming because it's a conventional name in electronics.
-Building.Relay.Mode.And.Description,<YellowHighlight>Aan</YellowHighlight> als beide ingangen <YellowHighlight>Aan</YellowHighlight> zijn.,A binary logic AND operation.
+Building.Relay.Mode.And.Description,<YellowHighlight>Aan</YellowHighlight> als alle ingangen <YellowHighlight>Aan</YellowHighlight> zijn.,A binary logic AND operation.
 Building.Relay.Mode.Not,NOT,A binary logic NOT operation. Only translate if you really have to but most languages should be better off OK with the English naming because it's a conventional name in electronics.
 Building.Relay.Mode.Not.Description,<YellowHighlight>Aan</YellowHighlight> als de invoer <YellowHighlight>Uit</YellowHighlight> is.,A binary logic NOT operation.
 Building.Relay.Mode.Or,OR,A binary logic OR operation. Only translate if you really have to but most languages should be better off OK with the English naming because it's a conventional name in electronics.
-Building.Relay.Mode.Or.Description,<YellowHighlight>Aan</YellowHighlight> als een invoer <YellowHighlight>Aan</YellowHighlight> is.,A binary logic OR operation.
+Building.Relay.Mode.Or.Description,<YellowHighlight>Aan</YellowHighlight> als ten minste één ingang <YellowHighlight>Aan</YellowHighlight> is.,A binary logic OR operation.
 Building.Relay.Mode.Passthrough,Doorvoer,An operation which forwards its input unchanged to its output.
 Building.Relay.Mode.Passthrough.Description,<YellowHighlight>Aan</YellowHighlight> als de invoer <YellowHighlight>Aan</YellowHighlight> is.,An operation which forwards its input unchanged to its output.
 Building.Relay.Mode.Xor,XOR,A binary logic XOR operation. Only translate if you really have to but most languages should be better off OK with the English naming because it's a conventional name in electronics.
-Building.Relay.Mode.Xor.Description,<YellowHighlight>Aan</YellowHighlight> als één ingang <YellowHighlight>Aan</YellowHighlight> is.,A binary logic XOR operation.
+Building.Relay.Mode.Xor.Description,<YellowHighlight>Aan</YellowHighlight> als een oneven aantal ingangen <YellowHighlight>Aan</YellowHighlight> is.,A binary logic XOR operation. 'odd' as in the opposite of 'even' number.
 Building.Relic.Description,Eeuwenoude technologie die kan worden gesloopt voor kennis.,
 Building.Relic.DisplayName,Relikwie,Remains of a human structure/device that can be demolished to obtain a certain amount of the Science resource
 Building.ReservePile.DisplayName,Reserve stapel,
@@ -661,6 +672,7 @@ Building.Ruins.DisplayName,Ruïnes,
 Building.Ruins.FlavorDescription,Verspreid over het land voorzagen vervallen mensjelijke ruïnes de bevers van het onvoorstelbare: een goede superieur aan hout.,
 Building.Sauna.Description,Een sauna met open dak waar bevers hun zorgen kunnen uitzweten.,
 Building.Sauna.DisplayName,Sauna,
+Building.Sauna.FlavorDescription,"""Wat als we hier wat aardappelen in doen?"" —Oma Ngonel,"References steaming potatoes"""""
 Building.Scarecrow.Description,"Een veldversiering die ooit bedoeld was om vogels af te schrikken, brengt nu vreugde bij jong en oud.",
 Building.Scarecrow.DisplayName,Vogelverschrikker,
 Building.Scarecrow.FlavorDescription,Uitmuntend in hun vakgebied.,
@@ -1440,9 +1452,13 @@ MapMetadata.Meander.Description,Bever-ingenieurs willen graag de natuurlijke kro
 MapMetadata.Meander.Name,Meander,
 MapMetadata.MountainRange.Description,In hun wanhopige zoektocht naar vers water staan ​​bevers klaar om zelfs de hoogste bergen te beklimmen.,
 MapMetadata.MountainRange.Name,Bergketen,
+MapMetadata.Nomads.Description,"Een vaardigheidstest voor doorgewinterde bevers, waarbij elke cyclus de waterstroom opnieuw vormgeeft en zich vestigen nooit een optie is.",
+MapMetadata.Nomads.Name,Nomaden,The map involves a lot of travelling around - the player needs to constantly move their settlement from place to place
 MapMetadata.NotUpdatedDescription,<RedHighlight>Deze kaart is nog niet compatibel met de experimentele versie!</RedHighlight>,
 MapMetadata.Oasis.Description,"Een eenzaam groen toevluchtsoord in de woestenij, omringd door aquifers die toegankelijk zijn via slimme bevertechniek.",Aquifer refers to Building.Aquifer.DisplayName
 MapMetadata.Oasis.Name,Oase,
+MapMetadata.Pillars.Description,De hoge plateaus bieden verkoeling bij het slechte water eronder. Het voortbestaan ​​en de uitbreiding van je nederzetting vereisen echter een zorgvuldig grondstoffenbeheer en een flinke dosis vindingrijkheid.,
+MapMetadata.Pillars.Name,Pijlers,The map is filled with tall rock pillars / plateaus
 MapMetadata.Plains.Description,"Met uitgestrekte gebieden zo plat als de staart van een bever, is deze regio een veilige proeftuin voor beginnende ingenieurs.",
 MapMetadata.Plains.Name,Vlakten,
 MapMetadata.Pressure.Description,Creatief loodgieterswerk is de eerste vaardigheid die een woestenijbever moet leren.,
@@ -1585,6 +1601,7 @@ NaturalResource.Soybean.FlavorDescription,De zaden zijn hard en waterbestendig e
 NaturalResource.Spadderdock.DisplayName,Waterlelie,Plant Nuphar Lutea
 NaturalResource.Spadderdock.FlavorDescription,De natuur stuurt haar boodschap via de vorm van de bladeren.,"Spadderdock has heart-shaped leaves, and it can be seen in the game."
 NaturalResource.Succulent.DisplayName,Cactus,"A kind of plant that can be found in the desert, it is usually green and spiky."
+NaturalResource.Succulent.FlavorDescription,"""Bijten of niet bijten."" – Een dorstig beverdilemma","Alternative take on the Hamlet's ""To be or not to be"" quote"
 NaturalResource.Sunflower.DisplayName,Zonnebloem,
 NaturalResource.Sunflower.FlavorDescription,Bevers kweken deze om te laten zien dat ze niet bang zijn voor de brandende zon.,It's a reference to drought being the main threat in the game.
 NaturalResource.Wheat.DisplayName,Tarwe,Plant Triticum aestivum

@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased] - 2026-07-20
 
+## [0.1.17] - 2026-07-20
+
+### Added
+
+- Bijgewerkt naar 1.1.1.1-cfb778f-xsw. Verwijderde vertalingen blijven in de release tot 1.1 op de main branch is.
+
 ## [0.1.16] - 2026-07-20
 
 ### Added
@@ -227,6 +233,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [Tobbert.VerticalPowerShaft](Data/Localizations/Plugins/Tobbert.VerticalPowerShaft)
 
 [unreleased]: https://github.com/agroqirax/TimberbornNederlandsTaalpakket/compare/v2.0.0...HEAD
+[0.1.17]: https://github.com/agroqirax/TimberbornNederlandsTaalpakket/compare/v0.1.16...v0.1.17
 [0.1.16]: https://github.com/agroqirax/TimberbornNederlandsTaalpakket/compare/v0.1.15...v0.1.16
 [0.1.15]: https://github.com/agroqirax/TimberbornNederlandsTaalpakket/compare/v0.1.14...v0.1.15
 [0.1.14]: https://github.com/agroqirax/TimberbornNederlandsTaalpakket/compare/v0.1.13...v0.1.14
