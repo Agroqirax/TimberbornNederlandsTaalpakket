@@ -11,6 +11,7 @@ on:
       - "**/*.json"
       - "**/*.csv"
       - "**/*.txt"
+  workflow_call:
 
 jobs:
   validate-blueprints:

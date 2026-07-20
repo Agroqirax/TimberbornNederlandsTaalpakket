@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased] - 2026-07-20
 
+## [0.1.18] - 2026-07-20
+
+### Added
+
+- Fix invalid csv
+
 ## [0.1.17] - 2026-07-20
 
 ### Added
@@ -233,6 +239,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [Tobbert.VerticalPowerShaft](Data/Localizations/Plugins/Tobbert.VerticalPowerShaft)
 
 [unreleased]: https://github.com/agroqirax/TimberbornNederlandsTaalpakket/compare/v2.0.0...HEAD
+[0.1.18]: https://github.com/agroqirax/TimberbornNederlandsTaalpakket/compare/v0.1.17...v0.1.18
 [0.1.17]: https://github.com/agroqirax/TimberbornNederlandsTaalpakket/compare/v0.1.16...v0.1.17
 [0.1.16]: https://github.com/agroqirax/TimberbornNederlandsTaalpakket/compare/v0.1.15...v0.1.16
 [0.1.15]: https://github.com/agroqirax/TimberbornNederlandsTaalpakket/compare/v0.1.14...v0.1.15
