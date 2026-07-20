@@ -1,5 +1,5 @@
 ID,Text,Comment
-Lapantouflemagic.Pitwarehouse.DisplayName,Put Pakhuis,-
+Lapantouflemagic.Pitwarehouse.DisplayName,Put Magazijn,-
 Lapantouflemagic.Pitwarehouse.Description,"Een opslagplaats met toegang van bovenaf, die in afgelegen hoeken past.",-
 Lapantouflemagic.Pitwarehouse.FlavorDescription,‘Laten we hopen dat de dingen onderaan niet rotten’,-
 Lapantouflemagic.Pitpile.DisplayName,Put Stapel,-
@@ -21,7 +21,7 @@ Lapantouflemagic.PitTank.DisplayName,Put Vat,-
 Lapantouflemagic.PitTank.FlavorDescription,"Verlies de emmer niet, Mensjen voerde oorlogen voor zulke dingen.",-
 Lapantouflemagic.SCoveredtank.FlavorDescription,"Niet de beste manier om water op te slaan, maar het blijft in ieder geval schoon.",-
 Lapantouflemagic.GigargantuanPile.DisplayName,Gigantische opslagstapel,-
-Lapantouflemagic.GigargantuanWarehouse.DisplayName,Gigantisch Pakhuis,-
+Lapantouflemagic.GigargantuanWarehouse.DisplayName,Gigantisch Magazijn,-
 Lapantouflemagic.GigargantuanStorage.Description,"Slaat een belachelijke hoeveelheid van één type grondstof op.
 <color=yellow>Vereist ladders voor toegang</color>
 De centrale 7x1-lijnen vereisen geen ondersteuning eronder.

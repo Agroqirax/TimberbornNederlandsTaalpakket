@@ -22,7 +22,7 @@ UI.TW.TradeOffice.TT.AutomateImportToggle,Stel regels in voor wanneer je wilt im
 UI.TW.TradeOffice.TT.ShowSettings,Instellingen weergeven,
 UI.TW.TradeOffice.TT.HideSettings,Instellingen verbergen,
 Building.TWTradeOffice.DisplayName,Handelskantoor,
-Building.TWTradeOffice.Description,"Maakt het kopen en verkopen van grondstoffen mogelijk. Om te kunnen werken moet de achterwand een pakhuis, opslagplaats, tank of wetenschappelijk gebouw raken.",
+Building.TWTradeOffice.Description,"Maakt het kopen en verkopen van grondstoffen mogelijk. Om te kunnen werken moet de achterwand een magazijn, opslagplaats, vat of wetenschappelijk gebouw raken.",
 Building.TWTradeOffice.FlavorDescription,"Vraag niet waar de goederen naartoe gaan, en raad ook niet waar ze vandaan komen.",
 UI.TW.TradeOffice.UnknownGood,Onbekend,
 UI.TW.TradeOffice.MaxBuyPrice,Prijs hieronder,

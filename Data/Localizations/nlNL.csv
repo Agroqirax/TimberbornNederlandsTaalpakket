@@ -1937,7 +1937,7 @@ Tip.Common.KeyBindings,"Tip: Gebruik sneltoetsen om bepaalde acties sneller uit 
 Tip.Common.LayerTool,Tip: Gebruik het <YellowHighlight>Laaggereedschap</YellowHighlight> om onder terrein en gebouwen te kijken.,Tip on the loading screen. Layer tool naming must be consistent with the usage of those terms in the rest of the game.
 Tip.Game.Duplicate,Tip: Gebruik de gereedschappen <YellowHighlight>Dupliceren</YellowHighlight> en <YellowHighlight>Instellingen kopiëren</YellowHighlight> om snel identieke gebouwen te maken.,Tip on the loading screen. 'Duplicate' and 'Copy settings' should be the same as in KeyBinding.DuplicateObject and KeyBinding.DuplicateSettings respectively.
 Tip.Game.Flip,Tip: Gebruik <YellowHighlight>Spiegelen</YellowHighlight> om een ​​gebouw tijdens de plaatsing te spiegelen.,Tip on the loading screen. 'Flip' should be the same as in KeyBinding.Flip.
-Tip.Game.Solid,"Tip: Als een gebouw is gemarkeerd als <YellowHighlight>Stevig</YellowHighlight>, zoals een hut of een pakhuis, kun je andere bouwwerken op het dak ervan bouwen.",Tip on the loading screen. Solid is a keyword.
+Tip.Game.Solid,"Tip: Als een gebouw is gemarkeerd als <YellowHighlight>Stevig</YellowHighlight>, zoals een hut of magazijn, kun je andere bouwwerken op het dak ervan bouwen.",Tip on the loading screen. Solid is a keyword.
 Tip.MapEditor.Undo,Tip: gebruik <YellowHighlight>Ongedaan maken</YellowHighlight> en <YellowHighlight>Opnieuw uitvoeren</YellowHighlight> om een ​​fout snel te corrigeren.,Tip on the loading screen. 'Undo' and 'Redo' should be the same as in MapEditor.Undo and MapEditor.Redo respectively.
 Tip.MapEditor.SeasonControls,Tip: Gebruik de seizoensknoppen bovenaan het scherm om droogte en vuilwatergolven te simuleren.,Tip on the loading screen.
 Tip.MapEditor.SpeedControls,Tip: Gebruik de watersnelheidsregelaars bovenaan het scherm om je kaart vooraf met water te vullen.,Tip on the loading screen.
@@ -2113,7 +2113,7 @@ Tutorial.Storage.Pile,"Veel gebouwen hebben een ingebouwde opslagruimte, maar de
                                
 Bouw een grote stapel om meer houtblokken op te slaan.
                                
-Elk pakhuis bevat één goed. Je kunt het opgeslagen goed instellen nadat je het gebouw hebt geselecteerd.","Large Pile is the same as Building.LargePile.DisplayName, Logs is same as Good.Log.PluralDisplayName"
+Elk magazijn bevat één goed. Je kunt het opgeslagen goed instellen nadat je het gebouw hebt geselecteerd.","Large Pile is the same as Building.LargePile.DisplayName, Logs is same as Good.Log.PluralDisplayName"
 Tutorial.Storage.Tanks,Alle vloeistoffen worden opgeslagen in vaten. Dit omvat het water dat we hebben gepompt.,"Small Tank is the same as Building.SmallTank.DisplayName, Water is same as Good.Water.DisplayName"
 Tutorial.Storage.Warehouses,"Laten we tot slot wat opslagruimte voor bessen voorbereiden. We moeten ons ook voorbereiden op de komende worteloogst.
                              

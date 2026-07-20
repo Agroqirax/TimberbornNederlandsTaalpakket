@@ -71,3 +71,7 @@ Let op deze dingen tijdens het vertalen
 - "FlavorDescriptions" verliezen vaak hun betekenis wanneer vertaald. Gebruik zo nodig een standaard vertaling i.p.v. de grap letterlijk over te nemen.
 - Houd een informele toon aan en maak het taalgebruik niet onnodig ingewikkeld
 - Let op het correcte gebruik van de ZWSP (U+200B) & NBSP (U+00A0) (gebruik evt. een editor die onzichtbare tekens toont)
+- Tip: check voor ongelidge tags:
+  ```re
+  <color=(?!(?:#(?:[0-9a-f]{6})|(?:red|green|blue|yellow|black|white|purple|orange|brown|gray|grey|pink|violet|turquoise|cyan|magenta|navy|maroon|lime|teal|silver|gold|beige)))([^>]+)>
+  ```

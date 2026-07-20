@@ -1,0 +1,5 @@
+ID,Text,Comment
+AcademicsTodoList.Title,Ontbrekende materialen,Title of the todo list panel and the button tooltip
+AcademicsTodoList.FilterAll,Alle,Filter button showing every district
+AcademicsTodoList.FilterDistrict,Wijk,Filter button showing only the selected district
+AcademicsTodoList.NothingMissing,Er ontbreken geen materialen. Elke bouwplaats is volledig bevoorraad.,Shown when nothing is missing

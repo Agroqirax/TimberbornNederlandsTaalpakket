@@ -1,0 +1,1806 @@
+ID,Text,Comment
+Good.Stew.PluralDisplayName,Stoofpot,�
+Faction.waterbeavers.DisplayName,De Witpootjes,2
+Faction.waterbeavers.Description,"<color=red> !!! ACTIVEER DE TUTORIAL !!!</color>
+Volgers van het Ware Beverpad, voor hen is alles een huis. Hun bevolking explodeert vaak uit de hand, voedsel en water raken op, wetenschap is een luxe en jouw nederlaag is onvermijdelijk
+
+ Vergeet wat andere facties je hebben geleerd en welkom in je roze nachtmerrie.
+<color=red> !!! ACTIVEER DE TUTORIAL !!!</color>
+
+
+
+<color=black>Beverkunst en texturen van Wolfess, enorm bedankt!
+Veel iconen van Thorlak, ook enorm bedankt!
+Met dank aan Grauschweif voor de aangepaste scripts!</color>",3
+trashdump.DisplayName,Kapotte expeditiekar,4
+trashdump.Description,"Je eerste wijkcentrum, als dat zo mag heten. Pas afbreken na bouwen van een beter stadscentrum.",5
+trashdump.FlavorDescription,"'We kunnen niet verder, maar we kunnen ons hier wel vestigen'
+ -De expeditieleider",6
+Luc.Primitivemine.DisplayName,Primitieve mijn,7
+Luc.Primitivemine.Description,Een kleine en inefficiënte manier om minerale hulpbronnen te verkrijgen,8
+Luc.Primitivemine.FlavorDescription,'Bevers zijn niet bedoeld om rotsen te graven',9
+Lapantouflemagic.Mediummine.DisplayName,Middelgrote mijn,10
+Lapantouflemagic.Mediummine.Description,"Een grotere en diepere mijn om rijkere afzettingen te exploiteren, geeft ook toegang tot zeldzamere elementen.
+Wordt geleverd met toegangstrappen en barrières om te voorkomen dat gekke kleine kits vallen en gewond raken.
+<color=green>Moet in een gat van 4 diepten worden geplaatst!
+Mijn en hekken moeten op vaste grond staan!
+Plaats trappen op vuile plekken en voltooi de toegangshelling</color>",11
+Lapantouflemagic.Mediummine.FlavorDescription,"""Ik geloof niet in geesten en monsters, wat moeten gres eigenlijk zijn?""
+ -Mijnwerker Zork, laatste woorden",12
+Lapantouflemagic.Primitivesmetler.DisplayName,Primitieve smelterij,13
+Lapantouflemagic.Primitivesmetler.Description,"Een mengsel van ijzererts en steenkool in een smeltkroes van klei om in brand te steken.
+<color=#FF6EC7>Kan functioneren zonder werknemers.</color>",14
+Lapantouflemagic.Primitivesmetler.FlavorDescription,'Weten we zeker van het recept?',15
+Lapantouflemagic.Woodburner.DisplayName,Houtkachel,16
+Lapantouflemagic.Woodburner.Description,"Een speciale vuurplaats om hout om te zetten in houtskool.
+<color=#FF6EC7>Kan functioneren zonder werknemers.</color>",17
+Lapantouflemagic.Woodburner.FlavorDescription,"'O, dat zou een geweldige manier zijn om van... ehh... zaagsel af te komen! Ja, zaagsel... natuurlijk.'
+ -Jack de Knapper",18
+Lapantouflemagic.Screwpress.DisplayName,Schroefpers,19
+Lapantouflemagic.Screwpress.Description,"Een sterke pers om olie uit zaden te halen, of sap uit fruit.
+<color=#00FFFF>Werkt als dijk</color>",20
+Lapantouflemagic.Screwpress.FlavorDescription,"""Zonnebloemolie, essentieel voor zowel salade als machines""",21
+Lapantouflemagic.Alchemist.DisplayName,Alchimist,22
+Lapantouflemagic.Alchemist.Description,"Een gezellig laboratorium om chemische basisreacties voor te bereiden.
+<color=#00FFFF>Werkt als dijk</color>",23
+Lapantouflemagic.Alchemist.FlavorDescription,‘Hopelijk ontploft het niet’,24
+Lapantouflemagic.Handicrafter.DisplayName,Handwerksloge,25
+Lapantouflemagic.Handicrafter.FlavorDescription,"""Zolang we daar niet veel van nodig hebben...""",26
+Lapantouflemagic.Copistlodge.DisplayName,Kopiistenloge,27
+Lapantouflemagic.Copistlodge.Description,"Een herenhuis voor het kopiëren van bestaande blauwdrukken. 
+<color=#00FFFF>Werkt als dijk</color>",28
+Lapantouflemagic.Copistlodge.FlavorDescription,"""Dus het eerste deel van mijn werk is het verwijderen van deze belachelijke versieringen""
+ -De Copistenbever",29
+Lapantouflemagic.Artsylodge.DisplayName,Kunstenaar loge,30
+Lapantouflemagic.Artsylodge.Description,"Een herenhuis voor het versieren van gekopieerde blauwdrukken. 
+<color=#00FFFF>Werkt als dijk</color>",31
+Lapantouflemagic.Artsylodge.FlavorDescription,"""Ja, de blauwdrukken MOETEN mooi zijn om bruikbaar te zijn""
+ -De kunstenaarsbever",32
+Lapantouflemagic.Builderslodge.DisplayName,Bouwers loge,33
+Lapantouflemagic.Builderslodge.Description,"Een herenhuis voor twee extra bouwers. 
+<color=#00FFFF>Werkt als dijk</color>",34
+Lapantouflemagic.Builderslodge.FlavorDescription,"""Eindelijk mijn eigen ruimte!""",35
+Luc.Lodge.Description,"Een klein huis voor een transportbever.
+<color=#00FFFF>Werkt als dijk</color>",41
+Lapantouflemagic.primitivedam.DisplayName,Primitieve dam,42
+Lapantouflemagic.primitivedam.Description,Een semi-waterdicht bouwwerk gebouwd zoals de bevers dat vroeger deden.,43
+Lapantouflemagic.primitivedamupgrade.DisplayName,Primitieve dam-upgrade,44
+Lapantouflemagic.primitivedamupgrade.Description,Een grotere dam gebouwd bovenop een vorige.,45
+Lapantouflemagic.primitivedamupgrade.FlavorDescription,"""Misschien overleven we hiermee.""",46
+Lapantouflemagic.primitivedamUtility.DisplayName,Nutsdam,47
+Lapantouflemagic.primitivedamUtility.FlavorDescription,Best handig!,49
+Lapantouflemagic.LogstairsWB.DisplayName,Log trappen,50
+Lapantouflemagic.logstairsWB.DisplayName,Bruine houten trap,51
+Lapantouflemagic.BirchlogstairsWB.DisplayName,Berkenhouten trappen,52
+Lapantouflemagic.ScramblelogstairsWB.DisplayName,Vervormde Logtrappen,53
+Lapantouflemagic.logstairsWB.Description,Een stel houtblokken gerangschikt in primitieve trappen.,54
+Lapantouflemagic.logstairsWB.FlavorDescription,"""En <i>daar</i> hebben we onderwijs nodig""
+ -Een wetenschappelijke bever",55
+Lapantouflemagic.CrappyplatformWB.DisplayName,Waardeloze platforms,56
+Lapantouflemagic.CrappyplatformWB_brown.DisplayName,Bruin waardeloos platform,57
+Lapantouflemagic.CrappyplatformWB_birch.DisplayName,Berken waardeloos platform,58
+Lapantouflemagic.CrappyplatformWB_scramble.DisplayName,Gecodeerd waardeloos platform,59
+Lapantouflemagic.CrappyplatformWB.Description,Een spijtig excuus van een platform dat de beversoort in verlegenheid brengt.,60
+Lapantouflemagic.CrappyplatformWB.FlavorDescription,"""En <i>ook dat</i> is waarom we onderwijs nodig hebben""
+ -Een wetenschappelijke bever",61
+Lapantouflemagic.crappyWaterWheel.DisplayName,Waardeloos waterrad,62
+Lapantouflemagic.crappyWaterWheel.Description,Een ruw gemaakt maar eenvoudig te bouwen waterrad.,63
+Lapantouflemagic.crappyWaterWheel.FlavorDescription,"""Met zoveel wrijving hebben we geluk dat het niet in brand is gevlogen!""
+ -Een alchemistische bever",64
+Lapantouflemagic.doublewatertightlodge.DisplayName,Waterdichte lodge van twee verdiepingen,89
+Lapantouflemagic.doublewatertightlodgeBottom.Description,"Een middelgroot huis voor twee transportbevers.
+<color=#00FFFF>Werkt als dijk</color>",91
+Lapantouflemagic.doublewatertightlodge.FlavorDescription,"""Kunnen we überhaupt zoveel mensen voeden?""
+ -Een boerenbever",92
+Lapantouflemagic.triplewatertightlodge.DisplayName,Driedubbele waterdichte lodge,93
+Lapantouflemagic.triplewatertightlodge.FlavorDescription,"‘Onze bevolking raakt uit de klauwen’
+ -Dezelfde boerenbever",95
+Luc.Gnawingtent.DisplayName,Log knaagstation,102
+Luc.Gnawingtent.Description,"Een primitieve en inefficiënte, door tanden aangedreven zagerij.",103
+Luc.Gnawingtent.FlavorDescription,"‘We moeten echt met een betere oplossing komen’
+ -Een tandartsbever",104
+Luc.primitiveironworks.DisplayName,Primitieve ijzerfabriek,105
+Luc.primitiveironworks.Description,Een nauwelijks functionele plek om metaal te vormen.,106
+Luc.primitiveironworks.FlavorDescription,"""Stel je voor dat je dat met je tanden doet!""",107
+Luc.primitivepapermill.DisplayName,Primitieve papierfabriek,108
+Luc.primitivepapermill.Description,Een oude manier om papier te vervaardigen.,109
+Luc.primitivepapermill.FlavorDescription,"""Het lijkt wel een soort soep""
+ - Mathilda de krankzinnige kok",110
+Luc.sawmill.DisplayName,Rudimentaire houtzagerij,111
+Luc.sawmill.Description,"Een aangedreven zagerij die ruwe zaagbladen gebruikt, met een hoger rendement maar metalen zaagbladen verbruikt.
+<color=#00FFFF>Werkt als dijk</color>",112
+Luc.sawmill.FlavorDescription,"""Deze nieuwe technologie is leuk, maar laten we hopen dat het mes niet breekt en iemand pijn doet""
+ -Mama bever",113
+Lapantouflemagic.largefarmhouse.DisplayName,Grote boerderij,114
+Lapantouflemagic.largefarmhouse.FlavorDescription,"""Is dat niet een beetje... COMMUNISTISCH!?""
+ -Opa Bever",115
+Lapantouflemagic.Mushroomtent.DisplayName,Champignonkweker,116
+Lapantouflemagic.Mushroomtent.Description,"Een beschutte plek om paddenstoelen uit hout of zaagsel te kweken.
+<color=#FF6EC7>Kan functioneren zonder werknemers.</color>",117
+Lapantouflemagic.Mushroomtent.FlavorDescription,"""Moet ik deze rood-witte eten? Lijkt me lekker""
+ -Bobby de dwaas, laatste woorden",118
+Lapantouflemagic.Cookingtent.DisplayName,Kooktent,119
+Lapantouflemagic.Cookingtent.Description,"Een kleine buitenkeuken om eenvoudig voedsel te bereiden.
+<color=#FF6EC7>Kan functioneren zonder werknemers.</color>",120
+Lapantouflemagic.Cookingtent.FlavorDescription,"""Wat kunnen we erin stoppen? Ha! Wat kunnen we niet erin stoppen?""
+ - Mathilda de krankzinnige kok",121
+Lapantouflemagic.IndustrialKitchen.DisplayName,Industriële keuken,122
+Lapantouflemagic.IndustrialKitchen.Description,"Een grote gemechaniseerde keuken om een ​​hele kolonie te voeden. 
+<color=#00FFFF>Werkt als dijk</color>",123
+Lapantouflemagic.IndustrialKitchen.FlavorDescription,"""Volgens de legende verdween er op een dag een kok om nooit meer gevonden te worden""",124
+Luc.Library.DisplayName,Bibliotheek,125
+Luc.Library.FlavorDescription,"""Ze zien er best lekker uit""
+ -Bobby de dwaas",126
+Luc.Architect.DisplayName,Architectenloge,127
+Luc.Architect.Description,"Een mooi gebouw waarmee architecten kunnen laten zien dat ze beter zijn dan wij. Wordt ook gebruikt om structureel gezonde gebouwen te ontwerpen. 
+<color=green>Werkt als een grote trap</color>
+<color=#00FFFF>Werkt als dijk</color>",128
+Luc.Architect.FlavorDescription,"""Architecten zijn de ergste.""
+ -Een anonieme ingenieursbever",129
+Luc.Engineer.DisplayName,Mecaniciensloge,130
+Luc.Engineer.Description,"Een mooi gebouw waarmee ingenieurs kunnen laten zien dat ze slimmer zijn dan wij. Wordt ook gebruikt om mechanische gebouwen te ontwerpen die werken.
+<color=#00FFFF>Werkt als dijk</color>",131
+Luc.Engineer.FlavorDescription,"""Ingenieurs zijn de ergste""
+ -Een anonieme architectbever",132
+Building.PlankTank.DisplayName,Kleine plankentank,136
+Building.PlankTank.Description,Een iets betere opslagtank.,137
+Lapantouflemagic.NewLido.Description,"Een plek om plezier te hebben in het water.
+Als de vijver nog geen water bevat, kan een <color=green>vloeistofstortplaats</color> worden geïnstalleerd",138
+Lapantouflemagic.WaterDump.Description,"Dumpt water.
+Moet in een <color=green>Lido</color> worden gebouwd.
+<color=#FF6EC7>Kan functioneren zonder werknemers.</color>",139
+Lapantouflemagic.GazTank.DisplayName,Gastank,154
+Lapantouflemagic.GazTank.Description,Een tank onder druk om gas zoals methaan of waterstof op te slaan.,155
+Lapantouflemagic.GazTank.FlavorDescription,"""Hehehe, ik liet een scheet binnen""
+ -Opa Bever",156
+Lapantouflemagic.IrrigationTower2.DisplayName,Irrigatietoren Lodge,158
+Lapantouflemagic.Injury.DeathMessage,<color=green>werd opgegeten door zware machines en stierf</color>,159
+Need.Stew.DisplayName,Stoofpot,164
+Need.Minedeath.DisplayName,Speleologisch ongeluk,171
+Need.Minedeath.DeathMessage,<color=green>waagde zich in een donkere tunnel en werd opgegeten door een Grue</color>,172
+Need.Juice.DisplayName,Sap,173
+Need.Coconut.DisplayName,Kokosnoot,174
+Need.Ananas.DisplayName,Ananas,175
+Good.WaterWheelBlueprint.DisplayName,Verbeterde waterradblauwdruk,182
+Good.WaterWheelBlueprint.PluralDisplayName,Verbeterde waterradblauwdrukken,183
+Good.WaterWheelFancyBlueprint.DisplayName,Verbeterde waterrad-fantasieblauwdruk,206
+Good.WaterWheelFancyBlueprint.PluralDisplayName,Verbeterde waterrad-fantasieblauwdrukken,215
+Good.LargeFarmhouseBlueprint.DisplayName,Grote boerderij blauwdruk,186
+Good.LargeFarmhouseBlueprint.PluralDisplayName,Grote boerderijblauwdrukken,187
+Good.LargeFarmhouseFancyBlueprint.DisplayName,Grote boerderij fancy blauwdruk,208
+Good.LargeFarmhouseFancyBlueprint.PluralDisplayName,Grote boerderij fancy blauwdrukken,217
+Reciepe.Charcoal.DisplayName,Houtskool,236
+Reciepe.HomebrewAlcohol.DisplayName,Alcoholdistillatie,238
+Good.BadCogs.PluralDisplayName,Pawmade-versnellingen,242
+Good.Sawdust.PluralDisplayName,Zaagsel,245
+Good.Sawdust.DisplayName,Zaagsel,246
+Good.Mushrooms.DisplayName,Paddestoel,247
+Good.Mushrooms.PluralDisplayName,Paddestoelen,248
+Good.Mushrooms1.PluralDisplayName,Langzame groei van paddenstoelen,249
+Good.Mushrooms2.PluralDisplayName,Snelle paddenstoelgroei,250
+Good.Awfulstew.DisplayName,Vreselijke stoofpot,251
+Good.Awfulstew.PluralDisplayName,Vreselijke stoofpot,252
+Good.Stew.DisplayName,Stoofpot,253
+Good.Deluxestew.DisplayName,Luxe Stoofpot,264
+Good.Deluxestew.PluralDisplayName,Luxe Stoofpot,265
+Good.Sunfloweroil.DisplayName,Zonnebloemolie,268
+Good.Sunfloweroil.PluralDisplayName,Zonnebloemolie,269
+Good.Nitroglycerin.DisplayName,Nitroglycerine,270
+Good.Nitroglycerin.PluralDisplayName,Nitroglycerine,271
+Good.Tar.DisplayName,Teer,272
+Good.Tar.PluralDisplayName,Teer,273
+Good.Ironore.DisplayName,Ijzererts,274
+Good.Ironore.PluralDisplayName,Ijzererts,275
+Good.Saltpeter.DisplayName,Salpeter,276
+Good.Saltpeter.PluralDisplayName,Salpeter,277
+Good.coal.DisplayName,Kolen,278
+Good.coal.PluralDisplayName,Kolen,279
+Good.Crudesawblade.DisplayName,Ruw zaagblad,282
+Good.Crudesawblade.PluralDisplayName,Ruwe zaagbladen,283
+Good.Steelsawblade.DisplayName,Stalen zaagblad,284
+Good.Steelsawblade.PluralDisplayName,Stalen zaagbladen,285
+Good.Anvil.DisplayName,Aambeeld,286
+Good.Anvil.PluralDisplayName,Aambeelden,287
+Good.Screwaxle.DisplayName,Schroefpersas,292
+Good.Screwaxle.PluralDisplayName,Schroefpersassen,293
+Good.Metalfixation.DisplayName,Metalen bevestigingsmiddel,294
+Good.Metalfixation.PluralDisplayName,Metalen bevestigingsmiddelen,295
+Good.Educativebooks.DisplayName,Ongelooflijk compacte bibliotheekboeken,296
+Good.Educativebooks.PluralDisplayName,Ongelooflijk compacte bibliotheekboeken,297
+Good.ScrapMetal1.DisplayName,Erts smelten,302
+Good.ScrapMetal1.PluralDisplayName,Erts smelten,303
+Good.Pencils.DisplayName,Potlodenset,304
+Good.Pencils.PluralDisplayName,Potloodsets,305
+Good.Berryjuice.DisplayName,Bessensap,308
+Good.Berryjuice.PluralDisplayName,Bessensap,309
+Good.Rail.DisplayName,Spoor,316
+Good.Rail.PluralDisplayName,Sporen,317
+Good.Librarybooks.DisplayName,Bibliotheekboek,318
+Good.Librarybooks.PluralDisplayName,Bibliotheekboeken,319
+Good.Coconut.DisplayName,Kokosnoot,320
+Good.Coconut.PluralDisplayName,Kokosnoten,321
+Good.Ananas.DisplayName,Ananas,322
+Good.Ananas.PluralDisplayName,Ananas,323
+Good.Seashells.DisplayName,Zeeschelp,324
+Good.Seashells.PluralDisplayName,Schelpen,325
+Good.Shellnecklace.DisplayName,Halsketting,326
+Good.Shellnecklace.PluralDisplayName,Halsketting,327
+Good.Methane.DisplayName,Methaan,328
+Good.Methane.PluralDisplayName,Methaan,329
+Good.Alcohol.DisplayName,Sterke alcohol,330
+Good.Alcohol.PluralDisplayName,Sterke alcohol,331
+Good.ExoticSeeds.DisplayName,Exotische zaden,332
+Good.ExoticSeeds.PluralDisplayName,Exotische zaden,333
+Good.Pumpkin.DisplayName,Pompoen,336
+Good.Pumpkin.PluralDisplayName,Pompoenen,337
+Lapantouflemagic.Pumpkin.FlavorDescription,"""... en één keer per jaar, op de donkerste nacht, openen ze gloeiende ogen en monden... om ondeugende kleine kittens te eten!""
+ -Oma Bever, kampvuurverhalen",339
+TopBar.Special,Kernelementen van gebouwen,340
+TopBar.Plan,Blauwdrukken,341
+TopBar.Constructionmaterials,Bouwmaterialen,342
+TopBar.Drinkable,Drinkbaar,343
+ToolGroups.village,Basisdorpsstructuren,344
+ToolGroups.Basicbuildings,Basisgebouwen,345
+ToolGroups.intermediatebuildings,Tussengebouwen,346
+ToolGroups.advancedbuildings,Geavanceerde gebouwen,347
+ToolGroups.lightindustry,Industriële gebouwen,348
+ToolGroups.heavyindustrybuildings,Geavanceerde industriële gebouwen,349
+ToolGroups.Damhouses,"Dammen, huizen en damhuizen",350
+Lapantouflemagic.Loglevee.Description,Ruwe dijk gemaakt van talloze boomstammen die in de modder vastzitten voor eenvoudige landschapsarchitectuur. De vlag moet volledig begraven worden.,352
+Lapantouflemagic.primitivedam.FlavorDescription,"""Eigenlijk ziet het er leuk uit!""
+ -Een stedenbouwkundige bever",353
+Lapantouflemagic.4Wdistrictcenter.DisplayName,Vierwegswijkcentrum,355
+Lapantouflemagic.Unstorablestorage.DisplayName,Niet-op te slaan bron,356
+Lapantouflemagic.StorageHouseW.DisplayName,Vloeistoffenopslaghuis,357
+Lapantouflemagic.StorageHouseW.Description,"Een hoog huis dat ook dienst doet als vloeistofopslag.
+<color=#00FFFF>Werkt als dijk</color>",358
+Lapantouflemagic.StorageHouseB.FlavorDescription,"""Ik... ik heb het geprobeerd, ik heb het echt geprobeerd, maar ik kon er niets aan doen, ik MOEST er een huis van maken!""
+ -Een architectenbever",359
+Lapantouflemagic.StorageHouseB.DisplayName,Krattenopslaghuis,360
+Lapantouflemagic.StorageHouseB.Description,"Een hoog huis dat ook dienst doet als krattenopslag.
+<color=#00FFFF>Werkt als dijk</color>",361
+Lapantouflemagic.StorageHouseW.FlavorDescription,"""Gemodelleerd naar het hoogtepunt van de Hooman-architectuur: de kubus""",362
+Lapantouflemagic.BIT.DisplayName,Subaveure Normale School,366
+Lapantouflemagic.BIT.FlavorDescription,"""Volgens onze archieven gaat de traditionele naam terug naar een kikkeretende hoomanstam""
+ -Toothless the Wise, oudere bever",367
+Lapantouflemagic.triplewatertightlodgeBottom.DisplayName,Driedubbele waterdichte lodge,368
+Lapantouflemagic.triplewatertightlodgeBottom.Description,"Een groot huis voor vijf transportbevers.
+<color=#00FFFF>Werkt als dijk</color>",91
+Lapantouflemagic.triplewatertightlodgeBottom.FlavorDescription,"‘Onze bevolking raakt uit de klauwen’
+ -Dezelfde boerenbever",370
+Lapantouflemagic.DeepWaterPumpUpgrade.DisplayName,Upgrade van diepe waterpomp,371
+Lapantouflemagic.DeepWaterPumpUpgrade.FlavorDescription,"""We kunnen hier een volledige dam van maken!""
+ -Toothless the Wise, oudere bever",372
+Lapantouflemagic.waterpumpUpgrade.DisplayName,Waterpomp-upgrade,373
+Lapantouflemagic.waterpumpUpgrade.FlavorDescription,"« Als de buis maar niet zo kort was… »
+- Een waterpompbever",374
+Lapantouflemagic.DeepWaterpumpupgradewallsegment.DisplayName,Upgrade-terminalsegment voor diepe waterpompen,375
+Lapantouflemagic.DeepWaterpumpupgradewallsegment.Description,"Een waterdichte constructie om het uiteinde van een keten van diepwaterpompen af ​​te sluiten.
+<color=red>Ram de camera het gebouw in als plaatsing moeilijk is</color>.
+<color=#00FFFF>Werkt als dijk</color>",376
+Lapantouflemagic.DeepWaterpumpupgradewallsegment.FlavorDescription,"« We maken onze dammen op de juiste manier, we zijn geen wilden! »
+- De expeditieleider",377
+Lapantouflemagic.Waterpumpupgradewallsegment.DisplayName,Waterpomp upgrade terminalsegment,378
+Lapantouflemagic.Waterpumpupgradewallsegment.Description,"Een waterdichte constructie om het uiteinde van een keten van waterpompen af ​​te sluiten.
+<color=red>Ram de camera het gebouw in als plaatsing moeilijk is</color>.
+<color=#00FFFF>Werkt als dijk</color>",379
+Lapantouflemagic.Waterpumpupgradewallsegment.FlavorDescription,"« Wat als we dat gewoon bouwen zonder dat de pomp blokkeert... Nee, dat is een gek idee! »
+- Een ingenieursbever",380
+Good.ComicBooks.DisplayName,Stripboek,383
+Good.ComicBooks.PluralDisplayName,Stripboeken,384
+Lapantouflemagic.Lightgravitybattery.DisplayName,Lichte zwaartekrachtbatterij,388
+Lapantouflemagic.Lightgravitybattery.Description,Een eenvoudig te bouwen zwaartekrachtbatterij met een aantal houtblokken als gewicht.,389
+Lapantouflemagic.Lightgravitybattery.FlavorDescription,Een veel voorkomende straf voor kits is om daar een paar uur te laten bungelen.,390
+Good.Scaffolding.DisplayName,Steiger,394
+Good.Scaffolding.PluralDisplayName,Steigers,395
+Good.Balloon.DisplayName,Ballon,396
+Good.Balloon.PluralDisplayName,Ballonnen,397
+Good.Clay.DisplayName,Klei,398
+Good.Clay.PluralDisplayName,Klei,399
+Good.MeanFlower.DisplayName,Braam bloem,400
+Good.MeanFlower.PluralDisplayName,Braam bloemen,401
+Good.Cabbage2.DisplayName,Kool,402
+Good.Cabbage2.PluralDisplayName,Kool,403
+Lapantouflemagic.Brambles.FlavorDescription,Op een dag zal de wereld er volledig mee bedekt zijn.,405
+Lapantouflemagic.Cabbage.DisplayName,Kool,406
+Lapantouflemagic.Cabbage.FlavorDescription,"""Als je erin bijt, eet je het.""
+ -Oma Bever",407
+Lapantouflemagic.GiantSequoia.DisplayName,Gouden Sequoia,408
+Lapantouflemagic.GiantSequoia.FlavorDescription,Bedenk eens hoe hoog we daarmee kunnen bouwen!,409
+Good.RedGrapes.DisplayName,Druiven,410
+Good.RedGrapes.PluralDisplayName,Druiven,411
+Lapantouflemagic.grapevine.DisplayName,Wijnstok,412
+Lapantouflemagic.NewVine.FlavorDescription,"« Aaah, de beschaving komt eindelijk terug! »
+- Een gistbever",413
+Lapantouflemagic.Rice.DisplayName,Rijstveld,417
+Lapantouflemagic.Rice.FlavorDescription,Roer de modder niet.,418
+Good.Rice.DisplayName,Rijst,419
+Good.Rice.PluralDisplayName,Rijst,420
+Good.FriedRice.DisplayName,Gebakken Rijst,421
+Good.FriedRice.PluralDisplayName,Gebakken Rijst,422
+Good.ChestnutStew.DisplayName,Champignonstoofpot,423
+Good.ChestnutStew.PluralDisplayName,Champignonstoofpot,424
+Good.GreenStew.DisplayName,Plantaardige Stoofpot,425
+Good.GreenStew.PluralDisplayName,Plantaardige Stoofpot,426
+NaturalResource.PinkBirch.DisplayName,Everbloesem,428
+Good.BraisedCabbage.PluralDisplayName,Gestoofde Kool,433
+Good.BraisedCabbage.DisplayName,Gestoofde Kool,434
+Lapantouflemagic.2x2LousyWarehouse.DisplayName,Waardeloos magazijn,435
+Lapantouflemagic.2x2LousyWarehouse.Description,Een enigszins nette ruimte om hulpbronnen goed op te bergen.,436
+Lapantouflemagic.2x2LousyWarehouse.FlavorDescription,"'Heb je me daarvoor gebeld? Er is niets! Geen dak, geen muur, niets!'
+ -Een bouwbever",437
+Lapantouflemagic.LousyWarehouseS.DisplayName,Mini waardeloos magazijn,438
+Lapantouflemagic.LousyWarehouseS.Description,Een gênant vertoon van luiheid toegepast op een onwaardige taak.,439
+Lapantouflemagic.LousyWarehouseS.FlavorDescription,"‘Daar verdoe ik mijn tijd niet mee’
+ -Een bouwbever",440
+Lapantouflemagic.Cabbage2.DisplayName,Kool,441
+Lapantouflemagic.Cabbage2.FlavorDescription,"""Als je erin bijt, eet je het."" 
+-Oma Bever",442
+NaturalResource.PinkBirch.FlavorDescription,"""Wat is suikerspin? Waarom noemt iedereen ze ""suikerspinboom""?""
+ -Een boerenbever",443
+Good.Salt.DisplayName,Bergzout,445
+Good.Salt.PluralDisplayName,Bergzout,446
+Lapantouflemagic.GreenPeas.DisplayName,Groene Erwten,452
+Lapantouflemagic.GreenPeas.FlavorDescription,"""Wist je dat verse groene erwten heerlijk zijn?""
+ -Een mama-bever",453
+Lapantouflemagic.NewWaterPump.Description,"Pompt en filtert water zodat bevers kunnen drinken.
+<color=#00FFFF>Werkt als dijk</color>",454
+Good.MediumCauldron.DisplayName,Metalen ketel,456
+Good.MediumCauldron.PluralDisplayName,Metalen ketels,457
+Need.Filth.CriticalDescription,Deze bever zit onder het vuil en weigert te werken als hij niet opgeruimd kan worden.,458
+Need.Filth.CriticalDescriptionShort,Vuile bever!,459
+Good.Toys.DisplayName,Houten speelgoed,460
+Good.Toys.PluralDisplayName,Houten speelgoed,461
+Lapantouflemagic.ClayPot.DisplayName,Klei pot,462
+Lapantouflemagic.ClayPot.PluralDisplayName,Klei potten,463
+Lapantouflemagic.Filth.DisplayName,Schone vacht,464
+Lapantouflemagic.ClayPit.DisplayName,Kleiput,465
+Lapantouflemagic.ClayPit.Description,Een beschermde rivierruimte waar bevers modder kunnen roeren en klei kunnen bereiden.,466
+Lapantouflemagic.ClayPit.FlavorDescription,"""Eww! Kleverig! Walgelijk!""
+ -Een kleigraverbever",467
+Lapantouflemagic.Foundry.DisplayName,Gieterij op hoge temperatuur,468
+Lapantouflemagic.Foundry.FlavorDescription,"""Alles kan brandbaar afval zijn, als je maar hard genoeg probeert.""
+ -De gieterij-opziener",469
+Lapantouflemagic.RiverBath.DisplayName,Rivierbad,470
+Lapantouflemagic.RiverBath.Description,Een gemeenschappelijke ruimte waar veel bevers elkaar kunnen ontmoeten en zich kunnen wassen na een lange werkdag.,471
+Lapantouflemagic.RiverBath.FlavorDescription,"""Ik wil de roze emmer!"" ""Nee, het is van mij, ik gebruik het altijd""
+ -Typisch kitgekibbel",472
+Lapantouflemagic.Florist.DisplayName,Bloemist,475
+Lapantouflemagic.Florist.Description,"Een klein huis dat een buitensporige hoeveelheid materiaal monopoliseert, uitsluitend om één bever van zijn hobby te laten genieten.
+Zou je kolonie kunnen redden als je dwaas al je bessen kwijtraakt of er op de een of andere manier in slaagt braamstruiken uit te roeien.
+Het terras moet <color=yellow>bovengronds.</color> zijn
+<color=#00FFFF>Werkt als dijk</color>",476
+Lapantouflemagic.Florist.FlavorDescription,"""Kijk, paardenbloemen en bessen houden van een heel speciaal soort grond, heel moeilijk te reproduceren. Daarom kunnen we ze niet planten waar we maar willen.""
+ -Een bloemenbever",477
+Lapantouflemagic.Overhang.DisplayName,Overhangende loopbrug,478
+Lapantouflemagic.Overhang.FlavorDescription,"""Ik heb geen hoogtevrees!""
+ -Bobby de dwaas",479
+Lapantouflemagic.CornerOverhang.DisplayName,Hoekoverhang loopbrug,480
+Lapantouflemagic.RPG.PluralDisplayName,Rollenspellen,484
+Lapantouflemagic.FarmUpgradeA.DisplayName,Boerderijupgrade - Bouwerskantoor,485
+Lapantouflemagic.FarmUpgradeA.FlavorDescription,"""Thuiswerken kan zeker handig zijn, maar als je eenmaal overal kits hebt rondslingeren, is een apart kantoor veel beter""
+ -Een bouwbever",487
+Lapantouflemagic.FarmUpgradeB.DisplayName,Boerderijupgrade - Magazijn voor transporteurs,488
+Lapantouflemagic.FarmUpgradeB.FlavorDescription,"""Waarom moet ik opschrijven hoeveel kolen we hebben? Cijfers zijn moeilijk!""
+ -Bobby de dwaas, over het concept van ''inventaris''.",490
+Lapantouflemagic.FarmUpgradeC.DisplayName,Boerderij-upgrade - Nerdy Zolder,491
+Lapantouflemagic.FarmUpgradeC.FlavorDescription,"""Terwijl de zware deur achter je dichtslaat en je ogen langzaam wennen aan het donker, kun je eindelijk het gezicht zien van het meesterbrein dat de wereld bedreigt... Met haar machtige pollepel van verdoemenis in de hand grijnst Mathilda en zegt: ""Wil je stoofpot ZIJN?""
+Slaag nu voor een terreurcontrole of neem 2d6 schade! """,493
+Lapantouflemagic.FarmUpgradeD.DisplayName,Boerderijupgrade - Assistent-boeren,496
+Lapantouflemagic.FarmUpgradeD.FlavorDescription,"'We moeten erover nadenken om voor dit alles meer machines te gebruiken. Met klein werk komen we maar zo ver.'
+ -Een ingenieursbever",497
+Lapantouflemagic.GathererHouse.DisplayName,Het oogstbureau,498
+Lapantouflemagic.GathererHouse.Description,"Een middelgroot huis voor een groep verzamelaarbevers om elkaar te ontmoeten en het werk efficiënt te verdelen.
+<color=#00FFFF>Werkt als dijk</color>",499
+Lapantouflemagic.GathererHouse.FlavorDescription,"'Waag het niet om mijn huis binnen te komen, bedekt met vuil en bessensap! Ga eerst douchen, anders gooi ik je zelf in de rivier!'
+ -Mama Bever, elke avond.",500
+Lapantouflemagic.LumberjackHouse.DisplayName,Woodfelling Planificatie Lodge,501
+Lapantouflemagic.LumberjackHouse.Description,"Een grote lodge die ook dienst doet als werkcentrum voor een groep houthakkers, waarbij een goede planning hun doeltreffendheid vergroot.
+<color=#00FFFF>Werkt als dijk</color>",502
+Lapantouflemagic.LumberjackHouse.FlavorDescription,"""Mijn vader is de sterkste! Hij kan een hele sequoia op zijn rug dragen!""
+ -Typische kitopscheppen",503
+Lapantouflemagic.PassthroughHouse.DisplayName,Doorgangsloge,504
+Lapantouflemagic.PassthroughHouse.Description,"Een iets vergrote lodge met een ingewikkeld waterslotsysteem waardoor bevers gemakkelijk toegang kunnen krijgen tot de andere kant van de dam.
+Bevat <color=green>één transporteur</color> en zijn gezin.
+<color=#00FFFF>Werkt als dijk</color>",505
+Lapantouflemagic.PassthroughHouse.FlavorDescription,"""Je zou toch denken dat dit huis extra ruimte heeft? Nou nee, het waterslotmechanisme is enorm en luidruchtig. Gelukkig maakt bijna niemand er 's nachts gebruik van.""",506
+Lapantouflemagic.TappersFlag.DisplayName,Tappers vlag,507
+Lapantouflemagic.TappersFlag.Description,Oogst dennenhars en andere essenties van sommige bomen.,508
+Lapantouflemagic.TappersFlag.FlavorDescription,"""Het lijkt vrij eenvoudig, maar het vergt enige techniek om je vacht niet vol te krijgen met dit plakkerige ding""",509
+Lapantouflemagic.MechanizedSeaweedfarm.DisplayName,Clockwork hydrocultuurboerderijen,514
+Lapantouflemagic.MechanizedSeaweedfarm.Description,"Een complex apparaat dat mechanische kracht op meesterlijke wijze omzet in smakelijk eten. 
+Verbruikt hout voor onderhoud.",519
+Lapantouflemagic.MechanizedSeaweedfarm.FlavorDescription,"""De eerste regel van bevertechniek is om niet te goed naar het mechanisme te kijken""
+ -Opa Bever, over wat er met zijn snorharen is gebeurd.",520
+Lapantouflemagic.NEWPaperMill.Description,"Een gemechaniseerde papierfabriek.
+Af en toe breekt er een tandwiel.
+<color=#00FFFF>Werkt als dijk</color>",521
+Lapantouflemagic.MechanicalDrill.DisplayName,Mechanische boor,525
+Lapantouflemagic.IronMechanicalDrill.DisplayName,Mechanische boor (ijzererts),526
+Lapantouflemagic.MechanicalDrillBlueprint.Fancy.DisplayName,Mechanische boor Fancy blauwdruk,527
+Lapantouflemagic.MechanicalDrillBlueprint.Fancy.PluralDisplayName,Mechanische boor Fancy blauwdrukken,528
+Lapantouflemagic.MechanicalDrillBlueprint.DisplayName,Mechanische boorblauwdruk,529
+Lapantouflemagic.MechanicalDrillBlueprint.PluralDisplayName,Mechanische boorblauwdrukken,530
+Lapantouflemagic.IronMechanicalDrill.Description,"Een gemechaniseerde boor die steen verplettert om ijzererts te winnen.
+De boren moeten regelmatig worden vervangen.
+<color=red>Het verwijderen van afvalsteen is vals spelen!</color>",531
+Lapantouflemagic.IronMechanicalDrill.FlavorDescription,"""Het is gek hoe je dagenlang op dezelfde plek kunt blijven boren en toch meer kunt vinden!""
+ -Mama bever",532
+Lapantouflemagic.CoalMechanicalDrill.DisplayName,Mechanische boor (kolen),533
+Lapantouflemagic.CoalMechanicalDrill.Description,"Een gemechaniseerde boormachine die steen verplettert om steenkool te winnen.
+De boren moeten regelmatig worden vervangen.
+<color=red>Het verwijderen van afvalsteen is vals spelen!</color>",534
+Lapantouflemagic.CoalMechanicalDrill.FlavorDescription,"""Als je de boor te snel laat draaien, kan de steenkool ontbranden en de berg KABOOM!""
+ -Een slechte alchemistische bever",535
+Good.Drillbits.DisplayName,Boor,541
+Good.Drillbits.PluralDisplayName,Boren,542
+Lapantouflemagic.Factory.DisplayName,Werkplaats,543
+Lapantouflemagic.Factory.FlavorDescription,"""Als je een aambeeld nodig hebt om andere aambeelden te maken, waar komt dan het eerste aambeeld vandaan?""
+ -Armok, metaalbewerkerbever",544
+Good.Quartz.DisplayName,Kwarts,546
+Good.Quartz.PluralDisplayName,Kwarts,547
+Good.Kimchi.DisplayName,Kimchi,550
+Good.Kimchi.PluralDisplayName,Kimchi,551
+Good.RedSoda.DisplayName,Pittige frisdrank,552
+Good.RedSoda.PluralDisplayName,Pittige frisdranken,553
+Lapantouflemagic.Brewery.DisplayName,Brouwerij,554
+Lapantouflemagic.Brewery.Description,"Een grote huisset waarmee brouwers eenvoudig een groot aantal gistingsvaten kunnen beheren.
+<color=#00FFFF>Werkt als dijk</color>",555
+Lapantouflemagic.Brewery.FlavorDescription,"""Paddenstoelensap is het slechtst smakende wat je maar kunt bedenken, en toch maakt het toevoegen van het aan sommige bereidingen alles beter. We zouden dit ooit moeten bestuderen""
+ -Een wetenschappelijke bever",556
+Lapantouflemagic.Winery.DisplayName,Wijnkelder,564
+Lapantouflemagic.Winery.FlavorDescription,"'Nee Bobby, jij bent erin gevallen toen je nog klein was, weet je nog?'",566
+NaturalResource.Waterbamboo.DisplayName,Ongelooflijk hoge bamboe,569
+NaturalResource.Waterbamboo.FlavorDescription,"""Als je lang genoeg wacht, kun je erop klimmen om de maan te bereiken!""",570
+Blueprint.ENSGreen.DisplayName,Ens architectonische blauwdruk,571
+Blueprint.ENSGreen.PluralDisplayName,Ens architectonische blauwdrukken,572
+Blueprint.ENSGreen.Fancy.DisplayName,Ens Fancy architectonische blauwdruk,573
+Blueprint.ENSGreen.Fancy.PluralDisplayName,Ens Fancy architectonische blauwdrukken,574
+Blueprint.ENSBlue.DisplayName,Ens mechanische blauwdruk,575
+Blueprint.ENSBlue.PluralDisplayName,Ens mechanische blauwdrukken,576
+Blueprint.ENSBlue.Fancy.DisplayName,Ens Fancy Mechanische Blauwdruk,577
+Blueprint.ENSBlue.Fancy.PluralDisplayName,Ens Fancy mechanische blauwdrukken,578
+Lapantouflemagic.BachelorInMycology.DisplayName,Bachelor in de agronomie,579
+Lapantouflemagic.BachelorInMycology.PluralDisplayName,Bachelor in Agronomie,580
+Lapantouflemagic.TreeNursery.DisplayName,Boomkwekerij,584
+Lapantouflemagic.TreeNursery.FlavorDescription,"« Wist je dat paarse stoofpot een geweldige meststof is? »
+- Een boomkwekerijwerker",585
+Lapantouflemagic.MechanizedCabbagefarm.DisplayName,"Uurwerk hydrocultuur
+Koolboerderij",586
+Lapantouflemagic.MechanizedSunflowerfarm.DisplayName,"Uurwerk hydrocultuur
+Zonnebloem boerderij",587
+Lapantouflemagic.MechanizedGreenPeasfarm.DisplayName,"Uurwerk hydrocultuur
+Groene Erwtenboerderij",588
+Reciepe.ChestnutBeerBarrel.DisplayName,Kastanjebier,589
+Good.ChestnutBeer.DisplayName,Kastanjebier,590
+Good.ChestnutBeer.PluralDisplayName,Kastanjebier,591
+Good.Wine.DisplayName,Wijn,592
+Good.Wine.PluralDisplayName,Wijn,593
+Good.GrapeJuice.DisplayName,Druivensap,599
+Good.GrapeJuice.PluralDisplayName,Druivensap,600
+Building.GiantLogStorage.DisplayName,Gigantische houtopslag,601
+Building.GiantLogStorage.Description,Bewaart gigantische boomstammen van gouden sequoia's.,602
+Building.GiantLogStorage.FlavorDescription,'Hoe heeft hij dat allemaal deze hele weg kunnen dragen?',603
+Good.GiantLog.DisplayName,Gigantisch logboek,604
+Good.GiantLog.PluralDisplayName,Gigantische boomstammen,605
+Building.GiantLogFeller.DisplayName,Gouden Sequoia Feller,606
+Building.GiantLogFeller.Description,Snijdt gigantische sequoia's af en slaat een paar reuzenblokken op.,607
+Building.GiantLogFeller.FlavorDescription,"""Ik denk dat als het op mijn gezicht valt, ik me geen zorgen hoef te maken over de smaak van het ziekenhuisvoedsel""",608
+Lapantouflemagic.StoragePiles.DisplayName,Opslagstapels,609
+Lapantouflemagic.BoxStorage.DisplayName,Magazijnen,610
+Lapantouflemagic.LiquidStorage.DisplayName,Tanks,611
+Good.WasteRock.DisplayName,Afvalsteen,612
+Good.WasteRock.PluralDisplayName,Afvalstenen,613
+Lapantouflemagic.Trebuchet.DisplayName,Trebuchet,614
+Lapantouflemagic.Trebuchet.FlavorDescription,Wie heeft er geen goede oude trebuchet nodig?,615
+Need.Trebuchetdeath.DisplayName,Trebuchet-dood,616
+Good.Grapes.DisplayName,Druiven,620
+Good.Iceblock.DisplayName,IJsblok,622
+Good.Iceblock.PluralDisplayName,IJsblokken,623
+Good.FrozenHumanMeat.DisplayName,Bevroren Hooman-vlees,626
+Good.FrozenHumanMeat.PluralDisplayName,Bevroren Hooman-vlees,627
+Lapantouflemagic.VillageJobs.DisplayName,Dorpsbanen,632
+Lapantouflemagic.MasterInMetallurgy.DisplayName,Meester in de metallurgie,637
+Lapantouflemagic.MasterInMetallurgy.PluralDisplayName,Master in metallurgie,638
+Lapantouflemagic.NursingLicense.DisplayName,Verpleegkundige licentie,639
+Lapantouflemagic.NursingLicense.PluralDisplayName,Verpleegkundige licenties,640
+Good.GlassPane.DisplayName,Glazen ruit,641
+Good.GlassPane.PluralDisplayName,Glazen ruiten,642
+Good.FriedPumpkinChips.DisplayName,Pompoenchips,643
+Good.FriedPumpkinChips.PluralDisplayName,Pompoenchips,644
+Lapantouflemagic.Clinic.DisplayName,Kliniek,652
+Lapantouflemagic.Clinic.Description,"Een groot huis waar een inwonende verpleegster de gewonde bevers verzorgt.
+Behandelt goedaardige aandoeningen met tweemaal de werkzaamheid van een medisch bed.
+Kan ook geavanceerde medicijnen produceren om ernstige aandoeningen te behandelen.
+<color=#00FFFF>Werkt als dijk</color>",653
+Lapantouflemagic.Clinic.FlavorDescription,Iedereen houdt van een schattige verpleegster.,654
+Billboard.Newsboard.DisplayName,Nieuwsbord,655
+Billboard.Newsboard.Description,"Een groot reclamebord met informatie over de laatste update.
+Kan boven kolen worden geplaatst.",656
+Lapantouflemagic.UndergroundColdStorage.DisplayName,Ondergrondse koudeopslag,659
+Lapantouflemagic.UndergroundColdStorage.Description,Een diepe opslagfaciliteit die de grond zelf gebruikt als thermische isolatie.,660
+Lapantouflemagic.UndergroundColdStorage.FlavorDescription,"""De beste plek om ijs, ijs of lijken te bewaren! ... Waarom kijk je me zo aan? JIJ hebt dit walgelijke spul teruggebracht!""
+ - Jack de knaagdier",661
+Lapantouflemagic.MinorInjury.DisplayName,Licht letsel,662
+Lapantouflemagic.SevereInjury.DisplayName,Ernstig letsel,663
+Lapantouflemagic.SevereInjury.CriticalDescription,"Deze bever is zwaar gewond, dit zal niet genezen zonder de juiste behandeling.",664
+Lapantouflemagic.SevereInjury.CriticalDescriptionShort,Ernstig letsel!,665
+Lapantouflemagic.MinorBurns.DisplayName,Kleine brandwond,666
+Lapantouflemagic.MinorBurns.CriticalDescription,Deze bever is verbrand en moet gaan rusten.,667
+Lapantouflemagic.MinorBurns.CriticalDescriptionShort,Kleine brandwond!,668
+Lapantouflemagic.MinorBurns.DeathMessage,color=green>vloog in brand en stierf door extreme onzorgvuldigheid. Het blijkt dat harige wezens behoorlijk brandbaar zijn.</color>,669
+Lapantouflemagic.MajorBurns.DisplayName,Grote brandwonden,670
+Lapantouflemagic.MajorBurns.CriticalDescription,"Deze bever heeft ernstige brandwonden opgelopen tijdens zijn werk, dit zal zonder behandeling niet genezen.",671
+Lapantouflemagic.MajorBurns.CriticalDescriptionShort,Grote brandwond!,672
+Lapantouflemagic.MajorBurns.DeathMessage,"<color=green>viel in een plas gesmolten materiaal en riep ""Mijn preeeciouuuus"". Het deed de laatste tijd heel vreemd.</color>",673
+Lapantouflemagic.MildDisease.DisplayName,Milde ziekte,674
+Lapantouflemagic.MildDisease.CriticalDescription,Deze bever is ziek en moet gaan rusten.,675
+Lapantouflemagic.MildDisease.CriticalDescriptionShort,Milde ziekte,676
+Lapantouflemagic.MildDisease.DeathMessage,De toestand van <color=green> verslechterde plotseling en is nu vrij van lijden. Laten we hopen dat het niet besmettelijk was.</color>,677
+Lapantouflemagic.SevereDisease.DisplayName,Ernstige ziekte,678
+Lapantouflemagic.SevereDisease.CriticalDescription,"Deze bever heeft iets vervelends opgelopen, dit geneest niet zonder behandeling.",679
+Lapantouflemagic.SevereDisease.CriticalDescriptionShort,Ernstige ziekte!,680
+Lapantouflemagic.SevereDisease.DeathMessage,<color=green>contracteerde wat alleen kan worden omschreven als ''alles''. Artsen namen de moeilijke beslissing om hem te laten inslapen nadat er een derde hoofdje begon te groeien.</color>,681
+Lapantouflemagic.Maimed.DisplayName,Verminkt,682
+Lapantouflemagic.Maimed.CriticalDescription,Deze arme bever verloor een ledemaat tijdens een gevaarlijke klus! Het heeft een prothese nodig zodat het weer een normaal leven kan leiden.,683
+Lapantouflemagic.Maimed.CriticalDescriptionShort,Verminkte bever!,684
+Lapantouflemagic.FancyStorage.DisplayName,Glorieuze opslag,686
+Lapantouflemagic.FancyStorage.Description,Bewaart waardevolle kernartikelen en toont ze op een prachtig kussen.,687
+Lapantouflemagic.FancyStorage.FlavorDescription,Zeker de beste manier om een ​​unieke en vitale set glaswerk te bewaren.,688
+Good.Tools.DisplayName,Hulpmiddel,689
+Good.Tools.PluralDisplayName,Hulpmiddelen,690
+Lapantouflemagic.Megaplatform.DisplayName,Megaplatform,696
+Lapantouflemagic.Megaplatform.FlavorDescription,"""Dus moeten we de lichten bijvullen als de speler niet kijkt...
+ - Shhht! Dat is een geheim!""
+ -Twee anonieme bevers",697
+Lapantouflemagic.Verydeep_mine_elevator.DisplayName,Lift naar de afgrond,698
+Lapantouflemagic.Verydeep_mine_elevator.FlavorDescription,"""Kom op! Houd op je als een kit te gedragen! Gevaar? Welk gevaar? Ik lach om het gevaar! Ah-Ah-Ah-Arghbllglblbglbl""
+ -Ruïneverkenningsteam Nb 3, laatste woorden van teamleider.",699
+Lapantouflemagic.NarrowLodge.DisplayName,Lange en smalle loge,700
+Lapantouflemagic.NarrowLodge.Description,"Een hoge en smalle lodge voor één transporteur.
+Handig om smalle hoeken af ​​te dammen.
+<color=#00FFFF>Werkt als dijk</color>",701
+Lapantouflemagic.NarrowLodge.FlavorDescription,"""Ugh, wie dacht dat dit leefbaar zou zijn? Dit moet het werk van een architect zijn!""
+ -Een ingenieursbever",702
+Lapantouflemagic.MechanizedRicefarm.DisplayName,"Uurwerk hydrocultuur
+Rijstboerderij",703
+Lapantouflemagic.WPBeaverStatue.FlavorDescription.Folktails,"""Absoluut het beste gebruik van de beperkte middelen...""
+ -De expeditieleider.",712
+Good.MintyBambooShoot.DisplayName,Muntachtige bamboescheut,716
+Good.MintyBambooShoot.PluralDisplayName,Muntachtige bamboescheuten,717
+Lapantouflemagic.Deprecated.DisplayName,<color=red>Verouderde entiteit!</color>,718
+Lapantouflemagic.Deprecated.Description,"<color=red>Dit ding is verouderd en mist een aantal nieuwe functionaliteiten!
+Vervang hem door een nieuwe als je de kans krijgt.</color>",719
+Lapantouflemagic.Deprecated.FlavorDescription,"<color=red>Dit gebouw is verouderd en mist een aantal nieuwe functionaliteiten!
+Vervang hem door een nieuwe als je de kans krijgt.</color>",720
+Lapantouflemagic.BetterMedicine.DisplayName,Medische balsem,735
+Lapantouflemagic.BetterMedicine.PluralDisplayName,Medische balsems,736
+Lapantouflemagic.WaterCannon.DisplayName,Waterkanon,737
+Lapantouflemagic.WaterCannon.FlavorDescription,"""Ik vraag me af of ik in de loop kan komen, net voordat hij begint te schieten...""
+ -Nog een gekke bever",738
+Good.SiliconMetal.DisplayName,Siliciummetaalstaaf,739
+Good.SiliconMetal.PluralDisplayName,Siliciummetaalstaven,740
+Lapantouflemagic.SolarArray.DisplayName,Zonne-array,741
+Lapantouflemagic.SolarArray.Description,"Vangt zonlicht op en verandert het in een raar ‘elektriciteitsding’ volgens oude hooman-teksten. Houd het beter in de gaten, en een ander oog op waar je stapt.",742
+Lapantouflemagic.SolarArray.FlavorDescription,"""Eh, het leuke is om in de zomer plakjes pompoen op de hete oppervlakken te koken""
+- de array die toezicht houdt op de bever",743
+Lapantouflemagic.Unplantable.,Onplantbaar,744
+Reciepe.GoldPanning.DisplayName,Goudpannen,745
+Good.GoldDust.DisplayName,Goudklompje,746
+Good.GoldDust.PluralDisplayName,Goudklompjes,747
+Good.GoldBar.DisplayName,Gouden staaf,748
+Good.GoldBar.PluralDisplayName,Goudstaven,749
+Good.SurgeryKits.DisplayName,Chirurgiekit,750
+Good.SurgeryKits.PluralDisplayName,Chirurgiesets,751
+Good.AntibioticsAndDisinfectant.DisplayName,Antibiotica,752
+Good.AntibioticsAndDisinfectant.PluralDisplayName,Antibiotica,753
+Good.FrostBalm.DisplayName,Vorstbalsem,754
+Good.FrostBalm.PluralDisplayName,Vorstbalsems,755
+Lapantouflemagic.TankShower.DisplayName,Tankdouche,756
+Lapantouflemagic.TankShower.Description,"Een douche die zijn water uit een opslagvat haalt.
+Vooral handig voor de losgeslagen gekken die het niet kunnen laten om in de harde modus te spelen.
+Biedt plaats aan 2 bevers.",757
+Lapantouflemagic.TankShower.FlavorDescription,Waarom doe je dit jezelf aan?,758
+Lapantouflemagic.HoomanRuins.DisplayName,Hooman ruïnes-tour,759
+Lapantouflemagic.NEWForester.Description,"Plant basisbomen.
+<color=#FFA500>Kleine toren</color>, <color=#FF6EC7>Kan upgrades ondersteunen</color>
+<color=#00FFFF>Werkt als dijk</color>",760
+Lapantouflemagic.Handicrafter.Description,"Een herenhuis waar gefabriceerde artikelen worden gemaakt.
+<color=#00FFFF>Werkt als dijk</color>",762
+Lapantouflemagic.IrrigationTower.Description,"Irrigeert het land rondom door water te consumeren.
+<color=green>Het waterverbruik is nauwelijks hoger dan een waterstortplaats.</color>
+<color=#00FFFF>Werkt als dijk</color>",764
+Lapantouflemagic.Smallcookhouse.Description,"Een middelgrote lodge met een heerlijk terras waar bevers een fris drankje kunnen halen.
+Het terras moet <color=yellow>bovengronds.</color> zijn
+<color=#00FFFF>Werkt als dijk</color>",765
+Lapantouflemagic.KitchenHouse.Description,"Een groot huis uitgerust met een gemechaniseerde keuken om veel bevers te voeden.
+<color=#00FFFF>Werkt als dijk</color>",766
+Lapantouflemagic.waterpumpUpgrade.Description,"Een upgrademodule die tussen twee aangrenzende waterpompen kan worden geplaatst.
+<color=#00FFFF>Werkt als dijk</color>
+<color=green>Plaatsing is gevoelig voor cameraoriëntatie!</color>",768
+Lapantouflemagic.DeepWaterPumpUpgrade.Description,"Een upgrademodule die tussen twee aangrenzende diepwaterpompen kan worden geplaatst.
+<color=#00FFFF>Werkt als dijk</color>
+<color=green>Plaatsing is gevoelig voor cameraoriëntatie!</color>",769
+Good.HoomanRelic.DisplayName,Hooman-relikwie,770
+Good.HoomanRelic.PluralDisplayName,Hooman-relikwieën,771
+Good.NuclearWaste.DisplayName,A,772
+Good.NuclearWaste.PluralDisplayName,Kernafval,773
+Lapantouflemagic.AdvancedSawmill.DisplayName,Geavanceerde zagerij,774
+Lapantouflemagic.AdvancedSawmill.Description,"Een enorm gebouw dat op zichzelf een hele rivier zou kunnen afdammen.
+Snijdt gigantische boomstammen in verschillende producten.
+<color=#00FFFF>Werkt als dijk</color>",775
+Lapantouflemagic.AdvancedSawmill.FlavorDescription,"‘Ik ben pas tevreden als ik de wereld in tweeën heb gedeeld’
+ - Een mechanische bever",776
+Good.GiantHalfLog.DisplayName,Gigantische halve boomstam,777
+Good.GiantHalfLog.PluralDisplayName,Gigantische halve boomstammen,778
+Lapantouflemagic.Verydeep_mine_elevator.Description,"Hiermee kunnen bevers de ruïnes ingaan en een oude hooman-faciliteit verkennen.
+Echt het avontuur van je leven. Welke duistere geheimen zullen we daar beneden vinden?",783
+Lapantouflemagic.WarmStorage.DisplayName,Warme opbergpot,784
+Lapantouflemagic.WarmStorage.Description,"Een gigantische pot bedoeld om op het vuur te worden geplaatst om voedsel warm te houden.
+<color=green>Plaatsing is gevoelig voor cameraoriëntatie!</color>",785
+Lapantouflemagic.WarmStorage.FlavorDescription,"""Maar... hoe...? Dit ding is groter dan een huis!
+ -Een architectenbever",786
+Lapantouflemagic.WarmStorageBase.Description,Een houtverbruikende opslagstructuur bedoeld om een ​​grote hoeveelheid gekookt voedsel vast te houden en warm te houden.,789
+Lapantouflemagic.WarmStorageBase.FlavorDescription,"""Blijkbaar zeiden de hoomans altijd dat elk goed spel een gebouw in de vorm van een poot nodig heeft. Maar waarom hebben we besloten dat in het echt te bouwen?""
+ -Mathilda, dagen vóór de waanzin.",790
+Lapantouflemagic.ContaminatedJail.DisplayName,Vervuilde Bevergevangenis,791
+Lapantouflemagic.ContaminatedJail.FlavorDescription,"""Een gevangenis voor bevers geheel van hout maken lijkt een dwaas idee, maar ze zijn gewoon te beleefd om te ontsnappen""",793
+Lapantouflemagic.Topentrancewatertightlodge_BoxStorage.DisplayName,Pit & Ladder Lodge (trekker + kistenopslag),794
+Lapantouflemagic.Topentrancewatertightlodge_BoxStorage.Description,"Een middelgrote lodge voor één transporteur, gebouwd rond een ladder.
+Beheert een opbergruimte voor een doos.
+Kan op zichzelf worden gestapeld, varianten, en kan geselecteerde gebouwen dragen.
+<color=#00FFFF>Werkt als dijk</color>",795
+Lapantouflemagic.Topentrancewatertightlodge_BoxStorage.FlavorDescription,"""Als je de hele toren groen verft en vanaf de bovenkant de ladder afdaalt, kom je terecht in een vreemde wereld vol wandelende paddenstoelen en vliegende schildpadden!""
+ - Mathilda de krankzinnige kok",796
+Lapantouflemagic.Topentrancewatertightlodge_LiquidStorage.DisplayName,Pit & Ladder Lodge (transportwagen + vloeistofopslag),797
+Lapantouflemagic.Topentrancewatertightlodge_LiquidStorage.Description,"Een middelgrote lodge voor één transporteur, gebouwd rond een ladder.
+Beheert een tank met vloeistofopslag.
+Kan op zichzelf worden gestapeld, varianten, en kan geselecteerde gebouwen dragen.
+<color=#00FFFF>Werkt als dijk</color>",798
+Lapantouflemagic.Topentrancewatertightlodge_LiquidStorage.FlavorDescription,"""Architecten moeten ernstige beperkingen hebben gehad om dit ding te accepteren om het eenvoudig en functioneel te maken.""
+ -Een ingenieursbever",799
+Lapantouflemagic.Topentrancewatertightlodge.DisplayName,Pit & Ladder Lodge (trekkers met zijdeur),800
+Lapantouflemagic.Topentrancewatertightlodge.Description,"Een middelgrote lodge voor twee transporteurs, gebouwd rond een ladder.
+Kan op zichzelf worden gestapeld, varianten, en kan geselecteerde gebouwen dragen.
+<color=#00FFFF>Werkt als dijk</color>",801
+Lapantouflemagic.Topentrancewatertightlodge.FlavorDescription,"""Dankzij de nieuwste ontwikkeling op het gebied van emmertechnologie komt er niet eens water in de centrale put!""
+ -CEO van BeavX Technologies",802
+Lapantouflemagic.Topentrancewatertightlodge_segment.DisplayName,Pit & Ladder Lodge (Haulers Tower-segment),803
+Lapantouflemagic.Topentrancewatertightlodge_segment.Description,"Een middelgrote lodge voor twee transporteurs, gebouwd rond een ladder.
+Kan op zichzelf worden gestapeld, varianten, en kan geselecteerde gebouwen dragen.
+<color=#00FFFF>Werkt als dijk</color>",804
+Lapantouflemagic.Topentrancewatertightlodge_segment.FlavorDescription,"""Ik vraag me af hoe hoog we daarmee kunnen gaan...""
+ -Een houthakkersbever",805
+Lapantouflemagic.BadwaterPump.Description,"Een geheel mechanisch vuilwatergemaal.
+De propeller moet ondergedompeld worden.
+<color=#00FFFF>Werkt als dijk</color>",808
+Lapantouflemagic.BadwaterPump.FlavorDescription,"'De modmaker is een sadistische maniak? Wat is een 'modmaker'? Waar heb je het over? Heb je dat spul gedronken?'
+ -Een bezorgde verpleegsterbever",809
+Need.Injury.DeathMessage,<color=green>Sprotch! Niemand mag dit bericht</color> ooit zien,810
+Billboard.TechTreeBoard.DisplayName,Tech Boombord,812
+Billboard.TechTreeBoard.Description,"Een reclamebord dat de technologische vooruitgang van de WhitePaws-factie weergeeft.
+Handig om te weten als je iets probeert te bouwen dat buiten bereik ligt.
+Geeft ook weer wat waar gemaakt is.",813
+Good.CerealBar.DisplayName,Graanreep,815
+Good.CerealBar.PluralDisplayName,Graanrepen,816
+Lapantouflemagic.SAquiferPumpBlueprint.Fancy.DisplayName,Aquifer Pomp Fancy Blauwdruk,825
+Lapantouflemagic.SAquiferPumpBlueprint.Fancy.PluralDisplayName,Aquifer Pomp Fancy Blauwdrukken,826
+Lapantouflemagic.SAquiferPumpBlueprint.DisplayName,Aquiferpompblauwdruk,827
+Lapantouflemagic.SAquiferPumpBlueprint.PluralDisplayName,Aquifer-pompblauwdrukken,828
+Lapantouflemagic.TameBrambles.DisplayName,Gedomesticeerde braamstruiken,833
+Lapantouflemagic.TameBrambles.FlavorDescription,'Wat zou het beverkind niet doen als het het leven wat leuker zou maken?',834
+Lapantouflemagic.Brambles.DisplayName,Wilde braamstruiken,835
+Lapantouflemagic.Handicrafter.Toggle,Ambachtsman,837
+Lapantouflemagic.PitandLadder.Group,Pit- en ladderlodges,840
+Lapantouflemagic.Topentrancewatertightlodge_Builders.DisplayName,Pit & Ladder Lodge (Bouwers met zijdeur),841
+Lapantouflemagic.Topentrancewatertightlodge_Builders.Description,"Een middelgrote waterdichte lodge gebouwd rond een ladder, met een toegangsdeur aan de zijkant.
+Kan op zichzelf worden gestapeld, varianten, en kan geselecteerde gebouwen dragen.
+Gebruikt <color=green>drie bouwers</color>.
+<color=#00FFFF>Werkt als dijk</color>",842
+Lapantouflemagic.Topentrancewatertightlodge_Builders.FlavorDescription,"'Zo'n opbouw is zeker handig, maar doen wij niet dezelfde dingen als de hoomans?'
+ -Een bezorgde timmermansbever",843
+Lapantouflemagic.Topentrancewatertightlodge_BuildersDoorless.Description,"Een middelgrote waterdichte lodge gebouwd rond een ladder, maar om esthetische redenen zonder zijdeur.
+Kan op zichzelf worden gestapeld, varianten, en kan geselecteerde gebouwen dragen.
+Gebruikt <color=green>drie bouwers</color>.
+<color=#00FFFF>Werkt als dijk</color>",844
+Lapantouflemagic.Topentrancewatertightlodge_BuildersDoorless.DisplayName,Pit & Ladder Lodge (Builders Tower-segment),845
+Lapantouflemagic.WashingMachine.DisplayName,Bever wasmachine,846
+Lapantouflemagic.WashingMachine.Description,"Een bizar apparaat bedoeld om bevers te wassen en te ontsmetten met behulp van mechanische kracht.
+De helft van het effect is feitelijk te wijten aan het zuiveren van de magen van de bever.",847
+Lapantouflemagic.WashingMachine.FlavorDescription,"""Bleeaaaaaaaaag!""
+ -Elke bever tijdens een rit",848
+Good.MechanicalWaterpumpBlueprint.DisplayName,Bever wasmachine blauwdruk,849
+Good.MechanicalWaterpumpBlueprint.PluralDisplayName,Bever wasmachine blauwdrukken,850
+Good.MechanicalWaterpumpFancyBlueprint.DisplayName,Beaver wasmachine Fancy blauwdruk,851
+Good.MechanicalWaterpumpFancyBlueprint.PluralDisplayName,Beaver wasmachine mooie blauwdrukken,853
+Lapantouflemagic.CrappyIrrigationTower.DisplayName,Waardeloos klein bad,854
+Lapantouflemagic.CrappyIrrigationTower.Description,"Een waardeloos bad gebouwd met houtblokken, opzettelijk lek gemaakt om het vuile water voor irrigatie te gebruiken.
+Vooral handig voor de losgeslagen gekken die het niet kunnen laten om dit in de harde modus te spelen, ondanks dat hen is verteld dat niet te doen.",855
+Lapantouflemagic.CrappyIrrigationTower.FlavorDescription,"""We moeten een goede dam laten bouwen, want dit zal niet standhouden""
+ -Een boerenbever",856
+Lapantouflemagic.MedicalTreatment.DisplayName,Medische behandeling,857
+Lapantouflemagic.MedicalTreatment.CriticalDescription,Deze bever kreeg zijn dagelijkse verzorging.,858
+Lapantouflemagic.TerrainBlock.Description,Een kunstmatig terreinblok gebouwd door bevers als een handige manier om overtollig vuil te verwijderen dat wordt gegenereerd door de <color=red>mechanische boormachine</color>,859
+Lapantouflemagic.Overhang.Description,"Een klein platform dat aan een muur wordt bevestigd om een ​​loopbrug te vormen.
+<color=green>Kan worden bevestigd aan de zijkanten van kliffen en de meeste stapelbare gebouwen</color>
+<color=red>Meerdere zijplatforms of bruggen kunnen niet dezelfde ondersteuning delen</color>",860
+Good.BrainSalts.DisplayName,Hersenversterkende zouten,862
+Good.BrainSalts.PluralDisplayName,Hersenversterkende zouten,863
+Good.BadShrooms.DisplayName,Hersenstimulerende Paddestoel,864
+Good.BadShrooms.PluralDisplayName,Hersenstimulerende paddenstoelen,865
+Good.Amazake.DisplayName,Halfgefermenteerde Sake,866
+Good.Amazake.PluralDisplayName,Halfgefermenteerde Sake,867
+Good.ChemistrySet.DisplayName,Laboratoriumglaswerk,869
+Good.ChemistrySet.PluralDisplayName,Laboratoriumglaswerk,870
+Lapantouflemagic.SmallBadwaterPump.DisplayName,Kleine slechte waterpomp,871
+Lapantouflemagic.SmallBadwaterPump.Description,"Een klein, handmatig bediend vuilwatergemaal.
+Mogelijk ontworpen door een gestoorde bever.
+De propeller moet ondergedompeld worden.
+<color=#00FFFF>Werkt als dijk</color>",872
+Lapantouflemagic.SmallBadwaterPump.FlavorDescription,"""Waarom zou iemand zoiets ontwerpen? Jongeren tegenwoordig...""
+ -Toothless the Wise, oudere bever",873
+Need.Trebuchetdeath.DeathMessage,<color=green>vond het hilarisch om zich in de trebuchetmand te verstoppen. Om eerlijk te zijn was dat wel zo.</color>,874
+Lapantouflemagic.DrinksNeedGroup.DisplayName,Drankjes,875
+Lapantouflemagic.SciencePoints.bad,Inefficiënte wetenschap,876
+Lapantouflemagic.SciencePoints.Good,Efficiënte wetenschap,877
+Lapantouflemagic.Distillery.DisplayName,Distilleerderij,878
+Lapantouflemagic.Distillery.Description,"Een gebouw gespecialiseerd in het bereiden van gezuiverde componenten uit natuurlijke of gefabriceerde hulpbronnen.
+<color=#00FFFF>Werkt als dijk</color>",879
+Lapantouflemagic.Distillery.FlavorDescription,"'Kan de alchemist dat niet ook gewoon doen?'
+ -Mama bever",880
+Good.Cure.DisplayName,Vervuilingsweerstandsfactor,881
+Good.Cure.PluralDisplayName,Vervuilingsweerstandsfactor,882
+Lapantouflemagic.4Dynamite.DisplayName,Vierdubbel dynamiet,883
+Lapantouflemagic.SmallAquiferPumpCopy.DisplayName,Aquifer-pomp,884
+Lapantouflemagic.DamDrain.FlavorDescription,"Blokkeer de messen alstublieft niet met takken, boomstammen of de lichamen van je overwonnen vijanden.",886
+Lapantouflemagic.WaterCannonH.DisplayName,Waterkanon 70°,887
+Lapantouflemagic.WaterCannonH.Description,"Een intrigerende evolutie van de mechanische waterpomp van andere facties. 
+Schiet water onder een hoek van 70° voor irrigatie op afstand.
+Maakt het mogelijk om water hoog maar op korte afstand te sturen.
+<color=green>Het kanon vult het reservoir tot aan de blauwe vlag</color>",888
+Lapantouflemagic.WaterCannonL.DisplayName,Waterkanon 30°,889
+Lapantouflemagic.WaterCannonL.Description,"Een intrigerende evolutie van de mechanische waterpomp die water in een hoek van 30° spuit voor irrigatie op afstand.
+Maximaliseert het bereik ten koste van de hoogte
+<color=green>Het kanon blijft werken totdat het waterniveau de blauwe vlag bereikt</color>",890
+Lapantouflemagic.WaterCannonM.DisplayName,Waterkanon 45°,891
+Lapantouflemagic.WaterCannonM.Description,"Een intrigerende evolutie van de mechanische waterpomp die water in een hoek van 45° spuit voor irrigatie op afstand.
+Zorgt voor een goede balans tussen bereik en hoogte.
+<color=green>Het kanon blijft werken totdat het waterniveau de blauwe vlag bereikt</color>",892
+Lapantouflemagic.BananaTree.DisplayName,Bananenboom,893
+Lapantouflemagic.BananaTree.FlavorDescription,Nu hebben we alleen nog chocolade en ijs nodig...,894
+Lapantouflemagic.Banana.DisplayName,Banaan,895
+Lapantouflemagic.Banana.PluralDisplayName,Bananen,896
+Lapantouflemagic.GreenHouse.DisplayName,Serre,897
+Lapantouflemagic.GreenHouse.Description,"Een grote kas om bananenbomen warm en gelukkig te houden
+<color=red>Breekbaar gebouw! Wees voorzichtig! Alleen bananenbomen toegestaan!
+Dit gebouw is niet waterdicht!</color>",898
+Lapantouflemagic.GreenHouse.FlavorDescription,"""Als je alleen bananen eet, verslijten je tanden niet en uiteindelijk zullen ze zo lang worden dat ze door je schedel gaan""
+ -Mama bever",899
+Lapantouflemagic.Trebuchet.Description,De enige realistische manier om van al die nutteloze stenen af ​​te komen. Staat die ene nerdy bever ook toe om ballistiek te studeren.,900
+Lapantouflemagic.Badbucket.DisplayName,Slechte wateremmerpaal,901
+Lapantouflemagic.Badbucket.Description,"Een paar boomstammen en planken, lukraak gerangschikt op een platform dat nauwelijks goed genoeg was om met een emmer vuilwater te tappen, hopelijk zonder zichzelf te bezoedelen.",902
+Lapantouflemagic.Badbucket.FlavorDescription,"'Ik weet zeker dat we iets nuttigs met deze vloeistof kunnen doen, maar we hebben alleen iemand nodig die zo dom is om het te accepteren. Bobby zal die taak zeker wel aankunnen.'
+ -Een wetenschappelijke bever",903
+Lapantouflemagic.ZauerKrautBarrel.DisplayName,Gistingsvaten,906
+Lapantouflemagic.ZauerKrautBarrel.Description,"Een stapel vaten die gevuld kunnen worden met verschillende dingen die men laat gisten, pekelen of ontbinden.
+<color=#FF6EC7>Kan functioneren zonder werknemers.</color>",907
+Lapantouflemagic.ZauerKrautBarrel.FlavorDescription,"""Een afgesloten ruimte die niemand ooit opent? Interessant...""
+ -Jack de Knapper",908
+Lapantouflemagic.Factory.Description,"Een groot industrieel gebouw waar metaal tot staal wordt gesmolten en op bestelling gemaakte artikelen worden vervaardigd.
+<color=#00FFFF>Werkt als dijk</color>",912
+Lapantouflemagic.TreeNursery.Description,"Een gespecialiseerd gebouw waarin ervaren boswachtersbevers zorgvuldig kleine jonge boompjes verzorgen en exotische soorten kweken voordat ze ze buiten planten.
+<color=red>Het huislichaam kan vanaf de onderkant worden aangesloten op een ladder of een put-en-ladderhut.</color>",914
+Lapantouflemagic.LargeWaterWheel.Description,"Een groter, efficiënter waterrad, ondersteund vanaf de zijkant.",915
+Lapantouflemagic.BIT.Description,"Een geavanceerd wetenschappelijk instituut waar de slimste bevers nieuwe technologieën kunnen ontwikkelen
+<color=#00FFFF>Werkt als dijk</color>",917
+Lapantouflemagic.Fireflyfarm.DisplayName,Firefly verzorgingsstation,920
+Lapantouflemagic.Fireflyfarm.Description,"Een ongewone werkplek gereserveerd voor de meest onverschrokken bevers. Kweek gigantische vleesetende vuurvliegjes uit kleine larven om het gloeiende vocht uit hun buik te verzamelen.
+Het vraatzuchtige beest wordt te allen tijde vastgebonden gehouden om het proces <i>volkomen</i> te laten verlopen.",921
+Lapantouflemagic.Fireflyfarm.FlavorDescription,"""Je ziet kits: elk slecht ding heeft zijn zilveren randje! Daar voor zorgen is vrij eenvoudig, en wat gaat het doen? Mijn prothetische arm opeten? Ha!""
+ -Opa Bever, over hoe je een gelukkig leven kunt leiden.",922
+Lapantouflemagic.RobotParts.DisplayName,Robotonderdeel,923
+Lapantouflemagic.RobotParts.PluralDisplayName,Robotonderdelen,924
+Lapantouflemagic.InsectLarva.DisplayName,Insectenlarve,925
+Lapantouflemagic.InsectLarva.PluralDisplayName,Insectenlarven,926
+Need.Insectdeath.DisplayName,Vuurvlieg dood,927
+Need.Insectdeath.DeathMessage,"<color=green>wist niet wat ''vleesetend'' betekende en probeerde een gigantische vuurvlieg te aaien, wat bewees dat het altijd beter is om je vragen aan de leraar te stellen</color>",928
+Lapantouflemagic.Glowfluid.DisplayName,Gloeiende vloeistof,929
+Lapantouflemagic.Glowfluid.PluralDisplayName,Gloeiende vloeistof,930
+Lapantouflemagic.GiantLogBridge.Description,"Een halve sequoia werd artistiek in een niet-halve sequoia gepast om als loopbrug te dienen.
+Wordt geleverd met verlichting eronder omdat niemand in totale duisternis wil leven.",935
+Lapantouflemagic.GiantLogBridge.FlavorDescription,"""Dit ziet er niet erg stabiel uit...""
+ -Een boerenbever",936
+Lapantouflemagic.MintEssence.DisplayName,Endotherme essentie,946
+Lapantouflemagic.MintEssence.PluralDisplayName,Endotherme essentie,947
+Lapantouflemagic.Mushroomfarm.DisplayName,GMO-teeltlaboratorium,957
+Lapantouflemagic.Mushroomfarm.Description,"Een afgesloten plek om genetisch gemodificeerde paddenstoelen of planten in optimale conditie te kweken, wat resulteert in ongelooflijke opbrengsten en groeisnelheid.
+<color=#00FFFF>Werkt als dijk</color>",958
+Lapantouflemagic.Mushroomfarm.FlavorDescription,"""Moet ik deze rood-witte paddenstoel eten? Het lijkt me lekker.""
+ -Bobby de dwaas, laatste woorden.",959
+Lapantouflemagic.MechanizedPinkwoodFarm.DisplayName,Clockwork hydrocultuur Everblossom-boerderij,960
+Lapantouflemagic.MechanizedPinkwoodFarm.Description,"Een complex apparaat dat mechanische kracht op meesterlijke wijze omzet in houtblokken.
+De zaagbladen moeten regelmatig vervangen worden.",961
+Lapantouflemagic.MechanizedPinkwoodFarm.FlavorDescription,"""De eerste regel van bevertechniek is om niet te goed naar het mechanisme te kijken""
+ -Opa Bever, over wat er met zijn snorharen is gebeurd.",962
+Lapantouflemagic.WarmStorageBaseR.DisplayName,Handje Soep,969
+Lapantouflemagic.Woodupgrade.DisplayName,Upgrade voor kleine toren: vervoerders,973
+Lapantouflemagic.Woodupgrade.FlavorDescription,"""En... waar heb je het platform precies voor nodig?""
+ -Een verwarde houthakkersbever",975
+ToolGroups.Lapantouflemagic.AdvancedBuildings,Geavanceerde gebouwen,976
+Lapantouflemagic.NewCentrifuge.DisplayName,Centrifugeer,977
+Lapantouflemagic.NewCentrifuge.Description,"Een hoge zandlopervormige centrifuge die wordt gebruikt om nucleaire brandstof te zuiveren van hooman-nucleair afval.
+Fungeert ook als een enigszins onpraktische woning omwille van het hooghouden van de traditie.
+<color=#FF6EC7>Kan functioneren zonder werknemers.</color>
+<color=#00FFFF>Werkt als dijk</color>",978
+Lapantouflemagic.NewCentrifuge.FlavorDescription,Gelukkig zijn sommige bevers in staat om zelfs in de meest onwaarschijnlijke omstandigheden te slapen.,979
+Lapantouflemagic.NuclearPress.DisplayName,Hete nucleaire pers,980
+Lapantouflemagic.NuclearPress.Description,"Een extra grote pers die kernwarmte gebruikt om meer olie uit zonnebloempitten te persen.
+<color=#FF6EC7>Kan functioneren zonder werknemers.</color>
+<color=#00FFFF>Werkt als dijk</color>",981
+Lapantouflemagic.NuclearPress.FlavorDescription,Waarschijnlijk veilig om in te wonen.,982
+Lapantouflemagic.NuclearFuel.DisplayName,Kernbrandstof,983
+Lapantouflemagic.NuclearFuel.PluralDisplayName,Kernbrandstof,984
+Lapantouflemagic.NuclearFuelFast.DisplayName,Gekatalyseerde zuivering,985
+Lapantouflemagic.NuclearFuelSlow.DisplayName,Langzame zuivering,986
+Lapantouflemagic.FermentationHouse.DisplayName,Fermentatiehuis,987
+Lapantouflemagic.FermentationHouse.Description,"Een kleine lodge waarvan de bewoners belast zijn met het bevoorraden en verzorgen van de gistingsvaten die op de bovenverdieping zijn geïnstalleerd.
+<color=#FF6EC7>Kan functioneren zonder werknemers.</color>
+<color=#00FFFF>Werkt als dijk</color>",988
+Lapantouflemagic.FermentationHouse.FlavorDescription,"""Niemand zal het merken als ik wat extra voor mezelf houd...""
+ -Een gistbever",989
+Lapantouflemagic.AdvancedWarmstorage.DisplayName,Geavanceerde warme opslag,990
+Lapantouflemagic.AdvancedWarmstorage.Description,"Een oud torenontwerp dat opnieuw werd gebruikt om te dienen als gigantische opslagplaats voor warm voedsel.
+Warmte wordt gratis en voor altijd geleverd door een enorme staaf laagwaardig radioactief materiaal in het midden van de toren.",991
+Lapantouflemagic.AdvancedWarmstorage.FlavorDescription,"'Nog beter: het voedsel dat daarin wordt geplaatst, rot nooit, en de dwazen die het leveren, hebben nooit spullen!'
+ -Een eugenetische bever",992
+Lapantouflemagic.NewFloodgateDam.DisplayName,Sluizendam,993
+Lapantouflemagic.NewFloodgateDam.Description,Een complex maar uiterst handig damstuk waarvan de muur omhoog of omlaag kan worden gebracht om de waterstroom te regelen.,994
+Lapantouflemagic.NewFloodgateDam.FlavorDescription,"""Aaah, vooruitgang!""
+ -Een mechanische bever",995
+Good.Onigiri_Salt.DisplayName,Rijstbal,997
+Good.Onigiri_Salt.PluralDisplayName,Rijst Ballen,998
+Lapantouflemagic.Lotus.DisplayName,Lotus,999
+Lapantouflemagic.Lotus.PluralDisplayName,Lotus,1000
+Lapantouflemagic.Lotus.FlavorDescription,"""Als je een zwarte vindt, kun je hem voor duizenden kolen aan de nerds verkopen!""
+ -Een boerenbever",1001
+Lapantouflemagic.Nenuphar.DisplayName,Nenuphar,1002
+Lapantouflemagic.Nenuphar.PluralDisplayName,Nenupharen,1003
+Lapantouflemagic.Lotus_Flower.DisplayName,Lotusbloem,1006
+Lapantouflemagic.Lotus_Flower.PluralDisplayName,Lotusbloemen,1007
+Good.DandelTea.DisplayName,Lotusbloem Thee,1009
+Good.DandelTea.PluralDisplayName,Lotusbloem Thee,1010
+Lapantouflemagic.FloodgateDamBlueprint.DisplayName,Blauwdruk van de sluisdam,1015
+Lapantouflemagic.FloodgateDamBlueprint.PluralDisplayName,Blauwdrukken van de sluisdam,1016
+Lapantouflemagic.FloodgateDamFancyBlueprint.DisplayName,Floodgate Dam Fancy Blauwdruk,1017
+Lapantouflemagic.FloodgateDamFancyBlueprint.PluralDisplayName,Floodgate Dam Fancy blauwdrukken,1018
+Lapantouflemagic.SFITBFancyBlueprint.DisplayName,Blauwdruk voor irrigatie van een verhoogd openbaar bad,1019
+Lapantouflemagic.SFITBFancyBlueprint.PluralDisplayName,Blauwdrukken voor irrigatie van verhoogde openbare baden,1020
+Lapantouflemagic.SFITBBlueprint.DisplayName,Irrigatie van een verhoogd openbaar bad Fancy Blueprint,1021
+Lapantouflemagic.SFITBBlueprint.PluralDisplayName,Irrigatie van verhoogd openbaar bad Fancy blauwdrukken,1022
+Lapantouflemagic.MechanizedSpadderdockfarm.DisplayName,Clockwork hydrocultuur Nenuphar-boerderij,1023
+Good.Hydrogen.DisplayName,Waterstof,1024
+Good.Hydrogen.PluralDisplayName,Waterstof,1025
+Lapantouflemagic.RuinExploration.DisplayName,Ruïnes verkenning,1026
+Lapantouflemagic.RuinExploration.PluralDisplayName,Ruïnes verkenning,1027
+Lapantouflemagic.SkyExploration.DisplayName,Luchtverkenning,1028
+Lapantouflemagic.SkyExploration.PluralDisplayName,Luchtverkenning,1029
+Group.PowerShafts.DisplayName,Krachtschachten,1030
+Lapantouflemagic.ScrollHolder.DisplayName,Bladerweergave,1031
+Lapantouflemagic.ScrollHolder.Description,Een kleine opslagplaats voor één boekrol die dient om de import van blauwdrukken uit andere districten te vergemakkelijken.,1032
+Lapantouflemagic.ScrollHolder.FlavorDescription,Alleen rode kussens zijn heerlijk.,1033
+Lapantouflemagic.NuclearPowerPlant.Group.DisplayName,Kerncentrale,1058
+Lapantouflemagic.PhDInNuclearPhysics.DisplayName,PhD in kernfysica,1075
+Lapantouflemagic.PhDInNuclearPhysics.PluralDisplayName,PhD's in kernfysica,1076
+Lapantouflemagic.BetterDamDrain.DisplayName,Ventiel Lodge,1077
+Lapantouflemagic.DamDrain.Description,"Een klein waterdicht huisje dat een sluis bestuurt.
+Zorgt ervoor dat de dam de waterstroom niet volledig blokkeert.
+<color=#00FFFF>Werkt als dijk</color>",1078
+Lapantouflemagic.NEWEngine.Description,"Verbrandt methaan om energie te creëren.
+<color=#00FFFF>Werkt als dijk</color>",1084
+Lapantouflemagic.MedicalBed_Injury.DisplayName,Medisch bed: verwondingen,1093
+Lapantouflemagic.MedicalBed_Injury.Description,Geeft gewonde bevers een plek om te rusten terwijl iemand de <color=green>basisbalsem</color> aanpast tot een <color=green>dennenhars</color> cataplasma.,1094
+Lapantouflemagic.MedicalBed_Burns.DisplayName,Medisch bed: kleine brandwonden,1095
+Lapantouflemagic.MedicalBed_Burns.Description,Geeft bevers met brandwonden een plek om te rusten terwijl iemand de <color=green>basisbalsem</color> aanpast tot een olieachtige zalf op basis van <color=green>zonnebloempitten</color>.,1096
+Lapantouflemagic.MedicalBed_Disease.DisplayName,Medisch bed: milde ziekten,1097
+Lapantouflemagic.MedicalBed_DiseaseDescription,Geeft zieke bevers een rustplaats terwijl iemand de <color=green>basisbalsem</color> aanpast tot een verlichtend <color=green>braambloem</color> afkooksel.,1098
+Lapantouflemagic.IrrigationLodge.DisplayName,Irrigatie loge,1099
+Lapantouflemagic.WonderIrrigationTower.DisplayName,Irrigatie van verhoogd openbaar bad,1102
+Lapantouflemagic.WonderIrrigationTower.FlavorDescription,"""Als mensen blijven denken dat irrigatietorens slecht zijn, blijf ze dan gewoon verbeteren totdat ze ze leuk vinden!""
+ -Een timmermansbever.",1103
+Lapantouflemagic.WonderIrrigationTower.Description,"De ultieme irrigatietoren: een verhoogd bad dat gewassen irrigeert met het vuile water en ze bemest voor snellere groei, terwijl de landpootafdruk minimaal is.
+<color=green>Het waterverbruik neemt toe met het geïrrigeerde oppervlak.
+Plantengroei +15%</color>
+<color=#FF6EC7>Kan functioneren zonder werknemers.</color>",1104
+Lapantouflemagic.Irrigation.group.DisplayName,Irrigatie,1106
+Good.SolarCell.DisplayName,Zonnecel,1107
+Good.SolarCell.PluralDisplayName,Zonnecellen,1108
+Lapantouflemagic.DeepRuin.Group.DisplayName,Afgrondverkenning,1109
+Lapantouflemagic.HoomanUndergroundFactory.DisplayName,Operationeel team van de Hooman ondergrondse fabriek,1115
+Lapantouflemagic.HoomanUndergroundFactory.Description,"Stuurt een team van bevers, gespecialiseerd in oude hooman-machines, de afgrond in om productiegereedschappen te repareren en te reactiveren die ver boven ons eigen technologische niveau liggen.
+<color=#FF6EC7>Taken die voor gespecialiseerde hobbybevers een hele dag nodig zouden hebben gehad, kunnen nu meerdere keren in amper een paar uur worden voltooid.</color>",1116
+Lapantouflemagic.HoomanUndergroundFactory.FlavorDescription,"'Blijkbaar was een van de grootste angsten van de hoomans om hun eigen machines tegen hen te zien rebelleren, hoe dwaas is dat? Hoe kon dit grote stuk metaal ooit... Au! Ik werd er kapot van!'",1117
+Lapantouflemagic.GasExctractor.DisplayName,Gasafzuiging,1118
+Lapantouflemagic.GasExctractor.Description,Een gemechaniseerde pomp die zakken met verschillende gassen kan exploiteren die door de verkenningsteams zijn geïdentificeerd.,1119
+Lapantouflemagic.GasExctractor.FlavorDescription,"""Je zou je niet voorstellen hoeveel verschillende geuren er daar beneden zijn...""",1120
+Lapantouflemagic.DeepMinePILEstorage.DisplayName,Diepstapelige opslag,1121
+Lapantouflemagic.DeepMinestorage.Description,Hergebruikt een lege sector van de verlaten hooman-faciliteit om een ​​overmatige hoeveelheid grondstoffen op te slaan.,1122
+Lapantouflemagic.DeepMinePILEstorage.FlavorDescription,"""Dit ding is zo immens dat we er een heel leven aan zouden kunnen besteden om het te verkennen""
+-Een ontdekkingsbever",1123
+Lapantouflemagic.DeepMineBOXStorage.DisplayName,Diepe kratopslag,1124
+Lapantouflemagic.DeepMineBOXStorage.FlavorDescription,"'Waarom hadden ze al deze ruimte nodig? Waren ze van plan daar te gaan wonen? Om hun eigen door de mens veroorzaakte apocalyps te overleven?'
+-Een ontdekkingsbever",1125
+Lapantouflemagic.NuclearWasteCollector.DisplayName,Expeditiecentrum voor de mijnbouw van kernafval,1126
+Lapantouflemagic.NuclearWasteCollector.Description,"Stuurt een team bevers de afgrond in, gespecialiseerd in het terughalen van het vreemde warme spul dat de hoomans daar zo lang geleden hebben begraven, zodat het weer kan worden verfijnd tot iets nuttigs.",1127
+Lapantouflemagic.NuclearWasteCollector.FlavorDescription,"""Verkennen? Nee nee nee... dat is niet mijn taak, ik doe dit omdat ik niet gedood wil worden door iets sluws dat ik niet kan zien.""",1128
+Reciepe.BetterAlcohol.DisplayName,Gecombineerde fermentatie en distillatie van rijstalcohol,1129
+Reciepe.ResinSynthesis.DisplayName,Kunstmatige harssynthese,1130
+Reciepe.Cubane.DisplayName,Octanitrocubane Synthese,1131
+Lapantouflemagic.AbyssTourismOffice.DisplayName,Abyss-toeristencentrum,1132
+Lapantouflemagic.AbyssTourismOffice.Description,"Organiseert rondleidingen in veilige en reeds onderzochte sectoren van de verlaten hooman-faciliteit.
+Gegarandeerd 100% Grue-vrij.",1133
+Lapantouflemagic.AbyssTourismOffice.FlavorDescription,"""Wie houdt er niet van de sensatie om misschien opgegeten te worden door een grue, zonder daadwerkelijk opgegeten te worden door een grue?""",1134
+Reciepe.Incinerate_sawdust.DisplayName,Verbrand overtollig zaagsel,1137
+Lapantouflemagic.HoomanUndergroundChemPlant.DisplayName,Hooman ondergronds laboratorium operationeel team,1138
+Lapantouflemagic.HoomanUndergroundChemPlant.Description,"Stuurt een team van scheikundige bevers de afgrond in om een ​​eeuwenoude chemische fabriek van Homan te bestuderen en te reactiveren.
+<color=#FF6EC7>Hun processen waren veel geavanceerder dan de onze - we zullen zeker zoveel leren! </kleur>",1139
+Lapantouflemagic.HoomanUndergroundChemPlant.FlavorDescription,"""Hars volledig uit basiselementen maken? Dit is geweldig!""",1140
+Lapantouflemagic.NEWLumberjackHouse.DisplayName,Houthakkersschuur,1141
+Lapantouflemagic.NEWLumberjackHouse.Description,"Een half schuur en half logegebouw dat wordt gebruikt als werkplaats voor een groep houthakkers. Bevat een aantal hulpmiddelen waarmee ze hun werk efficiënt kunnen doen.
+Heeft een <color=#FF6EC7>driehoeksdak</color>, <color=#FF6EC7>Kan upgrades ondersteunen</color>
+<color=#00FFFF>Werkt als dijk</color>",1142
+Lapantouflemagic.NEWLumberjackHouse.FlavorDescription,"""Mijn vader is de beste! Hij heeft ons hele huis gebouwd!""
+ -Typische kitopscheppen",1143
+Lapantouflemagic.TappersShack.Description,"Heeft een heel team van tappers in dienst om hars uit pijnbomen te oogsten.
+Heeft een <color=#FF6EC7>driehoeksdak</color>, <color=#FF6EC7>Kan upgrades ondersteunen</color>
+<color=#00FFFF>Werkt als dijk</color>",761
+Lapantouflemagic.TriangleGatheringHouse.DisplayName,Het huisje van de oogster,1144
+Lapantouflemagic.TriangleGatheringHouse.Description,"Een herwerkte boerderij die door een groep oogstbevers wordt gebruikt om elkaar te ontmoeten en het werk efficiënt te verdelen.
+Heeft een <color=#FF6EC7>driehoeksdak</color>, <color=#FF6EC7>Kan upgrades ondersteunen</color>
+<color=#00FFFF>Werkt als dijk</color>",1145
+Lapantouflemagic.TriangleGatheringHouse.FlavorDescription,"'Waag het niet om mijn huis binnen te komen, bedekt met vuil en bessensap! Ga eerst douchen, anders gooi ik je zelf in de rivier!'
+ -Mama Bever, elke avond.",1146
+Lapantouflemagic.NEWFarmhouse.Description,"Heeft een boer in dienst die gewassen plant en oogst.
+Heeft een <color=#FF6EC7>driehoeksdak</color>, <color=#FF6EC7>Kan upgrades ondersteunen</color>
+<color=#00FFFF>Werkt als dijk</color>",494
+Lapantouflemagic.Woodupgrade.Description,"Een upgrademodule die bovenop een upgradebare <color=#FFA500>Kleine Toren</color> (links) naast een gebouw met <color=#FF6EC7>driehoeksdak</color> (rechts) kan worden geplaatst.
+Heeft <color=green>10 transporteurs</color> in dienst.'
+<color=#00FFFF>Werkt als dijk</color>",974
+Lapantouflemagic.NiceView.DisplayName,Observatiedek,455
+Lapantouflemagic.ContaminatedJail.Description,"Een gevangenis voor het geïsoleerd houden van besmette bevers van de rest van de bevolking.
+Gevangen bevers hebben geen drank, eten, slaap, onderdak of schoonmaak meer nodig totdat ze zich beter voelen.",792
+Reciepe.NitrateSynthesis.PluralDisplayName,Nitraat Synthese,1150
+Lapantouflemagic.AssemblyLine.DisplayName,Lopende band,1151
+Lapantouflemagic.AssemblyLine.Description,"Een groot industrieel gebouw waarin grote hoeveelheden grondstoffen worden verwerkt
+<color=#00FFFF>Werkt als dijk</color>",1152
+Lapantouflemagic.AssemblyLine.FlavorDescription,"""Is die kraan buiten puur decoratief?""",1153
+Bot.DisplayName.WaterBeaver,Transportbot {0},1156
+Lapantouflemagic.PhDInRobotics.DisplayName,PhD in robotica,1157
+Lapantouflemagic.PhDInRobotics.PluralDisplayName,PhD's in robotica,1158
+Lapantouflemagic.Heavygravitybattery.DisplayName,Zware zwaartekrachtbatterij,1159
+Lapantouflemagic.Heavygravitybattery.Description,Een zware zwaartekrachtbatterij die extreem dichte materie als gewicht gebruikt.,1160
+Lapantouflemagic.Heavygravitybattery.FlavorDescription,"""Eerlijk gezegd is dit verspilling, maar mensen houden van de glans""",1161
+Lapantouflemagic.BotHaulingStation.DisplayName,Bot-stand-bygebied vervoeren,1162
+Lapantouflemagic.BotHaulingStation.Description,"Biedt een startlocatie voor de geprogrammeerde routine voor het ophalen van bots.
+Bots zonder lopende leveringen blijven daar stand-by.",1163
+Lapantouflemagic.BotHaulingStation.FlavorDescription,"""Blijf gewoon hier en verroer je niet""",1164
+Lapantouflemagic.Toggle.Arrow,►,1168
+Lapantouflemagic.FarmLumberjackUpgrade.DisplayName,Houthakkerszolder,1169
+Lapantouflemagic.FarmLumberjackUpgrade.Description,"Een upgrademodule die bovenop twee aangrenzende gebouwen met <color=#FF6EC7>driehoeksdak</color> kan worden geplaatst.
+Nog meer loggen! Dood aan de bomen!
+Heeft veel opbergruimte.
+<color=#00FFFF>Werkt als dijk</color>",1170
+Lapantouflemagic.FarmLumberjackUpgrade.FlavorDescription,"""Kun je je de pijn voorstellen als we niet zouden aandringen op een kraan?""",1171
+Lapantouflemagic.FarmUpgradeA.Description,"Een upgrademodule die bovenop twee aangrenzende gebouwen met <color=#FF6EC7>driehoeksdak</color> kan worden geplaatst.
+Gebruikt <color=green>4 bouwers</color>.
+Kan veel rommel opslaan die uit puin is opgepikt.
+<color=#00FFFF>Werkt als dijk</color>",486
+Lapantouflemagic.FarmUpgradeC.Description,"Een upgrademodule die bovenop twee aangrenzende gebouwen met <color=#FF6EC7>driehoeksdak</color> kan worden geplaatst.
+De perfecte plek voor nerdy bevers om 'Tunnels en Hoomans' te spelen!
+Bevat wat opbergruimte voor kratten.
+<color=#00FFFF>Werkt als dijk</color>",492
+Lapantouflemagic.FarmUpgradeD.Description,"Een upgrademodule die bovenop twee aangrenzende gebouwen met <color=#FF6EC7>driehoeksdak</color> kan worden geplaatst.
+Nog meer landbouw! We zullen de kool tenietdoen!
+Heeft veel opslagruimte voor geoogste gewassen.
+<color=#00FFFF>Plant wat rode kool in de buurt van dit gebouw om de markering ""niets te doen"" te verwijderen</color>.
+<color=#00FFFF>Werkt als dijk</color>
+<Color=red>KAN GEEN GEWASSEN PLANTEN</color>",807
+Lapantouflemagic.Woodupgrade_Gatherer.DisplayName,De droogtoren van Harvester,1172
+Lapantouflemagic.Woodupgrade_Gatherer.Description,"Een upgrademodule die bovenop een uitbreidbare <color=#FFA500>Kleine Toren</color> (links) naast een gebouw met <color=#FF6EC7>driehoeksdak</color> (rechts) kan worden geplaatst
+Nog meer oogst! Bessen moeten oppassen!
+<color=#00FFFF>Werkt als dijk</color>",1173
+Lapantouflemagic.Woodupgrade_Gatherer.FlavorDescription,"""Bbind hem daar gewoon vast en laat hem een ​​nacht staan. Als je terugkomt, zal hij zich beter gedragen""",1174
+Lapantouflemagic.Statue_Dunking.DisplayName,Standbeeld van Dunking,1175
+Lapantouflemagic.Statue_Dunking.Description,Een standbeeld ter ere van de... uuh... wie heeft dat gedaan?,1176
+Lapantouflemagic.Statue_Dunking.FlavorDescription,Gblublbulblugggll!,1177
+Lapantouflemagic.Statue_Farmer.DisplayName,Boeren standbeeld,1178
+Lapantouflemagic.Statue_Farmer.Description,"Een standbeeld ter ere van het werk van boeren, zonder wie we allemaal zouden verhongeren.",1179
+Lapantouflemagic.Statue_Farmer.FlavorDescription,"""Hier is nog een zak zaden!""",1180
+Lapantouflemagic.Statue_Lumberjack.DisplayName,Houthakker standbeeld,1181
+Lapantouflemagic.Statue_Lumberjack.Description,"Een standbeeld ter ere van het werk van Houthakkers, zonder wie niets zou worden gebouwd.",1182
+Lapantouflemagic.Statue_Lumberjack.FlavorDescription,"""Welke bomen smaken het lekkerst? Dat weten alleen wij!""",1183
+Lapantouflemagic.Statue_Metalworker.DisplayName,Metaalbewerker standbeeld,1184
+Lapantouflemagic.Statue_Metalworker.Description,"Een standbeeld ter ere van het werk van Metaalarbeiders, zonder wie er geen vooruitgang zou zijn.",1185
+Lapantouflemagic.Statue_Metalworker.FlavorDescription,'Blim! Blam! Nog een zaagblad!',1186
+Lapantouflemagic.Statue_Pointer.DisplayName,Wijzer standbeeld,1187
+Lapantouflemagic.Statue_Pointer.Description,Een beeldje dat de droom van iedere bever weergeeft: het vliegende puntige ding vangen.,1188
+Lapantouflemagic.Statue_Pointer.FlavorDescription,"""Ik wens dat al het slechte water in limonade verandert!""",1189
+Lapantouflemagic.Statue_Pregnant.DisplayName,Zwanger standbeeld,1190
+Lapantouflemagic.Statue_Pregnant.Description,Een beeld van een hele grote en hoogzwangere mamabever.,1191
+Lapantouflemagic.Statue_Pregnant.FlavorDescription,"""Als ze daadwerkelijk bevalt, ren dan!""",1192
+Lapantouflemagic.Statue_UpsideDown.DisplayName,Ondersteboven standbeeld,1193
+Lapantouflemagic.Statue_UpsideDown.Description,"Een beeldje van een gekke bever, gemaakt door een gekke bever.
+Gesneden uit één massief stuk hout.",711
+Lapantouflemagic.Statue_UpsideDown.FlavorDescription,"""¡ !!|diʎ""",1195
+Lapantouflemagic.MechanicalComputerBlueprint.DisplayName,Clockwork-robotcontroller,1011
+Lapantouflemagic.MechanicalComputerBlueprint.PluralDisplayName,Clockwork-robotcontrollers,1012
+Lapantouflemagic.GoldFence.DisplayName,Gouden hek,1194
+Lapantouflemagic.GoldFence.Description,Een hek gemaakt van massief goud voor mensen die er op de een of andere manier teveel van aan hun pootjes hebben.,1195
+Lapantouflemagic.GoldFence.FlavorDescription,"""Glanzend""",1196
+Lapantouflemagic.FenceGate.DisplayName,Gouden Poort,1197
+Lapantouflemagic.FenceGate.Description,Hiermee kunnen stijlvolle bevers een omheind gebied in en uit gaan.,1198
+Lapantouflemagic.FenceGate.FlavorDescription,"""Ik kan niet uitleggen waarom, maar ik heb het gevoel dat ik er een deel van een brug van moet maken...""",1199
+Lapantouflemagic.largefarmhouse.Description,"Een grote gemeenschappelijke boerderij waar veel bevers efficiënter kunnen werken.
+<color=#00FFFF>Lotussen hebben 2 keer diep water nodig!</color>
+<color=red>Het boerderijlichaam kan vanaf de onderkant worden aangesloten op een ladder of een hut met een ladder en een put.
+Kan alleen Pompoenen en Lotus planten!</color>",911
+Lapantouflemagic.WoodFenceGate.DisplayName,Houten hekpoort,1203
+Lapantouflemagic.WoodFenceGate.Description,Hiermee kunnen bevers een omheind gebied in en uit gaan.,1204
+Lapantouflemagic.WoodFenceGate.FlavorDescription,"""Ik denk dat het mooier lijkt om hekken tussen verschillende gewassen te plaatsen""",1205
+Lapantouflemagic.NewVineH.DisplayName,Wijnstok,568
+Lapantouflemagic.Foundry.Description,"Verfijnt de meest geavanceerde materialen met ongeëvenaarde efficiëntie.
+<color=#FF6EC7>Een waar wonder van bevertechnologie. Het indrukwekkende silhouet is het kenmerk van een modern industrieel centrum !</color>
+<color=#00FFFF>Sommige delen werken als dijk</color>",918
+Lapantouflemagic.IrrigationLodge.Description,"Irrigeer de grond in een gematigd gebied.
+<color=green>Het waterverbruik neemt toe met het geïrrigeerde oppervlak.
+Kan bodemverontreiniging afweren.</color>
+<color=#FFA500>Kleine toren</color>, <color=#FF6EC7>Kan upgrades ondersteunen</color>
+<color=#00FFFF>Werkt als dijk</color>",1100
+Lapantouflemagic.IrrigationLodge.FlavorDescription,"""Als dat reservoir maar breder was, zouden we het als bad kunnen gebruiken...""
+ -Toothless the Wise, oudere bever",1101
+NeedGroup.Possessions.DisplayName,Bezittingen,1206
+Lapantouflemagic.Petanque.DisplayName,Petanque,1218
+Lapantouflemagic.PetanqueCourt.DisplayName,Korte petanque,1219
+Lapantouflemagic.PetanqueCourt.Description,Een plat zandplein waar bevers jeu de boules kunnen spelen.,1220
+Lapantouflemagic.PetanqueCourt.FlavorDescription,"""Als je dit op de 22e verdieping gaat spelen, schiet dan niet te veel door.""",1221
+Lapantouflemagic.Winery.Description,"Een groot huis van waaruit bevers, gespecialiseerd in allerlei soorten fermentatie, ingrediënten met een ongeëvenaarde snelheid en doeltreffendheid kunnen verwerken.
+<color=#00FFFF>Werkt als dijk</color>",565
+Good.Processor.DisplayName,Verwerker,1222
+Good.Processor.PluralDisplayName,Verwerkers,1223
+Lapantouflemagic.AbyssExcavator.DisplayName,Abyssale graafboor,1224
+Lapantouflemagic.AbyssExcavator.Description,"Een geminiaturiseerde mechanische boor die is ontworpen om rommel en ingestorte tunnels uit de diepten van de afgrond te graven, en soms waardevolle ertsen. Vereist voorafgaand werk van ontdekkingsreizigers.",1225
+Lapantouflemagic.AbyssExcavator.FlavorDescription,"""Broeders van de mijn verheugen zich!
+Zwaai, zwaai, zwaai met mij mee
+Verhef je keuze en verhef je stem
+Zing, zing, zing met mij...""",1226
+Lapantouflemagic.SupplementaryExplorationTeam.DisplayName,Aanvullend verkenningsteam,1227
+Lapantouflemagic.SupplementaryExplorationTeam.Description,Huurt vijf bevers in om een ​​aanvullend verkenningsteam te vormen.,1228
+Lapantouflemagic.SupplementaryExplorationTeam.FlavorDescription,"""Ik wil een huisdier, denk je dat ik er een zal vinden?""",1229
+Reciepe.Ineff_Plank.PluralDisplayName,Ruwe verwerking tot planken,1230
+Reciepe.Ineff_Log.PluralDisplayName,Ruwe verwerking tot boomstammen,1231
+Lapantouflemagic.REDCabbage.DisplayName,Rode Kool,1232
+Lapantouflemagic.REDCabbage.FlavorDescription,Smaakt nog steeds naar kool.,1233
+Lapantouflemagic.NewDistrictCenter.Description,"Een grote hut die het centrum van een dorp markeert
+<color=red>Kan vanaf de onderkant verbinding maken met een ladder of put-en-ladderhut.</color>
+<color=#00FFFF>Werkt als dijk</color>",916
+Building.WoodFence_Whitepaws.Description,Een klein hek om die vervloekte <color=red>braamstruiken</color> tegen te houden.,1234
+Lapantouflemagic.Irrigation.Displayname,Irrigatie,1235
+Lapantouflagic.DetoxIrrigation.Whitepaws,Verontreiniging die irrigatie afstoot,1237
+Lapantouflemagic.Aqueduct_Short.DisplayName,Kort aquaductsegment,1238
+Lapantouflemagic.Aqueduct_Short.Description,"Een zware brug die een hele rivier kan vervoeren.
+De metalen ringen moeten op <color=green>Giant Pillars</color> klikken.",1239
+Lapantouflemagic.Aqueduct_Long.DisplayName,Lang aquaductsegment,1240
+Lapantouflemagic.Aqueduct_Long.Description,"Een zware brug die een hele rivier kan vervoeren.
+De metalen ringen moeten op <color=green>Giant Pillars</color> klikken.",1241
+Lapantouflemagic.Aqueduct_L-Piece.DisplayName,Elleboog aquaductsegment,1242
+Lapantouflemagic.Aqueduct_L-Piece.Description,"Een zware brug die een hele rivier kan vervoeren.
+Ontworpen om aan de meeste van je behoeften op het gebied van riviergeleiding te voldoen.
+De metalen ringen moeten op <color=green>Giant Pillars</color> klikken.",1243
+Lapantouflemagic.Aqueduct_T-Piece.DisplayName,T-aquaductsegment,1244
+Lapantouflemagic.Aqueduct_T-Piece.Description,"Een zware brug die een hele rivier kan vervoeren.
+Ontworpen om aan de meeste van je behoeften op het gebied van riviersplitsing te voldoen.
+De metalen ringen moeten op <color=green>Giant Pillars</color> klikken.",1245
+Lapantouflemagic.Aqueduct.FlavorDescription,"""Geef het een helling en je krijgt een van de leukste dingen ter wereld!""",1246
+Lapantouflemagic.Aqueduct_LT-Piece.FlavorDescription,"""Geef het een helling en je... slaat waarschijnlijk je hoofd tegen de muur""",1247
+Lapantouflemagic.Megaplatform.Description,"Een gigantisch platform dat enorme lasten kan dragen, wordt geleverd met bijna eeuwig kunstlicht dankzij de kracht van onethische dierproeven.
+De metalen ringen moeten op <color=green>Giant Pillars</color> klikken.",782
+Lapantouflemagic.MECHwaterpump.DisplayName,Extra grote waterpomp,1248
+Lapantouflemagic.MECHwaterpump.Description,"Een extra grote pomp uitgerust met verschillende filters die autonoom kunnen functioneren.
+Komt overeen met <color=red>vijf</color> basiswaterpompen.
+Vereist planken om af en toe propellerbladen te vervangen.",1249
+Lapantouflemagic.MECHwaterpump.FlavorDescription,"'Eigenlijk hoeven we het heldere water niet zoveel te filteren. De eerste drie filters zijn bedoeld om al dat mysterieuze vlees en ingewanden te verwijderen dat uit de wijzer weet waar naar boven komt. Heb je trouwens Timmy gezien?'
+-Een onderhoudsbever",1250
+Good.MECHWaterpumpBlueprint.DisplayName,Grootmoeder blauwdruk,1251
+Good.MECHWaterpumpBlueprint.PluralDisplayName,Grootmoeder blauwdrukken,1252
+Good.MECHWaterpumpFancyBlueprint.DisplayName,Grootmoeder Fancy Blueprint,1253
+Good.MECHWaterpumpFancyBlueprint.PluralDisplayName,Grootmoeder Fancy blauwdrukken,1254
+Need.WaterpumpDeath.DeathMessage,<color=green>zwom te dicht bij een te grote waterpomp en verdween spoorloos. Waarschijnlijk is hij opgeroepen om de held van een fantastische andere wereld te zijn.</color>,1255
+Need.WaterpumpDeath.DisplayName,Zwemongeval,1256
+Recipe.AirshipGrandAdventure.DisplayName,Grote rondleiding,1257
+Lapantouflemagic.Airship.DisplayName,Luchtschip,1258
+Lapantouflemagic.Airship.Description,"Een meesterlijk vervaardigd luchtschip dat met ongelooflijke snelheid de wereld rondreist en ongekende rijkdommen terugbrengt.
+<color=#FF6EC7>Je hoeft niet meer te handelen, bevers van alle stammen doen er alles voor om kans te maken op de rit van hun leven.</color>
+<color=green>Heeft de efficiëntie van 10 ballonnen.</color>",1259
+Lapantouflemagic.Airship.FlavorDescription,"""Ik hoop dat het niet tegen een luchtberg botst""",1260
+Lapantouflemagic.PilotsLicense.DisplayName,Vliegbrevet,1261
+Lapantouflemagic.PilotsLicense.PluralDisplayName,Pilotenlicenties,1262
+Building.PowerShaftVerticalTIntersection.DisplayName,Verticale T-kruising van de aandrijfas,taken from Emberpelts Faction
+Building.PowerShaftUpwardTIntersection.DisplayName,Aandrijfas omhoog T-kruising,taken from Emberpelts Faction
+Building.PowerShaftDownwardTIntersection.DisplayName,Aandrijfas neerwaartse T-kruising,taken from Emberpelts Faction
+Lapantouflemagic.Aqueduct_Bridge.DisplayName,Aquaductbrugsegment,1263
+Lapantouflemagic.Aqueduct_Bridge.Description,Een klein stukje aquaduct gemaakt van lichte materialen om kleine openingen tussen twee andere segmenten te overbruggen.,1264
+Lapantouflemagic.Aqueduct_Deadend.DisplayName,Deadend-segment van het aquaduct,1265
+Lapantouflemagic.Aqueduct_Deadend.Description,"Een zware brug die een hele rivier kan vervoeren.
+Aan drie zijden gesloten om de waterstroom van bovenaf in de gewenste richting te sturen. Of om een ​​waterdoolhof te maken als je daar zin in hebt.
+De metalen ringen moeten op <color=red>Giant Pillars</color> klikken.",1266
+Lapantouflemagic.NuclearWaterCollector.DisplayName,Abyssale wateruitstroom van kerncentrales,1267
+Lapantouflemagic.NuclearWaterCollector.Description,"Hiermee kan de energiecentrale verbinding maken met het elektriciteitsnetwerk en in werking treden.
+Koelwater dat door de reactor uit de aquifer wordt gepompt, komt van bovenaf vrij.
+<color=green>De bron droogt nooit op en wordt niet beïnvloed door slechte getijden.</color>",1268
+Lapantouflemagic.NuclearWaterCollector.FlavorDescription,"""Zonder de metalen vloer daarboven om de warmte af te voeren, zou dit bloedheet zijn!""",1269
+Lapantouflemagic.NuclearReactor3.DisplayName,Abyssale kernreactor,1069
+Lapantouflemagic.NuclearReactor3.Description,"Een krachtige kernreactor aangedreven door kernbrandstof.
+Gebruikt de afgrond om rechtstreeks uit de watervoerende laag te tappen voor koelvloeistof.
+<color=green>Is van binnenuit gebouwd als een wonder</color>.
+<color=#00FFFF>Hierdoor wordt schoon water gegenereerd</color>
+Vereist de <color=green>Abyssal Nuclear Power Plant Water Outflow</color> om stroom te kunnen aansluiten.",1070
+Lapantouflemagic.NuclearReactor2.DisplayName,Fokker Kernreactor,1067
+Lapantouflemagic.NuclearReactor2.Description,"Een middelgrote kernreactor die wordt aangedreven door zowel kernafval als splijtstof.
+Genereert warmte door de radioactieve elementen in vuilwater te verbruiken, waardoor de kern zelf vrijwel voor onbepaalde tijd in stand blijft.
+<color=red>Verwijdert 1,5 m²/s vloeistof.",1068
+Lapantouflemagic.NuclearReactor1.DisplayName,Basis kernreactor,1065
+Lapantouflemagic.NuclearReactor1.Description,"Een relatief zwakke kernreactor aangedreven door kernafval en de radioactieve elementen opgelost in vuilwater.
+<color=red>Moet gebouwd zijn op een slechte waterbron</color>",1066
+Lapantouflemagic.NuclearReactor.FlavorDescription,"""Elke ochtend moet iemand op de grote rode knop drukken, en als je geen geluk hebt, KABOOM!
+Anders gebeurt er niets tot de volgende dag. Volgens hun media is dat tenminste wat hoomans deden.""
+ -Een Hooman-historicusbever",1071
+Luc.Library.Description,"Een groot gebouw met veel boeken om te studeren.
+De enige manier om wetenschap te verkrijgen.
+<color=green>Is van binnenuit gebouwd als een wonder</color>.",910
+Good.FruitParfait.DisplayName,Perfecte vrucht,1294
+Good.FruitParfait.PluralDisplayName,Perfecte vruchten,1295
+Building.RangedCrossing.Whitepaws.DisplayName,Ranged-districtsovergang,1296
+Building.RangedCrossing24.Whitepaws.Description,Brengt middelen over tussen twee districten over een 24-brede kloof.,1297
+Building.RangedCrossing48.Whitepaws.Description,Brengt middelen over tussen twee districten over een kloof van 48 breed.,1298
+Building.RangedCrossing72.Whitepaws.Description,Brengt middelen over tussen twee districten over een kloof van 72 breed.,1299
+Building.RangedCrossing96.Whitepaws.Description,Brengt middelen over tussen twee districten over een kloof van 96 breed.,1300
+Building.RangedCrossing.Whitepaws.FlavorDescription,"""Verdacht snel zeg je? Dat komt omdat we in een spel zitten, zeg ik je! Geen van jullie verdomde kits luistert naar me en kijkt me aan alsof ik gek ben! Dit is allemaal nep!""
+- Mathilda de krankzinnige kokkin.",1301
+Lapantouflemagic.Woodupgrade_Builders.Description,"Een upgrademodule die bovenop een uitbreidbare <color=#FFA500>Kleine Toren</color> (links) naast een gebouw met <color=#FF6EC7>driehoeksdak</color> (rechts) kan worden geplaatst
+Gebruikt <color=green>8 bouwers</color>.
+<color=#00FFFF>Werkt als dijk</color>",1302
+Lapantouflemagic.Woodupgrade_Builders.DisplayName,Kleine torenupgrade: bouwers,1303
+Lapantouflemagic.Woodupgrade_Builders.FlavorDescription,"""Waar dient de toren voor?""
+ -Een verwarde houthakkersbever",1304
+Lapantouflemagic.FarmUpgradeB.Description,"Een upgrademodule die bovenop twee aangrenzende <color=#FF6EC7>opwaardeerbare gebouwen met driehoekig dak</color> kan worden geplaatst.
+Heeft <color=green>6 transporteurs</color> in dienst.
+Bevat een grote opslagruimte voor kratten.
+<color=#00FFFF>Werkt als dijk</color>",489
+Building.PublicFountain.DisplayName,Openbare fontein,1307
+Building.PublicFountain.Description,Een decoratieve fontein.,1308
+Building.PublicFountain.FlavorDescription,"""Laat je kittens alstublieft niet in het water plassen""",1309
+Building.DrinkingFountain.DisplayName,Drinkfontein,1310
+Lapantouflemagic.Rocket.DisplayName,Triomf,1314
+Building.MissileSilo.Whitepaws.DisplayName,Project Triomf,1316
+Building.MissileSilo.Whitepaws.Description,"<color=#FF6EC7>We hebben een nieuwe doorbraak bereikt in ons begrip van hooman-technologieën! Deze belooft spannende kansen voor de toekomst. 
+Als we het kunnen laten werken, zal dit zeker de grootste prestatie van de beversoort zijn.</color>
+<color=#00FFFF>Vereist plaatsing in een vijver met schoon water van minimaal 6 diepte</color>
+<color=red>De ingang moet toegankelijk zijn om te kunnen doorgaan met de bouw.</color>",1317
+Building.MissileSilo.Whitepaws.FlavorDescription,"""We moeten dit zeker in het centrum van onze stad bouwen, zodat iedereen het kan zien!""
+ -Toothless the Wise, oudere bever",1318
+Need.Rocketdeath.DeathMessage,"<color=green>werd gevangen in de raketuitlaat en schokgolf, wat leidde tot een vreselijke dood. Dat is allemaal jouw schuld.</color>",1319
+Need.OnFire.CriticalDescriptionLocKey,In brand!,1320
+Faction.Whitepaws.WonderCompletionFlavor,"Ondanks enkele ongelukken heb je niet alleen dit land getemd, maar ook de geheimen van oude hooman-technologieën blootgelegd, waardoor de weg naar de ruimte is geopend voor de hele beversoort.
+Zelfs als de aarde uiteindelijk faalt en sterft, zullen we onze toevlucht kunnen zoeken tussen de sterren.
+
+Ha! Daar hebben die dwazen toch nooit over nagedacht!",1321
+Faction.Whitepaws.WonderCompletionMessage,"Gefeliciteerd! Ondanks de aanvankelijke omstandigheden ben je erin geslaagd te overleven
+en bouw een grote stad in dit vijandige land. 
+Je kunt nu je Witpootjes aan hun lot overlaten en een pauze nemen van deze waanzin, het komt goed met ze.",1322
+Faction.Whitepaws.GameOver.Message,Jouw kolonie Witpootjes is uitgestorven. Dit is het einde.,1323
+Faction.Whitepaws.GameOver.Flavor,"We vertelden je dat het moeilijk zou zijn, wat ging er nu mis? Een te kleine dam? Overmatig gebruik van prioriteiten? Overdreven ijverige kolonie-uitbreiding? Leer van je fouten en probeer het opnieuw.
+Je kunt het, wie maakt zich druk over de levens die daarbij verspild worden?",1324
+Lapantouflemagic.PowerShaftFlatUniversal.DisplayName,Adaptieve horizontale aandrijfas,1325
+Lapantouflemagic.UniversalPowerShaft.DisplayName,Universele aandrijfas,1326
+Lapantouflemagic.PowerShaftStraightVertical.DisplayName,Verticale aandrijfas,1327
+Lapantouflemagic.PowerShaftHorizontalStraight.DisplayName,Aandrijfas,1328
+Lapantouflemagic.PowerShaftTurn.DisplayName,Aandrijfas draaien,1329
+Lapantouflemagic.PitandLadderDoubleDoor.DisplayName,Pit & Ladder Lodge (dubbele deur),1330
+Lapantouflemagic.PitandLadderDoubleDoor.Description,"Een middelgrote waterdichte lodge gebouwd rond een ladder.
+Wordt geleverd met <color=green>twee</color> toegangsdeuren aan de zijkant!
+Kan op zichzelf worden gestapeld, varianten, en kan geselecteerde gebouwen dragen.
+<color=#00FFFF>Werkt als dijk</color>",1331
+Lapantouflemagic.PitandLadderDoubleDoor.FlavorDescription,"""Wie houdt er niet van om naast een snelweg te wonen?""",1332
+Lapantouflemagic.Topentrancewatertightlodge_PowderStorage.DisplayName,Pit & Ladder Lodge (trekker + stapelopslag),1336
+Lapantouflemagic.Topentrancewatertightlodge_PowderStorage.Description,"Een middelgrote waterdichte lodge gebouwd rond een ladder, met een extra voorraadvloer.
+Beheert een opslagruimte voor stapels.
+Kan op zichzelf worden gestapeld, varianten, en kan geselecteerde gebouwen dragen.
+<color=#00FFFF>Werkt als dijk</color>",1337
+Lapantouflemagic.Topentrancewatertightlodge_PowderStorage.FlavorDescription,"""Heilige aanwijzer! Dat ontwerp hebben we jaren geleden besteld, het werd tijd!""
+ -Een geïrriteerde transportbever.",1338
+Lapantouflemagic.Crappyplatform_tunnel.DisplayName,Tunnelondersteuning waardeloos platform,1339
+Lapantouflemagic.Crappyplatform_tunnel.Description,"Voorkomt dat het dak van een tunnel instort, kan worden verwijderd als je zeker weet wat je doet.",1340
+Lapantouflemagic.Crappyplatform_tunnel.FlavorDescription,"""Wordt geleverd met extra verlichting om gruwel te voorkomen.""",1341
+Lapantouflemagic.primitivedamUtility.Description,"Een betere variant van de kruisvormige dam die de bever in de ene richting doorlaat en in de andere een aandrijfas bevat.
+Kan op een <color=green> kuil-en-ladderhut</color> worden geplaatst.",48
+Lapantouflemagic.primitivedam3x3Utilityupgrade.DisplayName,Upgrade van de nutsdam,940
+Lapantouflemagic.primitivedam3x3Utilityupgrade.Description,Een grotere dam gebouwd bovenop een vorige.,941
+Lapantouflemagic.primitivedam3x3Utilityupgrade.FlavorDescription,"Aanschouw de ongelooflijke kracht van stokken en lijm! En schroeven, planken, metalen balken en een goede planning natuurlijk.",942
+Good.ZiplineSystemBlueprint.DisplayName,Zipline-systeemblauwdruk,1342
+Good.ZiplineSystemBlueprint.PluralDisplayName,Blauwdrukken van het Zipline-systeem,1343
+Good.ZiplineSystemFancyBlueprint.DisplayName,Zipline-systeem Fancy Blueprint,1344
+Good.ZiplineSystemFancyBlueprint.PluralDisplayName,Zipline-systeem Fancy blauwdrukken,1345
+Lapantouflemagic.Woodupgrade_Zipline.Description,"Een upgrademodule die bovenop een uitbreidbare <color=#FFA500>Kleine Toren</color> (links) naast een gebouw met <color=#FF6EC7>driehoeksdak</color> (rechts) kan worden geplaatst
+Een snel transportsysteem waar geen enkele verstandige bever op zou moeten rijden.
+Heeft<color=green> 2 transporteurs</color> in dienst
+<color=green>Verbindingen: 4</color>
+<color=#00FFFF>Werkt als dijk</color>",1346
+Lapantouflemagic.ZiplineStation.FlavorDescription,"""Eh, lijkt me leuk!""
+-Opa Bever, laatste woorden",1347
+Lapantouflemagic.ZiplineBalloon.DisplayName,Drijvende Zipline-pyloon,1348
+Lapantouflemagic.ZiplineBalloon.Description,"Een ballon met de zipline-kabels tussen de stations.
+<color=green>Verbindingen: 3</color>",1349
+Lapantouflemagic.ZiplineBalloon.FlavorDescription,"""Blijf er niet onder liggen op winderige dagen.
+Wat? Nee! Het gaat niet vallen, je wilt gewoon niet overspoeld worden met kots.""",1350
+Lapantouflemagic.ZiplineUpgradePylon.DisplayName,Zipline-uitbreidingspyloon (grote boerderij),1351
+Lapantouflemagic.ZiplineUpgradePylon.Description,"Een mast die toegang biedt tot het ziplinenetwerk tot <color=green>grote boerderijen</color>.
+<color=green>Verbindingen: 1</color>
+<color=#FF6EC7>Om bovenop het boerderijlichaam te plaatsen.</color>",1352
+Lapantouflemagic.ZiplineUpgradePylon.FlavorDescription,"""Als je vrijwel direct toegang zou hebben tot het stadscentrum, wie zou dan niet midden op het platteland willen wonen?""
+-Mama bever",1353
+Good.PlantFibers.DisplayName,Plantaardige vezels,1354
+Good.PlantFibers.PluralDisplayName,Plantaardige vezels,1355
+Good.Rope.DisplayName,Touw,1356
+Good.Rope.PluralDisplayName,Touwen,1357
+Lapantouflemagic.Ropemaker.DisplayName,Touwslager,1361
+Lapantouflemagic.Ropemaker.Description,Maakt touw van plantenvezels,1362
+Lapantouflemagic.Ropemaker.FlavorDescription,Een populair beverentertainment is om willekeurige dingen in de spil te gooien en te zien hoe ze verpletterd worden.,1363
+Recipe.NormalRope.PluralDisplayName,Sneller touw,1364
+Lapantouflemagic.ZiplineTerminusBalloon.DisplayName,Terminal drijvende zipline-pyloon,1365
+Lapantouflemagic.ZiplineTerminusBalloon.Description,"Een ballon met de zipline-kabels tussen de stations.
+Geeft bevers toegang tot de vloer om te werken.
+<color=green>Verbindingen: 1</color>
+<color=red>Laat beweging toe, maar verbindt geen wegen.</color>",1366
+Lapantouflemagic.ZiplineTerminusBalloon.FlavorDescription,"""Het kan leuk zijn om vanaf hier in een meer te springen...""
+ -Toothless the Wise, oudere bever",1367
+Lapantouflemagic.ScavengerDen.DisplayName,Het autokerkhof van de schroothaler,1368
+Lapantouflemagic.ScavengerDen.Description,"Een extra grote papierversnipperaar die om voor de hand liggende redenen ook een huis is.
+Biedt aasbevers de perfecte plek om hun werk te plannen, hun uitrusting voor te bereiden en al het afval te recyclen dat die vervelende hoomans hebben achtergelaten.
+Geeft ook toegang tot het <color=green>zipline-netwerk</color> om het werkbereik te maximaliseren.
+<color=green>Verbindingen: 6</color>
+<color=#00FFFF>Werkt als dijk</color>
+<color=red>Kan vanaf de onderkant verbinding maken met een ladder of put-en-ladderhut.</color>",1369
+Lapantouflemagic.ScavengerDen.FlavorDescription,"""Houd er rekening mee dat verwondingen veroorzaakt door valkuilen, zwaaiende messen, rotsblokken en vergiftigde pijlen niet worden gedekt door de verzekeringsmaatschappij.
+Fijne opruimdag!""
+-Toiletherinneringsbord",1370
+Lapantouflemagic.Zipline_SmallTower.Description,"Een snelle en angstaanjagende manier van reizen.
+<color=#FFA500>Kleine toren</color>, <color=#FF6EC7>Kan upgrades ondersteunen</color>
+<color=green>Verbindingen: 2</color>
+<color=#00FFFF>Werkt als dijk</color>",1371
+Lapantouflemagic.Zipline_SmallTower.FlavorDescription,"""Een bankje een paar meter onder een paar bloempotten? Dit lijkt me de perfecte plek voor een... ongelukje.""
+-Jack the Gnawer, rapport openbare veiligheid.",1372
+Reciepe.ZiplineSystemDuplication.DisplayName,Zipline-systeem,1373
+Lapantouflemagic.SmallAquiferPump.DisplayName,Kleine watervoerende laagpomp,522
+Lapantouflemagic.SmallAquiferPump.Description,"Een pervers apparaat dat mysterieuze krachten gebruikt om water uit de grond te halen.
+Wordt beïnvloed door droogte, maar niet door slechte getijden.
+Te plaatsen bovenop twee aangrenzende gebouwen met <color=#FF6EC7>driehoeksdak</color>.
+<color=#00FFFF>Werkt als dijk</color>",523
+Lapantouflemagic.SmallAquiferPump.FlavorDescription,"""Er staat in de gebruikershandleiding dat alleen een eenpotige koperkleurige bever, dansend onder de volle maan in het midden van twaalf Ironteeth-beeldjes gewikkeld in kool, de beveiligingscache mag openen en de startknop kan indrukken.
+ -Een zeer goedgelovige waterpompbever.",524
+Lapantouflemagic.BIGAquiferPump.DisplayName,Grote watervoerende laagpomp,829
+Lapantouflemagic.BIGAquiferPump.Description,"Een duivelse machine van hekserij, die de aarde martelt voor steeds meer water, aangedreven door de Pointer weet wat.",830
+Lapantouflemagic.BIGAquiferPump.FlavorDescription,"""Als we het bovenop een vulkaan bouwen, zou er dan lava naar buiten komen?""
+ -Een architectenbever",831
+Good.Sandals.DisplayName,Sandalen,1374
+Good.Sandals.PluralDisplayName,Sandalen,1375
+Good.Satchel.DisplayName,Schooltas,1376
+Good.Satchel.PluralDisplayName,Boekentassen,1377
+Good.Pillow.DisplayName,Ijzig kussen,1378
+Good.Pillow.PluralDisplayName,Ijzige kussens,1379
+Lapantouflemagic.Seamstress.DisplayName,Naaister loge,1380
+Lapantouflemagic.Seamstress.Description,"Produceert verschillende items die het leven van een bever beter maken.
+<color=#FFA500>Kleine toren</color>, <color=#FF6EC7>Kan upgrades ondersteunen</color>
+<color=#00FFFF>Werkt als dijk</color>",1381
+Lapantouflemagic.Seamstress.FlavorDescription,"""Ze zeiden dat het zo hoog moet zijn om 'de kussens te testen', wat dat ook betekent.""
+-Een verwarde bouwbever",1382
+Lapantouflemagic.DoubleRopestairs.DisplayName,Dubbele touwtrap,1383
+Lapantouflemagic.DoubleRopestairs.Description,"Maakt toegang tot verhoogde ruimtes mogelijk zonder dat er ondersteuning direct eronder nodig is.
+De steunvoxels aan beide uiteinden kunnen geen zijplatform of een andere touwtrap accepteren.",1384
+Lapantouflemagic.DoubleRopestairs.FlavorDescription,'Houd je poten op het geleidetouw en je ogen omhoog!',1385
+Lapantouflemagic.GiantPillar.DisplayName,Gigantische pijler,713
+Lapantouflemagic.GiantPillarbase.Description,"Een halve sequoia stak terug in de grond om als ondersteuning voor andere dingen te dienen. 
+Er kunnen zijplatforms aan worden bevestigd.",714
+Lapantouflemagic.GiantPillar.FlavorDescription,Dat is één groot blok!,715
+Lapantouflemagic.GiantPillarbase.DisplayName,Gigantische pijler (basis),1386
+Lapantouflemagic.GiantPillar.Description,"Een halve sequoia heeft op artistieke wijze in een andere gezet om hem uit te breiden. 
+Er kunnen zijplatforms aan worden bevestigd.",1387
+Lapantouflemagic.GrandDam.DisplayName,Grote Dam,1388
+Lapantouflemagic.GrandDam.Description,"Een gedurfd damontwerp, losjes gebaseerd op traditionele woningbouw.
+Pompt autonoom.
+Verbruikt planken voor onderhoud.
+<color=#00FFFF>Werkt als dijk</color>
+<color=red>Er moet stroom worden geleverd vanaf de zijkanten van de kleine bouwplaatsvlag</color>",1389
+Lapantouflemagic.GrandDam.FlavorDescription,"""Dus... strikt genomen is het damgedeelte... niet het huis? Ik weet niet of dat een briljant idee is, of dat ik de Gesta-poot moet bellen...""
+-De expeditieleider",1390
+Lapantouflemagic.8WayCorneroverhang.DisplayName,Gigantisch pijlerringplatform,1391
+Lapantouflemagic.8WayCorneroverhang.Description,"Een loopbrug die rond een gigantische pilaar moet worden geïnstalleerd, waardoor je om de hoeken van het aquaduct kunt navigeren.",1392
+Lapantouflemagic.8WayCorneroverhang.FlavorDescription,"""Bedankt, ik haat het.""
+-een bever die lijdt aan hoogtevrees",1393
+Lapantouflemagic.ClockWorkKitchen.DisplayName,Uurwerk keuken,1397
+Lapantouflemagic.ClockWorkKitchen.Description,"Een complex apparaat dat mechanische kracht en rauw voedsel op meesterlijke wijze omzet in smakelijke dingen. 
+Af en toe breekt er een tandwiel.
+Af en toe kookt een bever.
+<color=red>Er moet stroom worden geleverd vanaf de onderkant van de kleine bouwplaatsvlag</color>",1398
+Lapantouflemagic.ClockWorkKitchen.FlavorDescription,"'Nog steeds veiliger dan Mathilda.'
+ -Toothless the Wise, oudere bever",1399
+Need.CWKitchDeath.DisplayName,Levend gekookt!,1400
+Need.CWKitchDeath.DeathMessage,<color=green>werd per ongeluk door de tang van de robot gegrepen en heerlijk doodgekookt. De stoofpot was vanavond bijzonder lekker.</color>,1401
+Lapantouflemagic.OverhangSquewer_Short.DisplayName,Squewer-platform (kort),1402
+Lapantouflemagic.OverhangSquewer_Short.Description,"Een zijplatform dat tussen gebouwen of tussen verdiepingen kan worden geplakt.
+<color=red>Meerdere zijplatforms of bruggen kunnen niet dezelfde ondersteuning delen</color>",1403
+Lapantouflemagic.OverhangSquewer_Long.DisplayName,Squewer-platform (lang),1404
+Lapantouflemagic.OverhangSquewer_Long.Description,"Een zijplatform dat tussen gebouwen of tussen verdiepingen kan worden geplakt.
+Kan eenmalig op zichzelf worden uitgebreid.
+<color=red>Meerdere zijplatforms of bruggen kunnen niet dezelfde ondersteuning delen</color>",1405
+Lapantouflemagic.PowerShaft_Stackable_HorizontalT.Whitepaws.DisplayName,Horizontale T-kruising aandrijfas,taken from Emberpelts Faction
+Building.PowerShaftUpward.DisplayName,Opwaartse aandrijfas,1407
+Building.PowerShaftDownward.DisplayName,Neerwaartse aandrijfas,1408
+Good.Apple.DisplayName,Appel,1409
+Good.Apple.PluralDisplayName,Appels,1410
+Lapantouflemagic.KABOOM.DisplayName,Kaboem?,1411
+Lapantouflemagic.BalloonLandingPad.DisplayName,Ballonhandelaar landingsplatform,a1
+Lapantouflemagic.BalloonLandingPad.Description,"Een zeer grote toren, ontworpen om ballonhandelaren veilig te laten landen en wegvliegen.
+<color=red>Verbruikt methaan om de ballonnen van stroom te voorzien.</color>",a3
+Lapantouflemagic.BalloonLandingPad.FlavorDescription,"‘Niemand weet wat dat symbool bovenaan betekent, maar het moet er zijn, dat is de regel.
+-een IronTeeth-ballonhandelaar""",a4
+Need.Balloon.DisplayName,Ballon,a5
+Lapantouflemagic.BalloonGroup.DisplayName,Handel in ballonnen,a6
+Lapantouflemagic.ScoutBalloon.DisplayName,Scoutingballon,a8
+Lapantouflemagic.ScoutBalloon.Description,"Een eenvoudige heteluchtballon met als taak het verkennen van de landen buiten onze stad, op zoek naar andere nederzettingen om handelsroutes mee aan te leggen.",a9
+Lapantouflemagic.ScoutBalloon.FlavorDescription,"""Ik geloof dat ik kan vliegen~""",a10
+Lapantouflemagic.AmpTrader.DisplayName,Handel met de AmpEars,a11
+Lapantouflemagic.AmpTrader.Description,"De AmpEars zijn nog ergere ketters dan de IronTeeth: ze hebben zich toegelegd op het bestuderen van hooman-technologieën en zijn op de een of andere manier tot de conclusie gekomen dat diep in het water zitten gevaarlijk is in de buurt van machines of andere onzin. Ze zijn bereid hun elektrische dingetjes te ruilen waarvan ze doen alsof ze ze begrijpen, maar slechts een paar daarvan zijn onze tijd waard. Ze noemen ons ook steeds ''de WetButts'', dus houd in de gaten waar ze wonen, zodat we de trebuchet goed kunnen richten.",a12
+Lapantouflemagic.AmpTrader.FlavorDescription,"""Ik zal baaaaack zijn!""",a13
+Lapantouflemagic.PawsTrader.DisplayName,Handel met andere WhitePaws,a14
+Lapantouflemagic.PawsTrader.Description,"Onze expeditie is niet de eerste, noch de laatste die vanuit ons thuisland is gestuurd. Als we andere nederzettingen van onze soort kunnen vinden, zouden dat goede handelspartners zijn, aangezien geen van de andere wilden die we hebben ontmoet een ook maar halfwaardige stoofpot kan maken.",a15
+Lapantouflemagic.PawsTrader.FlavorDescription,"""Neeee! Ik word ontvoerd door hoomaaaaaaans!""",a16
+Lapantouflemagic.IslandTrader.DisplayName,Handel met de IslandBeavers,a17
+Lapantouflemagic.IslandTrader.Description,"Eilandbevers zijn luie hippies die hun dagen doorbrengen met feesten op het strand en in niets geïnteresseerd zijn dat niet leuk is. Het goede is dat we ze gemakkelijk vervaardigde producten kunnen verhandelen, omdat ze niet de moeite nemen om hun eigen producten te maken, maar aan de andere kant hebben ze niet veel dingen om ons in ruil te geven, misschien wat glimmende rommel en zout, dat ons de moeite zal besparen om het te delven.",a18
+Lapantouflemagic.IslandTrader.FlavorDescription,"""Ja hoor!""",a19
+Lapantouflemagic.PolarTrader.DisplayName,Handel met de PolarBeavers,a20
+Lapantouflemagic.PolarTrader.Description,"De rustieke ijsbevers leven in en verkennen de ruïnes van een vreemde bevroren cirkelvormige hoomanstad. Ze zouden hun eigen moeders als slaaf verkopen in ruil voor die ‘stenen die altijd warm zijn’ waarvan we vrijwel zeker weten dat ze niet echt bestaan. Anders zullen ze voedsel of steenkool willen, en zullen ze ons maar al te graag zoveel ijs en rommel geven als we kunnen opstijgen. Tenzij je het soort zieke bent die graag hoomanresten verzamelt.",a21
+Lapantouflemagic.PolarTrader.FlavorDescription,"""Ik ben bang voor heeiiiiiiiights!""",a22
+Lapantouflemagic.IronTrader.DisplayName,Handel met de IronTeeth,a23
+Lapantouflemagic.IronTrader.Description,"De Ironteeth zijn gepassioneerd door alles wat met industrie te maken heeft, en ze hebben eigenlijk een hekel aan handel, vooral in hun koffie. Gelukkig kunnen ze een goede industriële uitdaging niet weerstaan, dus iets dat op bestelling wordt gemaakt en heel moeilijk te doen is, zou hun interesse kunnen wekken. Ze lijken onze gefabriceerde producten te waarderen, maar kunnen ze niet maken omdat ze ''niet aan zachte industrie doen'', wat dat ook betekent. Zij zijn ook de enigen die je serieus zullen nemen als je om betaling vraagt.",a24
+Lapantouflemagic.IronTrader.FlavorDescription,"""Hoe krijg ik dit gedoe zelfs onder controle!?""",a25
+Lapantouflemagic.FolkTrader.DisplayName,Handel met de Volkstaarten,a26
+Lapantouflemagic.FolkTrader.Description,"Onze neven, de Volkstaarten, houden van een eenvoudig leven, grotendeels gevuld met landbouw, dansen en lekker eten. Ze kunnen ons zaden geven voor een aantal interessante nieuwe plantensoorten. Maar als je ze iets geweldigs meebrengt, kunnen ze je misschien kennis laten maken met hun rare geheime hobby.",a27
+Lapantouflemagic.FolkTrader.FlavorDescription,"""Ik vliegiiii!""",a28
+Lapantouflemagic.ForeignFood.DisplayName,Buitenlandse gerechten,a32
+Lapantouflemagic.ForeignFood.PluralDisplayName,Buitenlandse gerechten,a33
+Lapantouflemagic.TradeBalloon.ToggleEntry,Handel:,a34
+Lapantouflemagic.EmberTrader.DisplayName,Handel met de Sinterpels,a35
+Lapantouflemagic.EmberTrader.Description,"Nog een stam van smerige ketters, wie had dat ooit gedacht? Die jongens hebben een ongezonde obsessie met vuur ontwikkeld en hebben een hekel aan nat worden. Dat doet de vraag rijzen hoe ze ooit baden, maar laten we niet te veel ongemakkelijke vragen stellen. Ze hebben een paar gigantische bomen, maar willen ons niet vertellen hoe we ze moeten laten groeien, en hun appels zijn om van te smullen. Breng terug wat je kunt.",a36
+Lapantouflemagic.EmberTrader.FlavorDescription,"""Nee! Niet op deze manier! Niet op deze manier!""",a37
+Lapantouflemagic.LeafTrader.DisplayName,Handel met de Leafcoats,a38
+Lapantouflemagic.LeafTrader.Description,"De Leafcoats zijn, bij gebrek aan een betere term, gekken. Het is onduidelijk of ze daadwerkelijk bladeren laten groeien of dat ze deze elke ochtend gewoon opplakken. Hoe dan ook, ze hebben een hekel aan het doden van planten en zijn beledigd als je hen om dergelijke producten vraagt, maar ze nemen graag de onze, dus ook zij zijn hypocrieten. Hoe dan ook, onze hersenkrakers willen de prachtige gloeiende insecten bestuderen die in hun land leven. probeer ons wat terug te brengen.",a39
+Lapantouflemagic.LeafTrader.FlavorDescription,"""Jij raakt mij niet kwijt, ik doe jou weg!""",a40
+Need.GeneticEnhancement.DisplayName,Somatische DNA-verbetering,1414
+Lapantouflemagic.HoomanMedicalFacility.DisplayName,Hooman Medical Facility Reactiveringsteam,1415
+Lapantouflemagic.HoomanMedicalFacility.Description,"Reactiveert een hooman-medische faciliteit van onbegrijpelijke complexiteit.
+<color=#FF6EC7>Hoe kan een zo geavanceerde soort uitsterven ? Dit apparaat kan ons lichaam verbeteren, ons sterker, sneller en gezonder maken en kan vrijwel alles genezen !</color>",1416
+Lapantouflemagic.HoomanMedicalFacility.FlavorDescription,"""Dood je vijanden niet... overleef ze!""
+-Oude hooman-motivatieposter",1417
+Lapantouflemagic.RuinsTour.DisplayName,Hooman ruïnes-tour,1418
+Lapantouflemagic.BeaverCafe.DisplayName,Theehut en terras,1419
+Knatte.Subgroup_MGPiles.DisplayName,Stapels,K1
+Knatte.Subgroup_MGWarehouses.DisplayName,Magazijnen,K2
+Knatte.Subgroup_MGTanks.DisplayName,Tanks,K3
+Knatte.Subgroup_MGDynamite.DisplayName,Dynamieten,K4
+Knatte.Subgroup_MGBridges.DisplayName,Hangbruggen,K5
+Knatte.Subgroup_MGPlatforms.DisplayName,Platformen,K6
+Knatte.Subgroup_MGStaircase.DisplayName,Trappen,K7
+ToolGroups.Billboards,Meestal nuttige reclameborden,-
+Lapantouflemagic.Billboard.Description,Een zeker nuttige boodschap om weer te geven,-
+Lapantouflemagic.VitalBillboard.Description,Eigenlijk belangrijke belangrijke informatie voor de Witpootjes,-
+Lapantouflemagic.BadorderBoard.DisplayName,Verkeerde volgorde,-
+Lapantouflemagic.GoodorderBoard.DisplayName,Juiste volgorde,-
+Lapantouflemagic.AwfulBoard.DisplayName,Over vreselijke stoofpot,-
+Lapantouflemagic.Watertight1Board.DisplayName,Waterdichtheid van gebouwen,-
+Lapantouflemagic.PileplatformBoard.DisplayName,Dat kun je doen,-
+Lapantouflemagic.MathBoard1.DisplayName,Hoe je niet moet verhongeren,-
+Lapantouflemagic.MathBoard2.DisplayName,Hoe je niet van de dorst omkomt,-
+Lapantouflemagic.ShaftBoard.DisplayName,Hoe stroom aan te sluiten,-
+Lapantouflemagic.FarmUpgradeBoard.DisplayName,Boerderij-upgradebord,-
+Lapantouflemagic.WaterpumpUpgradeBoard.DisplayName,Upgradebord voor waterpomp,-
+Lapantouflemagic.MediumMineBoard.DisplayName,Middelgroot mijnbord,-
+Lapantouflemagic.Billboard1.DisplayName,Te gemakkelijk?,-
+ToolGroup.HaulersHouses.DisplayName,Hauler loges,1420
+ToolGroup.BuildersHouses.DisplayName,Bouwersloges,1421
+ToolGroup.StorageHouses.DisplayName,Opslag lodges,1422
+Toolgroup.Flags.DisplayName,Vlaggen,1423
+ToolGroup.Gathering.DisplayName,Bijeenkomst,1424
+ToolGroup.Farms.DisplayName,Boerderijen,1425
+ToolGroup.Cooking.DisplayName,Koken,1426
+Toolgroup.Logging.DisplayName,Loggen,1427
+Toolgroup.Mining.DisplayName,Mijnbouw,1428
+Toolgroup.Nuclear.DisplayName,Kernenergie,1429
+Toolgroup.Aqueducts.DisplayName,Aquaducten,1430
+ToolGroups.WaterandBadWater,Water & Badwater,1431
+Lapantouflemagic.BadPlank.Reciepe,Tandgesneden planken,1432
+Lapantouflemagic.ModularUpgradeBoard.DisplayName,Upgrade Modulebord,1433
+Lapantouflemagic.SteelBoard.DisplayName,Aambeeld reproductiebord,1434
+Lapantouflemagic.GiantLogBridge4.DisplayName,Gigantische boomstambrug,1435
+Good.Mushrooms3.PluralDisplayName,Supersnelle champignons,1436
+Lapantouflemagic.BachelorInHoomanities.DisplayName,Bachelor in Hoomaniteiten,1437
+Lapantouflemagic.NEWEngine.DisplayName,Methaanmotor,1438
+Lapantouflemagic.ElevatedRoof1x1Corner.DisplayName,Overdekte loopbrug (hoek),1439
+Lapantouflemagic.ElevatedRoof1x1Corner.Description,"Een overdekte loopelleboog, zonder lampen.",1440
+Lapantouflemagic.ElevatedRoof1x1.DisplayName,Overdekte loopbrug (Mini),1440
+Lapantouflemagic.ElevatedRoof1x1Stair.DisplayName,Overdekte loopbrug (trap),1440
+Lapantouflemagic.ElevatedRoof1x1Stair.Description,Een klein overdekt loopbrugsegment dat op een trap gaat.,1440
+Lapantouflemagic.ElevatedRoof1x1.Description,"Een klein overdekt loopbrugsegment, zonder lampen.",1440
+Lapantouflemagic.ElevatedRoof1x3_ALT.DisplayName,Overdekte loopbrug (zigzag),1441
+Lapantouflemagic.ElevatedRoof1x3.DisplayName,Overdekte loopbrug (kruispunt),1441
+Lapantouflemagic.ElevatedRoof1x3.Description,"Een overdekte loopbrug, voorzien van lampen",1442
+Lapantouflemagic.ElevatedRoof1x4.DisplayName,Overdekte loopbrug (lang),1443
+Lapantouflemagic.IncenseBurner.DisplayName,Aromatische brander,1446
+Lapantouflemagic.IncenseBurner.Description,Een klein voetstuk waarop Brain Boosting Salts langzaam worden verbrand vanwege hun geur.,1447
+Lapantouflemagic.IncenseBurner..FlavorDescription,"""Het is slechts een kwestie van tijd voordat een of andere idioot zijn snuit er rechtstreeks in stopt...""",1448
+Lapantouflemagic.GigargantuanTank.DisplayName,Gigantische tank,1449
+Lapantouflemagic.GigargantuanTank.Description,Een vloeistofopslagtank van epische proporties.,1450
+Lapantouflemagic.GigargantuanTank.FlavorDescription,"""Eindelijk kan mijn droom om in Kimchi te zwemmen uitkomen!""
+- Mathilda de krankzinnige kokkin",1451
+Good.LyophilizedArtificialNaturalDirtBlock.DisplayName,Synthetisch gevriesdroogd vuilblok,1452
+Good.LyophilizedArtificialNaturalDirtBlock.PluralDisplayName,Synthetische gevriesdroogde vuilblokken,1453
+Lapantouflemagic.primitivedamupgradeMK3.DisplayName,Gigantische boomstamdam,1454
+Lapantouflemagic.primitivedamupgradeMK3.Description,"Een nog hogere dam, voortbouwend op de vorige upgrade",1455
+Lapantouflemagic.primitivedamupgradeMK3.FlavorDescription,"""Nu begin ik te geloven dat we niet allemaal zullen sterven.""
+- Een sceptische bever",1456
+Good.GiantLogDamBlueprint.PluralDisplayName,Blauwdruk van de gigantische boomstamdam,1457
+Good.GiantLogDamBlueprint.DisplayName,Blauwdrukken van gigantische boomstammen,1458
+Good.GiantLogDamFancyBlueprint.PluralDisplayName,"Gigantische boomstamdam, mooie blauwdruk",1459
+Good.GiantLogDamFancyBlueprint.DisplayName,"Gigantische boomstammen, fraaie blauwdrukken",1460
+Building.LyophilizedTerrainBlock.DisplayName,Gereconstitueerd gevriesdroogd vuilblok,1461
+Lapantouflemagic.LyophilizedTerrainBlock.Description,Een synthetisch terreinblok geproduceerd door bevers om hun omgeving efficiënt te hervormen.,1462
+Lapantouflemagic.Calculatorium.DisplayName,Rekenmachine,1463
+Lapantouflemagic.Calculatorium.Description,"Een administratief gebouw waar bevers informatie centraliseren en passende bevelen geven, waardoor directe actie niet nodig is.",1464
+Lapantouflemagic.Calculatorium.FlavorDescription,"""Open de kranen! Stop de waterpompen! LAAT DE KRAKEN LOS!""",1465
+Recipe.BerryWine.DisplayName,Bessenwijn,1466
+Lapantouflemagic.Smallcookhouse.FlavorDescription,"Kleine bouwpakketten die door de vloer vallen vallen niet onder onze verantwoordelijkheid, stuur je klachten alstublieft naar de architecten.",1467
+Lapantouflemagic.SmallForge.DisplayName,Smederij,1468
+Lapantouflemagic.SmallForge.Description,"Een goede houtkap voor een aambeeld, en de bevers die het gebruiken.
+Heeft een <color=#FF6EC7>driehoeksdak</color>, <color=#FF6EC7>Kan upgrades ondersteunen</color>
+<color=#00FFFF>Werkt als dijk</color>",1469
+Lapantouflemagic.SmallForge.FlavorDescription,"""Bam! Eén voor papa. Pow! Eén voor mama. Wham! Eén recht in Bobby's tanden...""",1470
+Lapantouflemagic.GnawingHall.DisplayName,Knaagzaal,1471
+Lapantouflemagic.GnawingHall.Description,"Een langwerpig huis waarin we aan bomen knagen, voor ons plezier of uit noodzaak.
+Heeft een <color=#FF6EC7>driehoeksdak</color>, <color=#FF6EC7>Kan upgrades ondersteunen</color>
+<color=#00FFFF>Werkt als dijk</color>",1472
+Lapantouflemagic.GnawingHall.FlavorDescription,"""Wij praten niet met volle mond!""",1473
+Lapantouflemagic.FrostyWhiskers.ICE_Blockage.DisplayName,IJsblokkering,FW2
+Lapantouflemagic.FrostyWhiskers.ICE_Blockage.Description,Een stapel bevroren puin,FW3
+Lapantouflemagic.FrostyWhiskers.ICE_Blockage.FlavorDescription,"""Smaakt niet eens lekker. Ook niet slecht. Eigenlijk ook niets.""",FW4
+Lapantouflemagic.FrostyWhiskers.ICE_Slope.DisplayName,IJs helling,FW5
+Lapantouflemagic.FrostyWhiskers.ICE_Slope.FlavorDescription,Een hoop puin dat als trap kan dienen,FW6
+Lapantouflemagic.FrostyWhiskers.LargeCrystal_3x3Cross.DisplayName,Enorm kristal,FW7
+Lapantouflemagic.FrostyWhiskers.LargeCrystal_3x3Cross.Description,Een zeer grote kristalformatie die geoogst kan worden,FW8
+Lapantouflemagic.FrostyWhiskers.LargeCrystal_3x3Cross.FlavorDescription,"""Ziet er cool uit! Ik bedoel, het ziet er erg koud uit.""",FW9
+Lapantouflemagic.Cristal_Large.FrostyWhiskers.DisplayName,Groot kristal,FW10
+Lapantouflemagic.Cristal_Large.FrostyWhiskers.FlavorDescription,‘Laten we die in de buurt houden…’,FW11
+Lapantouflemagic.Cristal_Medium.FrostyWhiskers.DisplayName,Middelmatig kristal,FW12
+Lapantouflemagic.Cristal_Medium.FrostyWhiskers.FlavorDescription,"""Meh, we zullen later uitzoeken wat we ermee moeten doen.""",FW13
+Lapantouflemagic.Cristal_Small.FrostyWhiskers.DisplayName,Klein kristal,FW14
+Lapantouflemagic.Cristal_Small.FrostyWhiskers.FlavorDescription,"""Smelt dit afval gewoon...""",FW15
+Need.Cold.DisplayName,Koud,FW16
+Need.Cold.CriticalDescription,Deze bever is koud en kan doodvriezen.,FW17
+Need.Cold.CriticalDescriptionShort,Bever bevriest!,FW18
+Lapantouflemagic.Cold.DeathMessage,Doodgevroren.,FW19
+Lapantouflemagic.Network.DisplayName,Netwerk,FW20
+Need.Network.CriticalDescription,Deze Bot bevindt zich buiten bereik van het netwerk !,FW21
+Need.Network.CriticalDescriptionShort,Bot buiten bereik !,FW22
+Good.Fish.DisplayName,Vis,FW23
+Good.Fish.PluralDisplayName,Vissen,FW24
+Tutorial.Tutorial.WelcomeText.FrostyWhiskers,"Ontwaak, controleur!
+
+Reactor mislukt.
+
+Brandstoftoevoer cruciaal.
+
+Zelfvernietiging ingeschakeld.
+
+Het vrijgeven van nooddrones. 
+
+Ontdooiende overlevenden (31147 overgebleven).
+
+Basiskannibalisatie toegestaan.
+
+
+Missie: essentiële infrastructuur naar buiten overbrengen.",FW25
+Tutorial.Tutorial.FrostyWhiskers_Text1.FrostyWhiskers,"Stap één: Verzamel hulpbronnen uit de omgeving.
+
+Dennen gedetecteerd; Breng hars naar de bunker voor omzetting in plastic
+
+Oogst andere hulpbronnen om het personeelsbestand te bezetten als het inactief is.",FW26
+Tutorial.Tents.FrostyWhiskers,Temperatuur kritisch!,FW26.1
+Tutorial.Tutorial.FrostyWhiskers_Tents.FrostyWhiskers,"Waarschuwing !
+
+Temperatuur kritisch!
+
+Personeel in gevaar !
+
+Noodopvang voorbereiden.",FW26.2
+Tutorial.Tutorial.FrostyWhiskers_Text2.FrostyWhiskers,"Stap twee: Olie en zwavel zijn op lange termijn nodig.
+
+Explosieven op voorraad. Begin zo snel mogelijk met opgraven. Geef geen prioriteit meer.",FW27
+Tutorial.Tutorial.FrostyWhiskers_Text3.FrostyWhiskers,"Stap drie: Metaalbronnen vereist.
+
+Bodemrijk, vernietiging van het milieu aanbevolen.",FW28
+Tutorial.Tutorial.FrostyWhiskers_Text4.FrostyWhiskers,"Stap vier: Herstel minimale elektriciteits- en computerkracht.
+
+Verdrijving van kernafval vereist, Synthetizer verstopt.",FW29
+Tutorial.Tutorial.FrostyWhiskers_Text5.FrostyWhiskers,"Het aftellen van zelfvernietiging is onomkeerbaar! Noodgeval !
+
+Plaats een aanvullende netwerktoren en laadstation.
+
+Drones zijn missiekritisch. Biologische stoffen zijn dat niet.",FW30
+Tutorial.Tutorial.FrostyWhiskers_Text6.FrostyWhiskers,"Overname van essentiële functies door machinehersenen voltooid.
+
+Herstel productiemogelijkheden.
+
+Nanomachines vereist voor Bot-onderhoud.",FW31
+Tutorial.Tutorial.FrostyWhiskers_Text7.FrostyWhiskers,"Overleving tijdelijk bereikt, centrale AI reageert niet.
+
+Overleven.",FW32
+Faction.FrostyWhiskers.DisplayName,De ijzige snorharen,FW33
+Faction.FrostyWhiskers.Description,"<color=red> !!! ACTIVEER DE TUTORIAL !!!</color>
+Robots ontwaken uit hun diepe slaap. 
+De wereld is bedekt met ijs.
+Schoon water is nog steeds niets meer dan een vluchtige illusie.
+Je bestaan ​​is in gevaar.
+
+Bio-bevers zijn nuttige arbeidskrachten, maar de bots zijn hier de belangrijkste spelers.
+Lukt het jou om dit bevroren landschap te overleven?
+<color=red> !!! ACTIVEER DE TUTORIAL !!!</color>
+
+
+
+<color=black>Bedankt aan Grauschweif voor de aangepaste scripts!
+Sommige texturen/afbeeldingen zijn herwerkt door ChatGPT.
+De meeste iconen zijn afkomstig van Flaticon.com of handgemaakt door mij</color>",FW34
+Lapantouflemagic.AutoChemicalLab.FrostyWhiskers.DisplayName,Autochemisch laboratorium,FW35
+Lapantouflemagic.BrokenGround.FrostyWhiskers.DisplayName,Gebroken grond,FW36
+Lapantouflemagic.BotFactoryTent.FrostyWhiskers.DisplayName,Bot Fabriekstent,FW37
+Lapantouflemagic.Bunker.FrostyWhiskers.DisplayName,Bunker,FW38
+Lapantouflemagic.ChemistryTent.FrostyWhiskers.DisplayName,Chemie tent,FW39
+Lapantouflemagic.Corrosion.DisplayName,Corrosie,FW40
+Lapantouflemagic.Despair.DisplayName,Wanhoop,FW41
+Lapantouflemagic.ElectricCampNOTfire.DisplayName,Elektrisch Kamp-niet-vuur,FW42
+Lapantouflemagic.ElectricRails_Flat_Universal.FrostyWhiskers.DisplayName,Horizontale elektrische rails,FW43
+Lapantouflemagic.ElectricRails_Stackable_Universal.FrostyWhiskers.DisplayName,Universele elektrische rails,FW44
+Lapantouflemagic.Fabricator.FrostyWhiskers.DisplayName,Fabrikant,FW45
+Lapantouflemagic.FishingFlag.FrostyWhiskers.DisplayName,Visserij vlag,FW46
+Lapantouflemagic.Flag_DistrictCenter.FrostyWhiskers.DisplayName,Vlag van het districtscentrum,FW47
+Lapantouflemagic.Flag_Farmer.FrostyWhiskers.DisplayName,Boerenvlag,FW48
+Lapantouflemagic.Flag_Forester.FrostyWhiskers.DisplayName,Boswachter vlag,FW49
+Lapantouflemagic.Gnawingtent.FrostyWhiskers.DisplayName,Knagende tent,FW50
+Lapantouflemagic.GroundHeatingRail.DisplayName,Grondverwarmingsrail,FW51
+Lapantouflemagic.ICE_Stairs.FrostyWhiskers.DisplayName,IJstrappen,FW52
+Lapantouflemagic.ICE_Stairs_Spiral.FrostyWhiskers.DisplayName,IJstrappenspiraal,FW53
+Lapantouflemagic.Ice_Crenellations_Corner.FrostyWhiskers.DisplayName,Hoek van ijskantelen,FW54
+Lapantouflemagic.Ice_Crenellations_Deadend.FrostyWhiskers.DisplayName,Deadend van ijskantelen,FW55
+Lapantouflemagic.Ice_Crenellations_Straight.FrostyWhiskers.DisplayName,IJskantelen rechtdoor,FW56
+Lapantouflemagic.Ice_Crenellations_Straight_Double.FrostyWhiskers.DisplayName,IJskanteling Recht Dubbel,FW57
+Lapantouflemagic.Ice_Crenellations_Straight_Stairs.FrostyWhiskers.DisplayName,IJskantelen Rechte trap,FW58
+Lapantouflemagic.Ice_FloorPanel.FrostyWhiskers.DisplayName,IJsvloerpaneel,FW59
+Lapantouflemagic.Ice_WallPanel.FrostyWhiskers.DisplayName,IJswandpaneel,FW60
+Lapantouflemagic.LargeIceStorage.FrostyWhiskers.DisplayName,Grote ijsopslag,FW61
+Lapantouflemagic.LogStack.FrostyWhiskers.DisplayName,Logstapel,FW62
+Lapantouflemagic.MachineBrain_Large.FrostyWhiskers.DisplayName,Groot machinebrein,FW63
+Lapantouflemagic.MachineBrain_Medium.FrostyWhiskers.DisplayName,Middelgrote machinebrein,FW64
+Lapantouflemagic.Mine.FrostyWhiskers.DisplayName,De mijne,FW65
+Lapantouflemagic.NetWorkTower.FrostyWhiskers.DisplayName,Netwerk Toren,FW66
+Lapantouflemagic.NuclearWaste_LayingThere.FrostyWhiskers.DisplayName,Kernafval,FW67
+Lapantouflemagic.OilDrill.FrostyWhiskers.DisplayName,Olie boor,FW68
+Lapantouflemagic.OilGenerator.FrostyWhiskers.DisplayName,Oliegenerator,FW69
+Lapantouflemagic.OilWell.FrostyWhiskers.DisplayName,Oliebron,FW70
+Lapantouflemagic.OilWell_Natural.FrostyWhiskers.DisplayName,Natuurlijke oliebron,FW71
+Lapantouflemagic.PrimitiveIronworks.FrostyWhiskers.DisplayName,Primitieve ijzerfabriek,FW72
+Lapantouflemagic.RepairStation.FrostyWhiskers.DisplayName,Reparatiestation,FW73
+Lapantouflemagic.Repairs.DisplayName,Reparaties,FW74
+Lapantouflemagic.SadSoup.DisplayName,Trieste soep,FW75
+Lapantouflemagic.SadSoup.PluralDisplayName,Trieste soep,FW76
+Lapantouflemagic.SleepingTent.FrostyWhiskers.DisplayName,Slaaptent,FW77
+Lapantouflemagic.SmallIceStorage.FrostyWhiskers.DisplayName,Kleine ijsopslag,FW78
+Lapantouflemagic.SmallMachineBrain.FrostyWhiskers.DisplayName,Kleine machinehersenen,FW79
+Lapantouflemagic.SteamVentMiningSite.FrostyWhiskers.DisplayName,Mijnsite voor stoomventilatie,FW80
+Lapantouflemagic.StripMining.FrostyWhiskers.DisplayName,Stripmijnbouw,FW81
+Tutorial.Basics.FrostyWhiskers,Missie,FW82
+Tutorial.Tutorial.FrostyWhiskers,Handleiding,FW83
+GeothermalVentExcavation.FrostyWhiskers.DisplayName,Opgraving van geothermische ventilatieopeningen,FW84
+Building.AncientOilDrill.DisplayName,Oude olieboor,FW85
+Building.BuildersFlag.DisplayName,Bouwers vlag,FW86
+Building.ICEWall.DisplayName,IJsmuurblok,FW87
+Toolgroup.ExplosivesETC.DisplayName,Opgraving,FW88
+Toolgroup.Heat.DisplayName,Warmte,FW89
+Toolgroup.RobotBuildings.DisplayName,Robotgebouwen,FW90
+Toolgroup.Tents.DisplayName,Tenten,FW91
+Good.Bug.DisplayName,Beestje,FW92
+Good.Bug.PluralDisplayName,Beestje,FW93
+Good.Cabbage.DisplayName,Kool,FW94
+Good.CarbonFiber.DisplayName,Koolstofvezels,FW95
+Good.CarbonFiber.PluralDisplayName,Koolstofvezels,FW96
+Good.CopperBar.DisplayName,Koperen staaf,FW97
+Good.CopperBar.PluralDisplayName,Koperen staven,FW98
+Good.CopperNuggets.DisplayName,Koperen nugget,FW99
+Good.CopperNuggets.PluralDisplayName,Koperklompjes,FW100
+Good.Fishoil.DisplayName,Visolie,FW101
+Good.Fishoil.PluralDisplayName,Visolie,FW102
+Good.IronBar.DisplayName,Ijzeren staaf,FW103
+Good.IronBar.PluralDisplayName,Ijzeren staven,FW104
+Good.LargeIceShard.DisplayName,Grote ijsscherf,FW105
+Good.LargeIceShard.PluralDisplayName,Grote ijsscherven,FW106
+Good.MetalJunk.DisplayName,Metalen rommel,FW107
+Good.MetalJunk.PluralDisplayName,Metalen rommel,FW108
+Good.Nanobot.DisplayName,Nanomachine,FW109
+Good.Nanobot.PluralDisplayName,Nanomachines,FW110
+Good.Petroleum.DisplayName,Aardolie,FW111
+Good.Petroleum.PluralDisplayName,Aardolie,FW112
+Good.Plastic.DisplayName,Kunststof ruit,FW113
+Good.Plastic.PluralDisplayName,Kunststof ruiten,FW114
+Good.ScrapCopper.DisplayName,Schroot koper,FW115
+Good.ScrapCopper.PluralDisplayName,Schroot koper,FW116
+Good.SulfuricAcid.DisplayName,Zwavelzuur,FW117
+Good.SulfuricAcid.PluralDisplayName,Zwavelzuur,FW118
+Need.Despair.CriticalDescription,"Je hebt deze bever gedwongen om meer van zijn onderdrukkers te vervaardigen, schaam je!",FW119
+Need.Despair.CriticalDescriptionShort,Wanhoop !,FW120
+Needs.Bot.DeathWarning,Deze bot kan defect raken en zichzelf vernietigen!,FW121
+Needs.Corrosion.death,Corrosie,FW122
+Needs.Repairs.death,Defect vanwege langdurig gebrek aan onderhoud.,FW123
+Lapantouflemagic.OilLamp.FrostyWhiskers.DisplayName,Olielamp,FW124
+Building.Rock_Wall_Bloc.DisplayName,Rotsmuurblok,FW125
+Lapantouflemagic.Crash-O-Matic.FrostyWhiskers.DisplayName,Crash-O-Matic,FW126
+Lapantouflemagic.DeepFishingFlag.FrostyWhiskers.DisplayName,Vlag van de diepe visserij,FW127
+Recipe.BunkerCannibalization.PluralDisplayName,Kannibalisatie van de bunker,FW128
+Building.BuildersFlag.Description,Een stand-by locatie voor een bouwer Bot.,FW129
+Building.BuildersFlag.FlavorDescription,Niet echt een vlag als je er goed naar kijkt,FW130
+Building.Rock_Wall_Bloc.Description,Een zwaar muurdeel gemaakt van ruwe stenen blokken.,FW131
+Building.Rock_Wall_Bloc.FlavorDescription,"Niet mooi, maar rotsen klagen zelden.",FW132
+Lapantouflemagic.AutoChemicalLab.FrostyWhiskers.Description,Een geautomatiseerd laboratorium dat in staat is tot geavanceerde chemische verwerking.,FW133
+Lapantouflemagic.BrokenGround.FrostyWhiskers.Description,"Een verbrijzeld stuk grond.
+<color=red>vernietigen om grondstoffen te verzamelen</color>",FW134
+Lapantouflemagic.BrokenGround.FrostyWhiskers.FlavorDescription,Het verdiende het zeker.,FW135
+Lapantouflemagic.Bunker.FrostyWhiskers.Description,"Je oude uitvalsbasis, het ware doel ervan is geheim.",FW136
+Lapantouflemagic.Bunker.FrostyWhiskers.FlavorDescription.IronTeeth,Koud buiten. Metaal binnenin. Op de een of andere manier nog steeds deprimerend.,FW137
+Lapantouflemagic.ElectricRails_Flat_Universal.FrostyWhiskers.Description,Een aangedreven railsegment ontworpen voor vlak terrein.,FW138
+Lapantouflemagic.ElectricRails_Stackable_Universal.FrostyWhiskers.Description,Een stapelbaar aangedreven railsegment dat verticale verbindingen mogelijk maakt.,FW139
+Lapantouflemagic.Fabricator.FrostyWhiskers.Description,Een machine die geavanceerde componenten kan vervaardigen.,FW140
+Lapantouflemagic.FishingFlag.FrostyWhiskers.Description,Een aangewezen visgebied voor het verzamelen van watervoedsel.,FW141
+Lapantouflemagic.FishingFlag.FrostyWhiskers.FlavorDescription,Sta lang genoeg stil en uiteindelijk zwemt het eten voorbij.,FW142
+Lapantouflemagic.Flag_DistrictCenter.FrostyWhiskers.Description,Definieert het centrum van een wijk en organiseert activiteiten in de buurt.,FW143
+Lapantouflemagic.Flag_Farmer.FrostyWhiskers.Description,Markeert een gebied gewijd aan landbouwactiviteiten.,FW144
+Lapantouflemagic.Flag_Forester.FrostyWhiskers.Description,Markeert een gebied gewijd aan bosbouwactiviteiten.,FW145
+Lapantouflemagic.ICE_Stairs.FrostyWhiskers.Description,Bevroren trappen die verticale beweging over ijzige constructies mogelijk maken.,FW146
+Lapantouflemagic.ICE_Stairs_Spiral.FrostyWhiskers.Description,Een wenteltrap uitgehouwen uit compact ijs.,FW147
+Lapantouflemagic.ICE_Stairs.FrostyWhiskers.FlavorDescription,"Gladde trappen, wat een geniaal idee.",FW148
+Lapantouflemagic.Ice_Crenellations_Straight.FrostyWhiskers.Description,Een recht verdedigingsgedeelte met ijskantelen.,FW149
+Lapantouflemagic.Ice_Crenellations_Straight.FrostyWhiskers.FlavorDescription,bijna alles is dood. Waar verdedig je je tegen?,FW150
+Lapantouflemagic.LargeIceStorage.FrostyWhiskers.Description,"Een grote opslagstructuur, op natuurlijke wijze gekoeld door ijs.",FW151
+Lapantouflemagic.MachineBrain_Large.FrostyWhiskers.Description,Een grote rekenkern die wordt gebruikt om geautomatiseerde systemen te coördineren.,FW152
+Lapantouflemagic.Mine.FrostyWhiskers.Description,Haalt kernafval uit het verlaten hooman-complex.,FW153
+Lapantouflemagic.NetWorkTower.FrostyWhiskers.Description,Vergroot het operationele bereik van bots,FW154
+Lapantouflemagic.NuclearWaste_LayingThere.FrostyWhiskers.Description,Gevaarlijk radioactief afval achtergelaten op de grond.,FW155
+Lapantouflemagic.NuclearWaste_LayingThere.FrostyWhiskers.FlavorDescription,Het gloeit een beetje. Dat is waarschijnlijk slecht. Ook een beetje warm.,FW156
+Lapantouflemagic.OilDrill.FrostyWhiskers.Description,Wint ruwe olie uit ondergrondse reserves.,FW157
+Lapantouflemagic.OilGenerator.FrostyWhiskers.Description,Produceert energie door olie te verbranden.,FW158
+Lapantouflemagic.OilLamp.FrostyWhiskers.Description,Een eenvoudige olielamp die licht en warmte geeft.,FW159
+Lapantouflemagic.OilLamp.FrostyWhiskers.FlavorDescription,De geur gaat nooit echt weg.,FW160
+Lapantouflemagic.OilWell.FrostyWhiskers.Description,Een scheur in de grond waaruit olie kan worden afgetapt.,FW161
+Lapantouflemagic.RepairStation.FrostyWhiskers.Description,Een werkplaats gewijd aan het repareren van beschadigde bots.,FW162
+Lapantouflemagic.SmallIceStorage.FrostyWhiskers.Description,Een opslagruimte voor ijsblokken.,FW163
+Lapantouflemagic.SmallMachineBrain.FrostyWhiskers.Description,Een compacte rekenkern voor het beheer van eenvoudige geautomatiseerde systemen.,FW164
+Lapantouflemagic.StripMining.FrostyWhiskers.Description,Breekt de grond zodat deze oogstbaar wordt.,FW165
+Faction.FrostyWhiskers.GameOver.Message,De Frosty Whiskers-kolonie is gevallen.,FW166
+Faction.FrostyWhiskers.GameOver.Flavor,De kou eiste eindelijk het weinige hoop op dat er nog over was.,FW167
+Faction.FrostyWhiskers.WonderCompletionFlavor,Tegen alle verwachtingen in antwoordde de bevroren woestenij met stilte en bewondering.,FW168
+Faction.FrostyWhiskers.WonderCompletionMessage,De Frosty Whiskers hebben hun wonder voltooid.,FW169
+Lapantouflemagic.Ice_Crenellations_Corner.FrostyWhiskers.DisplayName,IJskantelenhoek,FW170
+Lapantouflemagic.Ice_Crenellations_Corner.FrostyWhiskers.Description,Een hoekgedeelte met verdedigingsijskantelen.,FW171
+Lapantouflemagic.Ice_Crenellations_Deadend.FrostyWhiskers.Description,Een doodlopend stuk verdedigingsijskantelen.,FW172
+Lapantouflemagic.Ice_Crenellations_Straight_Double.FrostyWhiskers.Description,Een recht dubbelzijdig segment van ijskantelen.,FW173
+Lapantouflemagic.Ice_Crenellations_Straight_Stairs.FrostyWhiskers.Description,Een trapcompatibel gedeelte met verdedigingsijskantelen.,FW174
+Lapantouflemagic.Ice_Crenellations.FrostyWhiskers.FlavorDescription,Koude muren voor koudere bevers.,FW175
+Lapantouflemagic.Ice_FloorPanel.FrostyWhiskers.Description,Een decoratief vloerpaneel gemaakt van ijs.,FW176
+Lapantouflemagic.Ice_FloorPanel.FrostyWhiskers.FlavorDescription,Verrassend genoeg minder glad dan verwacht.,FW177
+Lapantouflemagic.Ice_WallPanel.FrostyWhiskers.Description,Een decoratief wandpaneel gemaakt van gebeiteld ijs.,FW178
+Lapantouflemagic.Ice_WallPanel.FrostyWhiskers.FlavorDescription,Architecten benadrukken dat dit structureel verantwoord is.,FW179
+Lapantouflemagic.ChemistryTent.FrostyWhiskers.Description,Een primitief laboratorium dat wordt gebruikt voor chemische verwerking en experimenten.,FW180
+Lapantouflemagic.PrimitiveIronworks.FrostyWhiskers.Description,Een ruwe industriële werkplaats die wordt gebruikt voor elementaire metaalbewerking.,FW181
+Lapantouflemagic.Gnawingtent.FrostyWhiskers.Description,Een ruige werkplaats waar boomstammen of grote ijsscherven op ouderwetse wijze worden verwerkt.,FW182
+Lapantouflemagic.LogStack.FrostyWhiskers.Description,"Een stapel boomstammen die moet worden beschimmeld in de hoop dat sommige insecten er hun thuis van zullen maken.
+Dan is het snacktijd!",FW183
+Lapantouflemagic.SleepingTent.FrostyWhiskers.Description,Een verwarmde schuilplaats waar bevers veilig kunnen uitrusten in de kou.,FW184
+Lapantouflemagic.BotFactoryTent.FrostyWhiskers.Description,Een werkplaats gespecialiseerd in het assembleren en onderhouden van bots.,FW185
+Lapantouflemagic.MachineBrain_Medium.FrostyWhiskers.Description,Een middelgrote rekenkern die wordt gebruikt om geautomatiseerde systemen te coördineren.,FW186
+GeothermalVentExcavation.FrostyWhiskers.Description,Een opgravingslocatie gebouwd om toegang te krijgen tot ondergrondse geothermische activiteit.,FW187
+Lapantouflemagic.SteamVentMiningSite.FrostyWhiskers.Description,Extraheert zwavel uit een actieve geothermische ventilatieopening.,FW188
+Lapantouflemagic.ElectricCampNOTfire.Description,Een elektrisch verwarmingsapparaat dat traditionele kampvuren vervangt.,FW189
+Lapantouflemagic.GroundHeatingRail.Description,Een verwarmd railsysteem dat bevriezing langs paden voorkomt.,FW190
+Lapantouflemagic.OilWell_Natural.FrostyWhiskers.Description,Een natuurlijk voorkomende olieafzetting klaar voor extractie.,FW191
+Lapantouflemagic.Crash-O-Matic.FrostyWhiskers.Description,Een gevaarlijk experimentele machine met catastrofaal potentieel.,FW192
+Lapantouflemagic.Ice_FloorPanel.FrostyWhiskers.FlavorDescription,Koude tenen vormen karakter.,FW193
+Lapantouflemagic.Ice_WallPanel.FrostyWhiskers.FlavorDescription,Transparante luxe. Alleen is het niet transparant.,FW194
+Lapantouflemagic.Flag_Forester.FrostyWhiskers.FlavorDescription,Iemand moet het volgende bos planten.,FW195
+Lapantouflemagic.Flag_DistrictCenter.FrostyWhiskers.FlavorDescription.Folktails,Eigenlijk symbolischer dan wat dan ook.,FW196
+Lapantouflemagic.Flag_Farmer.FrostyWhiskers.FlavorDescription,Hope groeit gewas voor gewas.,FW197
+Lapantouflemagic.LargeIceStorage.FrostyWhiskers.FlavorDescription,De koelkast van de natuur.,FW198
+Lapantouflemagic.SmallIceStorage.FrostyWhiskers.FlavorDescription,Koelopslag voor kleinere ambities.,FW199
+Building.ICEWall.Description,Een stevig wanddeel gemaakt van versterkt ijs.,FW200
+Lapantouflemagic.Tutorial.Introduction.Description,"Welkom bij de Frosty Whiskers. Overleef de kou, bouw zorgvuldig en probeer niet vast te vriezen.",FW201
+Lapantouflemagic.BotFactoryTent.FrostyWhiskers.FlavorDescription,Enige montage vereist. Sommige schreeuwen optioneel.,FW202
+Lapantouflemagic.SteamVentMiningSite.FrostyWhiskers.FlavorDescription,"Warm, stinkend en waarschijnlijk ongezond.",FW203
+Lapantouflemagic.SleepingTent.FrostyWhiskers.FlavorDescription,Luxe is relatief.,FW204
+Lapantouflemagic.Gnawingtent.FrostyWhiskers.FlavorDescription,"Voordat er zagerijen waren, waren er tanden.",FW205
+Lapantouflemagic.PrimitiveIronworks.FrostyWhiskers.FlavorDescription,"Precisietechniek, uitgevoerd door op dingen te slaan.",FW206
+Lapantouflemagic.LogStack.FrostyWhiskers.FlavorDescription,"Natuurstenen, netjes opgestapeld.",FW207
+Lapantouflemagic.ChemistryTent.FrostyWhiskers.FlavorDescription,Wetenschap ruikt erger in een tent.,FW208
+Lapantouflemagic.ElectricRails_Flat_Universal.FrostyWhiskers.FlavorDescription,Lik niet aan de rails.,FW209
+Lapantouflemagic.MachineBrain_Medium.FrostyWhiskers.FlavorDescription,Bijna slim genoeg om spijt te krijgen van het bestaan ​​ervan.,FW210
+Lapantouflemagic.SmallMachineBrain.FrostyWhiskers.FlavorDescription,Kleine hersenen. Grote dromen.,FW211
+Lapantouflemagic.MachineBrain_Large.FrostyWhiskers.FlavorDescription,Eindelijk was er een machine die alles kon overdenken.,FW212
+Lapantouflemagic.AutoChemicalLab.FrostyWhiskers.FlavorDescription,Nu zijn de explosies geautomatiseerd.,FW213
+Lapantouflemagic.Fabricator.FrostyWhiskers.FlavorDescription,"Als het past, fabriceert het.",FW214
+Lapantouflemagic.NetWorkTower.FrostyWhiskers.FlavorDescription,Omdat schreeuwen door de hele kolonie inefficiënt was.,FW215
+Lapantouflemagic.RepairStation.FrostyWhiskers.FlavorDescription,"Waar kapotte dingen naartoe gaan, worden iets minder kapot.",FW216
+Lapantouflemagic.ElectricRails_Stackable_Universal.FrostyWhiskers.FlavorDescription,Gestapelde kracht. Gestapeld gevaar.,FW217
+Lapantouflemagic.OilGenerator.FrostyWhiskers.FlavorDescription,Verandert het slib van gisteren in de vooruitgang van vandaag.,FW218
+Lapantouflemagic.OilDrill.FrostyWhiskers.FlavorDescription,Graaf diep genoeg en de planeet begint te lekken.,FW219
+Lapantouflemagic.OilWell_Natural.FrostyWhiskers.FlavorDescription,Handig genoeg verpest je de grond al.,FW220
+Lapantouflemagic.Mine.FrostyWhiskers.FlavorDescription,Al het nuttige bevindt zich blijkbaar ondergronds.,FW221
+Lapantouflemagic.GroundHeatingRail.FlavorDescription,Helaas niet om je voeten te verwarmen.,FW222
+Lapantouflemagic.Crash-O-Matic.FrostyWhiskers.FlavorDescription,Eén keer getest. De resultaten waren overtuigend.,FW223
+Lapantouflemagic.OilWell_Artificial.FrostyWhiskers.DisplayName,Kunstmatige oliebron,FW224
+Lapantouflemagic.OilWell_Artificial.FrostyWhiskers.Description,Een handmatig gegraven terrein dat wordt gebruikt om toegang te krijgen tot diepe ondergrondse oliereserves.,FW225
+Lapantouflemagic.OilWell_Artificial.FrostyWhiskers.FlavorDescription,"Als de natuur weigert olie te leveren, lost harder boren meestal het probleem op.",FW226
+Lapantouflemagic.SmallNetWorkTower.FrostyWhiskers.DisplayName,Kleine netwerktoren,FW227
+Lapantouflemagic.SmallNetWorkTower.FrostyWhiskers.Description,"Een compacte relaistoren die het operationele bereik van bots vergroot.
+Kan <color=green>elektrische rails</color> op halve hoogte ondersteunen.",FW228
+Lapantouflemagic.SmallNetWorkTower.FrostyWhiskers.FlavorDescription,Geeft geen geweldig uitzicht.,FW229
+Building.HaulersFlag.DisplayName,De vlag van de vervoerder,FW230
+Building.HaulersFlag.Description,Een standby-locatie voor een verveelde transporteur.,FW231
+Building.HaulersFlag.FlavorDescription,Niet echt een vlag als je er goed naar kijkt,FW232
+recipe.DirtExcavator_All.FrostyWhisker,Alles opgraven,FW233
+Lapantouflemagic.Fake_fishoil.PluralDisplayName,Zeker visolie,FW234
+Good.SadSoup.PluralDisplayName,Trieste soep,FW235
+Good.Snow.PluralDisplayName,Sneeuw,FW236
+Lapantouflemagic.Snow.Filed.DisplayName,Sneeuwveld,FW237
+Lapantouflemagic.Tent_Deluxe.FrostyWhiskers.DisplayName,Luxe tent,FW238
+Lapantouflemagic.Tent_Deluxe.FrostyWhiskers.Description,Een ruime tent die uitzonderlijk comfort en bescherming tegen de kou biedt dankzij het gebruik van twijfelachtig materiaal.,FW239
+Lapantouflemagic.Tent_Deluxe.FrostyWhiskers.FlavourDescription,Voor bevers die geloven dat voor overleven een goede bodembedekking nodig is.,FW240
+Lapantouflemagic.Tent_Miserable.FrostyWhiskers.DisplayName,Ellendige tent,FW241
+Lapantouflemagic.Tent_Miserable.FrostyWhiskers.Description,"Een basistent die de inzittenden technisch van de elementen scheidt.
+Moet tegen een klif gebouwd worden.
+Ingangen kunnen worden vastgeketend.",FW242
+Lapantouflemagic.Tent_Miserable.FrostyWhiskers.FlavourDescription,Warmer dan slapen in een sneeuwbank. Gebruikelijk.,FW243
+Lapantouflemagic.Tent_Despicable.FrostyWhiskers.DisplayName,Verachtelijke tent,FW244
+Lapantouflemagic.Tent_Despicable.FrostyWhiskers.Description,Een betreurenswaardige opstelling van stof en wil om te overleven.,FW245
+Lapantouflemagic.Tent_Despicable.FrostyWhiskers.FlavourDescription,Het soort onderkomen dat je bouwt terwijl je belooft morgen iets beters te bouwen.,FW246
+Buliding.MediumPile.DisplayName,Middelgrote stapel,FW247
+Buliding.MediumPile.FlavourDescription,Groot genoeg om bruikbaar te zijn. Klein genoeg om beheersbaar te blijven.,FW248
+Lapantouflemagic.NanoMachinePrinter.FrostyWhiskers.DisplayName,Nanomachine-printer,FW249
+Lapantouflemagic.NanoMachinePrinter.FrostyWhiskers.Description,Produceert geavanceerde nanomachines uit zorgvuldig vervaardigde materialen en alarmerende hoeveelheden elektriciteit.,FW250
+Lapantouflemagic.NanoMachinePrinter.FrostyWhiskers.FlavourDescription,Elke voldoende geavanceerde technologie is niet te onderscheiden van magie. Was het maar echte magie...,FW251
+Lapantouflemagic.Flag_SnowShovellist.FrostyWhiskers.DisplayName,Vlag van de sneeuwschepper,FW252
+Lapantouflemagic.Flag_SnowShovellist.FrostyWhiskers.Description,"Een werkplek voor een bever die voorzichtig sneeuwt terwijl het zich opstapelt, wat dat ook mag betekenen.",FW253
+Lapantouflemagic.Flag_SnowShovellist.FrostyWhiskers.FlavourDescription,"Heeft alleen aardbeiensiroop nodig, als er nog aardbeien bestaan.",FW254
+Lapantouflemagic.ElectricRadiator.DisplayName,Elektrische radiateur,FW255
+Lapantouflemagic.ElectricRadiator.Description,Zet elektrische energie om in heerlijke warmte.,FW256
+Building.Campfire..Description,"Een bescheiden vuurtje dat warmte, troost en dubieuze verhalen biedt.",FW257
+Building.Bonfire.DisplayName,Vreugdevuur,FW258
+Building.Bonfire.Description,Een groot gemeenschappelijk vuur dat bevers doet vergeten hoe koud alles is.,FW259
+Lapantouflemagic.PetroleumLamp.FrostyWhiskers.DisplayName,Petroleumlamp,FW260
+Lapantouflemagic.PetroleumLamp.FrostyWhiskers.Description,"Een betrouwbare lichtbron, gevoed door geraffineerde aardolie.",FW261
+Lapantouflemagic.MiserableShelter.FrostyWhiskers.FlavorDescription,"Je zou denken dat het beter en steviger is, maar het ruikt gewoon raar.",FW262
+Lapantouflemagic.MiserableShelter.FrostyWhiskers.Description,"Een eenvoudige schuilplaats die de inzittenden technisch van de elementen scheidt.
+Moet tegen een klif gebouwd worden.
+Ingangen kunnen worden vastgeketend.",FW263
+Lapantouflemagic.MiserableShelter.FrostyWhiskers.DisplayName,Ellendige schuilplaats,FW264

@@ -2,7 +2,7 @@ ID,Text,Comment
 Knatte.Subgroup_MGShafts.DisplayName,Aandrijfassen,
 Knatte.Subgroup_MGPower.DisplayName,Stroomgeneratoren,
 Knatte.Subgroup_MGPiles.DisplayName,Stapels,
-Knatte.Subgroup_MGWarehouses.DisplayName,Pakuizen,
+Knatte.Subgroup_MGWarehouses.DisplayName,Magazijnen,
 Knatte.Subgroup_MGTanks.DisplayName,Vaten,
 Knatte.Subgroup_MGAqueduct.DisplayName,Aquaducten,
 Knatte.Subgroup_MGFloodgates.DisplayName,Sluizen,

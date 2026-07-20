@@ -11,7 +11,7 @@ Tool.Keystone.Decoration.Description,"Zorgt voor een klasse A-decoratie - niet-b
 Tool.Keystone.Particle.DisplayName,Klasse A: Deeltjesdecoratie,
 Tool.Keystone.Particle.Description,"Zorgt voor een Klasse A-decoratie met een Unity ParticleSystem. Passief (geen ecologische reactiviteit, geen interactie) - laat zien dat hetzelfde register niet-maasversieringen zoals atmosferische effecten kan bevatten.",
 Tool.Keystone.CrossFactionFlora.DisplayName,Klasse D: Cross-Faction Flora,
-Tool.Keystone.CrossFactionFlora.Description,"Brengt een natuurlijke hulpbron van klasse D voort: vanilleflora van de ANDERE factie (CoffeeBush in een Folktails-spel, Maple in IronTeeth). Plantable / Gatherable-specificaties worden verwijderd door Keystone's factiestrip-patch, zodat de gebruikersinterface van de actieve factie er niet op crasht.",
+Tool.Keystone.CrossFactionFlora.Description,"Brengt een natuurlijke hulpbron van klasse D voort: vanilleflora van de ANDERE factie (CoffeeBush in een Volkstaart-spel, Maple in IronTeeth). Plantable / Gatherable-specificaties worden verwijderd door Keystone's factiestrip-patch, zodat de gebruikersinterface van de actieve factie er niet op crasht.",
 Tool.Keystone.VanillaFlora.DisplayName,Klasse D: Flora met actieve factie,
 Tool.Keystone.VanillaFlora.Description,"Brengt een natuurlijke hulpbron van klasse D voort: een den, die in beide facties aanwezig is. Volledige vanillepijpleiding - kan worden doorgesneden, geplant, verzameld (waar van toepassing) en reageert normaal op vocht/overstroming.",
 Tool.Keystone.Rock.DisplayName,Klasse A: Keystone-rots,
