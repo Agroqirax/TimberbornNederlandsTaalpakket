@@ -1,0 +1,19 @@
+ID,Text,Comment
+KeyBinding.ToggleSelectMode,Selectiemodus in-/uitschakelen,
+KeyBinding.GamepadMoveDown,Omlaag navigeren,
+KeyBinding.GamepadMoveLeft,Naar links navigeren,
+KeyBinding.GamepadMoveRight,Naar rechts navigeren,
+KeyBinding.GamepadMoveUp,Omhoog navigeren,
+KeyBindingGroup.GamePad,Gamepad,
+KeyBinding.GamepadCameraRotateModifier,Ingedrukt houden om camera te draaien,
+ControllerSupport.NoGamepadDialog.Message,"Er is geen controller gevonden. Standaard koppelt Steam Input een controller aan een toetsenbord- en muisindeling, die deze mod niet kan gebruiken. Schakel over naar een gamepadindeling om controllerondersteuning te laten werken.",
+ControllerSupport.NoGamepadDialog.OpenLayoutButton,Aanbevolen controllerindeling openen,
+ControllerSupport.NoGamepadDialog.IgnoreButton,Negeren,
+KeyBinding.DecreaseFloodgateHeight,Schuifregelaar van object verlagen,Label of the key that decreases the height of the selected floodgate. Floodgate should be the same as Building.Floodgate.DisplayName
+KeyBinding.IncreaseFloodgateHeight,Schuifregelaar van object verhogen,Label of the key that increases the height of the selected floodgate. Floodgate should be the same as Building.Floodgate.DisplayName
+KeyBinding.CursorHeightUp,Cursorhoogte omhoog,
+KeyBinding.CursorHeightDown,Cursorhoogte omlaag,
+ControllerSupport.Settings.HapticsHeader,Controllertrilling,
+ControllerSupport.Settings.EnableVibration,Controllertrilling inschakelen,
+ControllerSupport.Settings.ShortcutHintsHeader,Sneltoetshints,
+ControllerSupport.Settings.ShowGamepadShortcutIcons,Gamepadknoppen tonen in sneltoetshints,
