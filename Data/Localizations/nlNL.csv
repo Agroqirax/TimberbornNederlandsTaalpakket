@@ -1358,6 +1358,7 @@ LoadingIssue.MapIssuesWarning,"Dit wordt waarschijnlijk veroorzaakt door ontbrek
 Je kunt doorgaan met spelen, maar je kaart is mogelijk onvolledig.",Shown when there are issues with loading map - warning player about possible reason and consequences
 LoadingIssue.PrefabNotFoundIssue,Object had een onbekend type en is verwijderd: {0}.,Warning shown when object type is not found in the game and cannot be instantiate.
 LoadingIssue.TerrainCutOffIssue,Het terrein overschreed de maximaal toegestane hoogte en werd afgekapt.,Warning shwon when terrain in saved map exceeds the maximum height of the map.
+MainMenu.RaptorCpuWarning,Je systeem heeft een Intel-processor van de 13e of 14e generatie en een verouderde BIOS-versie die stabiliteitsproblemen kan veroorzaken. We raden je aan je BIOS bij te werken naar de nieuwste versie.,Warning message shown in the main menu when a potentially problematic CPU model is detected.
 MainMenu.RosettaPerformanceWarning,Verminderde prestaties.,"Warning message displayed in the main menu when Rosetta (MacOS compatibility mode) is enabled. Preceded by the ""Rosetta: OFF"" message."
 MainMenu.SteamUpdateInfoText,"• Statistieken voor goederen en bevolking
 • Nieuwe waterdichte gebouwen
@@ -1387,10 +1388,10 @@ MapEditor.Brush.Density,Dichtheid,Density of objects.
 MapEditor.Brush.Direction.Label,Penseelrichting:,
 MapEditor.Brush.Direction.Lower,Verlaag,
 MapEditor.Brush.Direction.Raise,Verhoog,
+MapEditor.Brush.Gatherable,Verzamelbaar,A label for a slider in the map editor which sets the percentage of plants that will spawn with their fruit fully grown and ready for gathering.
 MapEditor.Brush.Height.Label,Penseelhoogte:,Either absolute or relative height at which brush will paint.
 MapEditor.Brush.NaturalResourceRemoval,Verwijder grondstoffen,Natural resources meaning trees and bushes
 MapEditor.Brush.NaturalResourceSpawning,Grondstoffen,Natural resources meaning trees and bushes
-MapEditor.Brush.RandomizeYieldGrowth,Willekeurige volwassenheid,"This text is next to a toggle that randomizes the percentage growth of fruit, chestnuts or other things that can be gathered and regrow"
 MapEditor.Brush.RelativeTerrainHeight,Terrein (relatieve hoogte),A tool that changes terrain height by a value relative to the original height.
 MapEditor.Brush.SculptingTerrain,Terrein (vormen),Label of the brush that allows the player to sculpt the terrain (e.g. dig tunnels or create overhangs)
 MapEditor.Brush.Shape.Label,Penseelvorm:,

@@ -86,7 +86,7 @@ Tobbert.TrackSystem.ToggleSectionDivider,Verdeelt secties:,-
 Tobbert.TrackSystem.ButtonChangeDirection,Verander van richting,-
 Tobbert.TrackSystem.CollidingSectionDividers,Kan geen 2 sectieverdelers verbinden,-
 Tobbert.ToolGroup.Trains,Treinen,-
-Tobbert.TrainYard.PreviewErrorMessage,Er kan slechts 1 Treinterrein worden gebouwd,-
+Tobbert.TrainYard.PreviewErrorMessage,Er kan slechts 1 Treinwerf worden gebouwd,-
 Tobbert.Trains.UnlockPrompt,Je moet {0} ontgrendelen om {1} te bouwen.,{0} stands for <Building>.DisplayName {1} stands for <TrackPiece>.DisplayName.
 Tobbert.DistributionTrain.MinimumOfItemsToMove,Minimaal aantal items om te verplaatsen:,-
 Tobbert.TrainNavigation.Unstuck,Draai je om,-

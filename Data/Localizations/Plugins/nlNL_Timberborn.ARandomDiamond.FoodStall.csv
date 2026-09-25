@@ -1,0 +1,7 @@
+ID,Text,Comment
+Building.FoodStall.DisplayName,Snackkraam,
+Building.FoodStall.Description,Verzamelt voedsel en water voor bevers die onderweg zijn.,
+Building.FoodStall.FlavorDescription,Te veel bevers vergaten te eten tot ze al ver weg aan het werk waren. Nu nemen ze een snack mee.,
+Need.Snacking.DisplayName,Snacken,
+Status.Need.Snacking,Snackende bevers zijn langzamer.,
+Status.Need.Snacking.Short,Bever is aan het snacken,
