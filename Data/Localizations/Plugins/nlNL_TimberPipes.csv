@@ -1,0 +1,77 @@
+ID,Text,Comment
+LV.TPi.EqualizeK,Snelheid van stromingsvereffening (EqualizeK),
+LV.TPi.EqualizeKDesc,Hoe snel verbonden pijpen gelijk trekken. Hogere waarden verplaatsen vloeistof sneller. Standaard 0.8.,
+LV.TPi.GroupName,Pijpen,
+LV.TPi.HorizontalPipeName,Pijp,
+LV.TPi.HorizontalPipeDesc,Vervoert vloeistof in een rechte lijn.,
+LV.TPi.HorizontalPipeFlavor,De commissie stemde voor een kanaal. Het budget stemde voor een pijp.,
+LV.TPi.ElbowPipeName,Bocht,
+LV.TPi.ElbowPipeDesc,Laat een pijpleiding 90° afbuigen.,
+LV.TPi.ElbowPipeFlavor,Elk goed plan loopt ooit tegen een muur aan. Zo houd je het plan overeind.,
+LV.TPi.CrossPipeName,Kruisstuk,
+LV.TPi.CrossPipeDesc,Verbindt tot vier horizontale pijpen.,
+LV.TPi.CrossPipeFlavor,Iedereen kreunt als Bramble wéér begint over “vier pijpen lopen een [i]bar[/i] binnen”.,
+LV.TPi.VerticalCrossPipeName,Verticaal kruisstuk,
+LV.TPi.VerticalCrossPipeDesc,Verbindt verticale en horizontale pijpen.,
+LV.TPi.VerticalCrossPipeFlavor,"""Wat een uitstekend stuk werk."" —Voorman Halberg",
+LV.TPi.ImpermeableVerticalCrossPipeName,Waterdicht verticaal kruisstuk,
+LV.TPi.ImpermeableVerticalCrossPipeDesc,Verbindt verticale en horizontale pijpen. Blokkeert water.,
+LV.TPi.ImpermeableVerticalCrossPipeFlavor,Halberg was ontzet toen het verzoek binnenkwam: een stuk dat water vervoert en het ook tegenhoudt.,
+LV.TPi.VerticalPipeName,Stijgbuis,
+LV.TPi.VerticalPipeDesc,Vervoert vloeistof verticaal.,
+LV.TPi.VerticalPipeFlavor,"We hebben een kit opgemeten. Daarna hebben we de buis smaller gemaakt, zodat het geen metro zou worden.",
+LV.TPi.HorizontalPipeValveName,Terugslagklep,
+LV.TPi.HorizontalPipeValveDesc,Een rechte eenrichtingspijp. Kan in beide richtingen worden gesloten wanneer gepauzeerd. Richt een gericht uiteinde op een gebouw om het te vullen of eruit af te tappen. Selecteer de klep en kies Vullen of Aftappen.,
+LV.TPi.HorizontalPipeValveFlavor,Ze hebben de pijl toegevoegd nadat de vorige gast het bessenmagazijn onder water had gezet.,
+LV.TPi.HorizontalPipeThrottleName,Smoorkleppijp,
+LV.TPi.HorizontalPipeThrottleDesc,Een rechte eenrichtingspijp. Pauzeer om in beide richtingen te sluiten. Toont de uitstroom en kan die per uur begrenzen.,
+LV.TPi.HorizontalPipeThrottleFlavor,"Op de vraag waarom hij zoveel kost terwijl hij er precies zo uitziet als een Terugslagklep, zeiden ze dat onderzoek en ontwikkeling niet goedkoop is.",
+LV.TPi.OutfallPipeName,Uitlaatpijp,
+LV.TPi.OutfallPipeDesc,"Een eenrichtingspijp die Water of Vuilwater op de grond loost. Elke andere vloeistof die deze pijp binnenkomt, verontreinigt het pijpnetwerk.",
+LV.TPi.OutfallPipeFlavor,De uitvinder nam “Ik zuig je leeg” wel heel letterlijk.,
+LV.TPi.HorizontalPipePumpName,Pijppomp,
+LV.TPi.HorizontalPipePumpDesc,"Een rechte eenrichtingspijp. Duwt, wanneer aangedreven, vloeistof met extra opvoerhoogte de volgende pijp in.",
+LV.TPi.HorizontalPipePumpFlavor,"Heel energiezuinig. Kits laten hem de hele dag draaien, alleen om het water te zien spetteren.",
+LV.TPi.VerticalPipePumpName,Stijgbuispomp,
+LV.TPi.VerticalPipePumpDesc,"Een verticale eenrichtingspijp. Duwt, wanneer aangedreven, vloeistof met extra opvoerhoogte de pijp erboven in.",
+LV.TPi.VerticalPipePumpFlavor,Dit ding zet zoveel [i]bar[/i] dat het reservoir om opslag vroeg.,
+LV.TPi.PipeFill,{0:0.00} / {1:0.00} m³,
+LV.TPi.TankLevel,{0:0.00} / {1:0.00}m,
+LV.TPi.Headlift,Opvoerhoogte: {0:0.00}m,
+LV.TPi.Contaminated,Verontreinigd,
+LV.TPi.ContaminatedMix,{0} en {1} gemengd.,
+LV.TPi.ContaminatedStatus,In deze pijpen zijn verschillende vloeistoffen gemengd. Spoel ze door om ze te reinigen.,
+LV.TPi.ContaminatedStatusShort,Verontreinigde pijpen,
+LV.TPi.Flush,Doorspoelen,
+LV.TPi.FlushConfirm,Dit leegt elke pijp in dit netwerk en verwijdert de verontreiniging. Doorgaan?,
+LV.MT.BldSet.ValvePipe,Terugslagklep,
+LV.TPi.BldSet.Desc,"Vullen: {0}, Aftappen: {1}",
+LV.TPi.ValveInlet,Vullen,
+LV.TPi.ValveOutlet,Aftappen,
+LV.TPi.ValveInletBuilding,Vullen: {0},
+LV.TPi.ValveOutletBuilding,Aftappen uit: {0},
+LV.TPi.OutflowTick,Huidig: {0:0.00} m³,
+LV.TPi.OutflowHour,Afgelopen uur: {0:0.00} m³ (gem. {1:0.00} m³/s),
+LV.TPi.HourlyLimit,Limiet per uur: {0},
+LV.TPi.HourlyLimitValue,{0:0.00} m³/u ({1:0.00} m³/s),
+LV.TPi.Unlimited,Onbeperkt,
+LV.TPi.ProvideHeadlift,● <YellowHighlight>Levert opvoerhoogte:</YellowHighlight> {0:0.0}m,
+LV.TPi.ModUpdate112000,"v11.2.0:
+- Snelheid van stromingsvereffening (EqualizeK) is nu een mod-instelling, waarmee je kunt instellen hoe snel of langzaam het water 'beweegt'. Deze mod vereist nu Mod Settings.
+- Nieuwe uitstroom-UI: de Uitlaatpijp en Smoorkleppijp tonen hoeveel water eruit is gestroomd.
+- Smoorkleppijp toegevoegd. Zie de modbeschrijving en de beschrijving in het spel voor meer informatie.
+- Wat optimalisatie van de simulatie.
+Bugfixes:
+- Aftappen/Vullen van een klep werkte niet wanneer een gebouw na de klep werd gebouwd.
+- Uitlaatpijpen worden nu correct gestopt door automatisering.
+
+v11.1.0:
+- Waterdicht verticaal kruisstuk toegevoegd.
+- Kenniskosten van de Uitlaatpijp verhoogd naar 350.
+Alleen visueel:
+- Klepmodel bijgewerkt wanneer die naar een ondersteund gebouw toe of ervan af wijst.
+- Tandwielen van de Pijppomp en Stijgbuispomp draaien nu wanneer ze aangedreven worden.",
+Name_TransportPipeFragment,Pijp,
+Name_ValvePipeFragment,Klep,
+Name_OutflowCounterFragment,Uitstroom,
+Name_PipeTankFragment,Vat,

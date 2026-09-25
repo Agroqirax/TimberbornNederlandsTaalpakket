@@ -1,0 +1,8 @@
+ID,Text,Comment
+CaseBacon.SupplyAlert.LowFoodWarning,Weinig voedsel: nog ongeveer {0} dagen over.,{0} is the estimated days of food remaining formatted to one decimal place
+CaseBacon.SupplyAlert.LowWaterWarning,Weinig water: nog ongeveer {0} dagen over.,{0} is the estimated days of water remaining formatted to one decimal place
+CaseBacon.SupplyAlert.Settings.Header,Voorraadwaarschuwing,
+CaseBacon.SupplyAlert.Settings.FoodAlertsEnabled,Voedselwaarschuwingen inschakelen,
+CaseBacon.SupplyAlert.Settings.WaterAlertsEnabled,Waterwaarschuwingen inschakelen,
+CaseBacon.SupplyAlert.Settings.FoodThresholdDays,Voedseldrempel (dagen),
+CaseBacon.SupplyAlert.Settings.WaterThresholdDays,Waterdrempel (dagen),

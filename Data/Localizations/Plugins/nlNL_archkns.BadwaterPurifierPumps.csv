@@ -1,0 +1,8 @@
+ID,Text,Comment
+Building.archkns.BadwaterPurificationCentrifuge.DisplayName,Vuilwaterzuiveringscentrifuge,
+Building.archkns.BadwaterPurificationCentrifuge.Description,Zware machines die gevaarlijk vuilwater omzetten in schoon water.,
+Building.archkns.BadwaterPurificationCentrifuge.FlavorDescription,Slinger het gif eruit. Probeer de bedieners er niet uit te slingeren.,
+Recipe.archkns.PurifyBadwater.DisplayName,Vuilwater zuiveren,
+Building.archkns.CompactBadwaterPurifier.DisplayName,Compacte vuilwaterzuiveraar,
+Building.archkns.CompactBadwaterPurifier.Description,"Een automatische, krachtige pomp die vuilwater zuivert tot schoon water.",
+Building.archkns.CompactBadwaterPurifier.FlavorDescription,Kleine pomp. Enorme honger. Verrassend schoon resultaat.,

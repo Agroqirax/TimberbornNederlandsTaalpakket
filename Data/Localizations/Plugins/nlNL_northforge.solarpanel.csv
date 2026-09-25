@@ -1,0 +1,6 @@
+ID,Text,Comment
+Building.SolarPanel.DisplayName,Zonnepaneel,
+Building.SolarPanel.Description,Produceert overdag tot 100 pk.,
+Building.SolarPanel.FlavorDescription,Zonneschijn eindelijk vereist. Techniek nog steeds verplicht.,
+SolarPanel.Weather.Notification,Max. zonne-opbrengst: {0}%,
+SolarPanel.Weather.TopBarTooltip,Maximale zonne-opbrengst,
