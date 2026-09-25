@@ -2,3 +2,6 @@ ID,Text,Comment
 SteamUpdateButtons.UpdateMod,Update deze mod,
 SteamUpdateButtons.UpdateAllMods,Update alle Steam-mods,
 SteamUpdateButtons.UpdatesAvailable,{0} Steam-updates beschikbaar,
+SteamUpdateButtons.UpdateModFailed,"Bijwerken van {0} mislukt
+
+Controleer of Steam online is",

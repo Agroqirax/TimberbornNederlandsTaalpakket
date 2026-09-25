@@ -1,7 +1,13 @@
 ID,Text,Comment
 IgorZ.XRay.KeyBindingGroup,Röntgenmod,The header for the section of the mod settings that allows to customize the key bindings
+IgorZ.XRay.KeyBinding.ToggleObjectTransparency,Objecttransparantie in-/uitschakelen,The binding can be held for temporary transparency or pressed briefly to toggle object transparency
 IgorZ.XRay.KeyBinding.ToggleMode,Röntgenmodus in-/uitschakelen,The label for the key binding that toggles the X-Ray mode on and off
 IgorZ.XRay.KeyBinding.ShowMode,Röntgenmodus weergeven,The label for the key binding that shows the X-Ray mode while held down
+IgorZ.XRay.ObjectTransparencySettings.Header,Objecttransparantie,The header for settings that control transparent object models
+IgorZ.XRay.ObjectTransparencySettings.BuildingColor,Opvulkleur van gebouwen,The fill color applied to transparent buildings
+IgorZ.XRay.ObjectTransparencySettings.BuildingTransparency,Transparantie van gebouwen,The percentage of transparency applied to buildings
+IgorZ.XRay.ObjectTransparencySettings.PlantColor,Opvulkleur van planten,The fill color applied to transparent plants
+IgorZ.XRay.ObjectTransparencySettings.PlantTransparency,Transparantie van planten,The percentage of transparency applied to plants
 IgorZ.XRay.MeshSettings.Color.CliffEdge,Kleur van de klifrand,
 IgorZ.XRay.MeshSettings.Color.Cliff,Kleur van de klif,
 IgorZ.XRay.MeshSettings.Color.Grass,Kleur van het gras,
@@ -17,6 +23,8 @@ IgorZ.XRay.MeshSettings.ColorSchemaName.Normal,Normaal,The name of the color sch
 IgorZ.XRay.MeshSettings.GhostModelIntensity,Transparantie van modellen,The label for the slider that controls the transparency of the models
 IgorZ.XRay.MeshSettings.Glowing,Gloei-effect,The label for the toggle that enables or disables the glowing effect on the models
 IgorZ.XRay.MeshSettings.Header,Overlay-uiterlijk,The header for the section of the mod settings that allows to customize the overlay appearance
+IgorZ.XRay.MeshSettings.IgnoreVisibleLevel,Laagsnede van het terrein negeren,The label for the toggle that makes X-Ray ignore the game's terrain layer visibility cut
+IgorZ.XRay.MeshSettings.IgnoreVisibleLevel.Note,"Toon het volledige terreinmodel in röntgenmodus, ook als het laagzichtbaarheidsgereedschap van het spel de bovenste lagen verbergt.",Tooltip for the toggle that restores the old X-Ray terrain visibility behavior
 IgorZ.XRay.MeshSettings.WireframeModeDropdown,Terreinvisualisatie,The dropdown label for terrain visualization mode selection
 IgorZ.XRay.MeshSettings.WireframeModeDropdown.Note,Het bijwerken van het terrein kan langer duren als deze modus is ingeschakeld.,The note for the wireframe mode dropdown that informs the user about the performance impact of using wireframe modes
 IgorZ.XRay.MeshSettings.WireframeMode.None,Geen,The name of the visualization mode that disables terrain overlay rendering
@@ -24,3 +32,4 @@ IgorZ.XRay.MeshSettings.WireframeMode.Grid,Raster,The name of the visualization 
 IgorZ.XRay.MeshSettings.WireframeMode.Contours,Contouren,The name of the visualization mode that renders terrain contours
 IgorZ.XRay.Visibility.Show,Ondergrondse gebouwen weergeven,The label for the toggle that enables or disables the visibility of underground structures
 IgorZ.XRay.Visibility.Hide,Ondergrondse gebouwen verbergen,The label for the toggle that enables or disables the visibility of underground buildings
+IgorZ.XRay.Visibility.ObjectTransparencyTooltip,Objecttransparantie: klik of houd ingedrukt,The tooltip instruction shown before the object transparency key binding

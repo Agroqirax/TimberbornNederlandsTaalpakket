@@ -35,6 +35,9 @@ IgorZ.SmartPower.Settings.Batteries.BatteryRatioHysteresis,Activeringshysterese 
 IgorZ.SmartPower.Settings.Batteries.BatteryRatioHysteresisTooltip,Geschorste consumenten worden niet hervat als ze gedurende ten minste de aangegeven duur niet op batterijen kunnen werken.,
 IgorZ.SmartPower.Settings.WalkerPoweredGeneratorSection,Bever-aangedreven generatoren,
 IgorZ.SmartPower.Settings.GoodConsumingGeneratorSection,Goed verbruikende generatoren,
+IgorZ.SmartPower.Settings.Manufactory.ConsumeOneHorsepower,Verbruik slechts 1 pk in energiebesparende modus,"When enabled, manufactories in power saving mode consume 1 hp instead of 10% of nominal power."
+IgorZ.SmartPower.Settings.Manufactory.ConsumeOneHorsepowerTooltip,Standaard verbruikt de energiebesparende modus 10% van het nominale vermogen van het gebouw.,Tooltip for the 1 hp power saving mode setting.
+IgorZ.SmartPower.Settings.ManufactorySection,Werkplaatsen,Settings section for manufactory power saving behavior.
 IgorZ.SmartPower.Settings.WorkplaceConsumerSection,Werkplaatsen met een werkplek,
 IgorZ.SmartPower.Settings.UnmannedConsumerSection,Onbemande gebouwen,
 IgorZ.SmartPower.Settings.AttractionConsumerSection,Attracties,

@@ -8,6 +8,7 @@ LV.BCEv.Pages,Pagina's:,
 LV.BCEv.Unknown,<RedHighlight>Onbekend</RedHighlight>,
 LV.BCEv.WorkingSpeedDesc,{0:+0%;-0%;0%} Werksnelheid,
 LV.BCEv.MovementSpeedDesc,{0:+0%;-0%;0%} Bewegingssnelheid,
+LV.BCEv.WorkingMovementSpeedDesc,{0:+0%;-0%;0%} Werk- en bewegingssnelheid,
 LV.BCEv.ListText,Wisselstroom{0:0} - {1},
 LV.BCEv.EntryTitle,{0} (van AC{1:0} tot AC{2:0}),
 LV.BCEv.EntryTitleActive,{0} (gestart AC{1:0}),
@@ -15,6 +16,7 @@ LV.BCEv.Remaining,Overig:,
 LV.BCEv.Amount,Hoeveelheid:,
 LV.BCEv.Max,Max,
 LV.BCEv.Pay,Betalen,
+LV.BCEv.Science,Kennis,
 LV.BCEv.PayGuide.Title,Betalingen voor evenementen,
 LV.BCEv.PayGuide.Content,"Voor sommige evenementen zijn middelen nodig om ze te voltooien.
 Selecteer een opslaggebouw met het vereiste item en gebruik vervolgens Gebeurtenisbetaling om te betalen. Dit werkt met <YellowHighlight>Stapels, magazijnen en tanks</YellowHighlight>.
@@ -25,6 +27,7 @@ LV.BCEv.DisabledNoDc,<RedHighlight>Er is geen districtscentrum.</RedHighlight>,
 LV.BCEv.DisabledNoSpawnLocation,<RedHighlight>Er is geen geschikte spawnlocatie.</RedHighlight>,
 LV.BCEv.UnknownConsequences,[[C]]<YellowHighlight>Onbekende gevolgen.</YellowHighlight>,
 LV.BCEv.GenericOk,Ik zie,
+LV.BCEv.BeaverDeath,{0} is op bewogen wijze om het leven gekomen.,
 LV.BCEv.StartBonus,Een nieuw begin,
 LV.BCEv.StartBonus.Content,"De laatste bocht van de rivier mondt uit in een rustig stuk land. Het water stroomt helder, bessenstruiken hangen aan de oever en net voorbij de oever wacht een groepje jonge bomen.
 Het is nog niet veel, maar het is genoeg.
@@ -36,7 +39,7 @@ LV.BCEv.StartBonus.C2N,[[C]]Schoon water verzamelt zich in een ondiep zwembad. [
 LV.BCEv.StartBonus.C3,Claim de gevallen boomstammen,
 LV.BCEv.StartBonus.C3N,[[C]]Droge gevallen stammen liggen vlakbij de boomgrens. [[+]][[goed:Logboek:{0:+0}]],
 LV.BCEv.StartBonus.C4,Red het jong,
-LV.BCEv.StartBonus.C4N,—[[C]]Een jong bevertje wordt vlakbij de rivier gevonden, nauwelijks levend. [[+]]{0:+0} [[icon:UI/images/game/ico-child]] Kindbever
+LV.BCEv.StartBonus.C4N,—[[C]]Een jong bevertje wordt vlakbij de rivier gevonden,
 LV.BCEv.FirstDeath,Eerste passage,
 LV.BCEv.FirstDeath.Content,"{0} is overleden.
 
@@ -60,6 +63,7 @@ LV.BCEv.FirstDeath.O4,"De nederzetting gaat weer aan het werk.
 Er is verdriet, maar ook begrip. Voedsel moet worden verzameld, water moet worden opgeslagen en de nederzetting moet overleven. Voorlopig dragen de bevers het verlies rustig en gaan verder.",
 LV.BCEv.FirstDeath.BonusName,Herinnering,
 LV.BCEv.FirstDeath.MalusName,Zware harten,
+LV.BCEv.FirstDeath.MalusDesc,{%4} Werksnelheid,
 LV.BCEv.Unhoused,Nog steeds onder de blote hemel,
 LV.BCEv.Unhoused.Content,"Er is enige tijd verstreken sinds de nederzetting begon, maar niet elke bever heeft een dak om onder te slapen.
 In de schemering verzamelen de ongehuisvesten zich bij de paden en wikkelen hun staarten dicht tegen de koude grond. Niemand klaagt luid. Ze kijken alleen maar naar de voltooide lodges en dan terug naar de lege ruimtes waar meer huizen hadden moeten staan.
@@ -71,9 +75,10 @@ LV.BCEv.Unhoused.C2N,[[C]]Zorg ervoor dat alle bevers beschut blijven na [[time:
 LV.BCEv.Unhoused.C3,Beloof niets,
 LV.BCEv.Unhoused.C3N,[[C]]De nederzetting heeft het te druk om beloftes te doen. <YellowHighlight>Onbekende gevolgen.</YellowHighlight>,
 LV.BCEv.Unhoused.BuffName,Beschut,
-LV.BCEv.Unhoused.Buff1Desc,{0:+0%} Werksnelheid,
-LV.BCEv.Unhoused.Buff2Desc,{0:+0%} Werk- en bewegingssnelheid,
+LV.BCEv.Unhoused.BuffMinorDesc,+{%6} Werksnelheid,
+LV.BCEv.Unhoused.BuffMajorDesc,+{%7} Werk- en bewegingssnelheid,
 LV.BCEv.Unhoused.DebuffName,Niet gehuisvest,
+LV.BCEv.Unhoused.DebuffDesc,{%8} Werk- en bewegingssnelheid,
 LV.BCEv.Unhoused.O1,"Op de beloofde dag hebben de meeste ongehuisde bevers een plekje binnenshuis gevonden. Het is niet perfect, maar het is voldoende om te bewijzen dat de nederzetting zich degenen herinnert die onder de blote hemel slapen. De stemming verbetert. Het werk wordt hervat met vastere poten.
 [[C]][[+]]Alle bevers winnen {0} voor [[time:{1}d]]",
 LV.BCEv.Unhoused.O2,"Op de beloofde dag heeft elke bever een dak boven zijn hoofd. Het laatste bed wordt voor het vallen van de avond geclaimd en voor het eerst sinds dagen hoeft niemand te kiezen tussen slapen en de koude grond. De nederzetting rust gemakkelijker en komt sterker op.
@@ -81,6 +86,10 @@ LV.BCEv.Unhoused.O2,"Op de beloofde dag heeft elke bever een dak boven zijn hoof
 LV.BCEv.Unhoused.O3,"Er slapen nog steeds te veel bevers buiten. Wat er ook al eerder is gezegd, de nederzetting heeft hen geen onderdak geboden.
 Ze staan ​​moe op, werken langzamer en houden hun twijfels grotendeels voor zichzelf.
 [[C]][[-]]Alle bevers lijden {0} gedurende [[time:{1}d]]",
+LV.BCEv.Unhoused.AlreadyHoused.Content,"Een paar bevers beginnen bedden en hutten te tellen, bezorgd dat sommigen van hen nog buiten slapen.
+[[+]]Maar de telling brengt goed nieuws.
+Elke bever heeft al een dak boven zijn hoofd. Niemand is vergeten. Niemand hoeft in de schemering naast de paden te liggen opgekruld. De nederzetting is stilletjes tevreden. Het is één ding om onderdak te bouwen als de klachten beginnen. Het is iets anders om het klaar te hebben voordat iemand erom hoeft te vragen. De bevers ontvangen het nieuws met warme voldoening. Hun huizen stonden klaar voordat tegenspoed ertoe dwong, en die zorg wordt niet vergeten. De nederzetting rust rustiger, vertrouwt dieper en staat op met hernieuwde kracht.
+[[C]][[+]]Alle bevers krijgen +{%7} werk- en bewegingssnelheid gedurende [[time:{F9}d]]",
 LV.BCEv.FirstChildGrowth,Eerste Voren,
 LV.BCEv.FirstChildGrowth.Content,"{0} is volwassen geworden. Gisteren achtervolgden ze libellen langs de oever. Tegenwoordig staan ​​ze klaar om hun plaats in te nemen tussen de bouwers, transporteurs, telers en dromers.
 Sommige bevers stellen voor om het moment te markeren met een klein feestmaal. Het zou kostbare hulpbronnen kosten, maar een nederzetting die haar jongen viert, kan zich opgewekter voelen.",
@@ -93,6 +102,7 @@ Even voelt de nederzetting minder als een werkvloer en meer als een familie.
 [[C]][[+]]Alle bevers winnen {1} voor [[time:{2}d]]",
 LV.BCEv.FirstChildGrowth.O2,Het geplande feest komt nooit helemaal tot stand. Er zijn elders voorraden nodig en de nederzetting keert stilletjes terug naar haar routines.,
 LV.BCEv.FirstChildGrowth.BuffName,Viering,
+LV.BCEv.FirstChildGrowth.BuffDesc,+{%3} Werksnelheid,
 LV.BCEv.DroughtPrep,Droge dagen in het verschiet,
 LV.BCEv.DroughtPrep.Content,"De lucht is broos geworden en de rivier stroomt lager dan zou moeten. Oude poten snuiven de wind op en mompelen dat er een droogte op komst is.
 Een groep vrijwilligers verzamelt zich vóór zonsopgang, pakt hun spullen en staart hoog aan. Ze willen nog een laatste reis maken voordat de droge dagen aanbreken, maar de nederzetting moet beslissen waar ze hun inspanningen het beste aan kunnen besteden.",
@@ -131,26 +141,40 @@ LV.BCEv.FoodWoodDispute1.O4,"Uw weigering om partij te kiezen bevredigt niemand.
 De ruzie is nog niet voorbij.
 [[C]][[-]]De werkers van Lumberjack Flags verliezen {1:0%} werksnelheid gedurende [[time:{0}d]]
 [[C]][[-]]Boerderijarbeiders verliezen {2:0%} werksnelheid gedurende [[time:{0}d]]",
+LV.BCEv.FoodWoodDispute.Ch1BonusDesc,+{%3} Werksnelheid,
+LV.BCEv.FoodWoodDispute.Ch1MalusDesc,{%4} Werksnelheid,
 LV.BCEv.FoodWoodDispute2,Bijlen en ploegen: escalatie,
 LV.BCEv.FoodWoodDispute2.Content,"De ruzie is niet verdwenen. Dagen later laaien de argumenten opnieuw op, luider en harder dan voorheen. Arbeiders beschuldigen elkaar van arrogantie, luiheid en het uitputten van de arbeid van de nederzetting voor hun eigen behoeften.
 Nu wacht het hele district af of je standvastig blijft, van koers verandert of überhaupt weigert deel te nemen aan het geschil.",
 LV.BCEv.FoodWoodDispute2.C1,——Eten komt op de eerste plaats.—,
 LV.BCEv.FoodWoodDispute2.C2,——Hout houdt ons in leven.—,
 LV.BCEv.FoodWoodDispute2.C3,——Ik zal geen partij kiezen.—,
-LV.BCEv.FoodWoodDispute2.O1,"Uw herhaalde steun laat er geen twijfel over bestaan ​​waar de leiding van de nederzetting staat. De begunstigde arbeiders worden trots en energiek, terwijl de anderen de moed volledig verliezen.
-[[C]][[+]]{3} werknemers winnen werksnelheid van {1:0%} gedurende [[time:{0}d]]
-[[C]][[-]]{4} werknemers verliezen {2:0%} werksnelheid gedurende [[time:{0}d]]",
-LV.BCEv.FoodWoodDispute2.O2,"De plotselinge verschuiving overrompelt de nederzetting, maar na verloop van tijd beginnen de arbeiders het nieuwe evenwicht te accepteren. De gemoederen zijn koel, al blijft er enige wrok bestaan.
-[[C]][[+]]{3} werknemers winnen werksnelheid van {1:0%} gedurende [[time:{0}d]]
-[[C]][[-]]{4} werknemers verliezen {2:0%} werksnelheid gedurende [[time:{0}d]]",
+LV.BCEv.FoodWoodDispute2.CrisisPanel,Het geschil verergert,
+LV.BCEv.FoodWoodDispute2.O1F,"Je herhaalde steun laat er geen twijfel over bestaan waar de leiding van de nederzetting staat. De begunstigde werkers worden trots en energiek, terwijl de anderen de moed volledig verliezen.
+[[C]][[+]]Werkers van {S5} krijgen +{%2} werksnelheid gedurende [[time:{F1}d]]
+[[C]][[-]]Werkers van {S6} verliezen {%3} werksnelheid gedurende [[time:{F1}d]]",
+LV.BCEv.FoodWoodDispute2.O1L,"Je herhaalde steun laat er geen twijfel over bestaan waar de leiding van de nederzetting staat. De begunstigde werkers worden trots en energiek, terwijl de anderen de moed volledig verliezen.
+[[C]][[+]]Werkers van {S6} krijgen +{%2} werksnelheid gedurende [[time:{F1}d]]
+[[C]][[-]]Werkers van {S5} verliezen {%3} werksnelheid gedurende [[time:{F1}d]]",
+LV.BCEv.FoodWoodDispute2.O2F,"De plotselinge ommezwaai overrompelt de nederzetting, maar na verloop van tijd beginnen de werkers het nieuwe evenwicht te accepteren. De gemoederen bedaren, al blijft er enige wrok bestaan.
+[[C]][[+]]Werkers van {S5} krijgen +{%5} werksnelheid gedurende [[time:{F1}d]]
+[[C]][[-]]Werkers van {S6} verliezen {%6} werksnelheid gedurende [[time:{F1}d]]",
+LV.BCEv.FoodWoodDispute2.O2L,"De plotselinge ommezwaai overrompelt de nederzetting, maar na verloop van tijd beginnen de werkers het nieuwe evenwicht te accepteren. De gemoederen bedaren, al blijft er enige wrok bestaan.
+[[C]][[+]]Werkers van {S6} krijgen +{%5} werksnelheid gedurende [[time:{F1}d]]
+[[C]][[-]]Werkers van {S5} verliezen {%6} werksnelheid gedurende [[time:{F1}d]]",
 LV.BCEv.FoodWoodDispute2.O3,"Jouw poging om de koers om te keren bevalt niemand. De ene kant voelt zich in de steek gelaten, terwijl de andere kant twijfelt aan je oprechtheid. De argumenten worden alleen maar luider.
 [[C]][[-]]Zowel {3} als {4} werknemers verliezen {1:0%} werksnelheid gedurende [[time:{0}d]]",
 LV.BCEv.FoodWoodDispute2.O4,"Eindelijk overwint de uitputting de woede. De arbeiders beseffen langzaamaan dat de ruzie de nederzetting meer schaadt dan helpt, en de samenwerking keert geleidelijk terug.
 [[C]][[+]]De werkers van beide groepen winnen een werksnelheid van {1:0%} gedurende [[time:{0}d]]",
 LV.BCEv.FoodWoodDispute2.O5,"Zonder begeleiding blijft de wrok ongecontroleerd voortwoekeren. Werknemers van beide kanten verlaten de bijeenkomst meer gefrustreerd dan voorheen en geven de leiding van de nederzetting de schuld dat ze er niet in zijn geslaagd de zaak op te lossen.
 [[C]][[-]]De werkers van beide groepen verliezen {1:0%} werksnelheid gedurende [[time:{0}d]]",
-LV.BCEv.FoodWoodDispute2.Lumberjack,Houthakkersposten,
-LV.BCEv.FoodWoodDispute2.Farmer,Boerderijen,
+LV.BCEv.FoodWoodDispute.Ch2LoyalBonusDesc,+{%2} Werksnelheid,
+LV.BCEv.FoodWoodDispute.Ch2LoyalMalusDesc,{%3} Werksnelheid,
+LV.BCEv.FoodWoodDispute.Ch2SwitchBonusDesc,+{%5} Werksnelheid,
+LV.BCEv.FoodWoodDispute.Ch2SwitchMalusDesc,{%6} Werksnelheid,
+LV.BCEv.FoodWoodDispute.Ch2SwitchCrisisDesc,{%7} Werksnelheid,
+LV.BCEv.FoodWoodDispute.Ch2NeutralBonusDesc,+{%9} Werksnelheid,
+LV.BCEv.FoodWoodDispute.Ch2NeutralMalusDesc,{%10} Werksnelheid,
 LV.BCEv.ContaminationCure,Pasteurs gok,
 LV.BCEv.ContaminationCure.Content,"{0} is besmet en ligt stil met een vochtige vacht, doffe ogen en een staart die te zwak is om op de grond te slaan. Het grootste deel van de nederzetting houdt een zorgvuldige afstand.
 Dan stapt een zelfbenoemde arts naar voren met besmeurde aantekeningen en een theorie genaamd Pasteur's Gamble. De behandeling is niet getest. Water kan het gif wegspoelen. Zonnebloemen kunnen het lichaam versterken. Zorgvuldiger hulp kan de kansen vergroten, hoewel niemand kan zeggen wat een mislukking met zich mee zal brengen.",
@@ -159,7 +183,7 @@ LV.BCEv.ContaminationCure.C1N,[[C]]Betaal [[goed:{1}:{2}]] over [[tijd:{0}d]]. <
 LV.BCEv.ContaminationCure.C2,Geef zonnebloemen,
 LV.BCEv.ContaminationCure.C2N,[[C]]Betaal [[goed:{1}:{2}]] over [[tijd:{0}d]]. <YellowHighlight>Onbekende gevolgen.</YellowHighlight>,
 LV.BCEv.ContaminationCure.C3,Help de behandeling,
-LV.BCEv.ContaminationCure.C3N,—[[C]]Betaal [[goed:{1}:{2}]], [[goed:{3}:{4}]] en [[goed:{5}:{6}]] over [[tijd:{0}d]]. <YellowHighlight>Onbekende gevolgen.</YellowHighlight>
+LV.BCEv.ContaminationCure.C3N,—[[C]]Betaal [[goed:{1}:{2}]],
 LV.BCEv.ContaminationCure.C4,Ontsla de dokter,
 LV.BCEv.ContaminationCure.C4N,[[C]]Er gebeurt niets.,
 LV.BCEv.ContaminationCure.O1,"Tegen elke twijfelachtige blik werkt de behandeling. De ademhaling van {0} wordt stabieler, hun ogen worden helder en het duurt niet lang voordat ze weer rechtop zitten.
@@ -178,6 +202,7 @@ Niemand zegt het luid. Niemand geeft toe dat ze het geloven. Maar elke bever hee
 Nu kijkt {0} van een afstand naar de anderen, en de nederzetting kijkt naar zichzelf.",
 LV.BCEv.ContaminationConspiracy.C1,Wij zullen deze complottheorie verdrijven,
 LV.BCEv.ContaminationConspiracy.C1N,[[C]]Repareer {0} binnen [[time:{1}d]],
+LV.BCEv.ContaminationConspiracy.Panel,Genees {CP_TriggerCharacterName} binnen [[time:{F1}d]],
 LV.BCEv.ContaminationConspiracy.O1,"{0} keert schoon, levend en luid verwelkomd terug.
 Het gerucht verdwijnt niet in één keer, maar verliest zijn tanden. Een bever kan besmet zijn en toch tot de nederzetting worden gerekend. Een bever kan geïsoleerd worden zonder in de steek gelaten te worden.
 Dat doet ertoe.
@@ -188,3 +213,5 @@ De nederzetting blijft werken, maar niet zonder over de schouder te kijken.
 [[C]][[-]]Alle bevers krijgen {1} voor [[time:{2}d]]",
 LV.BCEv.ContaminationConspiracy.BuffName,Gerustgesteld,
 LV.BCEv.ContaminationConspiracy.DebuffName,Stille angst,
+LV.BCEv.ContaminationConspiracy.BuffDesc,+{%4} Werk- en bewegingssnelheid,
+LV.BCEv.ContaminationConspiracy.DebuffDesc,{%5} Werk- en bewegingssnelheid,

@@ -1,6 +1,8 @@
 ID,Text,Comment
 Grauschweif.Building.Lantern.DisplayName,Houten lantaarn,
 Grauschweif.Building.Lantern.FlavorDescription,"""'t is een mooie glimp voor m'n kool"" een boerenbever",
+Grauschweif.Building.SmallLantern.DisplayName,Kleine lantaarn,
+Grauschweif.Building.SmallLantern.FlavorDescription,Een klein lichtje,
 Grauschweif.Building.StoneLantern.DisplayName,Stenen Lantaarn,
 Grauschweif.Building.StoneLantern.FlavorDescription,"""Volkomen veilig"" —een mijnwerker",
 Grauschweif.Building.StoneSquareLantern.FlavorDescription,Een klein lampje,

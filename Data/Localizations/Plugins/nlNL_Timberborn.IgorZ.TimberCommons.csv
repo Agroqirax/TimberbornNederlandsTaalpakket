@@ -17,8 +17,10 @@ IgorZ.TimberCommons.GrowthRateModifier.BoostPercentile,Groeiboost: <GreenHighlig
 IgorZ.TimberCommons.GrowthRateModifier.SlowdownPercentile,Groeivertraging: <RedHighlight>🡇</RedHighlight>{0:0.#}%,"It indicates growth penalty, it's a bad effect."
 IgorZ.TimberCommons.AdjustableWaterOutput.LimitOutputLevel,Beperk het uitgangswaterniveau,
 IgorZ.TimberCommons.AdjustableWaterOutput.StopAboveDownstream,Sluit boven waterdiepte bij overlaat: {0},
+IgorZ.TimberCommons.WaterBuildings.ThrottlingValve.CurrentFlow,Huidige stroming: {0},Label shown under the Throttling Valve flow slider. {0} is the measured flow through the valve.
 IgorZ.TimberCommons.InjuryProbability,Blessurekans: {0} per uur,
 IgorZ.TimberCommons.InjuryProbabilityDaily,Blessurekans: {0} gedurende de dag,
+IgorZ.TimberCommons.Injuries,"Gewond: {0} gisteren, {1} in 7 dagen",
 IgorZ.TimberCommons.Settings.TimeAndDurationSection,Weergave van tijd en duur,
 IgorZ.TimberCommons.Settings.TimeAndDuration.DaysHoursSupplyLeft,Toon 'voorraadduur' in dagen/uren,
 IgorZ.TimberCommons.Settings.TimeAndDuration.DaysHoursGrowingTime,Toon de groeitijd in dagen/uren,
@@ -39,9 +41,17 @@ IgorZ.TimberCommons.Settings.InjuryProbability.ShowInFragment,Toon de blessureka
 IgorZ.TimberCommons.Settings.InjuryProbability.ShowAvatarHint,Toon indicator op de gebouwavatar,
 IgorZ.TimberCommons.Settings.InjuryProbability.ShowAvatarHintTooltip,Beweeg over de indicator om de blessurekans te zien,
 IgorZ.TimberCommons.Settings.InjuryProbability.ShowAsDailyProbability,Toon kans per dag,
-=,=,CommonUIPatches
-IgorZ.TimberCommons.CommonUIPatches.ModListView.ShowActiveMods,Actief weergeven ({0}/{1}),Button in mod manager. Shows only enabled mods.
-IgorZ.TimberCommons.CommonUIPatches.ModListView.ShowAllMods,Alles weergeven ({0}),Button in mod manager. Shows all installed mods.
+IgorZ.TimberCommons.Settings.InjuryProbability.ShowInjuryStatistics,Toon blessuregeschiedenis van de werkplek,
+IgorZ.TimberCommons.Settings.ModUIPatchesSection,Aanpassingen aan mod-UI,
+IgorZ.TimberCommons.Settings.ModUIPatches.EnhanceSaveModsIncompatibilityDialog,Verbeter het dialoogvenster voor ontbrekende mods bij het laden van een save,
+IgorZ.TimberCommons.Settings.ModUIPatches.EnhanceSaveModsIncompatibilityDialogTooltip,"Voegt knoppen toe om ontbrekende mods direct vanuit de waarschuwing bij het laden van een save in te schakelen.
+Deze optie wordt automatisch uitgeschakeld als een andere mod dit dialoogvenster ook aanpast.",
+=,=,ModUIPatches
+IgorZ.TimberCommons.ModUIPatches.ModListView.ShowActiveMods,Actief weergeven ({0}/{1}),Button in mod manager. Shows only enabled mods.
+IgorZ.TimberCommons.ModUIPatches.ModListView.ShowAllMods,Alles weergeven ({0}),Button in mod manager. Shows all installed mods.
+IgorZ.TimberCommons.ModUIPatches.SaveModsValidator.RestartConfirmation,Je hebt {0} mod(s) geselecteerd om in te schakelen. Ze worden pas geladen nadat je het spel opnieuw hebt opgestart. Wat wil je doen?,Confirmation shown after the player tries to load a save while mods were selected to be enabled after restart. {0} is the number of mods.
+IgorZ.TimberCommons.ModUIPatches.SaveModsValidator.ContinueWithoutRestart,Doorgaan,Button in save-load mod incompatibility dialog. Continues loading the save without restarting the game first.
+IgorZ.TimberCommons.ModUIPatches.SaveModsValidator.EnableModTooltip,{0} inschakelen na het herstarten van het spel.,Tooltip for the checkbox in save-load mod incompatibility dialog. {0} is the mod display name.
 =,=,TimberDev_Utils
 TimberDev_Utils.Settings.DebugSection,Foutopsporing en probleemoplossing,
 TimberDev_Utils.Settings.Debug.VerboseLogging,Uitgebreid loggen,

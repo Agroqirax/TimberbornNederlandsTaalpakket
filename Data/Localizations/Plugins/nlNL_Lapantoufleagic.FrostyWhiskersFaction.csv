@@ -1477,6 +1477,12 @@ Lapantouflemagic.GnawingHall.Description,"Een langwerpig huis waarin we aan bome
 Heeft een <color=#FF6EC7>driehoeksdak</color>, <color=#FF6EC7>Kan upgrades ondersteunen</color>
 <color=#00FFFF>Werkt als dijk</color>",1472
 Lapantouflemagic.GnawingHall.FlavorDescription,"""Wij praten niet met volle mond!""",1473
+Lapantouflemagic.SmallCookery.Whitepaws.DisplayName,Kleine keuken,1474
+Lapantouflemagic.SmallCookery.Whitepaws.Description,"Kookt eenvoudige recepten.
+<color=#FFA500>Kleine toren</color>, <color=#FF6EC7>Kan upgrades ondersteunen</color>
+<color=#00FFFF>Werkt als dijk</color>",1475
+Lapantouflemagic.SmallCookery.Whitepaws.FlavorDescription,"""Ondanks haar waanzin is Mathilda’s kookkunst ongeëvenaard.""
+-Mathilda de krankzinnige kok.",1476
 Lapantouflemagic.FrostyWhiskers.ICE_Blockage.DisplayName,IJsblokkering,FW2
 Lapantouflemagic.FrostyWhiskers.ICE_Blockage.Description,Een stapel bevroren puin,FW3
 Lapantouflemagic.FrostyWhiskers.ICE_Blockage.FlavorDescription,"""Smaakt niet eens lekker. Ook niet slecht. Eigenlijk ook niets.""",FW4
@@ -1586,7 +1592,7 @@ Lapantouflemagic.Gnawingtent.FrostyWhiskers.DisplayName,Knagende tent,FW50
 Lapantouflemagic.GroundHeatingRail.DisplayName,Grondverwarmingsrail,FW51
 Lapantouflemagic.ICE_Stairs.FrostyWhiskers.DisplayName,IJstrappen,FW52
 Lapantouflemagic.ICE_Stairs_Spiral.FrostyWhiskers.DisplayName,IJstrappenspiraal,FW53
-Lapantouflemagic.Ice_Crenellations_Corner.FrostyWhiskers.DisplayName,Hoek van ijskantelen,FW54
+Lapantouflemagic.Ice_Crenellations_Corner.FrostyWhiskers.DisplayName,IJskantelenhoek,FW54
 Lapantouflemagic.Ice_Crenellations_Deadend.FrostyWhiskers.DisplayName,Deadend van ijskantelen,FW55
 Lapantouflemagic.Ice_Crenellations_Straight.FrostyWhiskers.DisplayName,IJskantelen rechtdoor,FW56
 Lapantouflemagic.Ice_Crenellations_Straight_Double.FrostyWhiskers.DisplayName,IJskanteling Recht Dubbel,FW57
@@ -1710,9 +1716,9 @@ Lapantouflemagic.Ice_Crenellations_Straight_Double.FrostyWhiskers.Description,Ee
 Lapantouflemagic.Ice_Crenellations_Straight_Stairs.FrostyWhiskers.Description,Een trapcompatibel gedeelte met verdedigingsijskantelen.,FW174
 Lapantouflemagic.Ice_Crenellations.FrostyWhiskers.FlavorDescription,Koude muren voor koudere bevers.,FW175
 Lapantouflemagic.Ice_FloorPanel.FrostyWhiskers.Description,Een decoratief vloerpaneel gemaakt van ijs.,FW176
-Lapantouflemagic.Ice_FloorPanel.FrostyWhiskers.FlavorDescription,Verrassend genoeg minder glad dan verwacht.,FW177
+Lapantouflemagic.Ice_FloorPanel.FrostyWhiskers.FlavorDescription,Koude tenen vormen karakter.,FW177
 Lapantouflemagic.Ice_WallPanel.FrostyWhiskers.Description,Een decoratief wandpaneel gemaakt van gebeiteld ijs.,FW178
-Lapantouflemagic.Ice_WallPanel.FrostyWhiskers.FlavorDescription,Architecten benadrukken dat dit structureel verantwoord is.,FW179
+Lapantouflemagic.Ice_WallPanel.FrostyWhiskers.FlavorDescription,Transparante luxe. Alleen is het niet transparant.,FW179
 Lapantouflemagic.ChemistryTent.FrostyWhiskers.Description,Een primitief laboratorium dat wordt gebruikt voor chemische verwerking en experimenten.,FW180
 Lapantouflemagic.PrimitiveIronworks.FrostyWhiskers.Description,Een ruwe industriële werkplaats die wordt gebruikt voor elementaire metaalbewerking.,FW181
 Lapantouflemagic.Gnawingtent.FrostyWhiskers.Description,Een ruige werkplaats waar boomstammen of grote ijsscherven op ouderwetse wijze worden verwerkt.,FW182
@@ -1804,3 +1810,72 @@ Lapantouflemagic.MiserableShelter.FrostyWhiskers.Description,"Een eenvoudige sch
 Moet tegen een klif gebouwd worden.
 Ingangen kunnen worden vastgeketend.",FW263
 Lapantouflemagic.MiserableShelter.FrostyWhiskers.DisplayName,Ellendige schuilplaats,FW264
+Building.ICEWall_Overhang.DisplayName,IJsmuurblok met overhang,FW265
+Building.ICEWall_Overhang.Description,Een stevig wanddeel van versterkt ijs dat naar buiten overhangt.,FW266
+Building.ICEWall_Overhang.FlavorDescription,Maakt misdaden tegen de zwaartekracht mogelijk.,FW267
+Lapantouflemagic.OverhangFW.Description,"Een klein platform dat aan een muur wordt bevestigd om een loopbrug te vormen.
+<color=green>Kan aan de zijkant van kliffen worden bevestigd</color>",FW268
+Building.BreedingPod_FW.Description,Een onethische en walgelijke manier om meer bevers te krijgen uit bevroren beverembryo's. Maar beter dan uitsterven.,FW269
+Lapantouflemagic.QuietSleep.DisplayName,Rustige slaap,FW270
+Lapantouflemagic.Radio.DisplayName,Radio,FW271
+Good.Scarf.DisplayName,Sjaal,FW272
+Good.SnowGoggles.DisplayName,Sneeuwbril,FW273
+Need.Thirst.CriticalDescription,Deze bever sterft van de dorst.,FW274
+Lapantouflemagic.Warmth.DisplayName,Warmte,FW275
+Lapantouflemagic.ChipUpgrade.DisplayName,Chip-upgrade,FW276
+Lapantouflemagic.HighBandWith.DisplayName,Hoge bandbreedte,FW277
+Lapantouflemagic.MechanicalUpgrade.DisplayName,Mechanische upgrade,FW278
+Lapantouflemagic.MemoryDefrag.DisplayName,Geheugendefragmentatie,FW279
+Needs.Network.death,<color=green>verloor te lang de verbinding met het netwerk en vernietigde zichzelf.</color>,FW280
+Need.Repairs.CriticalDescription,Deze robot is zwaar beschadigd en moet direct gerepareerd worden.,FW281
+Need.Repairs.CriticalDescriptionShort,Onderhoudsstatus kritiek.,FW282
+Lapantouflemagic.SaviorOfBeaverKind.DisplayName,Redder van het beverdom,FW283
+Lapantouflemagic.QuantumProcessor.DisplayName,Kwantumprocessor,FW284
+Lapantouflemagic.SoftwareUpgrade.DisplayName,Software-upgrade,FW285
+Good.Snow.DisplayName,Sneeuw,FW286
+Good.UraniumBeam.DisplayName,Uraniumbalk,FW287
+Good.UraniumBeam.PluralDisplayName,Uraniumbalken,FW288
+Lapantouflemagic.SnowField.DisplayName,Sneeuwveld,FW289
+Lapantouflemagic.Badbucket_FW.DisplayName,Vuilwateremmerpost,FW290
+Lapantouflemagic.Badbucket_FW.Description,"Een plastic platform waarmee je met een emmer vuilwater kunt scheppen, hopelijk zonder jezelf te bevuilen.",FW291
+Lapantouflemagic.Badbucket_FW.FlavorDescription,"Ja, het ziet er lekker uit, maar je moet het echt niet drinken. Het is veel te koud.",FW292
+Building.MediumPile.DisplayName,Middelgrote stapel,FW293
+Lapantouflemagic.RobotFisher.FrostyWhiskers.DisplayName,Vismachine,FW294
+Lapantouflemagic.CarbonFiberMill.FrostyWhiskers.DisplayName,Koolstofvezelfabriek,FW295
+Lapantouflemagic.LargeBadWaterPump.FrostyWhiskers.DisplayName,Grote vuilwaterpomp,FW296
+Tutorial.Tutorial.FrostyWhiskers_Bonfire.FrostyWhiskers,"Je bevers vinden het fijn om samen rond een kampvuur te zitten. Het houdt de kou niet tegen, maar het helpt wel om de wanhoop op afstand te houden.",FW297
+Lapantouflemagic.NanoMachinePrinter.FrostyWhiskers.FlavorDescription,"Produceert microscopisch kleine machines die robotsystemen kunnen bouwen, repareren en onderhouden.",FW298
+Lapantouflemagic.CarbonFiberMill.FrostyWhiskers.Description,Produceert lichte maar ongelooflijk sterke koolstofvezels uit olie.,FW299
+Lapantouflemagic.CarbonFiberMill.FrostyWhiskers.FlavorDescription,"Sterker dan staal, lichter dan hout, en toch op de een of andere manier onmogelijk van de werkplaatsvloer te vegen.",FW300
+Lapantouflemagic.SnowField.FlavorDescription,Een stuk schone sneeuw dat zich langzaam opstapelt tot het wordt geoogst. Een van de weinige natuurlijk hernieuwbare grondstoffen in deze bevroren woestenij.,FW301
+Lapantouflemagic.Flag_SnowShovellist.FrostyWhiskers.FlavorDescription,Markeert een gebied waar werkers opgehoopte sneeuw verzamelen.,FW302
+Building.ICEWall.FlavorDescription,"Een stevige muur uitgehouwen uit compact ijs. Verrassend duurzaam, zolang het klimaat niet meewerkt.",FW303
+Lapantouflemagic.RobotFisher.FrostyWhiskers.Description,Bedient een reeks hengels om stikstofrijk materiaal voor explosieven te verzamelen. Of voedsel.,FW304
+Lapantouflemagic.LargeBadWaterPump.FrostyWhiskers.Description,Een pomp met een hoge capaciteit die grote hoeveelheden verontreinigd water kan oppompen.,FW305
+Good.FrozenBeaverEmbryo.DisplayName,Bevroren beverembryo,FW306
+Good.FrozenBeaverEmbryo.PluralDisplayName,Bevroren beverembryo's,FW307
+Good.GrilledBug.DisplayName,Gegrild beestje,FW308
+Good.GrilledBug.PluralDisplayName,Gegrilde beestjes,FW309
+Lapantouflemagic.AquiferExcavation.FrostyWhiskers.DisplayName,Aquiferopgraving,FW310
+Lapantouflemagic.AquiferExcavation.FrostyWhiskers.Description,"Een opgraving om bij ondergronds zoet water te komen, hopelijk.",FW311
+Lapantouflemagic.AquiferExcavation.FrostyWhiskers.FlavorDescription,Denk je dat we op bruisend water stuiten?,FW312
+Lapantouflemagic.SolarArray_Small.DisplayName,Kleine zonne-array,FW313
+Lapantouflemagic.SolarArray_Medium.DisplayName,Middelgrote zonne-array,FW314
+Lapantouflemagic.SolarArray_Large.DisplayName,Grote zonne-array,FW315
+Lapantouflemagic.SolarArray_FW.FlavorDescription,Waren bevers maar doorzichtig…,FW316
+Lapantouflemagic.SolarArray_FW.Description,"Een paar zonnecellen, hopelijk richting de zon gericht, die elektriciteit opwekken.
+Bevers moeten de vorst er voortdurend afschrapen om ze werkend te houden.",FW317
+Reciepe.EmbryosDestockGameStart.PluralDisplayName,Bevroren embryo's uit voorraad halen,FW318
+Lapantouflemagic.NuclearWaste_LayingThere_Double.FrostyWhiskers.Description,"Gevaarlijk radioactief afval, netjes op de grond opgeslagen.",FW319
+Lapantouflemagic.NuclearWaste_LayingThere_Double.FrostyWhiskers.DisplayName,Dubbel kernafval,FW320
+Lapantouflemagic.NuclearWaste_LayingThere_Triple.FrostyWhiskers.DisplayName,Driedubbel kernafval,FW321
+Lapantouflemagic.NuclearWaste_LayingThere_Triple.FrostyWhiskers.Description,"Gevaarlijk radioactief afval, artistiek op de grond uitgestald.",FW322
+Toolgroup.BioWorks.DisplayName,Biologische werken,FW323
+Lapantouflemagic.IncubationCenter.FrostyWhiskers.DisplayName,Ex-vivo-incubator,FW324
+Lapantouflemagic.IncubationCenter.FrostyWhiskers.Description,Ontdooit bevroren embryo's en broedt ze versneld uit om het aantal werkers te vergroten.,FW325
+Lapantouflemagic.IncubationCenter.FrostyWhiskers.FlavorDescription,"Levert ook wat soep op, voor wie een stevige maag heeft.",FW326
+Lapantouflemagic.BadWaterBoiler.FrostyWhiskers.DisplayName,Vuilwaterketel,FW327
+Lapantouflemagic.BadWaterBoiler.FrostyWhiskers.Description,Kookt het vloeibare deel van vuilwater samen met andere elementen in om kernbrandstof te maken,FW328
+Lapantouflemagic.BadWaterBoiler.FrostyWhiskers.FlavorDescription,"Ook dat kan soep zijn, als je maar in jezelf gelooft.",FW329
+Need.Repairs.CriticalDescription,Deze robot begint te roesten en heeft visolie nodig.,FW330
+Need.Repairs.CriticalDescriptionShort,Roestige robot!,FW331

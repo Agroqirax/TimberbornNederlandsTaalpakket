@@ -112,6 +112,7 @@ IgorZ.Automation.Scripting.Error.ValueOutOfRange,FOUT: Waarde buiten bereik,Loca
 IgorZ.Automation.Scripting.Error.DivisionByZero,FOUT: Delen door nul,Localizable generic message for the related exception
 IgorZ.Automation.Scripting.Error.BadValue,FOUT: Slechte waarde,Localizable generic message for the related exception
 IgorZ.Automation.Scripting.Error.InternalError,FOUT: Interne fout,Localizable generic message for the related exception
+IgorZ.Automation.Scripting.Error.AutomatorSignalUnavailable,FOUT: bron van automatiseringssignaal is niet beschikbaar,Shown when a rule references a stock automation transmitter that no longer exists
 IgorZ.Automation.Scripting.Error.StackOverflow,FOUT: Stack overflow,Localizable generic message for the related exception
 =,=,UI fragment strings
 IgorZ.Automation.AutomationFragment.AndMoreRow,...en nog {0} regels...,Indicates that there are more rules that are not shown in the panel
@@ -134,13 +135,14 @@ IgorZ.Automation.PinnedCustomSignals.DeleteManualSignal,Handmatig signaal verwij
 IgorZ.Automation.PinnedCustomSignals.NoMoreSignals,Alle signalen vastgezet,Dropdown placeholder shown when every custom signal is already pinned
 IgorZ.Automation.PinnedCustomSignals.NoSignals,Geen aangepaste signalen,Dropdown placeholder shown when no custom signals exist
 IgorZ.Automation.PinnedCustomSignals.SignalValue,{0}: {1},Pinned custom signal row text. Parameters are signal name and current value
-IgorZ.Automation.PinnedCustomSignals.SetSignalValue,Signaalwaarde wijzigen,Tooltip for clicking a pinned custom signal value
-IgorZ.Automation.PinnedCustomSignals.SetValue.DialogHeader,Signaalwaarde wijzigen,Dialog header for manually changing a custom signal value
+IgorZ.Automation.PinnedCustomSignals.SetSignalValue,Signaalwaarde wijzigen,Tooltip for clicking a pinned custom signal value or name
+IgorZ.Automation.PinnedCustomSignals.SetValue.DialogHeader,Signaalwaarde wijzigen,Dialog header for changing a custom signal value or its pinned panel name
 IgorZ.Automation.PinnedCustomSignals.SetValue.DuplicateSignalName,Signaal bestaat al: {0},Error shown when creating a manual custom signal with an existing name
 IgorZ.Automation.PinnedCustomSignals.SetValue.InvalidValueFormat,"Ongeldige signaalwaarde: {0}
 De waarde mag maximaal twee cijfers achter de komma bevatten.",Error shown when the manually entered signal value has too many fractional digits
 IgorZ.Automation.PinnedCustomSignals.SetValue.InvalidValueNumber,"Ongeldige signaalwaarde: {0}
 Voer een getal in, bijvoorbeeld: 1, 1,5 of -2,25.",Error shown when the manually entered signal value is not a number
+IgorZ.Automation.PinnedCustomSignals.SetValue.PinnedNameLabel,Paneelnaam,Label for the unrestricted custom name shown on the pinned signals panel
 IgorZ.Automation.PinnedCustomSignals.SetValue.SignalName,Signaal: {0},Dialog text showing the custom signal being edited
 IgorZ.Automation.PinnedCustomSignals.SetValue.SignalNameLabel,Signaalnaam,Label for the new manual custom signal name field
 IgorZ.Automation.PinnedCustomSignals.SetValue.ValueLabel,Waarde,Label for the manual custom signal value field
@@ -149,8 +151,11 @@ IgorZ.Automation.Tool.CopyRules.Text,Kopieer {0} regels,
 IgorZ.Automation.Tool.CopyRules.Title,Kopieer automatiseringsregels,
 =,=,Scriptable components strings
 IgorZ.Automation.Scriptable.Automator.Signal.State,automatisering signaal,Name of the condition for the automator state checking
+IgorZ.Automation.Scriptable.Automator.Signal.RemoteState,automatiseringssignaal: {0},Name of a condition that reads the stock automation state from another building
 IgorZ.Automation.Scriptable.BreedingPod.Signal.Progress,voortplantingsvoortgang,Name of the condition for the breeding pod progress checking
+IgorZ.Automation.Scriptable.Collectable.Action.SetPriority,verzamelen prioriteren: {0},Sets the gatherer's prioritized resource; an empty value clears the priority.
 IgorZ.Automation.Scriptable.Collectable.Signal.CollectableReady,klaar voor verzameling,Name of the condition for the number of cuttable or gatherable items ready to be collected
+IgorZ.Automation.Scriptable.Collectable.Signal.GoodReady,klaar voor verzameling: {0},Readiness count for one good; {0} is the localized good name
 IgorZ.Automation.Scriptable.Constructable.Signal.Progress,voortgang van de bouw,Name of the condition for the construction progress checking
 IgorZ.Automation.Scriptable.Constructable.Signal.State,bouw staat,Name of the condition for the construction state checking
 IgorZ.Automation.Scriptable.Constructable.Signal.State.Finished,Afgerond,State name for when the building construction is complete
@@ -162,11 +167,13 @@ IgorZ.Automation.Scriptable.District.Signal.Beavers,bevers in de wijk,Name of th
 IgorZ.Automation.Scriptable.District.Signal.Bots,bots in de wijk,Name of the condition for the current bot population checking
 IgorZ.Automation.Scriptable.District.Signal.NumberOfBeds,bedden in de wijk,Name of the condition for the current number of beds checking
 IgorZ.Automation.Scriptable.District.Signal.ResourceCapacity,districtscapaciteit: {0},Name of the condition that returns the current district stock output capacity of the specified good
+IgorZ.Automation.Scriptable.District.Signal.ResourceFill,wijkvulling: {0},"Name of the condition that returns available district stock divided by fillable storage capacity, capped at 100%"
 IgorZ.Automation.Scriptable.District.Signal.ResourceStock,districtsvoorraad: {0},Name of the condition that returns the current district stock output of the specified good
 IgorZ.Automation.Scriptable.Dynamite.Action.Detonate,dynamiet tot ontploffing brengen,Name of the action that immediately detonates the dynamite
 IgorZ.Automation.Scriptable.Dynamite.Action.DetonateAndRepeat,laat dynamiet tot ontploffing komen en voeg nog eens <GreenHighlight>{0} keer</GreenHighlight> toe,Name of the action that detonates the dynamite and places new dynamites the specified number of times
 IgorZ.Automation.Scriptable.Clutch.Action.Disengage,ontkoppel,Name of the action that disengages a clutch
 IgorZ.Automation.Scriptable.Clutch.Action.Engage,koppel,Name of the action that engages a clutch
+IgorZ.Automation.Scriptable.FarmHouse.Action.SetMode,boerderijprioriteit instellen: {0},Chooses planting or harvesting as the farm's first task; the other task remains allowed.
 IgorZ.Automation.Scriptable.FillValve.Action.Close,sluit,Name of the action that sets the target height on a fill valve to zero
 IgorZ.Automation.Scriptable.FillValve.Action.Open,volledig geopend,Name of the action that sets the target height on a fill valve to the maximum
 IgorZ.Automation.Scriptable.FillValve.Action.SetHeight,stel de hoogte in op {0},Name of the action that sets the target height on a fill valve
@@ -174,13 +181,18 @@ IgorZ.Automation.Scriptable.Floodgate.Action.SetHeight,stel de poorthoogte in op
 IgorZ.Automation.Scriptable.Floodgate.Signal.Height,hoogte van de sluisdeur,Name of the condition for the floodgate height checking
 IgorZ.Automation.Scriptable.FlowControl.Action.Close,stroom uitschakelen,Name of the action that closes the water flow through the building
 IgorZ.Automation.Scriptable.FlowControl.Action.Open,stroom inschakelen,Name of the action that opens the water flow through the building
+IgorZ.Automation.Scriptable.Gate.Action.SetState,poortstatus instellen: {0},"Name of the action that sets a gate to open, closed, or automated mode"
 IgorZ.Automation.Scriptable.Inventory.Action.EmptyingStatus,De opslag wordt met voorrang leeggemaakt.,
 IgorZ.Automation.Scriptable.Inventory.Action.StartEmptyingStock,begin met het leegmaken van de opslag,Name of the action that starts emptying the storage
 IgorZ.Automation.Scriptable.Inventory.Action.StopEmptyingStock,stop met het legen van de opslag,Name of the action that stops emptying the storage
+IgorZ.Automation.Scriptable.Inventory.Action.SetHaulingMode,transportmodus instellen: {0},Name of the action that changes the storage hauling mode
+IgorZ.Automation.Scriptable.Inventory.Signal.HaulingMode,transportmodus,Name of the signal that reports the current storage hauling mode
 IgorZ.Automation.Scriptable.Inventory.Signal.InputGood,invoer: {0},Name of the condition for the inventory input goods
 IgorZ.Automation.Scriptable.Inventory.Signal.OutputGood,uitvoer: {0},Name of the condition for the inventory output goods
 IgorZ.Automation.Scriptable.Lever.Action.SetState,hendelstatus instellen: {0},Name of the action that sets the lever state to the specified value
 IgorZ.Automation.Scriptable.Manufactory.Action.SetRecipe,recept instellen: {0},Name of action that sets a recipe on a manufactory
+IgorZ.Automation.Scriptable.Manufactory.Signal.FinishedRecipe,aantal voltooide recepten,Name of the condition that counts completed production cycles for the current manufactory recipe
+IgorZ.Automation.Scriptable.Manufactory.Signal.Recipe,huidig recept,Name of the condition that returns the current manufactory recipe
 IgorZ.Automation.Scriptable.Notifications.Action.ClearStatus,status wissen,Name of the action that clears the notification status on the building
 IgorZ.Automation.Scriptable.Notifications.Action.SetAlert,waarschuwing instellen: {0},Name of the action that sets the alert status on the building
 IgorZ.Automation.Scriptable.Notifications.Action.SetStatus,status instellen: {0},Name of the action that sets the notification status on the building
@@ -190,7 +202,9 @@ IgorZ.Automation.Scriptable.Notifications.Action.SetStatusTextArgument,Statustek
 IgorZ.Automation.Scriptable.Notifications.Action.SetNoticeIcon,meldingspictogram instellen: {0},Name of the action that sets the notice icon on the building
 IgorZ.Automation.Scriptable.Pausable.Action.Pause,gebouw pauzeren,Name of the action that pauses the building
 IgorZ.Automation.Scriptable.Pausable.Action.Resume,gebouw hervatten,Name of the action that unpauses the building
+IgorZ.Automation.Scriptable.Plantable.Action.SetPriority,grondstof prioriteren: {0},Sets the prioritized plant on a planter. Farms use it for both planting and harvesting; an empty value clears it.
 IgorZ.Automation.Scriptable.Plantable.Signal.SpotsReady,klaar om te planten,Name of the condition that checks how many planting spots are available
+IgorZ.Automation.Scriptable.Plantable.Signal.ResourceReady,klaar om te planten: {0},Planting spot count for one plant; {0} is the localized plant name
 IgorZ.Automation.Scriptable.Power.Signal.BatteryCapacity,batterij capaciteit,Name of the condition that returns the total battery capacity in the building's power network
 IgorZ.Automation.Scriptable.Power.Signal.BatteryCharge,batterij opladen,Name of the condition that returns the total battery charge in the building's power network
 IgorZ.Automation.Scriptable.Power.Signal.BatteryChargeLevel,laadniveau van de batterij,Name of the condition that returns the current battery charge level in the building's power network
@@ -217,7 +231,7 @@ IgorZ.Automation.Scriptable.ThrottlingValve.Action.SetFlow,stel de stroom in op 
 IgorZ.Automation.Scriptable.Weather.Signal.Season,seizoen,Name of the condition for the current season checking
 IgorZ.Automation.Scriptable.Workplace.Action.RemoveWorkers,werknemers verwijderen,Name of the action that removes all workers from the workshop
 IgorZ.Automation.Scriptable.Workplace.Action.SetPriority,prioriteit van werknemer: {0},Name of the action that sets the workplace priority level
-IgorZ.Automation.Scriptable.Workplace.Action.SetWorkers,wijs {0} werknemers toe,Name of the action that sets the number of workers in the building
+IgorZ.Automation.Scriptable.Workplace.Action.SetWorkers,wijs {0} werknemers toe,Name of the action that sets the number of workers in the workshop
 IgorZ.Automation.Scriptable.Workplace.Signal.AssignedWorkers,toegewezen werknemers,Name of the condition for the current number of assigned workers
 IgorZ.Automation.Scripting.Expressions.AndOperator,En,String to join components of the expression with condition AND. Used to represent the condition in the panel
 IgorZ.Automation.Scripting.Expressions.OrOperator,of,String to join components of the expression with condition OR. Used to represent the condition in the panel
@@ -225,6 +239,8 @@ IgorZ.Automation.Scripting.Expressions.NotOperator,NIET,NOT operator name to rep
 IgorZ.Automation.Scripting.Expressions.ParseError,PARSE FOUT,String to show when the scriptable condition or action cannot be parsed
 =,=,Rules editor strings
 IgorZ.Automation.Scripting.Editor.ActionLabel,Dan,
+IgorZ.Automation.Scripting.Editor.AddAndConditionBtn,+ en,Button that adds a condition joined with AND
+IgorZ.Automation.Scripting.Editor.AddOrConditionBtn,+ of,Button that adds a condition joined with OR
 IgorZ.Automation.Scripting.Editor.ActionMustBeAction,Actie moet de operator 'act' zijn,A message to show when the action is not an action
 IgorZ.Automation.Scripting.Editor.ActionArgumentName,Argumentnr.{0},The generic name of the action arguments when there is no display name specified
 IgorZ.Automation.Scripting.Editor.AddRuleFromScriptBtn,Script toevoegen,
@@ -238,6 +254,7 @@ IgorZ.Automation.Scripting.Editor.ConstantTypeDecimals,decimalen,Name of the dec
 IgorZ.Automation.Scripting.Editor.ConstantTypeString,snaar,Name of the string constant type
 IgorZ.Automation.Scripting.Editor.ConstantTypePercent,procent,Name of the percent constant type
 IgorZ.Automation.Scripting.Editor.ConstantTypeWholeNumber,geheel getal,Name of the whole number constant type
+IgorZ.Automation.Scripting.Editor.SignalValueType,signaal,Right condition operand type that selects a custom signal
 IgorZ.Automation.Scripting.Editor.CopyRuleBtn,Duplicaat,
 IgorZ.Automation.Scripting.Editor.DeletedRule,Regel verwijderd,A message to show over the deleted rule
 IgorZ.Automation.Scripting.Editor.DeleteRuleBtn,Regel verwijderen,
@@ -299,6 +316,8 @@ IgorZ.Automation.Settings.EntityPanel.RulesDescriptionStyle,Stijl van de regelbe
 IgorZ.Automation.Settings.EntityPanel.RulesDescriptionStyle.HumanReadable,Tekst,Human readable style of the rule description.
 IgorZ.Automation.Settings.EntityPanel.RulesDescriptionStyle.Script,Script,Script style of the rule description.
 IgorZ.Automation.Settings.EntityPanel.RulesDescriptionStyle.ScriptShort,Pseudo-script,Shortened script style of the rule description.
+IgorZ.Automation.Settings.EntityPanel.ShowOptionalLogicalParentheses,Optionele logische haakjes tonen,Controls whether nested logical groups are wrapped in parentheses when operator precedence already establishes their evaluation order.
+IgorZ.Automation.Settings.EntityPanel.ShowOptionalLogicalParenthesesTooltip,"Toon haakjes rond geneste EN- en OF-groepen, ook als de voorrangsregels ze overbodig maken.",Tooltip for the optional logical parentheses setting.
 IgorZ.Automation.Settings.EntityPanel.EvalValuesInConditions,Evalueer de juiste waarde onder omstandigheden,
 IgorZ.Automation.Settings.EntityPanel.EvalValuesInActionArguments,Evalueer waarden in de actieargumenten,
 IgorZ.Automation.Settings.EntityPanel.PreventGameAutomationConflicts,Voorkom automatiseringsconflicten,
@@ -308,10 +327,20 @@ IgorZ.Automation.Settings.ScriptEditor.DefaultScriptSyntax,Syntaxis van standaar
 IgorZ.Automation.Settings.ScriptEditor.DefaultScriptSyntaxLisp,Lisp-stijl,
 IgorZ.Automation.Settings.ScriptEditor.DefaultScriptSyntaxPython,Python-stijl,
 IgorZ.Automation.Settings.ScriptEditor.DefaultScriptSyntaxTooltip,De syntaxis kan in de hoofdtekst van de expressie worden overschreven door het voorvoegsel '#PY' voor Python of '#LP' voor Lisp toe te voegen.,
+IgorZ.Automation.Settings.ScriptEditor.SignalModuleOrder,Volgorde van signaalmodules,Name of the setting that opens the signal module order dialog.
+IgorZ.Automation.Settings.ScriptEditor.SignalModuleOrderTooltip,Bepaalt de volgorde van de signaalmodules in de regelconstructor.,Tooltip for the signal module order setting.
+IgorZ.Automation.Settings.ScriptEditor.SignalModuleOrderUnavailable,Beschikbaar na het laden van een nederzetting.,Tooltip shown when signal module order cannot be configured from the main menu.
 IgorZ.Automation.Settings.ScriptEngine.Header,Instellingen voor scriptengine,
 IgorZ.Automation.Settings.ScriptEngine.CheckArgumentValues,Controleer de argumentwaarde tijdens runtime,
 IgorZ.Automation.Settings.ScriptEngine.PinnedCustomSignals,Toon het vastgezette paneel met aangepaste signalen,
 IgorZ.Automation.Settings.ScriptEngine.SignalExecutionStackSize,Signaaluitvoeringsstapelgrootte,
+=,=,Signal module order dialog
+IgorZ.Automation.SignalModuleOrder.Configure,Instellen...,Button that opens the signal module order dialog.
+IgorZ.Automation.SignalModuleOrder.DialogHeader,Volgorde van signaalmodules,Header of the dialog that configures signal module order.
+IgorZ.Automation.SignalModuleOrder.Instructions,"Sleep modules om de volgorde te wijzigen, of gebruik de pijlknoppen.",Short instructions shown above the module list.
+IgorZ.Automation.SignalModuleOrder.MoveDown,Module omlaag verplaatsen,Tooltip for the button that moves a module down.
+IgorZ.Automation.SignalModuleOrder.MoveUp,Module omhoog verplaatsen,Tooltip for the button that moves a module up.
+IgorZ.Automation.SignalModuleOrder.Reset,Registratievolgorde,Button that restores component registration order.
 =,=,TimberDev_Utils
 TimberDev_Utils.Settings.Debug.VerboseLogging,Uitgebreid loggen,
 TimberDev_Utils.Settings.Debug.VerboseLoggingTooltip,"Logboeken bevatten meer nuttige details, maar dit kan de spelprestaties beïnvloeden.",
