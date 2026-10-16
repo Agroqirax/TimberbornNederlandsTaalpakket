@@ -5,7 +5,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/2.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [Unreleased] - 2026-07-20
+## [Unreleased] - 2026-10-16
+
+## [0.1.20] - 2026-10-16
+
+### Added
+
+- [Timber Empires](https://steamcommunity.com/sharedfiles/filedetails/?id=3814012422) toegevoegd
 
 ## [0.1.19] - 2026-09-25
 
@@ -248,7 +254,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [Tobbert.MorePlatforms](Data/Localizations/Plugins/Tobbert.MorePlatforms)
 - [Tobbert.VerticalPowerShaft](Data/Localizations/Plugins/Tobbert.VerticalPowerShaft)
 
-[unreleased]: https://github.com/agroqirax/TimberbornNederlandsTaalpakket/compare/v2.0.0...HEAD
+[unreleased]: https://github.com/agroqirax/TimberbornNederlandsTaalpakket/compare/v0.1.20...HEAD
+[0.1.20]: https://github.com/agroqirax/TimberbornNederlandsTaalpakket/compare/v0.1.19...v0.1.20
+[0.1.19]: https://github.com/agroqirax/TimberbornNederlandsTaalpakket/compare/v0.1.18...v0.1.19
 [0.1.18]: https://github.com/agroqirax/TimberbornNederlandsTaalpakket/compare/v0.1.17...v0.1.18
 [0.1.17]: https://github.com/agroqirax/TimberbornNederlandsTaalpakket/compare/v0.1.16...v0.1.17
 [0.1.16]: https://github.com/agroqirax/TimberbornNederlandsTaalpakket/compare/v0.1.15...v0.1.16
